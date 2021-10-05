@@ -17527,18 +17527,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093400 +0000">
-    <title>Highway Patrol</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093000 +0000">
     <title>SAS Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093400 +0000">
+    <title>Highway Patrol</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20211006093400 +0000" stop="20211006113800 +0000">
@@ -43504,26 +43504,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211005014056 +0000" stop="20211005020100 +0000">
-    <title>Reel Rock S6E4</title>
-    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <sub-title>The Nose speed record part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005020100 +0000" stop="20211005022532 +0000">
-    <title>Reel Rock S6E5</title>
-    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <sub-title>The Nose speed record part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005022532 +0000" stop="20211005025125 +0000">
-    <title>Reel Rock S6E6</title>
-    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
-    <sub-title>The Nose speed record part 3</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005025125 +0000" stop="20211005041053 +0000">
-    <title>Márquez Unlimited</title>
-    <desc>After surgery and rehabilitation, Marc Márquez returned ready for the 2019 MotoGP™ season.</desc>
-    <sub-title>Marc Márquez's journey to his eighth world title</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211005041053 +0000" stop="20211005045739 +0000">
     <title>Trent’s Vision</title>
     <desc>Trent Alexander-Arnold is one of the world's best footballers. Can vision training help him to be even better?</desc>
@@ -43776,6 +43756,35 @@
     <title>Red Bull Signature Series S2020E9</title>
     <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
     <sub-title>Red Bull Imagination</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006031628 +0000" stop="20211006032436 +0000">
+    <title>Dual Focus S1E2</title>
+    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
+    <sub-title>Sébastien Toutant</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006032436 +0000" stop="20211006032950 +0000">
+    <title>Dual Focus S1E3</title>
+    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
+    <sub-title>Marcus Kleveland</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006032950 +0000" stop="20211006033541 +0000">
+    <title>Dual Focus S1E4</title>
+    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
+    <sub-title>Michelle Parker</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006033541 +0000" stop="20211006045304 +0000">
+    <title>Shaka</title>
+    <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
+    <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006045304 +0000" stop="20211006054526 +0000">
+    <title>Red Bull Cliff Diving World Series 2021</title>
+    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
+    <sub-title>Mostar recap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006054526 +0000" stop="20211006055534 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

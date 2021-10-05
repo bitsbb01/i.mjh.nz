@@ -1385,14 +1385,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
+    <title>The Beautiful Bush</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Beautiful Bush</title>
+    <title>The Bright Side</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -12733,16 +12733,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211008083000 +0000" stop="20211008093000 +0000">
-    <title>Secrets Of The National Trust</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200427" start="20211008083000 +0000" stop="20211008093000 +0000">
     <title>David Attenborough's A Perfect Planet</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20211008083000 +0000" stop="20211008093000 +0000">
+    <title>Secrets Of The National Trust</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211008093000 +0000" stop="20211008122500 +0000">
@@ -18288,18 +18288,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035900 +0000">
-    <title>Proof of Life</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
     <title>House of Wellness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035900 +0000">
+    <title>Proof of Life</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211012035900 +0000" stop="20211012042800 +0000">
@@ -19150,14 +19150,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
-    <title>Ultimate Fishing with Matt Watson</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
+    <title>Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
-    <title>Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
+    <title>Ultimate Fishing with Matt Watson</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42107,21 +42107,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211005194549 +0000" stop="20211005200554 +0000">
-    <title>Reel Rock S6E4</title>
-    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <sub-title>The Nose speed record part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005200554 +0000" stop="20211005203025 +0000">
-    <title>Reel Rock S6E5</title>
-    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <sub-title>The Nose speed record part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005203025 +0000" stop="20211005205538 +0000">
-    <title>Reel Rock S6E6</title>
-    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
-    <sub-title>The Nose speed record part 3</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211005205538 +0000" stop="20211005211222 +0000">
     <title>Cycling Around the World S1E5</title>
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
@@ -42389,6 +42374,11 @@
     <title>Red Bull Signature Series S2014E14</title>
     <desc>The great equaliser of mountain bike events unites slopestylers, downhill and natural-terrain freeriders.</desc>
     <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006213446 +0000" stop="20211006221849 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

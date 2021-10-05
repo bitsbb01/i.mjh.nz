@@ -17527,18 +17527,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093000 +0000">
-    <title>SAS Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093400 +0000">
     <title>Highway Patrol</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030530" start="20211006083200 +0000" stop="20211006093000 +0000">
+    <title>SAS Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20211006093400 +0000" stop="20211006113800 +0000">
@@ -36651,8 +36651,9 @@
   </programme>
   <programme channel="tv.320203000301" start="20211009093500 +0000" stop="20211009103000 +0000">
     <title>Battle of Britain: 3 Days to Save the UK</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20211009103000 +0000" stop="20211009112000 +0000">
@@ -37713,6 +37714,12 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
+    <title>WNBA Basketball</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
@@ -37725,20 +37732,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007025500 +0000" stop="20211007032500 +0000">
-    <title>Most Expensivest</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.320203000303" start="20211007032500 +0000" stop="20211007035500 +0000">
-    <title>Most Expensivest</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007035500 +0000" stop="20211007045500 +0000">
     <title>What's The Catch With Matthew Evans</title>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007040000 +0000" stop="20211007045500 +0000">
+    <title>VICELAND Presents: Cut-Off</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -39267,7 +39268,7 @@
   <programme channel="tv.320203000304" start="20211006093000 +0000" stop="20211006100000 +0000">
     <title>Tom Kerridge Barbecues</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211006100000 +0000" stop="20211006103000 +0000">
@@ -39332,7 +39333,7 @@
   <programme channel="tv.320203000304" start="20211006143000 +0000" stop="20211006150000 +0000">
     <title>Tom Kerridge Barbecues</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211006150000 +0000" stop="20211006153000 +0000">
@@ -39433,7 +39434,7 @@
   <programme channel="tv.320203000304" start="20211006223000 +0000" stop="20211006230000 +0000">
     <title>Tom Kerridge Barbecues</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211006230000 +0000" stop="20211006233000 +0000">
@@ -39570,7 +39571,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211007093000 +0000" stop="20211007100000 +0000">
@@ -39637,7 +39638,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211007143000 +0000" stop="20211007150000 +0000">
@@ -39740,7 +39741,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211007223000 +0000" stop="20211007230000 +0000">
@@ -39824,7 +39825,7 @@
   <programme channel="tv.320203000304" start="20211008043000 +0000" stop="20211008050000 +0000">
     <title>Lidia's Kitchen</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211008050000 +0000" stop="20211008053000 +0000">
@@ -39975,7 +39976,7 @@
   <programme channel="tv.320203000304" start="20211008180000 +0000" stop="20211008183000 +0000">
     <title>Lidia's Kitchen</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211008183000 +0000" stop="20211008190000 +0000">
@@ -40142,7 +40143,7 @@
   <programme channel="tv.320203000304" start="20211009093500 +0000" stop="20211009103000 +0000">
     <title>Ainsley's Food We Love</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211009103000 +0000" stop="20211009112500 +0000">
@@ -42709,7 +42710,6 @@
   </programme>
   <programme channel="tv.320203000307" start="20211008065500 +0000" stop="20211008085500 +0000">
     <title>A Month of Sundays</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42722,7 +42722,6 @@
   </programme>
   <programme channel="tv.320203000307" start="20211008103000 +0000" stop="20211008123500 +0000">
     <title>True Grit</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -42765,7 +42764,6 @@
   </programme>
   <programme channel="tv.320203000307" start="20211008224000 +0000" stop="20211009004000 +0000">
     <title>A Month of Sundays</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43254,7 +43252,6 @@
   </programme>
   <programme channel="tv.320203100317" start="20211008065500 +0000" stop="20211008085500 +0000">
     <title>A Month of Sundays</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43267,7 +43264,6 @@
   </programme>
   <programme channel="tv.320203100317" start="20211008103000 +0000" stop="20211008123500 +0000">
     <title>True Grit</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -43310,7 +43306,6 @@
   </programme>
   <programme channel="tv.320203100317" start="20211008224000 +0000" stop="20211009004000 +0000">
     <title>A Month of Sundays</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43508,31 +43503,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211004231219 +0000" stop="20211005001948 +0000">
-    <title>Red Bull Signature Series S2019E7</title>
-    <desc>The battle of the bumps is back in Pomona, California, as the finals go down on a half-mile 'unwound' track.</desc>
-    <sub-title>Red Bull Straight Rhythm</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005001948 +0000" stop="20211005003632 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005003632 +0000" stop="20211005005856 +0000">
-    <title>Reel Rock S6E1</title>
-    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
-    <sub-title>The high road part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005005856 +0000" stop="20211005011757 +0000">
-    <title>Reel Rock S6E2</title>
-    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
-    <sub-title>The high road part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005011757 +0000" stop="20211005014056 +0000">
-    <title>Reel Rock S6E3</title>
-    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
-    <sub-title>United States of Joe's</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211005014056 +0000" stop="20211005020100 +0000">
     <title>Reel Rock S6E4</title>
@@ -43791,6 +43761,21 @@
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
     <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006012759 +0000" stop="20211006014741 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006014741 +0000" stop="20211006023224 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006023224 +0000" stop="20211006031628 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

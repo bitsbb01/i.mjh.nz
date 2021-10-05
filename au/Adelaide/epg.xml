@@ -15786,18 +15786,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211006090200 +0000" stop="20211006100400 +0000">
-    <title>Highway Patrol</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050550" start="20211006090200 +0000" stop="20211006100000 +0000">
     <title>SAS Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050550" start="20211006090200 +0000" stop="20211006100400 +0000">
+    <title>Highway Patrol</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050550" start="20211006100400 +0000" stop="20211006120800 +0000">
@@ -40998,11 +40998,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211005095203 +0000" stop="20211005105015 +0000">
-    <title>The Other Side of Fear</title>
-    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211005105015 +0000" stop="20211005110559 +0000">
     <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
     <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
@@ -41284,6 +41279,16 @@
     <title>Toby Price: Ridin’ Shotgun</title>
     <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <sub-title>Finke Desert Race 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006113233 +0000" stop="20211006114038 +0000">
+    <title>Esports Unfold S3E6</title>
+    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
+    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006114038 +0000" stop="20211006115513 +0000">
+    <title>Behind the Bullet S1E1</title>
+    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
+    <sub-title>Ready for a comeback in 2021</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

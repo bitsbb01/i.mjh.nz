@@ -12883,16 +12883,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211008083000 +0000" stop="20211008093000 +0000">
-    <title>Secrets Of The National Trust</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300436" start="20211008083000 +0000" stop="20211008093000 +0000">
     <title>David Attenborough's A Perfect Planet</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20211008083000 +0000" stop="20211008093000 +0000">
+    <title>Secrets Of The National Trust</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211008093000 +0000" stop="20211008122500 +0000">
@@ -43499,45 +43499,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211004210617 +0000" stop="20211004223441 +0000">
-    <title>Blood Road</title>
-    <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
-    <sub-title>Rebecca Rusch's search for connection</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211004223441 +0000" stop="20211004224234 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211004224234 +0000" stop="20211004231219 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211004231219 +0000" stop="20211005001948 +0000">
-    <title>Red Bull Signature Series S2019E7</title>
-    <desc>The battle of the bumps is back in Pomona, California, as the finals go down on a half-mile 'unwound' track.</desc>
-    <sub-title>Red Bull Straight Rhythm</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005001948 +0000" stop="20211005003632 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005003632 +0000" stop="20211005005856 +0000">
-    <title>Reel Rock S6E1</title>
-    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
-    <sub-title>The high road part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005005856 +0000" stop="20211005011757 +0000">
-    <title>Reel Rock S6E2</title>
-    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
-    <sub-title>The high road part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005011757 +0000" stop="20211005014056 +0000">
-    <title>Reel Rock S6E3</title>
-    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
-    <sub-title>United States of Joe's</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211005014056 +0000" stop="20211005020100 +0000">
     <title>Reel Rock S6E4</title>
     <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
@@ -43765,6 +43726,51 @@
     <title>Red Bull Soapbox Race S6E3</title>
     <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
     <sub-title>Lisbon, Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005232636 +0000" stop="20211005232938 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
+    <sub-title>Preparing the mind and body</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005232938 +0000" stop="20211005233940 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
+    <sub-title>Behind the scenes with Dario Costa</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005233940 +0000" stop="20211005235631 +0000">
+    <title>Driving DTM S1E1</title>
+    <desc>It's the start of the 2021 DTM season and the Red Bull AlphaTauri AF Corse team aim for success in Monza.</desc>
+    <sub-title>Monza</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005235631 +0000" stop="20211006001729 +0000">
+    <title>Driving DTM S1E2</title>
+    <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
+    <sub-title>Lausitzring</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006001729 +0000" stop="20211006003831 +0000">
+    <title>Driving DTM S1E3</title>
+    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
+    <sub-title>Zolder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006003831 +0000" stop="20211006012759 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006012759 +0000" stop="20211006014741 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006014741 +0000" stop="20211006023224 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211006023224 +0000" stop="20211006031628 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

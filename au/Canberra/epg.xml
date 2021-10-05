@@ -25507,18 +25507,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211006083000 +0000" stop="20211006100000 +0000">
-    <title>Making It Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020625" start="20211006083000 +0000" stop="20211006093000 +0000">
     <title>The Graham Norton Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20211006083000 +0000" stop="20211006100000 +0000">
+    <title>Making It Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20211006093000 +0000" stop="20211006103000 +0000">
@@ -42852,6 +42852,41 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211004231219 +0000" stop="20211005001948 +0000">
+    <title>Red Bull Signature Series S2019E7</title>
+    <desc>The battle of the bumps is back in Pomona, California, as the finals go down on a half-mile 'unwound' track.</desc>
+    <sub-title>Red Bull Straight Rhythm</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005001948 +0000" stop="20211005003632 +0000">
+    <title>Cycling Around the World S1E5</title>
+    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
+    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005003632 +0000" stop="20211005005856 +0000">
+    <title>Reel Rock S6E1</title>
+    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
+    <sub-title>The high road part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005005856 +0000" stop="20211005011757 +0000">
+    <title>Reel Rock S6E2</title>
+    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
+    <sub-title>The high road part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005011757 +0000" stop="20211005014056 +0000">
+    <title>Reel Rock S6E3</title>
+    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
+    <sub-title>United States of Joe's</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005014056 +0000" stop="20211005020100 +0000">
+    <title>Reel Rock S6E4</title>
+    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
+    <sub-title>The Nose speed record part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211005020100 +0000" stop="20211005022532 +0000">
+    <title>Reel Rock S6E5</title>
+    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
+    <sub-title>The Nose speed record part 2</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211005022532 +0000" stop="20211005025125 +0000">
     <title>Reel Rock S6E6</title>
     <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
@@ -43099,41 +43134,6 @@
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
     <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006012759 +0000" stop="20211006014741 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006014741 +0000" stop="20211006023224 +0000">
-    <title>Red Bull Signature Series S2020E9</title>
-    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
-    <sub-title>Red Bull Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006023224 +0000" stop="20211006031628 +0000">
-    <title>Red Bull Signature Series S2020E9</title>
-    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
-    <sub-title>Red Bull Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006031628 +0000" stop="20211006032436 +0000">
-    <title>Dual Focus S1E2</title>
-    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
-    <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006032436 +0000" stop="20211006032950 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006032950 +0000" stop="20211006033541 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006033541 +0000" stop="20211006045304 +0000">
-    <title>Shaka</title>
-    <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
-    <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

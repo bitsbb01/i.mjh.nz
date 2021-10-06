@@ -1372,14 +1372,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
+    <title>The Beautiful Bush</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Beautiful Bush</title>
+    <title>The Bright Side</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -12719,16 +12719,16 @@
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211008090000 +0000" stop="20211008100000 +0000">
+    <title>Secrets Of The National Trust</title>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204500457" start="20211008090000 +0000" stop="20211008100000 +0000">
     <title>David Attenborough's A Perfect Planet</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500457" start="20211008090000 +0000" stop="20211008100000 +0000">
-    <title>Secrets Of The National Trust</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211008100000 +0000" stop="20211008125500 +0000">
@@ -18014,15 +18014,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012130400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012140900 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012140900 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012130400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -34985,16 +34985,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
-    <title>WNBA Basketball</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
+    <title>WNBA Basketball</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211007022500 +0000" stop="20211007025500 +0000">
@@ -40981,16 +40981,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211006020144 +0000" stop="20211006020734 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006020734 +0000" stop="20211006032458 +0000">
-    <title>Shaka</title>
-    <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
-    <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211006032458 +0000" stop="20211006041720 +0000">
     <title>Red Bull Cliff Diving World Series 2021</title>
     <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
@@ -41228,6 +41218,26 @@
     <title>Behind the Bullet S1E1</title>
     <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
     <sub-title>Ready for a comeback in 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007031006 +0000" stop="20211007032550 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007032550 +0000" stop="20211007033559 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007033559 +0000" stop="20211007042821 +0000">
+    <title>Red Bull Cliff Diving World Series 2021</title>
+    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
+    <sub-title>Mostar recap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007042821 +0000" stop="20211007051224 +0000">
+    <title>Red Bull Signature Series S2020E9</title>
+    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
+    <sub-title>Red Bull Imagination</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

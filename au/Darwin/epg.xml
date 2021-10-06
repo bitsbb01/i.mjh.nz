@@ -1173,14 +1173,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Beautiful Bush</title>
+    <title>The Bright Side</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
+    <title>The Beautiful Bush</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -35505,16 +35505,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
-    <title>Fubar Age of Computer</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
     <title>WNBA Basketball</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
+    <title>Fubar Age of Computer</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211007022500 +0000" stop="20211007025500 +0000">
@@ -41701,26 +41701,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211006160948 +0000" stop="20211006163248 +0000">
-    <title>Reel Rock S6E3</title>
-    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
-    <sub-title>United States of Joe's</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006163248 +0000" stop="20211006165252 +0000">
-    <title>Reel Rock S6E4</title>
-    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <sub-title>The Nose speed record part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006165252 +0000" stop="20211006171803 +0000">
-    <title>Reel Rock S6E5</title>
-    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <sub-title>The Nose speed record part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006171803 +0000" stop="20211006174316 +0000">
-    <title>Reel Rock S6E6</title>
-    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
-    <sub-title>The Nose speed record part 3</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211006174316 +0000" stop="20211006180000 +0000">
     <title>Cycling Around the World S1E5</title>
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
@@ -41969,6 +41949,16 @@
     <title>Red Bull Signature Series S2015E13</title>
     <desc>The world's best big mountain riders meet outside Zion National Park for the 10th edition of Red Bull Rampage.</desc>
     <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007173155 +0000" stop="20211007175217 +0000">
+    <title>Driving DTM S1E3</title>
+    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
+    <sub-title>Zolder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007175217 +0000" stop="20211007184648 +0000">
+    <title>Toby Price: Ridin’ Shotgun</title>
+    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <sub-title>Finke Desert Race 2021</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

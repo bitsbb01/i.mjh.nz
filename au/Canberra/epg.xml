@@ -18275,18 +18275,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
-    <title>House of Wellness</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035900 +0000">
     <title>Proof of Life</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
+    <title>House of Wellness</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211012035900 +0000" stop="20211012042800 +0000">
@@ -18346,15 +18346,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133100 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133100 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -20580,14 +20580,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011113000 +0000">
-    <title>Men in Black</title>
+  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
+    <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
-    <title>Family Guy</title>
+  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011113000 +0000">
+    <title>Men in Black</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -36609,16 +36609,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
-    <title>WNBA Basketball</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
+    <title>WNBA Basketball</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211007022500 +0000" stop="20211007025500 +0000">
@@ -42081,11 +42081,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005215908 +0000" stop="20211005224232 +0000">
-    <title>Red Bull Soapbox Race S6E3</title>
-    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
-    <sub-title>Lisbon, Portugal</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211005224232 +0000" stop="20211005224535 +0000">
     <title>Tunnel Pass – extra</title>

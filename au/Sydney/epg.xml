@@ -16127,18 +16127,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20211006083100 +0000" stop="20211006093000 +0000">
-    <title>SAS Australia</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020520" start="20211006083100 +0000" stop="20211006093500 +0000">
     <title>Highway Patrol</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20211006083100 +0000" stop="20211006093000 +0000">
+    <title>SAS Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20211006093500 +0000" stop="20211006113900 +0000">
@@ -19151,14 +19151,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
-    <title>Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
+    <title>Ultimate Fishing with Matt Watson</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
-    <title>Ultimate Fishing with Matt Watson</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
+    <title>Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42089,11 +42089,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211005215908 +0000" stop="20211005224232 +0000">
-    <title>Red Bull Soapbox Race S6E3</title>
-    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
-    <sub-title>Lisbon, Portugal</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211005224232 +0000" stop="20211005224535 +0000">
     <title>Tunnel Pass – extra</title>

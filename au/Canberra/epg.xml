@@ -494,15 +494,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
-    <title>Courtney Act's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
+    <title>Flight to Freedom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
-    <title>Flight to Freedom</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
+    <title>Courtney Act's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18265,15 +18265,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133900 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133900 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -19060,14 +19060,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
-    <title>Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
+    <title>Ultimate Fishing with Matt Watson</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
-    <title>Ultimate Fishing with Matt Watson</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
+    <title>Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -35598,16 +35598,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
-    <title>Fubar Age of Computer</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
     <title>WNBA Basketball</title>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
+    <title>Fubar Age of Computer</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211007022500 +0000" stop="20211007025500 +0000">
@@ -41267,16 +41267,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211006115513 +0000" stop="20211006120541 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211006120541 +0000" stop="20211006121412 +0000">
-    <title>Behind the Bullet S1E3</title>
-    <desc>Ride along with MXGP rider Jeffrey Herlings as he prepares for the MXGP of Italy in Maggiora.</desc>
-    <sub-title>Getting competitive for Maggiora</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211006121412 +0000" stop="20211006134236 +0000">
     <title>Blood Road</title>
     <desc>Rebecca Rusch rides 1,930km along the infamous Ho Chi Minh Trail through the dense jungles of Vietnam.</desc>
@@ -41524,6 +41514,16 @@
     <title>Reel Rock S6E4</title>
     <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
     <sub-title>The Nose speed record part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007131300 +0000" stop="20211007133811 +0000">
+    <title>Reel Rock S6E5</title>
+    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
+    <sub-title>The Nose speed record part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211007133811 +0000" stop="20211007140324 +0000">
+    <title>Reel Rock S6E6</title>
+    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
+    <sub-title>The Nose speed record part 3</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

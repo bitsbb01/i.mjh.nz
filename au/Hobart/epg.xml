@@ -25899,17 +25899,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20211010020000 +0000" stop="20211010023000 +0000">
-    <title>Three Veg and Meat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030635" start="20211010020000 +0000" stop="20211010023000 +0000">
     <title>Farm to Fork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406030635" start="20211010020000 +0000" stop="20211010023000 +0000">
+    <title>Three Veg and Meat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20211010023000 +0000" stop="20211010030000 +0000">
@@ -40917,21 +40917,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211007204356 +0000" stop="20211007204911 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211007204911 +0000" stop="20211007205501 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211007205501 +0000" stop="20211007213904 +0000">
-    <title>Red Bull Signature Series S2020E9</title>
-    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
-    <sub-title>Red Bull Imagination</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211007213904 +0000" stop="20211007225912 +0000">
     <title>Márquez Unlimited</title>
     <desc>After surgery and rehabilitation, Marc Márquez returned ready for the 2019 MotoGP™ season.</desc>
@@ -41154,6 +41139,11 @@
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
     <sub-title>How Mark Mathews came back from the brink</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008220204 +0000" stop="20211008225554 +0000">
+    <title>Toby Price: Ridin’ Shotgun</title>
+    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <sub-title>Finke Desert Race 2021</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

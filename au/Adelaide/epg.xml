@@ -623,15 +623,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
-    <title>Matildas - Moment of Truth</title>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
+    <title>The World This Week</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
-    <title>The World This Week</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -39409,21 +39409,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211007145139 +0000" stop="20211007153503 +0000">
-    <title>Red Bull Soapbox Race S6E3</title>
-    <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
-    <sub-title>Lisbon, Portugal</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211007153503 +0000" stop="20211007153806 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211007153806 +0000" stop="20211007154807 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211007154807 +0000" stop="20211007160459 +0000">
     <title>Driving DTM S1E1</title>
     <desc>It's the start of the 2021 DTM season and the Red Bull AlphaTauri AF Corse team aim for success in Monza.</desc>
@@ -39661,6 +39646,16 @@
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
     <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008163301 +0000" stop="20211008165243 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008165243 +0000" stop="20211008174027 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

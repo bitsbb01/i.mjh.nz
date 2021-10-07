@@ -502,15 +502,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
-    <title>Flight to Freedom</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
+    <title>Courtney Act's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
-    <title>Courtney Act's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
+    <title>Flight to Freedom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18202,18 +18202,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035900 +0000">
-    <title>Proof of Life</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
     <title>House of Wellness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035900 +0000">
+    <title>Proof of Life</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211012035900 +0000" stop="20211012042800 +0000">
@@ -18273,15 +18273,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133900 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012133900 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305020522" start="20211012113900 +0000" stop="20211012123400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -19068,14 +19068,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
-    <title>Pawn Stars</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
+    <title>Ultimate Fishing with Matt Watson</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010060200 +0000">
-    <title>Ultimate Fishing with Matt Watson</title>
+  <programme channel="tv.101305020523" start="20211010050000 +0000" stop="20211010052800 +0000">
+    <title>Pawn Stars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -20474,14 +20474,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
-    <title>Family Guy</title>
+  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011113000 +0000">
+    <title>Men in Black</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011113000 +0000">
-    <title>Men in Black</title>
+  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
+    <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -35606,16 +35606,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
-    <title>WNBA Basketball</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007022500 +0000">
     <title>Fubar Age of Computer</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000303" start="20211007020000 +0000" stop="20211007040000 +0000">
+    <title>WNBA Basketball</title>
+    <rating system="Freeview">
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211007022500 +0000" stop="20211007025500 +0000">
@@ -41538,6 +41538,21 @@
     <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
     <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
     <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008002730 +0000" stop="20211008004354 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008004354 +0000" stop="20211008010606 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008010606 +0000" stop="20211008012939 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
+    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
+    <sub-title>Tackling Red Bull TKO</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -25958,17 +25958,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20211010020000 +0000" stop="20211010023000 +0000">
-    <title>Farm to Fork</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20211010020000 +0000" stop="20211010023000 +0000">
     <title>Three Veg and Meat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020625" start="20211010020000 +0000" stop="20211010023000 +0000">
+    <title>Farm to Fork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20211010023000 +0000" stop="20211010030000 +0000">
@@ -40453,16 +40453,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211007135634 +0000" stop="20211007144338 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211007144338 +0000" stop="20211007145139 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211007145139 +0000" stop="20211007153503 +0000">
     <title>Red Bull Soapbox Race S6E3</title>
     <desc>The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
@@ -40705,6 +40695,16 @@
     <title>Driving DTM S1E2</title>
     <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
     <sub-title>Lausitzring</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008152231 +0000" stop="20211008154252 +0000">
+    <title>Driving DTM S1E3</title>
+    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
+    <sub-title>Zolder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008154252 +0000" stop="20211008163301 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

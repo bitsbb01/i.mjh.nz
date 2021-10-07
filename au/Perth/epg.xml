@@ -251,15 +251,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
-    <title>Flight to Freedom</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
+    <title>Courtney Act's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007190000 +0000">
-    <title>Courtney Act's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211007183000 +0000" stop="20211007184400 +0000">
+    <title>Flight to Freedom</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -568,15 +568,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
-    <title>Matildas - Moment of Truth</title>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
+    <title>The World This Week</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
-    <title>The World This Week</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -950,14 +950,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Beautiful Bush</title>
+    <title>The Bright Side</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
+    <title>The Beautiful Bush</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -40824,11 +40824,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211007173702 +0000" stop="20211007183132 +0000">
-    <title>Toby Price: Ridin’ Shotgun</title>
-    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <sub-title>Finke Desert Race 2021</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211007183132 +0000" stop="20211007192101 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -41081,6 +41076,11 @@
     <title>Red Bull Signature Series S2014E14</title>
     <desc>The great equaliser of mountain bike events unites slopestylers, downhill and natural-terrain freeriders.</desc>
     <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008194424 +0000" stop="20211008210352 +0000">
+    <title>Márquez Unlimited</title>
+    <desc>After surgery and rehabilitation, Marc Márquez returned ready for the 2019 MotoGP™ season.</desc>
+    <sub-title>Marc Márquez's journey to his eighth world title</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

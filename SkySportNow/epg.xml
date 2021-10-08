@@ -140,22 +140,12 @@
     <desc>Every week, former Silver Fern Adine Wilson, Sky Sport commentators Jenny Woods and Ravinder Hunia debate the biggest talking points in the game, in Inside Netball.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211007180000 +0000" stop="20211008000000 +0000">
+  <programme channel="61" start="20211007180000 +0000" stop="20211008011000 +0000">
     <title>LIVE: BNP Paribas Open: Day 1 (G)</title>
     <desc>LIVE – ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in for all the action from the first part of Day 1 as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211008000000 +0000" stop="20211008003000 +0000">
-    <title>IPL: CSK v PK Hls (G)</title>
-    <desc>Highlights of the Indian Premier League match 53 between the Chennai Super Kings v Punjab Kings at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211008003000 +0000" stop="20211008010000 +0000">
-    <title>IPL: KKR v RR Hls (G)</title>
-    <desc>Highlights of the Indian Premier League match 54 between the Kolkata Knight Riders and Rajasthan Royals at Sharjah Cricket Stadium, Abu Dhabi.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211008010000 +0000" stop="20211008050000 +0000">
+  <programme channel="61" start="20211008011000 +0000" stop="20211008050000 +0000">
     <title>LIVE: BNP Paribas Open: Day 1 (G)</title>
     <desc>LIVE – ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in for all the action from the second part of Day 1 as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
@@ -203,19 +193,34 @@
     <desc>Highlights of the Indian Premier League match 52 between the Royal Challengers Bangalore and Sunrisers Hyderabad at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211007183000 +0000" stop="20211007223000 +0000">
+  <programme channel="62" start="20211007183000 +0000" stop="20211007221500 +0000">
     <title>IPL: CSK v PK (G)</title>
     <desc>Replay coverage of the Indian Premier League match 53 between the Chennai Super Kings v Punjab Kings at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211007223000 +0000" stop="20211008020000 +0000">
+  <programme channel="62" start="20211007221500 +0000" stop="20211008021500 +0000">
     <title>IPL: KKR v RR (G)</title>
     <desc>Replay coverage of the Indian Premier League match 54 between the Kolkata Knight Riders and Rajasthan Royals at Sharjah Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211008020000 +0000" stop="20211008053000 +0000">
+  <programme channel="62" start="20211008021500 +0000" stop="20211008040000 +0000">
     <title>AUS W v IND W: 1st T20 (G)</title>
     <desc>Replay coverage of the first T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008040000 +0000" stop="20211008043000 +0000">
+    <title>IPL: KKR v SRH Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 49 between the Kolkata Knight Riders and Sunrisers Hyderabad at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008043000 +0000" stop="20211008050000 +0000">
+    <title>IPL: DC v CSK Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 50 between the Delhi Capitals and Chennai Super Kings at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008050000 +0000" stop="20211008053000 +0000">
+    <title>IPL: RR v MI Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 51 between the Rajasthan Royals and Mumbai Indians at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211008053000 +0000" stop="20211008060000 +0000">
@@ -311,14 +316,9 @@
     <desc>Grand Finalists Best of 2021</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20211007180000 +0000" stop="20211007220000 +0000">
+  <programme channel="63" start="20211007180000 +0000" stop="20211007223000 +0000">
     <title>LIVE: Darts: World Grand Prix (G)</title>
     <desc>LIVE action from Day 5 of the 24th staging of the World Grand Prix darts tournament. Watch all the darts drama unfold at the Morningside Arena in Leicester.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="63" start="20211007220000 +0000" stop="20211007223000 +0000">
-    <title>Grand Finalists Best of 2021 (G)</title>
-    <desc>Grand Finalists Best of 2021</desc>
     <category>Sports</category>
   </programme>
   <programme channel="63" start="20211007223000 +0000" stop="20211007230000 +0000">
@@ -812,9 +812,9 @@
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20211008013000 +0000" stop="20211008020000 +0000">
-    <title>Gearing Up (G)</title>
-    <desc>Our journey starts in Spain! For the eighth consecutive year in the province of Teruel, the Baja Espana Aragon Trofeo AVATEL explores the roads of the Jiloca region and the Community of Teruel.</desc>
-    <category>Motorsport</category>
+    <title>Sailing To Tokyo (G)</title>
+    <desc>In this episode, we will take you to the majestic Porto. The 2021 Finn Gold Cup returned to Portugal this year for only the third time in its 65-year history, with BB Douro and Douro Marina hosting the last major event before the Olympic Games in Tokyo.</desc>
+    <category>Watersports</category>
   </programme>
   <programme channel="87" start="20211008020000 +0000" stop="20211008030000 +0000">
     <title>Bwf Sudirman Cup Hls: SFs (G)</title>
@@ -826,17 +826,17 @@
     <desc>Join us for replay coverage from Day 1 of the 2021 FINA Swimming World Cup in Budapest, Hungary.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="87" start="20211008050000 +0000" stop="20211008053000 +0000">
+  <programme channel="87" start="20211008050000 +0000" stop="20211008054500 +0000">
     <title>Tour of Britain S4 (G)</title>
     <desc>Tour of Britain 2021. Tune in for Women's Stage 4 held in Britain.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211008053000 +0000" stop="20211008073000 +0000">
+  <programme channel="87" start="20211008054500 +0000" stop="20211008073500 +0000">
     <title>Rugby Champs: RSA v All Blacks (G)</title>
     <desc>Replay of The Rugby Championship from CBUS Super Stadium on the Gold Coast. Springboks and All Blacks go head to head.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="87" start="20211008073000 +0000" stop="20211008093000 +0000">
+  <programme channel="87" start="20211008073500 +0000" stop="20211008093000 +0000">
     <title>FIFA WC 2022 Qual: AUS v OMA (G)</title>
     <desc>FIFA World Cup 2022 Qualifying match between Australia and Oman from the Khalifa International Stadium, Qatar.</desc>
     <category>Soccer</category>
@@ -1330,9 +1330,9 @@
     <category>Athletics</category>
   </programme>
   <programme channel="61" start="20211008173500 +0000" stop="20211008180000 +0000">
-    <title>Tour of Britain S4 (G)</title>
-    <desc>Tour of Britain 2021. Tune in for Women's Stage 4 held in Britain.</desc>
-    <category>Cycling</category>
+    <title>Pure As: Esther Molloy (G)</title>
+    <desc>Silver Ferns team manager Esther Molloy shares her family’s heartbreaking journey and how her netball whanau has played a huge support role.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211008180000 +0000" stop="20211008210000 +0000">
     <title>LIVE: Darts: World Grand Prix (G)</title>
@@ -1392,9 +1392,24 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211008110000 +0000" stop="20211008130000 +0000">
-    <title>AUS W v IND W: 1st T20 (G)</title>
-    <desc>Replay coverage of the first T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
+  <programme channel="62" start="20211008110000 +0000" stop="20211008113000 +0000">
+    <title>IPL: KKR v SRH Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 49 between the Kolkata Knight Riders and Sunrisers Hyderabad at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008113000 +0000" stop="20211008120000 +0000">
+    <title>IPL: DC v CSK Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 50 between the Delhi Capitals and Chennai Super Kings at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008120000 +0000" stop="20211008123000 +0000">
+    <title>IPL: RR v MI Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 51 between the Rajasthan Royals and Mumbai Indians at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211008123000 +0000" stop="20211008130000 +0000">
+    <title>IPL: RCB v SRH Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 52 between the Royal Challengers Bangalore and Sunrisers Hyderabad at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211008130000 +0000" stop="20211008133000 +0000">
@@ -1427,42 +1442,57 @@
     <desc>Replay coverage of the Indian Premier League match 56 between the Royal Challengers Bangalore and Delhi Capitals at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009020000 +0000" stop="20211009053000 +0000">
+  <programme channel="62" start="20211009020000 +0000" stop="20211009023000 +0000">
+    <title>IPL: KKR v SRH Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 49 between the Kolkata Knight Riders and Sunrisers Hyderabad at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009023000 +0000" stop="20211009030000 +0000">
+    <title>IPL: DC v CSK Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 50 between the Delhi Capitals and Chennai Super Kings at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009030000 +0000" stop="20211009033000 +0000">
+    <title>IPL: RR v MI Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 51 between the Rajasthan Royals and Mumbai Indians at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009033000 +0000" stop="20211009040000 +0000">
+    <title>IPL: RCB v SRH Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 52 between the Royal Challengers Bangalore and Sunrisers Hyderabad at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009040000 +0000" stop="20211009053000 +0000">
     <title>AUS W v IND W: 1st T20 (G)</title>
     <desc>Replay coverage of the first T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211009053000 +0000" stop="20211009060000 +0000">
-    <title>IPL: RCB v SRH Hls (G)</title>
-    <desc>Highlights of the Indian Premier League match 52 between the Royal Challengers Bangalore and Sunrisers Hyderabad at Sharjah Cricket Stadium, Sharjah.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211009060000 +0000" stop="20211009063000 +0000">
     <title>IPL: CSK v PK Hls (G)</title>
     <desc>Highlights of the Indian Premier League match 53 between the Chennai Super Kings v Punjab Kings at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009063000 +0000" stop="20211009070000 +0000">
+  <programme channel="62" start="20211009060000 +0000" stop="20211009063000 +0000">
     <title>IPL: KKR v RR Hls (G)</title>
     <desc>Highlights of the Indian Premier League match 54 between the Kolkata Knight Riders and Rajasthan Royals at Sharjah Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009070000 +0000" stop="20211009073000 +0000">
+  <programme channel="62" start="20211009063000 +0000" stop="20211009070000 +0000">
     <title>IPL: SRH v MI Hls (G)</title>
     <desc>Highlights of the Indian Premier League match 55 between the Sunrisers Hyderabad and Mumbai Indians at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009073000 +0000" stop="20211009080000 +0000">
+  <programme channel="62" start="20211009070000 +0000" stop="20211009073000 +0000">
     <title>IPL: RCB v DC Hls (G)</title>
     <desc>Highlights of the Indian Premier League match 56 between the Royal Challengers Bangalore and Delhi Capitals at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009080000 +0000" stop="20211009083000 +0000">
+  <programme channel="62" start="20211009073000 +0000" stop="20211009080500 +0000">
     <title>AUS W v IND W: 1st T20 Hls (G)</title>
     <desc>Highlights of the first T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211009083000 +0000" stop="20211009110000 +0000">
+  <programme channel="62" start="20211009080500 +0000" stop="20211009110000 +0000">
     <title>LIVE: AUS W v IND W: 2nd T20 (G)</title>
     <desc>LIVE coverage of the second T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
     <category>Cricket</category>
@@ -1907,17 +1937,17 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211008110000 +0000" stop="20211008113000 +0000">
+  <programme channel="86" start="20211008110000 +0000" stop="20211008111500 +0000">
     <title>Fury Road (M)</title>
     <desc>Take a bus tour around Manchester visiting sites and talking to people important to Tyson Fury's boxing career. PPV LIVE Sunday 10th October, 2pm, CH 065 *$39.95*. To Book: Text BOXING to 4024, or call 0800 759 780.</desc>
     <category>Fight Sport</category>
   </programme>
-  <programme channel="86" start="20211008113000 +0000" stop="20211008120000 +0000">
+  <programme channel="86" start="20211008111500 +0000" stop="20211008114500 +0000">
     <title>Aotearoa Rugby Pod (G)</title>
     <desc>James Parsons, Bryn Hall and Ross Karl give the players’ view on the biggest talking points in rugby every week.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="86" start="20211008120000 +0000" stop="20211008123000 +0000">
+  <programme channel="86" start="20211008114500 +0000" stop="20211008123000 +0000">
     <title>Tour of Britain S4 (G)</title>
     <desc>Tour of Britain 2021. Tune in for Women's Stage 4 held in Britain.</desc>
     <category>Cycling</category>
@@ -2005,28 +2035,28 @@
     <desc>LIVE LPGA. Round 2 of the Founders Cup held at Mountain Ridge Country Club in West Caldwell, New Jersey.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="87" start="20211008190000 +0000" stop="20211008193000 +0000">
+  <programme channel="87" start="20211008190000 +0000" stop="20211008200000 +0000">
     <title>Tour of Britain S4 (G)</title>
     <desc>Tour of Britain 2021. Tune in for Women's Stage 4 held in Britain.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211008193000 +0000" stop="20211008213000 +0000">
+  <programme channel="87" start="20211008200000 +0000" stop="20211008220000 +0000">
     <title>Milan Torino (G)</title>
     <desc>Replay: Cycling: Milan Torino. The semi classic European single day cycling race between the northern Italian Cities of Milan and Turin over a distance of 199km.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211008213000 +0000" stop="20211008233000 +0000">
+  <programme channel="87" start="20211008220000 +0000" stop="20211009000000 +0000">
     <title>FINA Swimming World Cup (G)</title>
     <desc>Join us for replay coverage from Day 2 of the 2021 FINA Swimming World Cup in Budapest, Hungary.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="87" start="20211008233000 +0000" stop="20211009003000 +0000">
-    <title>Bwf Sudirman Cup Hls: SFs (G)</title>
-    <desc>Highlights of the BWF Sudirman Cup 2021, the world mixed team badminton championship from Vantaam Finland. Semifinals.</desc>
+  <programme channel="87" start="20211009000000 +0000" stop="20211009003000 +0000">
+    <title>Best Of Fletch And Hindy (G)</title>
+    <desc>Fletch and Hindy present a selection of 2021's best.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20211009003000 +0000" stop="20211009023000 +0000">
-    <title>FIFA WC 2022 Qual: GER v ROU</title>
+    <title>FIFA WC 2022 Qual: GER v ROU (G)</title>
     <desc>FIFA World Cup 2022 Qualifying match between Germany and Romania from Voksoarkstadion, Hamburg, Germany.</desc>
     <category>Soccer</category>
   </programme>
@@ -2040,15 +2070,10 @@
     <desc>Replay of The Rugby Championship from CBUS Super Stadium on the Gold Coast. Springboks and All Blacks go head to head.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="87" start="20211009063000 +0000" stop="20211009070000 +0000">
+  <programme channel="87" start="20211009063000 +0000" stop="20211009073000 +0000">
     <title>Tour of Britain S5 (G)</title>
     <desc>Tour of Britain 2021. Tune in for women's stage 5 held in Britain.</desc>
     <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20211009070000 +0000" stop="20211009073000 +0000">
-    <title>Best Of Fletch And Hindy (G)</title>
-    <desc>Fletch and Hindy present a selection of 2021's best.</desc>
-    <category>Sports</category>
   </programme>
   <programme channel="87" start="20211009073000 +0000" stop="20211009075000 +0000">
     <title>Pure As: Cat Tuivaiti (G)</title>
@@ -2169,12 +2194,12 @@
     <category>Fight Sport</category>
   </programme>
   <programme channel="88" start="20211009050000 +0000" stop="20211009060000 +0000">
-    <title>Fox Sports News (G)</title>
+    <title>LIVE: Fox Sports News (G)</title>
     <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211009060000 +0000" stop="20211009100000 +0000">
-    <title>Wilder v Fury II (M)</title>
+    <title>Fury v Wilder II (M)</title>
     <desc>Leading up to Fury v Wilder III we look back at the second fight in the trilogy. PPV LIVE Sunday 10th October, 2pm, CH 065 *$39.95*. To Book: Text BOXING to 4024, or call 0800 759 780.</desc>
     <category>Fight Sport</category>
   </programme>
@@ -2207,8 +2232,8 @@
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211008150000 +0000" stop="20211008160000 +0000">
-    <title>30 For 30 - Deion's Double Play (G)</title>
-    <desc>Deion's Double Play: The story of when Deion Sander's sandwiched a pro gridiron game around a pair of post-season baseball games, in two different cities a thousand miles apart.</desc>
+    <title>30 For 30 Deion's Double Play (G)</title>
+    <desc>Deion's Double Play: The story of when Deion Sanders sandwiched a pro gridiron game around a pair of post-season baseball games, in two different cities a thousand miles apart.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20211008160000 +0000" stop="20211008170000 +0000">
@@ -2223,7 +2248,7 @@
   </programme>
   <programme channel="81" start="20211008180000 +0000" stop="20211008210000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 ALDS, Game 2.</desc>
+    <desc>White Sox v Astros Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211008210000 +0000" stop="20211008213000 +0000">
@@ -2243,37 +2268,37 @@
   </programme>
   <programme channel="81" start="20211008230000 +0000" stop="20211009020000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 ALDS, Game 2.</desc>
+    <desc>Red Sox v Rays ALDS Game 2.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211009020000 +0000" stop="20211009021500 +0000">
+  <programme channel="81" start="20211009020000 +0000" stop="20211009023000 +0000">
     <title>Live: College Football Scoreboard (G)</title>
     <desc>After the final whistle, College Football Final takes a look at the night's games through highlights and looks at the major storylines headed into next week's slate.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211009021500 +0000" stop="20211009051500 +0000">
+  <programme channel="81" start="20211009023000 +0000" stop="20211009053000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>Arizona State v Stanford.</desc>
+    <desc>#22 Arizona State v Stanford: Coming off a stunning OT upset of #3 ranked Oregon, Stanford now face #22 Arizona State. Who boast an iron wall of defence.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211009051500 +0000" stop="20211009060000 +0000">
+  <programme channel="81" start="20211009053000 +0000" stop="20211009060000 +0000">
     <title>Live: SportsCenter (G)</title>
     <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20211009060000 +0000" stop="20211009080000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 2.</desc>
+    <desc>White Sox v Astros Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211009080000 +0000" stop="20211009100000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 NLDS, Game 1.</desc>
+    <desc>Brewers v Braves NLDS Game 1: In the first National League Division Series game, the Atlanta Braves face the Milwaukee Brewers.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211009100000 +0000" stop="20211009110000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 2.</desc>
+    <desc>Red Sox v Rays ALDS Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -2309,14 +2334,19 @@
     <desc>Rachel Nichols hosts this daily NBA discussion featuring the latest news and stories with a panel of NBA analysts and current players.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211008200000 +0000" stop="20211008210000 +0000">
-    <title>Live: NFL Live (G)</title>
-    <desc>Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Keyshawn Johnson, Mina Kimes, and Adam Schefter.</desc>
-    <category>Sports</category>
+  <programme channel="82" start="20211008200000 +0000" stop="20211008203000 +0000">
+    <title>My Most Memorable Game (G)</title>
+    <desc>Tom Glavine: Glavine relives his eight shutout innings to clinch Game Six of the 1995 World Series for the Atlanta Braves.</desc>
+    <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211008210000 +0000" stop="20211009000000 +0000">
+  <programme channel="82" start="20211008203000 +0000" stop="20211008233000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 NLDS, Game 1.</desc>
+    <desc>Brewers v Braves NLDS Game 1: In the first National League Division Series game, the Atlanta Braves face the Milwaukee Brewers.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="82" start="20211008233000 +0000" stop="20211009000000 +0000">
+    <title>Prime 9 (G)</title>
+    <desc>Bloopers: A countdown show that ranks the best of the best, on the field and off. Depending on your view, Prime 9 will either settle the debate or provoke more discussion!</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211009000000 +0000" stop="20211009003000 +0000">
@@ -2361,7 +2391,7 @@
   </programme>
   <programme channel="82" start="20211009070000 +0000" stop="20211009090000 +0000">
     <title>College Football (G)</title>
-    <desc>Temple vs. #7 Cincinnati</desc>
+    <desc>#5 Cincinnati v Temple.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211009090000 +0000" stop="20211009093000 +0000">
@@ -2376,7 +2406,7 @@
   </programme>
   <programme channel="82" start="20211009100000 +0000" stop="20211009110000 +0000">
     <title>College Football (G)</title>
-    <desc>Arizona State v Stanford.</desc>
+    <desc>#22 Arizona State v Stanford: Coming off a stunning OT upset of #3 ranked Oregon, Stanford now face #22 Arizona State. Who boast an iron wall of defence.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -2421,8 +2451,8 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211009153000 +0000" stop="20211009183000 +0000">
-    <title>LIVE: UEFA WCQ (G)</title>
-    <desc>Cyprus v Malta. The European section qualification for the 2022 FIFA World Cup in Qatar.</desc>
+    <title>LIVE: Curaçao v All Whites (G)</title>
+    <desc>LIVE Intl Football Friendly: Curaçao v All Whites from the Al Muharraq Stadium in Bahrain. The national team return to action against a Curaçao side that is coached by Dutch legend Patrick Kluivert and features former Phoenix player Roly Bonevacia.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="60" start="20211009183000 +0000" stop="20211009190000 +0000">
@@ -2486,8 +2516,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211010080000 +0000" stop="20211010083000 +0000">
-    <title>Bunnings Heartland Championship (G)</title>
-    <desc>No Description Available</desc>
+    <title>Heartland Championship: KIN v WAN Hls (G)</title>
+    <desc>Heartland Championship 2021: Sam Cane returns from injury to play for King Country against Whanganui from Owen Delany Park in Taupo.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211010083000 +0000" stop="20211010103000 +0000">
@@ -2586,9 +2616,19 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211009110000 +0000" stop="20211009123000 +0000">
+  <programme channel="62" start="20211009110000 +0000" stop="20211009113500 +0000">
     <title>LIVE: AUS W v IND W: 2nd T20 (G)</title>
     <desc>LIVE coverage of the second T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009113500 +0000" stop="20211009120500 +0000">
+    <title>IPL: SRH v MI Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 55 between the Sunrisers Hyderabad and Mumbai Indians at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211009120500 +0000" stop="20211009123000 +0000">
+    <title>IPL: RCB v DC Mini (G)</title>
+    <desc>Mini highlights of the Indian Premier League match 56 between the Royal Challengers Bangalore and Delhi Capitals at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211009123000 +0000" stop="20211009130000 +0000">
@@ -2750,7 +2790,7 @@
     <category>Sports</category>
   </programme>
   <programme channel="63" start="20211009213000 +0000" stop="20211009220000 +0000">
-    <title>NRL Premiership: WAR v PEN Hls (G)</title>
+    <title>Grand Finalists Best of 2021 (G)</title>
     <desc>Highlights of the Round 18 match of the NRL Premiership between our own New Zealand Warriors and the Penrith Panthers from Suncorp Stadium, Brisbane.</desc>
     <category>League</category>
   </programme>
@@ -2761,13 +2801,13 @@
   </programme>
   <programme channel="63" start="20211009223000 +0000" stop="20211009230000 +0000">
     <title>Grand Finalists Best of 2021 (G)</title>
-    <desc>Grand Finalists Best of 2021</desc>
-    <category>Sports</category>
+    <desc>Highlights of the Round 15 match of the NRL Premiership between the Penrith Panthers and the Sydney Roosters from BlueBet Stadium in Penrith.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211009230000 +0000" stop="20211010010000 +0000">
     <title>Grand Finalists Best of 2021 (G)</title>
-    <desc>Grand Finalists Best of 2021</desc>
-    <category>Sports</category>
+    <desc>Replay coverage of Round 18 of the NRL Premiership where our own New Zealand Warriors faced off against the Penrith Panthers from Suncorp Stadium, Brisbane.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211010010000 +0000" stop="20211010030000 +0000">
     <title>LIVE: NZRL Men's National Competition (G)</title>
@@ -3124,12 +3164,12 @@
     <desc>The 2021 Stockholm Marathon takes you through the streets of a beautiful European capital built on 14 islands, leading to an unforgettable finish at the 1912 Olympic Stadium, the home of 83 officially recognized world records in athletics.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="87" start="20211009120000 +0000" stop="20211009130000 +0000">
+  <programme channel="87" start="20211009120000 +0000" stop="20211009125500 +0000">
     <title>PSA Squash: Highlights (G)</title>
     <desc>PSA Squash: Highlights of the US Open held in Philadelphia.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211009130000 +0000" stop="20211009135500 +0000">
+  <programme channel="87" start="20211009125500 +0000" stop="20211009135500 +0000">
     <title>BNP Paribas Open: Day 2 Hls (G)</title>
     <desc>Highlights from Day 2 of the ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
@@ -3144,15 +3184,10 @@
     <desc>Sky Sport is proud to bring you the second leg of the FINA Swimming World Cup 2021 from Budapest, Hungary. Join us for LIVE coverage of Day 3.</desc>
     <category>Athletics</category>
   </programme>
-  <programme channel="87" start="20211009174500 +0000" stop="20211009181500 +0000">
+  <programme channel="87" start="20211009174500 +0000" stop="20211009183500 +0000">
     <title>Tour of Britain S5 (G)</title>
     <desc>Tour of Britain 2021. Tune in for women's stage 5 held in Britain.</desc>
     <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20211009181500 +0000" stop="20211009183500 +0000">
-    <title>Pure As: Kruze Tangira (G)</title>
-    <desc>New Zealand Men’s captain Kruze Tangira gives a brave account of the challenges he’s endured to make it to the pinnacle of men’s netball.</desc>
-    <category>Tennis</category>
   </programme>
   <programme channel="87" start="20211009183500 +0000" stop="20211009204000 +0000">
     <title>LIVE: FIFA WC 2022 Qual: SUI v NIR (G)</title>
@@ -3184,15 +3219,10 @@
     <desc>PSA Squash: Highlights of the US Open held in Philadelphia.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211010070000 +0000" stop="20211010073000 +0000">
+  <programme channel="87" start="20211010070000 +0000" stop="20211010080000 +0000">
     <title>Tour of Britain S6 (G)</title>
     <desc>Tour of Britain 2021. Tune in for Women's Stage 6 held in Britain.</desc>
     <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20211010073000 +0000" stop="20211010080000 +0000">
-    <title>Kite Masters (G)</title>
-    <desc>Welcome to the 2021 season of Kite Masters, the series that flies you around the world, together with some of the very best athletes from one of the most exciting, fast, extreme and stylish sports: Kiteboarding.</desc>
-    <category>Sports</category>
   </programme>
   <programme channel="87" start="20211010080000 +0000" stop="20211010100000 +0000">
     <title>FINA Swimming World Cup (G)</title>
@@ -3367,7 +3397,7 @@
   </channel>
   <programme channel="81" start="20211009110000 +0000" stop="20211009120000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 2.</desc>
+    <desc>Red Sox v Rays ALDS Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211009120000 +0000" stop="20211009140000 +0000">
@@ -3387,22 +3417,27 @@
   </programme>
   <programme channel="81" start="20211009160000 +0000" stop="20211009163000 +0000">
     <title>SC: UFC Fight Camp (M)</title>
-    <desc>Includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits from the world of UFC.</desc>
+    <desc>UFC 232: Volkanovski vs Mendes. Go inside the lives and training camps of UFC athletes preparing for the next UFC pay-per-view event.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211009163000 +0000" stop="20211009170000 +0000">
+    <title>SC: UFC Fight Camp (M)</title>
+    <desc>Includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits from the world of UFC.</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="81" start="20211009170000 +0000" stop="20211009173000 +0000">
     <title>UFC Live (M)</title>
     <desc>Rodriguez vs. Dern: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
     <category>Fight Sport</category>
   </programme>
-  <programme channel="81" start="20211009170000 +0000" stop="20211009200000 +0000">
-    <title>Live: UFC Fight Night (M)</title>
-    <desc>Rodriguez vs. Dern (Prelims).</desc>
+  <programme channel="81" start="20211009173000 +0000" stop="20211009200000 +0000">
+    <title>Live: UFC Fight Night: Dern v Rodriguez (M)</title>
+    <desc>Prelims.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211009200000 +0000" stop="20211009230000 +0000">
-    <title>Live: UFC Fight Night (M)</title>
-    <desc>Mackenzie Dern vs. Marina Rodriguez (Main Card).</desc>
+    <title>Live: UFC Fight Night: Dern v Rodriguez (M)</title>
+    <desc>Main Card.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211009230000 +0000" stop="20211010000000 +0000">
@@ -3410,29 +3445,29 @@
     <desc>Dern vs. Rodriguez.</desc>
     <category>Fight Sport</category>
   </programme>
-  <programme channel="81" start="20211010000000 +0000" stop="20211010020000 +0000">
+  <programme channel="81" start="20211010000000 +0000" stop="20211010030000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>ESPN College Football Primetime Presented by Subway (gridiron).</desc>
+    <desc>#9 Michigan vs. Nebraska.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211010020000 +0000" stop="20211010023000 +0000">
-    <title>Live: College Football Scoreboard (G)</title>
-    <desc>Updates, reviews and recaps of the current day's matchups.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="81" start="20211010023000 +0000" stop="20211010053000 +0000">
+  <programme channel="81" start="20211010030000 +0000" stop="20211010053000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>UCLA vs. Arizona</desc>
+    <desc>UCLA vs. Arizona.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211010053000 +0000" stop="20211010060000 +0000">
+    <title>In Depth With (G)</title>
+    <desc>Dak Prescott: Cowboys quarterback Dak Prescott details plans for fighting social injustice and opens up about his brother's death.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="81" start="20211010060000 +0000" stop="20211010063000 +0000">
     <title>Spirit of Yachting (G)</title>
     <desc>Maxi Yacht Rolex Cup.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20211010060000 +0000" stop="20211010090000 +0000">
-    <title>UFC Fight Night (M)</title>
-    <desc>Rodriguez vs. Dern (Prelims).</desc>
+  <programme channel="81" start="20211010063000 +0000" stop="20211010090000 +0000">
+    <title>UFC Fight Night: Dern v Rodriguez (M)</title>
+    <desc>Prelims.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211010090000 +0000" stop="20211010093000 +0000">
@@ -3441,8 +3476,8 @@
     <category>Soccer</category>
   </programme>
   <programme channel="81" start="20211010093000 +0000" stop="20211010110000 +0000">
-    <title>UFC Fight Night (M)</title>
-    <desc>Mackenzie Dern vs. Marina Rodriguez (Main Card).</desc>
+    <title>UFC Fight Night: Dern v Rodriguez (M)</title>
+    <desc>Main Card.</desc>
     <category>Fight Sport</category>
   </programme>
   <channel id="82">
@@ -3450,7 +3485,7 @@
   </channel>
   <programme channel="82" start="20211009110000 +0000" stop="20211009120000 +0000">
     <title>College Football (G)</title>
-    <desc>Arizona State v Stanford.</desc>
+    <desc>#22 Arizona State v Stanford: Coming off a stunning OT upset of #3 ranked Oregon, Stanford now face #22 Arizona State. Who boast an iron wall of defence.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211009120000 +0000" stop="20211009123000 +0000">
@@ -3465,12 +3500,12 @@
   </programme>
   <programme channel="82" start="20211009130000 +0000" stop="20211009160000 +0000">
     <title>Live: College GameDay (G)</title>
-    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college gridiron with previews, exclusive interviews, analysis &amp; discussion</desc>
+    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college football with previews, exclusive interviews, analysis, discussion...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211009160000 +0000" stop="20211009190000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>#6 Oklahoma vs. Texas</desc>
+    <desc>#6 Oklahoma v #21 Texas.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211009190000 +0000" stop="20211009193000 +0000">
@@ -3490,7 +3525,7 @@
   </programme>
   <programme channel="82" start="20211009210000 +0000" stop="20211010000000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 NLDS, Game 2.</desc>
+    <desc>Braves v Brewers NLDS Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010000000 +0000" stop="20211010003000 +0000">
@@ -3505,27 +3540,27 @@
   </programme>
   <programme channel="82" start="20211010010000 +0000" stop="20211010040000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 NLDS Game 2.</desc>
+    <desc>San Francisco Giants Game #2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010040000 +0000" stop="20211010060000 +0000">
     <title>College Football (G)</title>
-    <desc>#6 Oklahoma vs. Texas</desc>
+    <desc>#6 Oklahoma v #21 Texas.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010060000 +0000" stop="20211010080000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 NLDS, Game 2.</desc>
+    <desc>Braves v Brewers NLDS Game 2.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010080000 +0000" stop="20211010100000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 NLDS, Game 2.</desc>
+    <desc>San Francisco Giants (NLDS Game #2).</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010100000 +0000" stop="20211010110000 +0000">
     <title>College Football (G)</title>
-    <desc>#14 Michigan vs. Nebraska</desc>
+    <desc>#9 Michigan vs. Nebraska.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -3750,19 +3785,24 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211010110000 +0000" stop="20211010120500 +0000">
+  <programme channel="62" start="20211010110000 +0000" stop="20211010113500 +0000">
     <title>LIVE: AUS W v IND W: 3rd T20 (G)</title>
     <desc>LIVE coverage of the third T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211010120500 +0000" stop="20211010123500 +0000">
+  <programme channel="62" start="20211010113500 +0000" stop="20211010120500 +0000">
     <title>AUS W v IND W: 1st T20 Hls (G)</title>
     <desc>Highlights of the first T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211010123500 +0000" stop="20211010130500 +0000">
+  <programme channel="62" start="20211010120500 +0000" stop="20211010123500 +0000">
     <title>AUS W v IND W: 2nd T20 Hls (G)</title>
     <desc>Highlights of the second T20 International between Australia and India at Metricon Stadium on the Gold Coast.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211010123500 +0000" stop="20211010130500 +0000">
+    <title>IPL: SRH v MI Hls (G)</title>
+    <desc>Highlights of the Indian Premier League match 55 between the Sunrisers Hyderabad and Mumbai Indians at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211010130500 +0000" stop="20211010135000 +0000">
@@ -3868,19 +3908,24 @@
     <desc>Join Sky Sport for LIVE coverage of the 2021 Super League Million Pound Game as Featherstone take on Toulouse.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211010190000 +0000" stop="20211010220000 +0000">
-    <title>LIVE: Snooker: Northern Ireland Open (G)</title>
-    <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 2, evening session from Waterfront Hall in Belfast.</desc>
-    <category>Sports</category>
+  <programme channel="63" start="20211010190000 +0000" stop="20211010213000 +0000">
+    <title>Super League Final: CAT v STH (G)</title>
+    <desc>Join Sky Sport for Replay coverage of the Grand Final of the 2021 Super League as the Catalans Dragons take on St Helens from Old Trafford, Manchester. .</desc>
+    <category>League</category>
   </programme>
-  <programme channel="63" start="20211010220000 +0000" stop="20211011000000 +0000">
+  <programme channel="63" start="20211010213000 +0000" stop="20211010233000 +0000">
     <title>QLD Cup Final: NOR v WYN (G)</title>
     <desc>Join Sky Sport for Replay coverage of the Queensland Cup Final as the Wynnum Manly Seagulls take on Norths Devils from Bishop Park, Brisbane.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211011000000 +0000" stop="20211011020000 +0000">
+  <programme channel="63" start="20211010233000 +0000" stop="20211011013000 +0000">
     <title>NZRL Men's National Competition (G)</title>
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Southland Rams at Ngā Puna Wai, Christchurch.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211011013000 +0000" stop="20211011020000 +0000">
+    <title>Super League Final: CAT v STH Hls (G)</title>
+    <desc>Join Sky Sport for highlight coverage of the Grand Final of the 2021 Super League as the Catalans Dragons take on St Helens from Old Trafford, Manchester.</desc>
     <category>League</category>
   </programme>
   <programme channel="63" start="20211011020000 +0000" stop="20211011043000 +0000">
@@ -4119,7 +4164,7 @@
   </programme>
   <programme channel="85" start="20211010125000 +0000" stop="20211010150000 +0000">
     <title>LIVE: UEFA Nations League (G)</title>
-    <desc>3rd Place. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Italy vs Belgium. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211010150000 +0000" stop="20211010153000 +0000">
@@ -4154,17 +4199,17 @@
   </programme>
   <programme channel="85" start="20211010180000 +0000" stop="20211010183500 +0000">
     <title>LIVE: UEFA Nations League Pre Show (G)</title>
-    <desc>Final. Join us as we look ahead to UEFA Nations League, only on beIN Sports.</desc>
+    <desc>Spain vs France. Join us as we look ahead to UEFA Nations League, only on beIN Sports.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211010183500 +0000" stop="20211010204500 +0000">
     <title>LIVE: UEFA Nations League (G)</title>
-    <desc>Final. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Spain vs France. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211010204500 +0000" stop="20211010213000 +0000">
     <title>LIVE: UEFA Nations League Post Show (G)</title>
-    <desc>Final. In-depth analysis, highlights, statistics, first class match previews and debates led by beINs team of specialists.</desc>
+    <desc>Spain vs France. In-depth analysis, highlights, statistics, first class match previews and debates led by beINs team of specialists.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211010213000 +0000" stop="20211010220000 +0000">
@@ -4194,7 +4239,7 @@
   </programme>
   <programme channel="85" start="20211011013000 +0000" stop="20211011031500 +0000">
     <title>UEFA Nations League (G)</title>
-    <desc>Final. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Spain vs France. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211011031500 +0000" stop="20211011034500 +0000">
@@ -4234,7 +4279,7 @@
   </programme>
   <programme channel="85" start="20211011080000 +0000" stop="20211011094500 +0000">
     <title>UEFA Nations League (G)</title>
-    <desc>Final. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Spain vs France. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211011094500 +0000" stop="20211011101500 +0000">
@@ -4358,12 +4403,12 @@
     <desc>LIVE - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Waterloo.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211010203000 +0000" stop="20211011000000 +0000">
+  <programme channel="87" start="20211010203000 +0000" stop="20211010234500 +0000">
     <title>Chicago Marathon 2021 (G)</title>
     <desc>The 2021 Chicago Marathon will feature two-time Olympic medallist Galen Rupp and America’s second fastest female marathon runner ever, Sara Hall. International elites include Getaneh Molla (ETH), Seifu Tura (ETH), and Ruth Chepngetich (KEN).</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211011000000 +0000" stop="20211011003000 +0000">
+  <programme channel="87" start="20211010234500 +0000" stop="20211011003000 +0000">
     <title>Tour of Britain S6 (G)</title>
     <desc>Tour of Britain 2021. Tune in for Women's Stage 6 held in Britain.</desc>
     <category>Cycling</category>
@@ -4389,8 +4434,8 @@
     <category>Soccer</category>
   </programme>
   <programme channel="87" start="20211011083000 +0000" stop="20211011103000 +0000">
-    <title>LIVE: UEFA WCQ (G)</title>
-    <desc>Cyprus v Malta. The European section qualification for the 2022 FIFA World Cup in Qatar.</desc>
+    <title>Curaçao v All Whites (G)</title>
+    <desc>Intl Football Friendly: Curaçao v All Whites from the Al Muharraq Stadium in Bahrain. The national team return to action against a Curaçao side that is coached by Dutch legend Patrick Kluivert and features former Phoenix player Roly Bonevacia.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="87" start="20211011103000 +0000" stop="20211011110000 +0000">
@@ -4441,24 +4486,9 @@
     <desc>Highlights of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 1.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="88" start="20211010180000 +0000" stop="20211010183000 +0000">
-    <title>ATP Uncovered (G)</title>
-    <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20211010183000 +0000" stop="20211010190000 +0000">
-    <title>Silver Ferns v Aotearoa Men R1 Hls (G)</title>
-    <desc>Highlights of Cadbury Netball Series 2021, Silver Ferns v Aotearoa Men, Round 1 from TSB Arena, Wellington.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211010190000 +0000" stop="20211010200000 +0000">
-    <title>Mainfreight Rugby (G)</title>
-    <desc>Join us every week as we showcase the best of grassroots footy from the Heartland Championship.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="88" start="20211010200000 +0000" stop="20211010210000 +0000">
-    <title>LIVE: Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+  <programme channel="88" start="20211010180000 +0000" stop="20211010210000 +0000">
+    <title>LIVE: Snooker: Northern Ireland Open (G)</title>
+    <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 2, evening session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211010210000 +0000" stop="20211010223000 +0000">
@@ -4477,8 +4507,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="88" start="20211011010000 +0000" stop="20211011020000 +0000">
-    <title>Bwf Thomas &amp; Uber Cup Hl's: Day 1 (G)</title>
-    <desc>Highlights of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 1.</desc>
+    <title>LIVE: Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211011020000 +0000" stop="20211011023000 +0000">
@@ -4545,8 +4575,8 @@
     <display-name>espn</display-name>
   </channel>
   <programme channel="81" start="20211010110000 +0000" stop="20211010123000 +0000">
-    <title>UFC Fight Night (M)</title>
-    <desc>Mackenzie Dern vs. Marina Rodriguez (Main Card).</desc>
+    <title>UFC Fight Night: Dern v Rodriguez (M)</title>
+    <desc>Main Card.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211010123000 +0000" stop="20211010130000 +0000">
@@ -4554,19 +4584,24 @@
     <desc>Matt Bowen, Sal Paolantonio and Greg Cosell bring viewers inside the film room for the X's and O's analysis of the weekend's NFL matchups.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211010130000 +0000" stop="20211010140000 +0000">
+  <programme channel="81" start="20211010130000 +0000" stop="20211010133000 +0000">
     <title>Live: SportsCenter (G)</title>
     <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20211010140000 +0000" stop="20211010170000 +0000">
-    <title>Live: NFL Countdown (G)</title>
-    <desc>Samantha Ponder introduces the features and directs the storylines associated with the day's games, joined by a roster of analysts including Tedy Bruschi, Randy Moss, Matt Hasselbeck, Rex Ryan, and...</desc>
+  <programme channel="81" start="20211010133000 +0000" stop="20211010163000 +0000">
+    <title>Live: NFL (G)</title>
+    <desc>Jets vs. Falcons.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211010163000 +0000" stop="20211010170000 +0000">
+    <title>NFL Films (G)</title>
+    <desc>Presents: So Sweet. NFL Films showcases behind the scenes access to NFL players and coaches of the current season. Each program follows a different theme taking the fan deeper into the NFL realm.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211010170000 +0000" stop="20211010200000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Live: NFL</desc>
+    <desc>Dolphins v Buccaneers.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211010200000 +0000" stop="20211010202500 +0000">
@@ -4576,7 +4611,7 @@
   </programme>
   <programme channel="81" start="20211010202500 +0000" stop="20211010233000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Live: NFL</desc>
+    <desc>Giants v Cowboys.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211010233000 +0000" stop="20211011001500 +0000">
@@ -4599,14 +4634,14 @@
     <desc>Tenerife Blue Trail 2021</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20211011043000 +0000" stop="20211011050000 +0000">
-    <title>CGI UK Challenge 2021 (G)</title>
-    <desc>CGI UK Challenge 2021</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="81" start="20211011050000 +0000" stop="20211011073000 +0000">
+  <programme channel="81" start="20211011043000 +0000" stop="20211011070000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Dolphins v Buccaneers.</desc>
+    <category>US Sports</category>
+  </programme>
+  <programme channel="81" start="20211011070000 +0000" stop="20211011073000 +0000">
+    <title>NFL Mini (G)</title>
+    <desc>NFL Mini</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211011073000 +0000" stop="20211011080000 +0000">
@@ -4616,17 +4651,17 @@
   </programme>
   <programme channel="81" start="20211011080000 +0000" stop="20211011083000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>NFL Mini</desc>
+    <desc>Chiefs v Bills.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211011083000 +0000" stop="20211011090000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Chiefs v Bills.</desc>
+    <desc>Panthers v Eagles.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211011090000 +0000" stop="20211011110000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Giants v Cowboys.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -4634,32 +4669,27 @@
   </channel>
   <programme channel="82" start="20211010110000 +0000" stop="20211010120000 +0000">
     <title>College Football (G)</title>
-    <desc>#14 Michigan vs. Nebraska</desc>
+    <desc>#9 Michigan vs. Nebraska.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010120000 +0000" stop="20211010140000 +0000">
     <title>College Football (G)</title>
-    <desc>ESPN College Football Presented by Marathon (gridiron)</desc>
+    <desc>#15 Texas v #13 Arkansas.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211010140000 +0000" stop="20211010150000 +0000">
-    <title>College Football Scoreboard (G)</title>
-    <desc>After the final whistle, College Football Final takes a look at the night's games through highlights and looks at the major storylines headed into next week's slate.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211010150000 +0000" stop="20211010170000 +0000">
-    <title>Live: Fantasy Football Now (G)</title>
-    <desc>Host Will Cain and analysts Matthew Berry, Field Yates and licensed physical therapist Stephania Bell provide the latest info on fantasy gridiron news going into the day.</desc>
+  <programme channel="82" start="20211010140000 +0000" stop="20211010170000 +0000">
+    <title>Live: NFL Countdown (G)</title>
+    <desc>Samantha Ponder introduces the features associated with the day's games, joined by a roster of analysts including Tedy Bruschi, Randy Moss, Matt Hasselbeck, Rex Ryan, and Louis Riddick.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010170000 +0000" stop="20211010200000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Eagles v Panthers.</desc>
+    <desc>Panthers v Eagles.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010200000 +0000" stop="20211010230000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>2021 ALDS, Game 3.</desc>
+    <desc>Red Sox v Rays ALDS Game 3.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211010230000 +0000" stop="20211010233000 +0000">
@@ -4667,19 +4697,19 @@
     <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="82" start="20211010233000 +0000" stop="20211011023000 +0000">
-    <title>Live: MLB (G)</title>
-    <desc>2021 ALDS, Game 3.</desc>
-    <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211011023000 +0000" stop="20211011030000 +0000">
-    <title>In Depth With (G)</title>
-    <desc>Best of GB: Host Graham Bensinger and the In Depth crew look back at the best moments from the show.</desc>
+  <programme channel="82" start="20211010233000 +0000" stop="20211011000000 +0000">
+    <title>Live: SportsCenter (G)</title>
+    <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="82" start="20211011000000 +0000" stop="20211011030000 +0000">
+    <title>Live: MLB (G)</title>
+    <desc>White Sox v Astros ALDS Game 3.</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011030000 +0000" stop="20211011033000 +0000">
     <title>Championship Drive (G)</title>
-    <desc>Led by host Kevin Connors, college gridiron analysts and reporters meet to discuss and debate who the Top 4 teams are in the country.</desc>
+    <desc>Led by host Kevin Connors, college football analysts and reporters meet to discuss and debate who the Top 4 teams are in the country.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011033000 +0000" stop="20211011053000 +0000">
@@ -4689,12 +4719,12 @@
   </programme>
   <programme channel="82" start="20211011053000 +0000" stop="20211011074500 +0000">
     <title>NFL (G)</title>
-    <desc>Eagles v Panthers.</desc>
+    <desc>Panthers v Eagles.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011074500 +0000" stop="20211011093000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 3.</desc>
+    <desc>Red Sox v Rays ALDS Game 3.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011093000 +0000" stop="20211011100000 +0000">
@@ -4704,7 +4734,7 @@
   </programme>
   <programme channel="82" start="20211011100000 +0000" stop="20211011110000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 3.</desc>
+    <desc>White Sox v Astros ALDS Game 3.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -5423,7 +5453,7 @@
   </programme>
   <programme channel="85" start="20211011211500 +0000" stop="20211011230000 +0000">
     <title>UEFA Nations League (G)</title>
-    <desc>Final. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Spain vs France. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211011230000 +0000" stop="20211011233000 +0000">
@@ -5458,7 +5488,7 @@
   </programme>
   <programme channel="85" start="20211012041500 +0000" stop="20211012060000 +0000">
     <title>UEFA Nations League (G)</title>
-    <desc>Final. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
+    <desc>Spain vs France. The second edition of UEFAs newest national-team competition. Portugal clinched the first title on home turf in 2019.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="85" start="20211012060000 +0000" stop="20211012063000 +0000">
@@ -5573,18 +5603,18 @@
     <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211012020000 +0000" stop="20211012031000 +0000">
-    <title>UCI Cyclo-Cross WC Wmn's Elite</title>
+    <title>UCI Cyclo-Cross WC Wmn's Elite (G)</title>
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Women's Elite held in Waterloo.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211012031000 +0000" stop="20211012050000 +0000">
-    <title>UCI Cyclo-Cross WC Men's Elite</title>
+    <title>UCI Cyclo-Cross WC Men's Elite (G)</title>
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Waterloo.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211012050000 +0000" stop="20211012070000 +0000">
-    <title>FIFA Wc 2022 Qualifers Replay: North Mac (G)</title>
-    <desc>No Description Available</desc>
+    <title>FIFA WC 2022 Qual: NED v GIB (G)</title>
+    <desc>FIFA World Cup 2022 Qualifying match between Netherlands and Gibraltar from the De Kuip Stadium.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="87" start="20211012070000 +0000" stop="20211012090000 +0000">
@@ -5745,7 +5775,7 @@
   </channel>
   <programme channel="81" start="20211011110000 +0000" stop="20211011113000 +0000">
     <title>NFL (G)</title>
-    <desc>NFL</desc>
+    <desc>Giants v Cowboys.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211011113000 +0000" stop="20211011140000 +0000">
@@ -5770,7 +5800,7 @@
   </programme>
   <programme channel="81" start="20211011153000 +0000" stop="20211011160000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>NFL Mini</desc>
+    <desc>Panthers v Eagles.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211011160000 +0000" stop="20211011170000 +0000">
@@ -5853,13 +5883,13 @@
   </channel>
   <programme channel="82" start="20211011110000 +0000" stop="20211011120000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALDS, Game 3.</desc>
+    <desc>White Sox v Astros ALDS Game 3.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011120000 +0000" stop="20211011140000 +0000">
-    <title>Live: Get Up (G)</title>
-    <desc>Host Mike Greenberg is joined by ESPN analysts to analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.</desc>
-    <category>Sports</category>
+    <title>NBA Preseason (G)</title>
+    <desc>Suns vs. Lakers.</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211011140000 +0000" stop="20211011160000 +0000">
     <title>Live: First Take (G)</title>
@@ -6590,12 +6620,12 @@
     <desc>Bahrain v All Whites. A series of friendly matches in preparation for the World Cup 2022.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211012180000 +0000" stop="20211012182500 +0000">
+  <programme channel="85" start="20211012180000 +0000" stop="20211012181500 +0000">
     <title>LIVE: All Whites Post Match (G)</title>
     <desc>Bahrain v All Whites. Join us as we review all the actions and highlights from the match.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="85" start="20211012182500 +0000" stop="20211012183500 +0000">
+  <programme channel="85" start="20211012181500 +0000" stop="20211012183500 +0000">
     <title>LIVE: UEFA WCQ Pre Show (G)</title>
     <desc>England v Hungary. Join us as we look ahead to UEFA European Qualifier for the 2022 World Cup, only on beIN Sports.</desc>
     <category>Soccer</category>
@@ -6746,45 +6776,40 @@
     <desc>Highlights of Cadbury Netball Series 2021, Silver Ferns v Aotearoa Men, Round 3 from TSB Arena, Wellington.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211012233000 +0000" stop="20211013013000 +0000">
+  <programme channel="87" start="20211012233000 +0000" stop="20211013023500 +0000">
     <title>Boston Marathon 2021 (G)</title>
     <desc>The Marathon is New England's most widely viewed sporting event, and has been taking place in Boston for over 100 years. Runners particularly dread "Heartbreak Hill" located between Mile 20 and 21 in Newton.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211013013000 +0000" stop="20211013020000 +0000">
+  <programme channel="87" start="20211013023500 +0000" stop="20211013030000 +0000">
+    <title>Gearing Up (G)</title>
+    <desc>Our journey starts in Spain! For the eighth consecutive year in the province of Teruel, the Baja Espana Aragon Trofeo AVATEL explores the roads of the Jiloca region and the Community of Teruel.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="87" start="20211013030000 +0000" stop="20211013033000 +0000">
     <title>OTSO Trail Menorca Cami De Cavalls (G)</title>
     <desc>The Menorca Camí de Cavalls Trail is an event that brings together the 2 sides being both a tourist and a sporting event. On the one hand, it is a “non-stop” competition, and on the other hand it has its playful part, as well as being a personal challenge</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211013020000 +0000" stop="20211013040000 +0000">
+  <programme channel="87" start="20211013033000 +0000" stop="20211013053000 +0000">
     <title>LIVE: FIFA WC 2022 Qual: POR v LUX (G)</title>
     <desc>FIFA World Cup 2022 Qualifying match between Portugal and Luxembourg from the Estadio Algarve.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="87" start="20211013040000 +0000" stop="20211013060000 +0000">
+  <programme channel="87" start="20211013053000 +0000" stop="20211013073000 +0000">
     <title>FIFA WC 2022 Qual: BUL v NIR (G)</title>
     <desc>FIFA World Cup 2022 Qualifying match between Bulgaria and Northern Ireland from the Vasil Levsk Stadium.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="87" start="20211013060000 +0000" stop="20211013080000 +0000">
-    <title>FIFA WC 2022 Qual: FRO v SCO (G)</title>
+  <programme channel="87" start="20211013073000 +0000" stop="20211013093000 +0000">
+    <title>FIFA WC 2022 Qual: FRO v SCO</title>
     <desc>LIVE: FIFA World Cup 2022 Qualifying match between Faroe Islands and Scotland from the Torsvollurr Stadium.</desc>
     <category>Soccer</category>
   </programme>
-  <programme channel="87" start="20211013080000 +0000" stop="20211013100000 +0000">
-    <title>FIFA Wc 2022 Qualifers Replay: England V (G)</title>
-    <desc>No Description Available</desc>
+  <programme channel="87" start="20211013093000 +0000" stop="20211013110000 +0000">
+    <title>FIFA WC 2022 Qual: ENG v HUN (G)</title>
+    <desc>FIFA World Cup 2022 Qualifying match between England and Hungary from Wembley Stadium.</desc>
     <category>Soccer</category>
-  </programme>
-  <programme channel="87" start="20211013100000 +0000" stop="20211013103000 +0000">
-    <title>OTSO Trail Menorca Cami De Cavalls (G)</title>
-    <desc>The Menorca Camí de Cavalls Trail is an event that brings together the 2 sides being both a tourist and a sporting event. On the one hand, it is a “non-stop” competition, and on the other hand it has its playful part, as well as being a personal challenge</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20211013103000 +0000" stop="20211013110000 +0000">
-    <title>Gran Piemonte Hls (G)</title>
-    <desc>Cycling: Gran Piemonte. Gran Piemonte with a route suitable for sprinters that starts from Rocca Canavese to reach Borgosesoa after 168 kilometres of racing.</desc>
-    <category>Cycling</category>
   </programme>
   <channel id="88">
     <display-name>sky-sport-news</display-name>
@@ -7096,13 +7121,13 @@
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211012233000 +0000" stop="20211013021500 +0000">
-    <title>Live: ESPN Hockey Night (G)</title>
-    <desc>Pittsburgh Penguins vs. Tampa Bay Lightning.</desc>
+    <title>Live: NHL (G)</title>
+    <desc>Penguins v Lightning.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211013021500 +0000" stop="20211013044500 +0000">
-    <title>Live: ESPN Hockey Night (G)</title>
-    <desc>Seattle Kraken vs. Vegas Golden Knights.</desc>
+    <title>Live: NHL (G)</title>
+    <desc>Kraken v Golden Knights.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211013044500 +0000" stop="20211013060000 +0000">
@@ -7121,8 +7146,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20211013073000 +0000" stop="20211013093000 +0000">
-    <title>ESPN Hockey Night (G)</title>
-    <desc>Pittsburgh Penguins vs. Tampa Bay Lightning.</desc>
+    <title>NHL (G)</title>
+    <desc>Penguins v Lightning.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211013093000 +0000" stop="20211013100000 +0000">
@@ -7131,8 +7156,8 @@
     <category>Soccer</category>
   </programme>
   <programme channel="82" start="20211013100000 +0000" stop="20211013110000 +0000">
-    <title>ESPN Hockey Night (G)</title>
-    <desc>Seattle Kraken vs. Vegas Golden Knights.</desc>
+    <title>NHL (G)</title>
+    <desc>Kraken v Golden Knights.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -7791,9 +7816,9 @@
     <display-name>sky-sport-9</display-name>
   </channel>
   <programme channel="87" start="20211013110000 +0000" stop="20211013113000 +0000">
-    <title>Gearing Up (G)</title>
-    <desc>Our journey starts in Spain! For the eighth consecutive year in the province of Teruel, the Baja Espana Aragon Trofeo AVATEL explores the roads of the Jiloca region and the Community of Teruel.</desc>
-    <category>Motorsport</category>
+    <title>FIFA WC 2022 Qual: ENG v HUN (G)</title>
+    <desc>FIFA World Cup 2022 Qualifying match between England and Hungary from Wembley Stadium.</desc>
+    <category>Soccer</category>
   </programme>
   <programme channel="87" start="20211013113000 +0000" stop="20211013123000 +0000">
     <title>The Breakdown (G)</title>
@@ -7816,9 +7841,9 @@
     <category>Motorsport</category>
   </programme>
   <programme channel="87" start="20211013172000 +0000" stop="20211013183000 +0000">
-    <title>LIVE: UCI Cyclo-Cross WC Wmn's Elite</title>
+    <title>LIVE: UCI Cyclo-Cross WC Wmn's Elite (G)</title>
     <desc>LIVE - UCI Cyclo-Cross World Cup 2021. Tune in for Women's Elite held in Fayetteville.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211013183000 +0000" stop="20211013185000 +0000">
     <title>Pure As: Monica Falkner (G)</title>
@@ -7826,9 +7851,9 @@
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20211013185000 +0000" stop="20211013203000 +0000">
-    <title>LIVE: UCI Cyclo-Cross WC Men's Elite</title>
+    <title>LIVE: UCI Cyclo-Cross WC Men's Elite (G)</title>
     <desc>LIVE - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Fayetteville.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211013203000 +0000" stop="20211013223000 +0000">
     <title>French Top 14: BOR v MON (G)</title>
@@ -7856,18 +7881,18 @@
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20211014060000 +0000" stop="20211014071000 +0000">
-    <title>UCI Cyclo-Cross WC Wmn's Elite</title>
+    <title>UCI Cyclo-Cross WC Wmn's Elite (G)</title>
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Women's Elite held in Fayetteville.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211014071000 +0000" stop="20211014090000 +0000">
-    <title>UCI Cyclo-Cross WC Men's Elite</title>
+    <title>UCI Cyclo-Cross WC Men's Elite (G)</title>
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Fayetteville.</desc>
-    <category>sport</category>
+    <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211014090000 +0000" stop="20211014110000 +0000">
-    <title>LIVE: UEFA WCQ (G)</title>
-    <desc>Cyprus v Malta. The European section qualification for the 2022 FIFA World Cup in Qatar.</desc>
+    <title>Bahrain v All Whites (G)</title>
+    <desc>Intl Football Friendly: Bahrain v All Whites from the Al Muharraq Stadium in Bahrain.</desc>
     <category>Soccer</category>
   </programme>
   <channel id="88">
@@ -8132,9 +8157,9 @@
     <category>Sports</category>
   </programme>
   <programme channel="81" start="20211014063000 +0000" stop="20211014083000 +0000">
-    <title>FIFA World Cup Qualifier (G)</title>
-    <desc>United States vs. Costa Rica (FIFA World Cup Qualifier).</desc>
-    <category>Soccer</category>
+    <title>WNBA Finals (G)</title>
+    <desc>Game 2.</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211014083000 +0000" stop="20211014103000 +0000">
     <title>NBA Preseason (G)</title>
@@ -8142,16 +8167,16 @@
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211014103000 +0000" stop="20211014110000 +0000">
-    <title>WNBA Finals (G)</title>
-    <desc>Game 2.</desc>
-    <category>US Sports</category>
+    <title>USA Soccer (G)</title>
+    <desc>United States vs. Costa Rica (FIFA World Cup Qualifier).</desc>
+    <category>Soccer</category>
   </programme>
   <channel id="82">
     <display-name>espn2</display-name>
   </channel>
   <programme channel="82" start="20211013110000 +0000" stop="20211013120000 +0000">
-    <title>ESPN Hockey Night (G)</title>
-    <desc>Seattle Kraken vs. Vegas Golden Knights.</desc>
+    <title>NHL (G)</title>
+    <desc>Kraken v Golden Knights.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211013120000 +0000" stop="20211013140000 +0000">
@@ -8195,9 +8220,9 @@
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211014030000 +0000" stop="20211014050000 +0000">
-    <title>FIFA World Cup Qualifier (G)</title>
+    <title>USA Soccer (G)</title>
     <desc>United States vs. Costa Rica (FIFA World Cup Qualifier).</desc>
-    <category>Sports</category>
+    <category>Soccer</category>
   </programme>
   <programme channel="82" start="20211014050000 +0000" stop="20211014060000 +0000">
     <title>Live: SportsCenter (G)</title>

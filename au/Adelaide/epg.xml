@@ -388,15 +388,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
-    <title>The World This Week</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
-    <title>Matildas - Moment of Truth</title>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
+    <title>The World This Week</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -770,14 +770,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
-    <subtitles type="teletext"/>
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>Matildas - Moment of Truth</title>
+    <title>The Bright Side</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -43229,31 +43229,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211008165243 +0000" stop="20211008174027 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008174027 +0000" stop="20211008174828 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008174828 +0000" stop="20211008183311 +0000">
-    <title>Red Bull Signature Series S2020E9</title>
-    <desc>The world’s best freeriders descend on Tyler Bereman’s unique course to showcase their slopestyle creativity.</desc>
-    <sub-title>Red Bull Imagination</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008183311 +0000" stop="20211008184119 +0000">
-    <title>Dual Focus S1E2</title>
-    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
-    <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008184119 +0000" stop="20211008184634 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211008184634 +0000" stop="20211008185224 +0000">
     <title>Dual Focus S1E4</title>
     <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
@@ -43469,6 +43444,16 @@
     <title>Driving DTM S1E7</title>
     <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
     <sub-title>Hockenheim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009181134 +0000" stop="20211009191944 +0000">
+    <title>Red Bull Signature Series S2020E1</title>
+    <desc>Held on the North Shore of Oahu, Volcom Pipe Pro brings together 144 of the world’s best surfers.</desc>
+    <sub-title>Volcom Pipe Pro</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009191944 +0000" stop="20211009200648 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

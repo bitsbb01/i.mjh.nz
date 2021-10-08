@@ -995,14 +995,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
-    <subtitles type="teletext"/>
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>Matildas - Moment of Truth</title>
+    <title>The Bright Side</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44870,6 +44870,20 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211008014256 +0000" stop="20211008043435 +0000">
+    <title>Red Bull Flugtag</title>
+    <desc>Watch as homemade flight creations, powered solely by humans, are launched off a six-metre ramp in Vienna.</desc>
+    <sub-title>Vienna - English stream</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008043435 +0000" stop="20211008052657 +0000">
+    <title>Red Bull Cliff Diving World Series 2021</title>
+    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
+    <sub-title>Mostar recap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211008052657 +0000" stop="20211008053705 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211008060039 +0000" stop="20211008061513 +0000">
     <title>Behind the Bullet S1E1</title>
     <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
@@ -45098,11 +45112,6 @@
     <title>Red Bull Flugtag</title>
     <desc>Watch as homemade flight creations, powered solely by humans, are launched off a six-metre ramp in Vienna.</desc>
     <sub-title>Vienna - English stream</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211009055827 +0000" stop="20211009074228 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

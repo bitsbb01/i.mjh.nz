@@ -363,15 +363,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
-    <title>Matildas - Moment of Truth</title>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
+    <title>The World This Week</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009050000 +0000">
-    <title>The World This Week</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211009043000 +0000" stop="20211009044500 +0000">
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -25542,17 +25542,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
-    <title>Three Veg and Meat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
     <title>Farm to Fork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
+    <title>Three Veg and Meat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211010030000 +0000" stop="20211010033000 +0000">
@@ -44882,9 +44882,9 @@
     <sub-title>Now or never</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211009143241 +0000" stop="20211009154344 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211009154344 +0000" stop="20211009155134 +0000">
     <title>Enjoy the Ride S1E1</title>
@@ -44947,6 +44947,16 @@
     <title>Cycling Around the World S1E5</title>
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
     <sub-title>Remy Morton: Seven Days and $7K</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009204902 +0000" stop="20211009213831 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009213831 +0000" stop="20211009222834 +0000">
+    <title>Red Bull Signature Series S2015E13</title>
+    <desc>The world's best big mountain riders meet outside Zion National Park for the 10th edition of Red Bull Rampage.</desc>
+    <sub-title>Red Bull Rampage</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

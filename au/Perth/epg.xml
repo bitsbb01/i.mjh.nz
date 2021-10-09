@@ -727,14 +727,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>The Bright Side</title>
-    <subtitles type="teletext"/>
+    <title>Matildas - Moment of Truth</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211010084300 +0000" stop="20211010090000 +0000">
-    <title>Matildas - Moment of Truth</title>
+    <title>The Bright Side</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -17847,15 +17847,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211012143900 +0000" stop="20211012153400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305060562" start="20211012143900 +0000" stop="20211012163700 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211012143900 +0000" stop="20211012163700 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305060562" start="20211012143900 +0000" stop="20211012153400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -24330,17 +24330,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20211010050000 +0000" stop="20211010053000 +0000">
-    <title>Three Veg and Meat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406070685" start="20211010050000 +0000" stop="20211010053000 +0000">
     <title>Farm to Fork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20211010050000 +0000" stop="20211010053000 +0000">
+    <title>Three Veg and Meat</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20211010053000 +0000" stop="20211010060000 +0000">
@@ -44965,6 +44965,26 @@
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
     <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010051603 +0000" stop="20211010052712 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010052712 +0000" stop="20211010053526 +0000">
+    <title>Behind the Bullet S1E5</title>
+    <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
+    <sub-title>Racing with an injury in Belgium</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010053526 +0000" stop="20211010054613 +0000">
+    <title>Behind the Bullet S1E6</title>
+    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
+    <sub-title>Beyond expectations in Latvia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010054613 +0000" stop="20211010055003 +0000">
+    <title>Freerunning Around the World – extra</title>
+    <desc>Can Russian freerunner Archie Aroyan make it to his work station before his boss notices that he’s missing?</desc>
+    <sub-title>Employee of the Month</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

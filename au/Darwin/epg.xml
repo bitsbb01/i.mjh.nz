@@ -19015,15 +19015,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012130400 +0000">
-    <title>Without a Trace</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012140700 +0000">
+    <title>Lewis</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012140700 +0000">
-    <title>Lewis</title>
+  <programme channel="tv.101305050552" start="20211012120900 +0000" stop="20211012130400 +0000">
+    <title>Without a Trace</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -25542,17 +25542,17 @@
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
-    <title>Farm to Fork</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
     <title>Three Veg and Meat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050655" start="20211010023000 +0000" stop="20211010030000 +0000">
+    <title>Farm to Fork</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211010030000 +0000" stop="20211010033000 +0000">
@@ -44717,36 +44717,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211008220204 +0000" stop="20211008225554 +0000">
-    <title>Toby Price: Ridin’ Shotgun</title>
-    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <sub-title>Finke Desert Race 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008225554 +0000" stop="20211008231138 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
-    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
-    <sub-title>The path to Portugal</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008231138 +0000" stop="20211008232147 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
-    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
-    <sub-title>Motorbikes and bicycles</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008232147 +0000" stop="20211008233811 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
-    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
-    <sub-title>Taking on a brand new race</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211008233811 +0000" stop="20211009000022 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
-    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
-    <sub-title>Ripping it up in Romania</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211009000022 +0000" stop="20211009002356 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
-    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
-    <sub-title>Tackling Red Bull TKO</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211009002356 +0000" stop="20211009005043 +0000">
     <title>ABC of... S1E7</title>
     <desc>Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport.</desc>
@@ -44952,6 +44922,41 @@
     <title>Against the Odds</title>
     <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
     <sub-title>The story of a new team coming together</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009234841 +0000" stop="20211009235143 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
+    <sub-title>Preparing the mind and body</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211009235143 +0000" stop="20211010000145 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
+    <sub-title>Behind the scenes with Dario Costa</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010000145 +0000" stop="20211010002449 +0000">
+    <title>Reel Rock S6E1</title>
+    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
+    <sub-title>The high road part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010002449 +0000" stop="20211010004350 +0000">
+    <title>Reel Rock S6E2</title>
+    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
+    <sub-title>The high road part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010004350 +0000" stop="20211010010649 +0000">
+    <title>Reel Rock S6E3</title>
+    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
+    <sub-title>United States of Joe's</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010010649 +0000" stop="20211010012653 +0000">
+    <title>Reel Rock S6E4</title>
+    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
+    <sub-title>The Nose speed record part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211010012653 +0000" stop="20211010015125 +0000">
+    <title>Reel Rock S6E5</title>
+    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
+    <sub-title>The Nose speed record part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

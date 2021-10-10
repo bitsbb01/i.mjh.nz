@@ -19656,17 +19656,17 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
+    <title>Family Guy</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011115100 +0000">
     <title>We're the Millers</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20211011093000 +0000" stop="20211011100000 +0000">
-    <title>Family Guy</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20211011100000 +0000" stop="20211011103000 +0000">
@@ -43753,11 +43753,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211010200735 +0000" stop="20211010201536 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211010201536 +0000" stop="20211010213543 +0000">
     <title>Against the Odds</title>
     <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
@@ -44031,6 +44026,36 @@
     <title>Red Bull Signature Series S2017E7</title>
     <desc>Red Bull Rampage is known around the world as the proving ground for the best riders on two wheels.</desc>
     <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011211026 +0000" stop="20211011212135 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011212135 +0000" stop="20211011213029 +0000">
+    <title>Behind the Bullet S1E5</title>
+    <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
+    <sub-title>Racing with an injury in Belgium</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011213029 +0000" stop="20211011214116 +0000">
+    <title>Behind the Bullet S1E6</title>
+    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
+    <sub-title>Beyond expectations in Latvia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011214116 +0000" stop="20211011214506 +0000">
+    <title>Freerunning Around the World – extra</title>
+    <desc>Can Russian freerunner Archie Aroyan make it to his work station before his boss notices that he’s missing?</desc>
+    <sub-title>Employee of the Month</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011214506 +0000" stop="20211011215432 +0000">
+    <title>Freerunning Around the World – behind the scenes</title>
+    <desc>Here’s what went down on the set of freerunner Archie Aroyan's film at the KAMAZ-master factory in Russia.</desc>
+    <sub-title>The making of Employee of the Month</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011215432 +0000" stop="20211011223836 +0000">
+    <title>Red Bull Signature Series S2018E3</title>
+    <desc>This slopestyle course in the hills of Olympiapark in Munich, Germany features 12 unique skateboard obstacles.</desc>
+    <sub-title>Red Bull Roller Coaster</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -37,11 +37,6 @@
     <display-name>Euronews in diretta</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png"/>
   </channel>
-  <programme channel="ITAJ4500023ZX" start="20211011212900 +0000" stop="20211011214200 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Le ultime notizie con analisi e interviste dallo News Centre d'Europa.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/35/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044804_20211011183517771.jpg"/>
-  </programme>
   <programme channel="ITAJ4500023ZX" start="20211011214200 +0000" stop="20211011220000 +0000">
     <title>Euronews Tonight</title>
     <desc>Le ultime notizie con analisi e interviste dallo News Centre d'Europa.</desc>
@@ -206,6 +201,11 @@
     <title>Good Morning Europe</title>
     <desc>Il programma mattutino di Euronews con le ultime notizie e le analisi e i reportage sui social media sulle storie più importanti che riguardano l'Europa e il mondo.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/66/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044837_20211011183154633.jpg"/>
+  </programme>
+  <programme channel="ITAJ4500023ZX" start="20211012054300 +0000" stop="20211012060000 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Il programma mattutino di Euronews con le ultime notizie e le analisi e i reportage sui social media sulle storie più importanti che riguardano l'Europa e il mondo.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/40/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044838_20211011183422453.jpg"/>
   </programme>
   <channel id="ITBA33000432S">
     <display-name>Euronews</display-name>
@@ -1136,6 +1136,11 @@ The best of the worst for June 2020.</desc>
     <desc>Questa è la storia di una persona normale che fa cose straordinarie. Un uomo che ottiene le sue vittorie facendo attenzione ai piccoli dettagli, perché dopo tutto, questi sono ciò che lo rendono un calciatore diverso dagli altri. Tutti conosciamo Iniesta, il mago del pallone, che ha conquistato due triplete con il Barcellona e ha sollevato la Coppa del Mondo con la nazionale spagnola. Tutti conosciamo questi bellissimi momenti di sport. Ma chi c'è dietro questa superstar mondiale dello sport?</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/78/IT_VC_CTI_USQU352137A_IT-446-ITAJ4500021M7-13422747_20211011183224493.jpg"/>
   </programme>
+  <programme channel="ITAJ4500021M7" start="20211012054002 +0000" stop="20211012065607 +0000">
+    <title>Eighteam</title>
+    <desc>Il Chipolopolo è la nazionale dello Zambia quando alle Olimpiadi del 1988 batte l'Italia per 4-0 e mette gli occhi sulla Coppa d'Africa delle Nazioni. Ma nel 1993 un aereo dello Zambia affonda nell'oceano, in Gabon. Tutti i passeggeri, compresi i 18 giocatori, muoiono nell'incidente. Il capitano del Chipolopolo, Kalusha Bwalya, che non si trova a bordo dello sfortunato volo, concentra tutti i suoi sforzi per costruire un nuovo team, diventando in seguito allenatore della nazionale e presidente dell'Associazione Calcio dello Zambia. Un percorso di ricostruzione durato 18 anni, fino a quando il destino non fa la sua mossa: dopo be 18 rigori, in Gabon, lo Zambia diventa Campione d'Africa.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/25/IT_VC_CTI_USQU352137A_IT-446-ITAJ4500021M7-13422755_20211011183449665.jpg"/>
+  </programme>
   <channel id="ITAJ4500022GD">
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/14/ITAJ4500022GD_20201208T050614.png"/>
@@ -1283,11 +1288,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Canale Europa</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/ITBA1400003WT_20210714T000859.png"/>
   </channel>
-  <programme channel="ITBA1400003WT" start="20211011213257 +0000" stop="20211011214147 +0000">
-    <title>Car Influencer per un Giorno Suzuki Across, con Elena Giaveri e Matteo Ferrari</title>
-    <desc>La terza puntata di Car Influencer per un Giorno vede come protagonista la nuova Suzuki Across, un SUV ibrido plug-in pensato per funzionare principalmente in modalità elettrica. Grazie all’utilizzo di tre motori e una batteria da 18,1 Kw/h riesce a percorrere in città fino a 98 Km con zero emissioni e ha una potenza combinata di 306 CV. Il fortunato tester al fianco di Elena Giaveri è Matteo Ferrari, 36enne della Franciacorta che si occupa di sicurezza sul lavoro e ovviamente grande appassionato di motori.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/23/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-12884509_20211011183446799.jpg"/>
-  </programme>
   <programme channel="ITBA1400003WT" start="20211011214147 +0000" stop="20211011215735 +0000">
     <title>Km Italia 14 - Cavolo nero</title>
     <desc>Km italia con lo chef Giorgione andiamo a scoprire le eccellenze agroalimentari italiane e il loro rapporto con il territorio</desc>
@@ -1392,11 +1392,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Televisa Telenovelas</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ITBA14000026G_20210609T004928.png"/>
   </channel>
-  <programme channel="ITBA14000026G" start="20211011204018 +0000" stop="20211011214330 +0000">
-    <title>Amore Mortale:In un corpo che non è il mio</title>
-    <desc>León capisce di trovarsi nel corpo del Chino, e si trova quindi costretto a fuggire dagli uomini dell'Alacrán nel pieno di un uragano. Beltrán muore in un terribile incidente automobilistico e pochi minuti dopo la Morte mette il Chino nel suo corpo.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/62/IT_VC_CTI_USQU352137A_IT-819-ITBA14000026G-10515959_20211011183254699.jpg"/>
-  </programme>
   <programme channel="ITBA14000026G" start="20211011214330 +0000" stop="20211011223253 +0000">
     <title>Vedove Nere:Tatuaggi</title>
     <desc>Irene viene ingannata da Borgetti, che in cambio del video che la incolpa le chiede tutte le sue azioni e le sue dimissioni irrevocabili. Ma senza pensarci Irene si vendica indagando su Rita e sull'identità di suo figlio.</desc>
@@ -1546,10 +1541,15 @@ The best of the worst for June 2020.</desc>
     <desc>Guida alla scoperta di luoghi da non perdere, ideali per passare un Weekend Puntata 37</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/75/IT_VC_CTI_USQU352137A_IT-896-ITBB20000035L-13712679_20211011183257579.jpg"/>
   </programme>
-  <programme channel="ITBB20000035L" start="20211012051111 +0000" stop="20211012053832 +0000">
+  <programme channel="ITBB20000035L" start="20211012051111 +0000" stop="20211012053833 +0000">
     <title>La gola in viaggio EP2</title>
     <desc>Un viaggio alla scoperta della bellezza del territorio italiano e alla bontà dei suoi prodotti di eccellenza. Puntata 2</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/11/IT_VC_CTI_USQU352137A_IT-896-ITBB20000035L-13691500_20211011183224602.jpg"/>
+  </programme>
+  <programme channel="ITBB20000035L" start="20211012053833 +0000" stop="20211012055233 +0000">
+    <title>Il Bel Paese S2 EP6</title>
+    <desc>Una preziosa raccolta di destinazioni italiane, consuete e inconsuete, narrate con la tecnica aerea del drone. Puntata 6</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/51/IT_VC_CTI_USQU352137A_IT-896-ITBB20000035L-14207744_20211011183413953.jpg"/>
   </programme>
   <channel id="ITBA3300020W1">
     <display-name>MONDO TV KIDS</display-name>
@@ -1748,6 +1748,11 @@ The best of the worst for June 2020.</desc>
     <title>Amber l'Ambulanza</title>
     <desc>Amber the Ambulance è la dottoressa di Car City, ogni volta che un bulldozer, un trattore, un camion della spazzatura, un autobus o un qualsiasi camion da costruzione come un escavatore, il monster truck ha bisogno di essere guarito, va a vedere Amber.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/81/IT_VC_CTI_USQU352137A_IT-650-ITBA3300019FA-8506412_20211011183456187.jpg"/>
+  </programme>
+  <programme channel="ITBA3300019FA" start="20211012054310 +0000" stop="20211012061106 +0000">
+    <title>Amber l'Ambulanza</title>
+    <desc>Amber the Ambulance è la dottoressa di Car City, ogni volta che un bulldozer, un trattore, un camion della spazzatura, un autobus o un qualsiasi camion da costruzione come un escavatore, il monster truck ha bisogno di essere guarito, va a vedere Amber.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/68/IT_VC_CTI_USQU352137A_IT-650-ITBA3300019FA-8506417_20211011183431408.jpg"/>
   </programme>
   <channel id="ITAJ45000261B">
     <display-name>Planeta Junior</display-name>
@@ -2026,11 +2031,6 @@ The best of the worst for June 2020.</desc>
     <display-name>duckTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/ITBA1400006JR_20210113T004323.png"/>
   </channel>
-  <programme channel="ITBA1400006JR" start="20211011213143 +0000" stop="20211011214143 +0000">
-    <title>Imparare con ducktv</title>
-    <desc>Spettacoli ducktv con un forte aspetto educativo. Gli episodi di questa categoria insegnano i primi concetti, la musica e l'arte, stimolano l'immaginazione e la creatività e sviluppano le capacità cognitive.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/51/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448306_20211011183152590.jpg"/>
-  </programme>
   <programme channel="ITBA1400006JR" start="20211011214143 +0000" stop="20211011215144 +0000">
     <title>ducktv preferiti</title>
     <desc>Le mostre ducktv più popolari, che rappresentano diversi valori educativi. Solo per citarne alcuni, la serie Mimo &amp; Bobo sviluppa le abilità sociali, Squadra dei Pompieri promuove la risoluzione dei problemi, mentre Modellare promuove l'identificazione di forme e colori.</desc>
@@ -2266,20 +2266,20 @@ The best of the worst for June 2020.</desc>
     <desc>Speciali episodi stagionali delle diverse serie che promuovono le attività stagionali, rafforzano l'identificazione delle caratteristiche stagionali e insegnano i cicli della natura.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448309_20211011183516927.jpg"/>
   </programme>
-  <programme channel="ITBA1400006JR" start="20211012053026 +0000" stop="20211012054026 +0000">
+  <programme channel="ITBA1400006JR" start="20211012053026 +0000" stop="20211012054027 +0000">
     <title>ducktv preferiti</title>
     <desc>Le mostre ducktv più popolari, che rappresentano diversi valori educativi. Solo per citarne alcuni, la serie Mimo &amp; Bobo sviluppa le abilità sociali, Squadra dei Pompieri promuove la risoluzione dei problemi, mentre Modellare promuove l'identificazione di forme e colori.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/62/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448303_20211011183312364.jpg"/>
+  </programme>
+  <programme channel="ITBA1400006JR" start="20211012054027 +0000" stop="20211012055027 +0000">
+    <title>Imparare con ducktv</title>
+    <desc>Spettacoli ducktv con un forte aspetto educativo. Gli episodi di questa categoria insegnano i primi concetti, la musica e l'arte, stimolano l'immaginazione e la creatività e sviluppano le capacità cognitive.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/51/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448306_20211011183152590.jpg"/>
   </programme>
   <channel id="ITBA3300021QD">
     <display-name>Brindiamo!</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/ITBA3300021QD_20201118T003348.png"/>
   </channel>
-  <programme channel="ITBA3300021QD" start="20211011211113 +0000" stop="20211011214227 +0000">
-    <title>Brindiamo! "Trattoria l'Incontro" Ristorante</title>
-    <desc>Ornella Fado incontra chef Rocco Sacramone al ristorante Trattoria "l'Incontro", Chef Rocco, condivide alcune delle ricette più amate dai suoi clienti incluso una dolcissima pizza alla nutella. (2008)</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/36/IT_VC_CTI_USQU352137A_IT-640-ITBA3300021QD-3908465_20211011183318341.jpg"/>
-  </programme>
   <programme channel="ITBA3300021QD" start="20211011214227 +0000" stop="20211011221100 +0000">
     <title>Il Circolo Dei Buongustai 3 Con Fabio Campoli</title>
     <desc>Benvenuti a questo nuovo episodio del Circolo dei Buongustai! Cosa bolle in pentola? Oggi il nostro chef Fabio Campoli ci delizierà con tre ricette speciali: rotolo di riso, prosciutto e melone, risotto alla rucola con kiwi e vongole, e budino di riso. Buona visione a tutti!</desc>
@@ -2457,6 +2457,11 @@ The best of the worst for June 2020.</desc>
     <title>Donna Pratica EP42</title>
     <desc>Episodio 42 - Curiosità, consigli utili e affascinanti esperienze di vita. Un programma per le donne fatto dalle donne.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/54/IT_VC_CTI_USQU352137A_IT-895-ITBB2000004QF-14376010_20211011183220936.jpg"/>
+  </programme>
+  <programme channel="ITBB2000004QF" start="20211012054208 +0000" stop="20211012055711 +0000">
+    <title>Cuciniamo con el Beker - Donna Tv - EP18</title>
+    <desc>Cucina della tradizione Veneto- Friulana Puntata 18</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/59/IT_VC_CTI_USQU352137A_IT-895-ITBB2000004QF-14229585_20211011183207177.jpg"/>
   </programme>
   <channel id="ITBB2000002SV">
     <display-name>Alma TV Food</display-name>
@@ -2742,6 +2747,11 @@ The best of the worst for June 2020.</desc>
     <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on! </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/24/IT_VC_CTI_DEQY392104A_fdfa1c91-3fa8-4af0-9c17-557263618af4_20211011183221577.jpg"/>
   </programme>
+  <programme channel="ITBA1500001R6" start="20211012054000 +0000" stop="20211012081000 +0000">
+    <title>Underwater Lounge</title>
+    <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/51/IT_VC_CTI_DEQY392104A_6dd13ce3-3ea3-46a8-a921-b7b0f00e484e_20211011183421342.jpg"/>
+  </programme>
   <channel id="ITBA22000037I">
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ITBA22000037I_20210209T093440.png"/>
@@ -2962,16 +2972,6 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/ITBB1900001O3_20210714T000935.png"/>
   </channel>
-  <programme channel="ITBB1900001O3" start="20211011213000 +0000" stop="20211011214000 +0000">
-    <title>Clubbing News</title>
-    <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/29/IT_VC_CTI_USQT620324A_ITBB1900001O3_250e210dc861e4a9d4565c0a_20211011053019497.jpg"/>
-  </programme>
-  <programme channel="ITBB1900001O3" start="20211011214000 +0000" stop="20211011214500 +0000">
-    <title>Rendez-vous</title>
-    <desc>Interviews with the world's famous DJs and producers. Clubbing TV meets with talents of all genres: Big Room stars or underground heroes, legendary or upcoming artist, we got them all on Clubbing TV !</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/36/IT_VC_CTI_USQT620324A_ITBB1900001O3_31f3e9db5fd1d451fa82255d_20211011053054295.jpg"/>
-  </programme>
   <programme channel="ITBB1900001O3" start="20211011214500 +0000" stop="20211011220000 +0000">
     <title>The Big Bad Box</title>
     <desc>Our brand new studio show The Big Bad Box will kick off the season this month! One studio, one screen, one guest and 13 minutes to get to know better your favorite artists.</desc>
@@ -3333,11 +3333,6 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <display-name>Documentari - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/15/ITBA1400005XG_20210923T010540.png"/>
   </channel>
-  <programme channel="ITBA1400005XG" start="20211011204321 +0000" stop="20211011214333 +0000">
-    <title>Vacanze al Mare</title>
-    <desc>Quando abbiamo deciso che andare in spiaggia sarebbe diventata la nostra prima scelta per goderci il nostro tempo libero? Il regista Ermanno Cavazzoni pone domande e risponde in questo documentario pieno d’intelletto e umorismo. Le riflessioni del Cavazonni emergono dalle immagini colorate di una serie di film amatoriali su persone comuni che visitano il mare italiano, organizzate in base ai diversi argomenti trattati. L'indagine riflessiva sull'origine del prendere il sole o sul concetto dei giorni festivi e del nostro modo - a volte invasivo - di occupare le spiagge, tra le altre giustificazioni storiche, rivela il nostro passato animale più interiorizzato.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/80/IT_VC_CTI_USQU352137A_IT-722-ITBA1400005XG-11930158_20211011183150080.jpg"/>
-  </programme>
   <programme channel="ITBA1400005XG" start="20211011214333 +0000" stop="20211011224129 +0000">
     <title>Dracula l'eterno</title>
     <desc>I vampiri ci hanno sempre affascinato. Queste creature universali e senza tempo provocano attrazione e repulsione al contempo, risvegliando le nostre più grandi paure e i nostri desideri più inconfessabili.</desc>
@@ -3372,11 +3367,6 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <display-name>Family - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/ITBA14000043B_20210923T010805.png"/>
   </channel>
-  <programme channel="ITBA14000043B" start="20211011211845 +0000" stop="20211011214225 +0000">
-    <title>Van Dogh - Stagione 1 - Episodi 11-15</title>
-    <desc>Penguin Tennis | Cappelli a mano | Elefante sassofono | Aereo Clown | Cappello alieno Con gli zaini addosso, Won, Pan e Kit, cavalcano il loro triciclo attraverso percorsi a molla con un sorriso sui loro volti mentre sanno che troveranno Van Dogh sulla loro strada. Questo geniale pittore, come ogni giorno, ha messo il suo cavalletto tra i girasoli.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/76/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-13441612_20211011183225341.jpg"/>
-  </programme>
   <programme channel="ITBA14000043B" start="20211011214225 +0000" stop="20211011220557 +0000">
     <title>Zig &amp; Sharko - Stagione 2 - LOL Zig | Il cagnolino di papà | Toupet e baffi</title>
     <desc>Un inseguimento tra Zig e Sharko finisce con la iena ricoperta di pizza. Ah ah! Marina scatta una foto e la pubblica sui social network. Inaspettatamente, la foto fa di Zig la stella della spiaggia... LOL! | Marina vuole un cane e poi arriva Zig! La iena non fa storie: se questo gli permette di avvicinarsi alla sirena, non gli importa. Anche se significa giocare al cagnolino di papà con Sharko? | Zig indossa un paio di baffi finti per avvicinarsi a Marina. Naturalmente Sharko lo vuole smascherare, ma agli abitanti della spiaggia piace lo sconosciuto con i baffi! Sharko torna in spiaggia con una parrucca. Ora sono pari...</desc>
@@ -3472,10 +3462,15 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <desc>Dall'episodio 85 a 90 I Reds sono delle piccole creature che vivono in comunità su un albero d’un mondo fantastico, e amano riunirsi per disegnare. In ogni episodio, l’orco Boom cercherà d’indovinare cosa stanno disegnando i Reds.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/75/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-10472003_20211011183521202.jpg"/>
   </programme>
-  <programme channel="ITBA14000043B" start="20211012052146 +0000" stop="20211012054523 +0000">
+  <programme channel="ITBA14000043B" start="20211012052146 +0000" stop="20211012054524 +0000">
     <title>Van Dogh - Stagione 1 - Episodi 46-50</title>
     <desc>Nuvola di acque di rana | Mela con Gnomi | Pallacanestro coniglietto | Polpo in macchina | Piano albero Con gli zaini addosso, Won, Pan e Kit, cavalcano il loro triciclo attraverso percorsi a molla con un sorriso sui loro volti mentre sanno che troveranno Van Dogh sulla loro strada. Questo geniale pittore, come ogni giorno, ha messo il suo cavalletto tra i girasoli.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/57/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-13441768_20211011183252062.jpg"/>
+  </programme>
+  <programme channel="ITBA14000043B" start="20211012054524 +0000" stop="20211012060729 +0000">
+    <title>Alex - Stagione 1 - Episodi 79-83</title>
+    <desc>Delfino Tartaruga di mare Polpo Medusa Balena Alex è un curioso bambino di 5 anni che vuole imparare dal mondo che lo circonda. Durante le quattro stagioni della serie scoprirà da dove provengono frutta e verdura, quali animali sono nel mare e nella giungla e il suono degli strumenti musicali.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/36/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-10471979_20211011183316303.jpg"/>
   </programme>
   <channel id="ITAJ4500020HT">
     <display-name>Drama - Rakuten TV</display-name>

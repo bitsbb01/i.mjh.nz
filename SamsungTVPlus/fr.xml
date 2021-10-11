@@ -32,11 +32,6 @@
     <display-name>Euronews en direct</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png"/>
   </channel>
-  <programme channel="FRBA1000005TW" start="20211011212900 +0000" stop="20211011214300 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Depuis le bureau européen, des analyses et des interviews sur les sujets d'actualité brulants.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/14/FR_VC_CTI_USQU352137A_FR-542-FRBA1000005TW-15045662_20211011183216856.jpg"/>
-  </programme>
   <programme channel="FRBA1000005TW" start="20211011214300 +0000" stop="20211011220000 +0000">
     <title>Euronews Tonight</title>
     <desc>Depuis le bureau européen, des analyses et des interviews sur les sujets d'actualité brulants.</desc>
@@ -571,6 +566,11 @@
     <desc>Essais réels. Nous montons à bord et essayons des centaines de bateaux à moteur.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/47/FR_VC_CTI_DEQY392104A_afffb08f-d86b-43a1-af8f-cb8013d8745f_20211011203119629.jpg"/>
   </programme>
+  <programme channel="FRBA1500005IU" start="20211012054000 +0000" stop="20211012084000 +0000">
+    <title>Passion Voile</title>
+    <desc>Essais réels. Nous montons à bord et essayons des centaines de voiliers.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/68/FR_VC_CTI_DEQY392104A_34ff70b9-c2c9-4c83-a84d-f2cfcdf5ccbf_20211011203121295.jpg"/>
+  </programme>
   <channel id="FRBB3300001TQ">
     <display-name>Sport en France</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/FRBB3300001TQ_20210908T010432.png"/>
@@ -629,6 +629,16 @@
     <title>Génération Jeunes #34</title>
     <desc>Devenir champion, une route longue et sinueuse faite d'incertitudes, de travail, de joies, de peines. Ils rêvent tous de décrocher le Graal. Un titre olympique ou mondial...Ils viennent se confier à Maxine Eouzan dans Génération Jeunes. Invités : Tess Ledeux championne de ski freestyle et son coach Grégory Guenet</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/96/FR_VC_CTI_USQO570425A_8602d0d8-2386-11ec-8df8-0a9c8934df2b_20211002153907606.jpg"/>
+  </programme>
+  <programme channel="FRBB3300001TQ" start="20211012053919 +0000" stop="20211012054525 +0000">
+    <title>Ce Jour-là : 24 Août 2018</title>
+    <desc>Clarisse Agbegnenou nous raconte sa journée du 28 Aoüt 2014 aux championnats du monde de judo à Tcheliabinsk en Russie.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/05/FR_VC_CTI_USQO570425A_bc29a1e9-1e0a-11ec-9d66-0a9c8934df2b_20210925155557403.jpg"/>
+  </programme>
+  <programme channel="FRBB3300001TQ" start="20211012054525 +0000" stop="20211012060000 +0000">
+    <title>Le Geste Parfait :  Gaëtan Mouveroux</title>
+    <desc>Dans cet épisode, Gaëtant Mouveroux nous montre le geste parfait au bowling.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/51/FR_VC_CTI_USQO570425A_bc4c562c-1e0a-11ec-9d66-0a9c8934df2b_20210925155553485.jpg"/>
   </programme>
   <channel id="FRBA1000006LP">
     <display-name>FUEL TV</display-name>
@@ -775,6 +785,10 @@ the experiences of Black musicians in the world of alternative rock and punk mus
     <desc>This season’s offering from Absinthe Films will be one you won’t want to miss   a world-class crew of diverse riders who each bring something unique to the project</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/43/FR_VC_CTI_DEQY392104A_929dc592-859e-4504-a388-e54829c1e542_20211011183213559.jpg"/>
   </programme>
+  <programme channel="FRBA3300001KU" start="20211012054000 +0000" stop="20211012061000 +0000">
+    <title>Fire on the Mountain</title>
+    <desc>-</desc>
+  </programme>
   <channel id="FRBA3300058VO">
     <display-name>Humanity Documentaires</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/FRBA3300058VO_20210811T022054.png"/>
@@ -828,11 +842,6 @@ the experiences of Black musicians in the world of alternative rock and punk mus
     <display-name>gTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/FRBB3500001P6_20210908T010244.png"/>
   </channel>
-  <programme channel="FRBB3500001P6" start="20211011213000 +0000" stop="20211011214500 +0000">
-    <title>Le combat de Giants - Stories #2 - gTV</title>
-    <desc>Suivez le destin des Giants de l'equipe esports de Rainbow Six Siege alors qu'ils se rendent a Tokoname au Japon pour la finale de la Pro League Saison X. Production SoPress</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/69/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug1000000017_20211011164613370.jpg"/>
-  </programme>
   <programme channel="FRBB3500001P6" start="20211011214500 +0000" stop="20211011220000 +0000">
     <title>Game concert avec le groupe Totorro &amp; Friends - Side-Quest #2 - gTV</title>
     <desc>Apres les cine-concerts, les game-concerts ! Le groupe Totorro &amp; Friends fait vivre en musique Another World, le jeu precurseur d'Eric Chahi. Production Stupefy</desc>
@@ -863,6 +872,11 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <title>Jeux sur ecoute : les joueurs en Allemagne de l'Est - Stories- gTV</title>
     <desc>Fin des annees 80, Allemagne de l'Est. Des jeunes passionnes d'informatique decouvrent le jeu video et s'echangent des copies en depit de la surveillance de la Stasi, voici l'histoire des jeux sur ecoute.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/47/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug3000000292_20211011164638880.jpg"/>
+  </programme>
+  <programme channel="FRBB3500001P6" start="20211012054500 +0000" stop="20211012070000 +0000">
+    <title>Versus #4 Shaunz epart avec des bleus ! - 1/4 de finale Bagherajones vs Shaunz</title>
+    <desc>Decouvrez le nouveau show VERSUS sur gTV, presente par @mythiX Trinity ! Soutenez vos streameurs et createurs de contenu preferes dans un tournoi gaming epique qui determinera qui est le meilleur joueur.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/38/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug3000000247_20211011164711847.jpg"/>
   </programme>
   <channel id="FRBA3300031ZC">
     <display-name>Stormcast Novelas</display-name>
@@ -1446,11 +1460,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Televisa TeleNovelas</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/82/FRBA3300022OA_20210714T000943.png"/>
   </channel>
-  <programme channel="FRBA3300022OA" start="20211011205218 +0000" stop="20211011214314 +0000">
-    <title>L’ivresse de l’amour:Épisode 53</title>
-    <desc>Luciana entre enfin en contact avec sa mère, qui lui annonce son rendez-vous à l’ambassade pour obtenir un visa. Plus tard, Juan, voyant que Miguel est ami avec Ericka, la fille du propriétaire de l’autre vignoble, en profite pour créer des dissensions contre lui.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/FR_VC_CTI_USQU352137A_FR-820-FRBA3300022OA-14204350_20211011183513398.jpg"/>
-  </programme>
   <programme channel="FRBA3300022OA" start="20211011214314 +0000" stop="20211011223307 +0000">
     <title>Ne me quitte pas:Épisode 53</title>
     <desc>La voiture que Nuria a sabotée perd le contrôle et se renverse sur la route. Les ambulanciers et la police arrivent sur les lieux de l’accident et trouvent le corps inconscient et gravement blessé de Camilo, à peine vivant.</desc>
@@ -1901,6 +1910,11 @@ The best of the worst for June 2020.</desc>
     <desc>Bob l'éponge est une éponge de mer qui vit avec son escargot de compagnie, Gary, dans un ananas... Bob l'éponge est sacrément optimiste mais se débrouille toujours pour s'attirer des ennuis...</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/75/FR_VC_CTI_USQU352135A_FRAJ3800010QO-YAfg-SqXOAATQyyl_20211011183449493.jpg"/>
   </programme>
+  <programme channel="FRAJ3800010QO" start="20211012054518 +0000" stop="20211012061148 +0000">
+    <title>Bob léponge: Une tarte mortelle / La valse des homards</title>
+    <desc>Bob l'éponge est une éponge de mer qui vit avec son escargot de compagnie, Gary, dans un ananas... Bob l'éponge est sacrément optimiste mais se débrouille toujours pour s'attirer des ennuis...</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/85/FR_VC_CTI_USQU352135A_FRAJ3800010QO-YAfg-CqXOAATQyx6_20211011183208132.jpg"/>
+  </programme>
   <channel id="FRBA15000078J">
     <display-name>RiC TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRBA15000078J_20200923T100332.png"/>
@@ -2252,6 +2266,11 @@ The best of the worst for June 2020.</desc>
     <desc>Babe et Kenzie ont créé Sky Whale dans le cadre d'un projet de sciences pour le Collège, dans l'espoir que ça les aide à passer en classe supérieure!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/22/FR_VC_CTI_USQU352135A_FRAJ38000035M-X_gvoFNhhgATIBwO_20211011183517990.jpg"/>
   </programme>
+  <programme channel="FRAJ38000035M" start="20211012053900 +0000" stop="20211012060400 +0000">
+    <title>Game Shakers: Main Codante</title>
+    <desc>Babe et Kenzie ont créé Sky Whale dans le cadre d'un projet de sciences pour le Collège, dans l'espoir que ça les aide à passer en classe supérieure!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/49/FR_VC_CTI_USQU352135A_FRAJ38000035M-X-HUCJa25gAb8CPn_20211011183205958.jpg"/>
+  </programme>
   <channel id="FRBA3300029ZY">
     <display-name>SuperToons TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/61/FRBA3300029ZY_20201208T050252.png"/>
@@ -2434,11 +2453,6 @@ The best of the worst for June 2020.</desc>
     <display-name>L'Atelier des chefs</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png"/>
   </channel>
-  <programme channel="FRBA330005784" start="20211011205751 +0000" stop="20211011213849 +0000">
-    <title>Ceviche de Noix de Saint Jacques</title>
-    <desc>Voici une belle idée d'amuse-bouche pour vos repas raffinés.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/58/FR_VC_CTI_USQO570425A_1769a2b7-1e0d-11ec-9d66-0a9c8934df2b_20210925155626705.jpg"/>
-  </programme>
   <programme channel="FRBA330005784" start="20211011213849 +0000" stop="20211011220000 +0000">
     <title>Salade vitaminée d'hiver</title>
     <desc>Une de ces salades repas que l'on aime tant ! Celle-ci est rapide à faire et vous permet de profiter des légumes de saison lorsqu'ils sont au mieux de leur forme pour vous aider à garder la votre !</desc>
@@ -2780,6 +2794,11 @@ The best of the worst for June 2020.</desc>
     <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on! </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/24/FR_VC_CTI_DEQY392104A_fdfa1c91-3fa8-4af0-9c17-557263618af4_20211011183337696.jpg"/>
   </programme>
+  <programme channel="FRBA1500001G6" start="20211012054000 +0000" stop="20211012081000 +0000">
+    <title>Underwater Lounge</title>
+    <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/51/FR_VC_CTI_DEQY392104A_6dd13ce3-3ea3-46a8-a921-b7b0f00e484e_20211011183425324.jpg"/>
+  </programme>
   <channel id="FRBA2200003RR">
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/59/FRBA2200003RR_20210209T093440.png"/>
@@ -2916,16 +2935,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20210714T000933.png"/>
   </channel>
-  <programme channel="FRBB1900001FA" start="20211011213000 +0000" stop="20211011214000 +0000">
-    <title>Clubbing News</title>
-    <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/13/FR_VC_CTI_USQT620324A_FRBB1900001FA_250e210dc861e4a9d4565c0a_20211011053021000.jpg"/>
-  </programme>
-  <programme channel="FRBB1900001FA" start="20211011214000 +0000" stop="20211011214500 +0000">
-    <title>Rendez-vous</title>
-    <desc>Interviews with the world's famous DJs and producers. Clubbing TV meets with talents of all genres: Big Room stars or underground heroes, legendary or upcoming artist, we got them all on Clubbing TV !</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/48/FR_VC_CTI_USQT620324A_FRBB1900001FA_31f3e9db5fd1d451fa82255d_20211011052920072.jpg"/>
-  </programme>
   <programme channel="FRBB1900001FA" start="20211011214500 +0000" stop="20211011220000 +0000">
     <title>The Big Bad Box</title>
     <desc>Our brand new studio show The Big Bad Box will kick off the season this month! One studio, one screen, one guest and 13 minutes to get to know better your favorite artists.</desc>
@@ -3104,6 +3113,11 @@ The best of the worst for June 2020.</desc>
     <desc>21 mars 2010. Georges Frêche est réélu dans un fauteuil. En Languedoc, il est le Président. Six mois durant, au fil d’une campagne ébouriffante et captivante, la caméra d’Yves Jeuland ne l’a pas quitté. Partout, hors champs et contrechamps, son œil était là, dans le secret des conciliabules et les fins de banquet, face aux ténors des médias, dans son bureau, dans sa voiture, au saut du lit comme au bord de sa piscine. Escorté de ses deux conseillers, Georges Frêche se révèle un formidable animal politique, un grand acteur rabelaisien, matois et provocateur. Sans complaisance ni faux semblants, Georges Frêche est filmé en liberté. Comédie humaine violente et jubilatoire, drôle et impitoyable, ce voyage au cœur d’une campagne électorale est une leçon sur la chose publique et les jeux du pouvoir.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/79/FR_VC_CTI_USQO570425A_1e6aceef-15c3-11ec-9aa1-0a9c8934df2b_20210915022309734.jpg"/>
   </programme>
+  <programme channel="FRBA2200008H8" start="20211012054430 +0000" stop="20211012072923 +0000">
+    <title>Tango Libre</title>
+    <desc>JC, gardien de prison, est un homme sans histoire. Sa seule fantaisie consiste à suivre un cours de tango un soir par semaine. Un jour, il y rencontre une nouvelle venue, Alice. Le lendemain, il la retrouve avec surprise au parloir de la prison, elle rend visite à deux détenus : l’un est son mari, l’autre son amant. Étrangement attiré par cette femme libre qui ne vit selon aucune règle, JC finit par transgresser tous les principes qui gouvernaient sa vie jusqu’alors…</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/49/FR_VC_CTI_USQO570425A_6ee78192-0b9e-11ec-b015-0a9c8934df2b_20210902050524068.jpg"/>
+  </programme>
   <channel id="FRBA3300021ME">
     <display-name>Wild Side TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/FRBA3300021ME_20210714T000816.png"/>
@@ -3132,6 +3146,11 @@ The best of the worst for June 2020.</desc>
     <title>Alone</title>
     <desc>Lorsque Pim et son mari Vee sont appelés d'urgence au chevet de la mère de Pim, victime d'une attaque cérébrale, ils n'ont aucune idée de ce que qui va leur arriver. Dès son arrivée dans sa maison d'enfance, Pim est sujette à des crises d'angoisse et de nostalgie liées à la mort de sa soeur siamoise, décédée lors d'une opération médicale des années plus tôt.  Pim a l'impression qu'une présence la suit partout où elle va. Mais est ce vraiment une impression ?</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/66/FR_VC_CTI_USQU352137A_FR-871-FRBA3300021ME-12561184_20211011183226124.jpg"/>
+  </programme>
+  <programme channel="FRBA3300021ME" start="20211012054242 +0000" stop="20211012073451 +0000">
+    <title>Rio siege</title>
+    <desc>Cinq policiers infiltrés dans le bidonville Alemao, le plus dangereux de Rio de Janeiro, vont être à l'origine de l'assaut donné par les forces de l'ordre sur ce lieu dans le but de le réduire à néant. Mais les infiltrés en question seront démasqués par les hommes du cartel, et ils auront fort à faire pour sauver leur peau.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/03/FR_VC_CTI_USQU352137A_FR-871-FRBA3300021ME-12278361_20211011183350183.jpg"/>
   </programme>
   <channel id="FRBB340000115">
     <display-name>Emotion'L</display-name>

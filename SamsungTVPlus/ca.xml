@@ -157,6 +157,11 @@
     <desc>Suivez l'actualité politique en regardant les reportages de Radio-Canada INFO.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/08/CA_VC_CTI_USQO375324A_XM0N8GRS9EYQWA_20211011182012399.jpg"/>
   </programme>
+  <programme channel="CAAJ17000040F" start="20211012054048 +0000" stop="20211012060226 +0000">
+    <title>Économie</title>
+    <desc>Suivez l'actualité économique en regardant les reportages de Radio-Canada INFO.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/79/CA_VC_CTI_USQO375324A_XM0Q5616BICOAO_20211011182106240.jpg"/>
+  </programme>
   <channel id="CAAJ1700005IA">
     <display-name>NowThis</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/CAAJ1700005IA_20210525T053233.png"/>
@@ -250,6 +255,11 @@
     <title>Nerd</title>
     <desc>NowThis Nerd is your one-stop shop for everything from movies and TV to games and comics.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/25/CA_VC_CTI_USQO375324A_XM07LJHFG6H82K_20211011182159983.jpg"/>
+  </programme>
+  <programme channel="CAAJ1700005IA" start="20211012054457 +0000" stop="20211012060634 +0000">
+    <title>News</title>
+    <desc>Stories that move.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/19/CA_VC_CTI_USQO375324A_XM0A8DZODEZ2M8_20211011182212554.jpg"/>
   </programme>
   <channel id="CABA3700002ML">
     <display-name>Baywatch</display-name>
@@ -358,6 +368,11 @@
     <title>Nashville</title>
     <desc>Rayna's uncertain about leaving the kids to tour again, and Luke's solo parenting choices anger her.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/72/CA_VC_CTI_USQO570425A_784bd6a0-2258-11ec-960e-0a9c8934df2b_20211001021954301.jpg"/>
+  </programme>
+  <programme channel="CABA800003CB" start="20211012053954 +0000" stop="20211012063101 +0000">
+    <title>Nashville</title>
+    <desc>Deacon receives bad news about his health. Luke causes a stir in the wake of Rayna canceling their wedding.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/61/CA_VC_CTI_USQO570425A_784daca0-2258-11ec-960e-0a9c8934df2b_20211001021934505.jpg"/>
   </programme>
   <channel id="CABB26000082J">
     <display-name>21 Jump Street</display-name>
@@ -973,11 +988,6 @@
     <display-name>Forensic Files</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/CAAJ2700012PP_20210727T132427.png"/>
   </channel>
-  <programme channel="CAAJ2700012PP" start="20211011211254 +0000" stop="20211011214105 +0000">
-    <title>Forensic Files</title>
-    <desc>They thought the fire would cover their crime. But one tiny clue, no bigger than a thumbtack, remained. It held all the information investigators needed to put a trio of killers behind bars.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/99/CA_VC_CTI_USQO375324A_XM09XBHQF4DM0H_20211011182201555.jpg"/>
-  </programme>
   <programme channel="CAAJ2700012PP" start="20211011214105 +0000" stop="20211011220916 +0000">
     <title>Forensic Files</title>
     <desc>In 1994, Shannon Melendi disappeared while at Emory University. Her disappearance remained a mystery for ten years, until new scientific testing cast a different light on Colvin "Butch" Hinton.</desc>
@@ -1303,10 +1313,15 @@
     <desc>Feel tensions rise as an evening out pushes friendships to a breaking point.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/25/CA_VC_CTI_USQO570425A_b726944c-e9ea-11eb-988d-0a9c8934df2b_20210721071743032.jpg"/>
   </programme>
-  <programme channel="CABA8000080J" start="20211012021413 +0000" stop="20211012030923 +0000">
+  <programme channel="CABA8000080J" start="20211012021413 +0000" stop="20211012054359 +0000">
     <title>Clique</title>
     <desc>Delve into the group’s secrets as Holly discovers a devastating truth.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/32/CA_VC_CTI_USQO570425A_b7288677-e9ea-11eb-988d-0a9c8934df2b_20210721071902944.jpg"/>
+  </programme>
+  <programme channel="CABA8000080J" start="20211012054359 +0000" stop="20211012064002 +0000">
+    <title>iHostage</title>
+    <desc>Track a murderer on the run who tries to get media attention for his demands.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/54/CA_VC_CTI_USQO570425A_13ac7f9a-292d-11ec-a7b3-0a9c8934df2b_20211009193755765.jpg"/>
   </programme>
   <channel id="CAAJ2700027GW">
     <display-name>Game Show Central</display-name>
@@ -1416,11 +1431,6 @@
     <display-name>Deal or No Deal</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/30/CAAJ34000147C_20210622T090506.png"/>
   </channel>
-  <programme channel="CAAJ34000147C" start="20211011205021 +0000" stop="20211011213830 +0000">
-    <title>Deal or No Deal</title>
-    <desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (18 out of 39)</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/CA_VC_CTI_USQU352137A_CA-468-CAAJ34000147C-1094467_20211011132700135.jpg"/>
-  </programme>
   <programme channel="CAAJ34000147C" start="20211011213830 +0000" stop="20211011222559 +0000">
     <title>Deal or No Deal</title>
     <desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (19 out of 39)</desc>
@@ -2134,10 +2144,15 @@
     <desc>Tullibee is not the first that most consider when thinking of a Mid- Winter bite. However, a few of our friends over at LockJaw Outdoors have been on a great bite and we're fortunate to be a part of it!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/30/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-9571413_20211011132550367.jpg"/>
   </programme>
-  <programme channel="CAAJ3400005M5" start="20211012052336 +0000" stop="20211012054455 +0000">
+  <programme channel="CAAJ3400005M5" start="20211012052336 +0000" stop="20211012054456 +0000">
     <title>Fish Addictions S6:E1 "How To Catch Backwoods Crappies"</title>
     <desc>During this week’s episode, the team and I revisited an old honey hole of mine from my childhood to chase big northern Minnesota Crappies. During this episode, we were able to use the Garmin LiveScope to stay on a school of Crappies roaming a deep basin.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-8319458_20211011132848078.jpg"/>
+  </programme>
+  <programme channel="CAAJ3400005M5" start="20211012054456 +0000" stop="20211012060946 +0000">
+    <title>Beyond The Grid S4:E6 "Mountain Goat with a Bow! Backcountry Hunting"</title>
+    <desc>Go bow hunting for mountain goat. Ride into the backcountry with Eastmans' Dan Pickar and Kelly Burr.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/33/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-6706048_20211011132719053.jpg"/>
   </programme>
   <channel id="CAAJ27000252W">
     <display-name>World Poker Tour</display-name>
@@ -2483,11 +2498,6 @@
     <display-name>Food52</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/CAAJ1700001XB_20210525T053322.png"/>
   </channel>
-  <programme channel="CAAJ1700001XB" start="20211011211045 +0000" stop="20211011214222 +0000">
-    <title>Big Little Recipes</title>
-    <desc>A Big Little Recipe has the smallest-possible ingredient list and BIG everything else: flavor, ideas, holy-cow factor.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/77/CA_VC_CTI_USQO375324A_XM0V9XPABET2WW_20211011182258673.jpg"/>
-  </programme>
   <programme channel="CAAJ1700001XB" start="20211011214222 +0000" stop="20211011221359 +0000">
     <title>Baking Projects</title>
     <desc>Our favorite baking projects for cold winter weekends!</desc>
@@ -2710,6 +2720,11 @@
     <title>Hell's Kitchen</title>
     <desc>"Season 6, 16 Chefs Compete" - In part one of the season premiere, sixteen contestants get a shot at culinary stardom and an executive chef position in the Canadian resort town of Whistler, British Columbia.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/CA_VC_CTI_USQT620324A_CABB2600006SV_HellsKitchen_S06_E01_SD_20211011132629003.jpg"/>
+  </programme>
+  <programme channel="CABB2600006SV" start="20211012054326 +0000" stop="20211012063414 +0000">
+    <title>Hell's Kitchen</title>
+    <desc>"Season 6, 15 Chefs Compete" - In the final part of the season premiere, a contestant from season five returns and the fifteen remaining chefs prepare for a seafood-accented dinner service by deveining shrimp.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/CA_VC_CTI_USQT620324A_CABB2600006SV_HellsKitchen_S06_E02_SD_20211011132721096.jpg"/>
   </programme>
   <channel id="CABB1900003GW">
     <display-name>Are We There Yet?</display-name>
@@ -3161,6 +3176,11 @@ The best of the worst for June 2020.</desc>
     <desc>Like Rocky Balboa, Alex Velluto is the son of an Italian immigrant and brings the same intensity, will, and drive to the comedy stage. In 2016, Alex was voted 'Best Comedian' by City Weekly Magazine and is the winner of the Finger Lakes Comedy Festival in Ithaca, NY. Alex is a regular at Wiseguys Comedy Club where he has headlined and worked with some of the biggest names in comedy. He has also “gone the distance” in many competitions and festivals across the country. Alex was a finalist in the the Funniest Person in Utah competition, and The Salt Lake Comedy Festival stand up competition, has performed at the Idaho Laugh Festival, and Finger Lakes Comedy Festival. In addition to his stand-up comedy, Alex is a co-host of the "Happy Valley Podcast", and is renowned for referring to himself in the third person, and is an excellent writer of comedy bios about himself that everybody likes.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/51/CA_VC_CTI_USQU352137A_CA-370-CAAJ3400013EH-969189_20211011132653618.jpg"/>
   </programme>
+  <programme channel="CAAJ3400013EH" start="20211012054500 +0000" stop="20211012061500 +0000">
+    <title>Dry Bar Comedy:Brad Trackman - Thanks</title>
+    <desc>Brad Trackman is a national touring comedian who has been featured on a number of well-known comedy shows and channels.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/25/CA_VC_CTI_USQU352137A_CA-370-CAAJ3400013EH-8636772_20211011132924770.jpg"/>
+  </programme>
   <channel id="CAAJ4000008MG">
     <display-name>Funny Or Die</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/65/CAAJ4000008MG_20210309T011906.png"/>
@@ -3288,11 +3308,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Kidoodle.TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/70/CAAJ34000122Z_20210309T011856.png"/>
   </channel>
-  <programme channel="CAAJ34000122Z" start="20211011213003 +0000" stop="20211011214503 +0000">
-    <title>Angry Birds:Royal Pains</title>
-    <desc>Handsome Pig can't get a break. Gale just ignores his attempts to impress her. Only one thing left to try an overly elaborate ritual from The Book! Let's hope they turn to the right page</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/36/CA_VC_CTI_USQU352137A_CA-414-CAAJ34000122Z-14746241_20211011132927343.jpg"/>
-  </programme>
   <programme channel="CAAJ34000122Z" start="20211011214503 +0000" stop="20211011220004 +0000">
     <title>The DaVincibles:Scream a Little Scream</title>
     <desc>Quba uses his Spray Alive on Edward Munch's The Scream in the hopes of shattering the polar ice caps with The Scream's killer vocals. When his plan goes awry, the DaVincis come to the rescue and plan</desc>
@@ -3804,6 +3819,11 @@ The best of the worst for June 2020.</desc>
     <title>Autocomplete Interview</title>
     <desc>"Damsel" stars Robert Pattinson and Mia Wasikowska take the WIRED Autocomplete Interview and answer the internet's most searched questions about themselves. Did Robert Pattinson go to college? How do you pronounce Mia Wasikowska? Did Robert Pattinson make music for Twilight? Watch as they answer all these questions and more! "Damsel" hits theaters 6/22</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/44/CA_VC_CTI_USQO375324A_XM0IYGPRWKZ0DN_20211011182104822.jpg"/>
+  </programme>
+  <programme channel="CAAJ400001018" start="20211012053758 +0000" stop="20211012054551 +0000">
+    <title>Autocomplete Interview</title>
+    <desc>This Is Us stars Milo Ventimiglia, Mandy Moore and Justin Hartley take the WIRED Autocomplete Interview and answer the internet's most searched questions about This Is Us and themselves.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/41/CA_VC_CTI_USQO375324A_XM0G95CMH7ZNG2_20211011182103373.jpg"/>
   </programme>
   <channel id="CABA800002RW">
     <display-name>InWonder</display-name>

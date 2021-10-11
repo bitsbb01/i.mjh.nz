@@ -8110,13 +8110,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20211011130700 +0000" stop="20211011140700 +0000">
-    <title>The School That Tried to End Racism</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20211011140700 +0000" stop="20211011145300 +0000">
     <title>We Hunt Together</title>
     <subtitles type="teletext"/>
@@ -9348,13 +9341,6 @@
   </programme>
   <programme channel="tv.101002510251" start="20211018130700 +0000" stop="20211018143400 +0000">
     <title>Step Into Paradise</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500451" start="20211011130600 +0000" stop="20211011135200 +0000">
-    <title>The Arrangement</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -10596,12 +10582,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20211011130000 +0000" stop="20211011133000 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20211011133000 +0000" stop="20211011143400 +0000">
@@ -12089,13 +12069,6 @@
     <title>Summer House</title>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500457" start="20211011131000 +0000" stop="20211011140700 +0000">
-    <title>The Enemy Within</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211011140700 +0000" stop="20211011143800 +0000">
@@ -20329,13 +20302,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050651" start="20211011131400 +0000" stop="20211011141200 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050651" start="20211011141200 +0000" stop="20211011151100 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
@@ -27291,12 +27257,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050658" start="20211011130400 +0000" stop="20211011133500 +0000">
-    <title>The Conners</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050658" start="20211011133500 +0000" stop="20211011140500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
@@ -29167,12 +29127,6 @@
   </programme>
   <programme channel="tv.101406050658" start="20211018133000 +0000" stop="20211018140000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050659" start="20211011132900 +0000" stop="20211011133000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -41197,12 +41151,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203400347" start="20211011130500 +0000" stop="20211011150500 +0000">
-    <title>Unconscious</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203400347" start="20211011150500 +0000" stop="20211011172500 +0000">
     <title>The Motorcycle Diaries</title>
     <rating system="Freeview">
@@ -41982,6 +41930,11 @@
     <title>Mundo Gustavo S1E1</title>
     <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
     <sub-title>Hometown skating in Lisbon</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012200824 +0000" stop="20211012205704 +0000">
+    <title>360 Ascent</title>
+    <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
+    <sub-title>The world’s longest artificial multi-pitch route</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

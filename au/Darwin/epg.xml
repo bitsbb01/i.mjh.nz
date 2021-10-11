@@ -8117,13 +8117,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20211011140700 +0000" stop="20211011150700 +0000">
-    <title>The School That Tried to End Racism</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002810281" start="20211011150700 +0000" stop="20211011155300 +0000">
     <title>We Hunt Together</title>
     <subtitles type="teletext"/>
@@ -42734,12 +42727,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203600367" start="20211011140500 +0000" stop="20211011160500 +0000">
-    <title>Unconscious</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203600367" start="20211011160500 +0000" stop="20211011182500 +0000">
     <title>The Motorcycle Diaries</title>
     <rating system="Freeview">
@@ -43519,6 +43506,11 @@
     <title>Mundo Gustavo S1E1</title>
     <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
     <sub-title>Hometown skating in Lisbon</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012200824 +0000" stop="20211012205704 +0000">
+    <title>360 Ascent</title>
+    <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
+    <sub-title>The world’s longest artificial multi-pitch route</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

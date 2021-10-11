@@ -17332,18 +17332,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035600 +0000">
-    <title>Proof of Life</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
     <title>House of Wellness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035600 +0000">
+    <title>Proof of Life</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211012035600 +0000" stop="20211012042600 +0000">
@@ -43789,21 +43789,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211010081611 +0000" stop="20211010095932 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211010095932 +0000" stop="20211010104732 +0000">
-    <title>360 Ascent</title>
-    <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
-    <sub-title>The world’s longest artificial multi-pitch route</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211010104732 +0000" stop="20211010105339 +0000">
-    <title>Cycling Around the World S1E6</title>
-    <desc>Khothalang Leuta discovers the joys of riding from the pump track in her hometown of Roma in Lesotho.</desc>
-    <sub-title>The fastest girl in the village</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211010105339 +0000" stop="20211010111244 +0000">
     <title>Mundo Gustavo S1E1</title>
     <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
@@ -44040,9 +44025,9 @@
     <sub-title>Now or never</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211011073156 +0000" stop="20211011084259 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211011084259 +0000" stop="20211011085049 +0000">
     <title>Enjoy the Ride S1E1</title>
@@ -44070,6 +44055,26 @@
   <programme channel="tv.redbull.tv" start="20211011095247 +0000" stop="20211011101422 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011101422 +0000" stop="20211011103621 +0000">
+    <title>Driving DTM S1E5</title>
+    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
+    <sub-title>Spielberg</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011103621 +0000" stop="20211011105810 +0000">
+    <title>Driving DTM S1E6</title>
+    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
+    <sub-title>Assen</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011105810 +0000" stop="20211011112110 +0000">
+    <title>Driving DTM S1E7</title>
+    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
+    <sub-title>Hockenheim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011112110 +0000" stop="20211011122840 +0000">
+    <title>Red Bull Signature Series S2020E1</title>
+    <desc>Held on the North Shore of Oahu, Volcom Pipe Pro brings together 144 of the world’s best surfers.</desc>
+    <sub-title>Volcom Pipe Pro</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

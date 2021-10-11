@@ -17101,18 +17101,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
-    <title>House of Wellness</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012035600 +0000">
     <title>Proof of Life</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211012010000 +0000" stop="20211012020000 +0000">
+    <title>House of Wellness</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211012035600 +0000" stop="20211012042600 +0000">
@@ -42791,6 +42791,11 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211011181844 +0000" stop="20211011200244 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211011200244 +0000" stop="20211011211026 +0000">
     <title>Red Bull Signature Series S2017E7</title>
     <desc>Red Bull Rampage is known around the world as the proving ground for the best riders on two wheels.</desc>
@@ -42876,9 +42881,9 @@
     <sub-title>Now or never</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211012030654 +0000" stop="20211012041757 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211012041757 +0000" stop="20211012051148 +0000">
     <title>Toby Price: Ridin’ Shotgun</title>
@@ -43065,11 +43070,6 @@
     <title>360 Ascent</title>
     <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
     <sub-title>The world’s longest artificial multi-pitch route</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012205704 +0000" stop="20211012220514 +0000">
-    <title>Red Bull Signature Series S2018E6</title>
-    <desc>An elite group of 21 riders will bring their best man-made lines into the 13th edition of Red Bull Rampage.</desc>
-    <sub-title>Red Bull Rampage</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

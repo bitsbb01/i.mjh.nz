@@ -3,11 +3,6 @@
     <display-name>Wilder Planet</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/DEBA3300042XG_20210714T000946.png"/>
   </channel>
-  <programme channel="DEBA3300042XG" start="20211011210919 +0000" stop="20211011212543 +0000">
-    <title>Smalltalk-Tagebücher: Änderungen</title>
-    <desc>Sie mögen klein sein, aber wirbellose Tiere sind Experten darin, sich auf und ab zu bewegen. Wusstest du schon dass die amerikanische Kakerlake das schnellste Tier auf sechs Beinen ist oder dass eine Libelle Geschwindigkeiten erreichen kann über 30mph?</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/43/DE_VC_CTI_USQO570425A_2a29533d-167b-11ec-9997-0a9c8934df2b_20210916010924567.jpg"/>
-  </programme>
   <programme channel="DEBA3300042XG" start="20211011212543 +0000" stop="20211011221428 +0000">
     <title>Mitten im wilden Deutschland : Folge 1 </title>
     <desc>Der Tierfilmer Andreas Kieling wandert entlang der ehemaligen Grenze zwischen Ost- und Westdeutschland, heute eine grüne Kette von Naturschutzgebieten. Hier entdeckt er die Schätze der Natur und ein Volk mit einer reichen Geschichte.</desc>
@@ -63,6 +58,11 @@
     <desc>Diese Serie feiert Lateinamerikas dramatischste Regionen, von den Hohen Anden zum dampfenden Amazonas, von den windigen Steppen Patagoniens zu den Sümpfen Venezuelas – atemberaubende Schönheit und eine aufregende, vielfältige Tierwelt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/50/DE_VC_CTI_USQO570425A_3800d1fa-282e-11ec-b4f3-0a9c8934df2b_20211008144113484.jpg"/>
   </programme>
+  <programme channel="DEBA3300042XG" start="20211012053727 +0000" stop="20211012062607 +0000">
+    <title>Vertraute Feinde</title>
+    <desc>An der Westgrenze des Chobe-Nationalparks in Botsuana hat die Zahl der Löwen zugenommen. Aufgrund ihrer zahlenmäßigen Stärke trauen sie sich inzwischen sogar, Elefanten anzugreifen. Die Dokumentation erzählt die Geschichte der Serondela-Elefantenherde und ihrer gefährlichen Gegner, der Löwen des Savuti-Rudels.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/86/DE_VC_CTI_USQO570425A_2a9d36fd-167b-11ec-9997-0a9c8934df2b_20210916010843860.jpg"/>
+  </programme>
   <channel id="DEAJ3500002EO">
     <display-name>Komödien - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/54/DEAJ3500002EO_20210923T010916.png"/>
@@ -101,11 +101,6 @@
     <display-name>Euronews Live</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/29/DEBA1000003IM_20200923T101210.png"/>
   </channel>
-  <programme channel="DEBA1000003IM" start="20211011211600 +0000" stop="20211011212900 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Die Sendung präsentiert spannende Informationen, relevantes Hintergrundwissen und interessante Meinungen zu den wichtigsten und faszinierendsten Themen des Tages. Dabei werden unter anderem Analysen u</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/88/DE_VC_CTI_USQU352137A_DE-545-DEBA1000003IM-15046707_20211011131557825.jpg"/>
-  </programme>
   <programme channel="DEBA1000003IM" start="20211011212900 +0000" stop="20211011214300 +0000">
     <title>Euronews Tonight</title>
     <desc>Die Sendung präsentiert spannende Informationen, relevantes Hintergrundwissen und interessante Meinungen zu den wichtigsten und faszinierendsten Themen des Tages. Dabei werden unter anderem Analysen u</desc>
@@ -266,15 +261,20 @@
     <desc>In der Sendung am Morgen werden die neuesten Nachrichten aus Europa und der Welt präsentiert.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/04/DE_VC_CTI_USQU352137A_DE-545-DEBA1000003IM-15046739_20211011131703900.jpg"/>
   </programme>
+  <programme channel="DEBA1000003IM" start="20211012052400 +0000" stop="20211012053600 +0000">
+    <title>Good Morning Europe</title>
+    <desc>In der Sendung am Morgen werden die neuesten Nachrichten aus Europa und der Welt präsentiert.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/65/DE_VC_CTI_USQU352137A_DE-545-DEBA1000003IM-15046740_20211011131536452.jpg"/>
+  </programme>
+  <programme channel="DEBA1000003IM" start="20211012053600 +0000" stop="20211012054700 +0000">
+    <title>Good Morning Europe</title>
+    <desc>In der Sendung am Morgen werden die neuesten Nachrichten aus Europa und der Welt präsentiert.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/22/DE_VC_CTI_USQU352137A_DE-545-DEBA1000003IM-15046741_20211011131558496.jpg"/>
+  </programme>
   <channel id="DEBB3100001AR">
     <display-name>Mystery Krimi</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/25/DEBB3100001AR_20210908T010416.png"/>
   </channel>
-  <programme channel="DEBB3100001AR" start="20211011203149 +0000" stop="20211011212209 +0000">
-    <title>Medium: Traumwandlerin</title>
-    <desc>Hellseherin Allison Dubois schlafwandelt. Dabei hält sie Autofahrer an und bittet sie um Geld. Zuvor hatte sie versucht, 15 Millionen Dollar abzuheben. Da verdächtigt Lauren Ballou ihren Exmann, den gemeinsamen Sohn Justin entführt zu haben. Im Schlaf führt Allison ihren Mann Joe zu einem Auto, das von der Straße abgekommen ist. Darin finden sie Laurens Exmann und 15 Millionen Dollar. Aber wo ist Justin?</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/21/DE_VC_CTI_USQT620324A_DEBB3100001AR_MEDI0204_20211011183225497.jpg"/>
-  </programme>
   <programme channel="DEBB3100001AR" start="20211011212209 +0000" stop="20211011221140 +0000">
     <title>Republic of Doyle: Heiße Ware</title>
     <desc>Eine Firmeninhaberin tritt an die Doyles heran und bittet sie, ihren Mann zu überwachen.</desc>
@@ -363,11 +363,6 @@
     <display-name>spot on news</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/DEAK0500454A_20200923T100607.png"/>
   </channel>
-  <programme channel="DEAK0500454A" start="20211011211500 +0000" stop="20211011213000 +0000">
-    <title>Mode &amp; Beauty</title>
-    <desc>Entdecke die neuesten Nachrichten aus der Welt der Mode sowie die angesagtesten Beauty-Trends und -Tipps. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/DE_VC_CTI_DEQY392104A_f10193fa-a4d1-4ab0-a2b8-f0c7acc5f51b_20211011203223347.jpg"/>
-  </programme>
   <programme channel="DEAK0500454A" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title>people</title>
     <desc>Unterhaltsam und spannend: Aktuelle Storys aus den Leben der Stars, Sternchen und Royals. Palastberichte, Baby-News, Liebes-Gerüchte und mehr.</desc>
@@ -492,6 +487,11 @@
     <title>Politik</title>
     <desc>Aktuelle Politik-Nachrichten aus Deutschland, Europa und der ganzen Welt. Verfolge die wichtigsten Infos zu den politischen Entwicklungen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/36/DE_VC_CTI_DEQY392104A_fc72ab14-6069-4539-8a69-5ced7ee8b763_20211011203249544.jpg"/>
+  </programme>
+  <programme channel="DEAK0500454A" start="20211012052500 +0000" stop="20211012054500 +0000">
+    <title>Vermischtes</title>
+    <desc>Relevante Ratgeber-Themen aus den Bereichen Haushalt, Job, Auto und Reisen. Die richtigen Guidebooks für alle Interessierten.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/28/DE_VC_CTI_DEQY392104A_fd253f4e-4c54-4d53-a576-2309c9d2b7ad_20211011203222581.jpg"/>
   </programme>
   <channel id="DEBA3300027ZJ">
     <display-name>Bloomberg TV+</display-name>
@@ -687,11 +687,6 @@
     <display-name>Motorvision</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/25/DEAH3904004A_20200923T100347.png"/>
   </channel>
-  <programme channel="DEAH3904004A" start="20211011190000 +0000" stop="20211011213000 +0000">
-    <title>Rally</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/10/DE_VC_CTI_DEQY392104A_efd4ba72-d1ae-4c80-96c2-fa8ca339b074_20211011203321282.jpg"/>
-  </programme>
   <programme channel="DEAH3904004A" start="20211011213000 +0000" stop="20211012003000 +0000">
     <title>Enduro &amp; Motocross</title>
     <desc>-</desc>
@@ -725,6 +720,11 @@
     <title>Sport &amp; Lifestyle</title>
     <desc>Top Regattas and competition across the globe, overview of equipment, accessories and technologies. Visit with us the most famous shipyards.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/84/DE_VC_CTI_DEQY392104A_79304e1a-467a-4797-bb7e-14eaba2d0b67_20211011203258997.jpg"/>
+  </programme>
+  <programme channel="DEAH3904003A" start="20211012053000 +0000" stop="20211012083000 +0000">
+    <title>Motor Boats</title>
+    <desc>Get on board and test with us some of the best motor boats on the market.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/DE_VC_CTI_DEQY392104A_e741a463-268e-45b0-920f-2b920f83cd0b_20211011203259390.jpg"/>
   </programme>
   <channel id="DEAJ0500417A">
     <display-name>HorizonSports</display-name>
@@ -1006,11 +1006,6 @@
     <display-name>Tennis Channel Deutschland</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/90/DEBA2200008NL_20201208T050219.png"/>
   </channel>
-  <programme channel="DEBA2200008NL" start="20211011211547 +0000" stop="20211011213053 +0000">
-    <title>Prakash WorldWide - Miami</title>
-    <desc>Prakash visits with friends, gets a tour of the Miami Dolphins' home stadium, and celebrates with eggs during Easter.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/13/DE_VC_CTI_USQO570425A_42442d23-270d-11ec-9ebe-0a9c8934df2b_20211007043427717.jpg"/>
-  </programme>
   <programme channel="DEBA2200008NL" start="20211011213053 +0000" stop="20211011214226 +0000">
     <title>Tennis Honors - Kobe Bryant</title>
     <desc>Kobe Bryan't connection to the tennis world is explored on the one year anniversary of his passing.</desc>
@@ -1104,11 +1099,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/DEBA10000051Z_20201029T004114.png"/>
   </channel>
-  <programme channel="DEBA10000051Z" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Surfing for Peace:Surfing for Peace</title>
-    <desc>The Paskowitz family, the Rothmans, and Kelly Slater go to Israel to surf and raise awareness.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/43/DE_VC_CTI_USQU352137A_DE-585-DEBA10000051Z-15039288_20211011131612325.jpg"/>
-  </programme>
   <programme channel="DEBA10000051Z" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Santa Cruz Euro Skate Tour 2:Santa Cruz Euro Skate Tour 2</title>
     <desc>The pros of the Santa Cruz team return to skate the streets of Europe.</desc>
@@ -1179,6 +1169,11 @@
     <desc>Get to know firsthand the names of the chosen surfers that will be performing in the spectacular conditions that Praia do Norte, in Nazaré has to offer, in the 2016 edition of the Perfect Chapter.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/09/DE_VC_CTI_USQU352137A_DE-585-DEBA10000051Z-15039303_20211011131612544.jpg"/>
   </programme>
+  <programme channel="DEBA10000051Z" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Home Bros:Home Bros</title>
+    <desc>When amidst the covid-19 pandemic, Australian videomaker, Tai Jennison, and his home bros found themselves stuck in one of the most surfable stretches of coastline in the world, they decided to make t</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/96/DE_VC_CTI_USQU352137A_DE-585-DEBA10000051Z-15039304_20211011131557449.jpg"/>
+  </programme>
   <channel id="DEBA2200002AN">
     <display-name>InWonder</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/70/DEBA2200002AN_20200923T100730.png"/>
@@ -1242,6 +1237,11 @@
     <title>Hollywood Weapons: Fact or Fiction?</title>
     <desc>A murderer tries to kill his final victim as the car they are in slowly sinks to the bottom of a lake.  The only way to save the victim is to rescue her as the car continues to sink.  We test fire multiple handguns underwater to see if you can actually penetrate a car windshield and save the victim.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/DE_VC_CTI_USQO570425A_35c5d739-2ab0-11ec-87ac-0a9c8934df2b_20211011164309929.jpg"/>
+  </programme>
+  <programme channel="DEBA2200002AN" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Hollywood Weapons: Fact or Fiction?</title>
+    <desc>In this iconic scene, Chief Brody hangs on to his sinking boat as a giant shark approaches him with a scuba tank lodged in its mouth.  We construct a giant shark on a motorized platform to test if you can hit, and explode, the tank with an M1 Garand rifle while perched in a precarious position.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/28/DE_VC_CTI_USQO570425A_35d57020-2ab0-11ec-87ac-0a9c8934df2b_20211011164308388.jpg"/>
   </programme>
   <channel id="DEAJ3200006Y3">
     <display-name>FTF</display-name>
@@ -1330,11 +1330,6 @@
     <display-name>AbsintheTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/DEAK0500456A_20210826T001203.png"/>
   </channel>
-  <programme channel="DEAK0500456A" start="20211011204500 +0000" stop="20211011213000 +0000">
-    <title>Hwuyxwet Puneluxutth</title>
-    <desc>A group of First Nations students at Penelakut Island works with trail builder Riley McIntosh to create a new mountain bike trail in the community. The film also weaves in the stories, culture, and history of Penelakut Island and its people.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/50/DE_VC_CTI_DEQY392104A_db80d151-ae4a-4922-9375-e8ba75b0a9fa_20211011183146577.jpg"/>
-  </programme>
   <programme channel="DEAK0500456A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Paradigme</title>
     <desc>A snowboard documentary filmed and directed by Julien Roserens in the Wallis Region of Switzerland. </desc>
@@ -1394,6 +1389,11 @@
     <title>TWE12VE Making Of</title>
     <desc>Twelve riders having a blast, redefining the limits of what is possible</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/41/DE_VC_CTI_DEQY392104A_b9904026-e454-4dfc-8854-1cf37bfedbc7_20211011183145510.jpg"/>
+  </programme>
+  <programme channel="DEAK0500456A" start="20211012053000 +0000" stop="20211012055500 +0000">
+    <title>Glacier Express</title>
+    <desc>The Glacier Express is a five-part episodic film series featuring Switzerland’s legendary Glacier Express with Holden Explorer Fredi Kalbermatten, photographer Silvano Zeiter and adventure filmmaker Gray Thompson</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/69/DE_VC_CTI_DEQY392104A_34a8a3c6-3a64-483c-80d8-f3ac5dc5b01d_20211011183446845.jpg"/>
   </programme>
   <channel id="DEBA33000419P">
     <display-name>Horse &amp; Country</display-name>
@@ -1463,6 +1463,11 @@
     <desc>Equitrekking Alberta. Equitrekking host Darley Newman travels to Alberta, Canada to experience Western adventure and stunning natural scenery. (S4, Ep 1/9)</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/17/DE_VC_CTI_USQO570425A_5027446d-2ac7-11ec-87ac-0a9c8934df2b_20211011203305961.jpg"/>
   </programme>
+  <programme channel="DEBA33000419P" start="20211012053229 +0000" stop="20211012060134 +0000">
+    <title>Parelli: Amazing Grace</title>
+    <desc>Pat Parelli helps problem horse Amazing Grace through Natural Horsemanship methods. (S2, Ep 1/7)</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/60/DE_VC_CTI_USQO570425A_5027fa4c-2ac7-11ec-87ac-0a9c8934df2b_20211011203306149.jpg"/>
+  </programme>
   <channel id="DEAJ0500430A">
     <display-name>Rocket Beans TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/58/DEAJ0500430A_20200923T100617.png"/>
@@ -1502,6 +1507,11 @@
     <desc>Unsere Jungs und Mädels in der Games-Redaktion haben Gesprächsbedarf. In einer gemütlichen Runde plaudern sie beispielsweise über Octopath Traveler, dem neusten Nintendo Switch JRPG von den Bravely Default-Entwicklern und sonstige Gaming-Themen. </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/52/DE_VC_CTI_DEQY392104A_6856cbd5-701d-4aa8-ac19-5f0214dc5e6e_20211011183449915.jpg"/>
   </programme>
+  <programme channel="DEAJ0500430A" start="20211012052000 +0000" stop="20211012061000 +0000">
+    <title>Retro Klub</title>
+    <desc>Das Format für Pixelverliebte und die Ewiggestrigen von heute. Moderator Gregor Kartsios schwelgt mit euch in Erinnerungen, liefert Infos rund um Arcade-Klassiker, Sonic Mania, N64, Power Rangers und andere Retro-Schätze. Garantierter Nostalgie-Faktor!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/DE_VC_CTI_DEQY392104A_5d2f4c07-5858-4423-b00a-f7728f2f9e2b_20211011183449431.jpg"/>
+  </programme>
   <channel id="DEBB35000016V">
     <display-name>gTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/DEBB35000016V_20210908T010249.png"/>
@@ -1539,11 +1549,6 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <display-name>Comedy Central Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/40/DEAK3504500A_20200923T100509.png"/>
   </channel>
-  <programme channel="DEAK3504500A" start="20211011210200 +0000" stop="20211011212600 +0000">
-    <title>Drawn Together: Unsanfte Schmeicheleien</title>
-    <desc>'Drawn Together' nimmt die typischen 'Roomie-Realityshows' auf die Schippe - und das ohne Rücksicht auf Verluste. Acht verrückte Cartoon-Charaktere werden dazu unter einem Dach zusammengepfercht und müssen miteinander auskommen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/90/DE_VC_CTI_USQU352135A_DEAK3504500A-XWVE1PeLinDBIUxb_20211011183201114.jpg"/>
-  </programme>
   <programme channel="DEAK3504500A" start="20211011212600 +0000" stop="20211011215000 +0000">
     <title>Drawn Together: Reqiuem für eine Realityshow</title>
     <desc>'Drawn Together' nimmt die typischen 'Roomie-Realityshows' auf die Schippe - und das ohne Rücksicht auf Verluste. Acht verrückte Cartoon-Charaktere werden dazu unter einem Dach zusammengepfercht und müssen miteinander auskommen.</desc>
@@ -1643,6 +1648,11 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <title>Takeshis Castle Thailand</title>
     <desc>Hundert Kandidaten stehen bereit, um die Burg von Takeshi zu stürmen. Sie müssen den furchtbaren Felsenkanal überwinden und beweisen, dass sie das Zeug dazu haben, die Leibgarde zu besiegen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/48/DE_VC_CTI_USQU352135A_DEAK3504500A-XWYn_Ofl2XFVOmJu_20211011183314909.jpg"/>
+  </programme>
+  <programme channel="DEAK3504500A" start="20211012053700 +0000" stop="20211012060200 +0000">
+    <title>Takeshis Castle Thailand</title>
+    <desc>Hundert Kandidaten stehen bereit, um die Burg von Takeshi zu stürmen. Sie müssen den furchtbaren Felsenkanal überwinden und beweisen, dass sie das Zeug dazu haben, die Leibgarde zu besiegen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/30/DE_VC_CTI_USQU352135A_DEAK3504500A-XWYn-ufl2XFVOmJL_20211011183314753.jpg"/>
   </programme>
   <channel id="DEAJ0500418A">
     <display-name>Wissen 360°</display-name>
@@ -1764,11 +1774,6 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <display-name>Comedy Central Made in Germany</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/87/DEAK3504501A_20200923T100858.png"/>
   </channel>
-  <programme channel="DEAK3504501A" start="20211011205500 +0000" stop="20211011212300 +0000">
-    <title>Comedy Central Presents: Andreas Weber</title>
-    <desc>Comedy Central Presents -  1 Comedian, 1 Mikrophon und 1 Publikum, das hungrig auf Punshlines ist.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/25/DE_VC_CTI_USQU352135A_DEAK3504501A-X8302e1O3AAb_qBk_20211011183305892.jpg"/>
-  </programme>
   <programme channel="DEAK3504501A" start="20211011212300 +0000" stop="20211011215000 +0000">
     <title>Comedy Central Presents: Salim Samatou</title>
     <desc>Comedy Central Presents -  1 Comedian, 1 Mikrophon und 1 Publikum, das hungrig auf Punshlines ist.</desc>
@@ -1859,6 +1864,11 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <desc>Comedy Central Presents STANDUP 3000 – moderiert von Maxi Gstettenbauer.  3 phantastische Comedians, 1 Thema und ein Host der alle zusammenbringt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/24/DE_VC_CTI_USQU352135A_DEAK3504501A-XWd58Yek9Izb05ih_20211011183519853.jpg"/>
   </programme>
+  <programme channel="DEAK3504501A" start="20211012053400 +0000" stop="20211012060000 +0000">
+    <title>Comedy Central Presents STANDUP 3000: Deutsche Hindernisse</title>
+    <desc>Comedy Central Presents STANDUP 3000 – moderiert von Maxi Gstettenbauer.  3 phantastische Comedians, 1 Thema und ein Host der alle zusammenbringt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/01/DE_VC_CTI_USQU352135A_DEAK3504501A-XWd58Yek9Izb05im_20211011183234115.jpg"/>
+  </programme>
   <channel id="DEAK3504503A">
     <display-name>Pluto TV Animals</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/50/DEAK3504503A_20200923T100401.png"/>
@@ -1913,15 +1923,15 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <desc>Von dichten Wäldern über abgelegene Wüsten, entlang wilder Gebirgszüge bis hin zu farbenfrohen Meeren - der Nahe Osten hat eine spektakuläre, aber praktisch nicht gefilmte Naturgeschichte. Hier trifft Ost auf West und Wälder auf Wüsten</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/68/DE_VC_CTI_USQU352135A_DEAK3504503A-X3WCT5WdvwAahICk_20211011183202522.jpg"/>
   </programme>
+  <programme channel="DEAK3504503A" start="20211012053100 +0000" stop="20211012063100 +0000">
+    <title>Wildest Middle East</title>
+    <desc>Von dichten Wäldern über abgelegene Wüsten, entlang wilder Gebirgszüge bis hin zu farbenfrohen Meeren - der Nahe Osten hat eine spektakuläre, aber praktisch nicht gefilmte Naturgeschichte. Hier trifft Ost auf West und Wälder auf Wüsten</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/61/DE_VC_CTI_USQU352135A_DEAK3504503A-X3WCT5WdvwAahICs_20211011183121049.jpg"/>
+  </programme>
   <channel id="DEBA330003337">
     <display-name>PBS America</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/89/DEBA330003337_20210310T011158.png"/>
   </channel>
-  <programme channel="DEBA330003337" start="20211011203740 +0000" stop="20211011213737 +0000">
-    <title>The War/ Ep 1-A Necessary War</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/36/DE_VC_CTI_USQO570425A_582f110d-03ad-11ec-b677-0a9c8934df2b_20210823042308485.jpg"/>
-  </programme>
   <programme channel="DEBA330003337" start="20211011213737 +0000" stop="20211011231616 +0000">
     <title>American Experience (22)/ Ep 2207-Martin Luther King: Roads to Memphis</title>
     <desc>-</desc>
@@ -2005,11 +2015,6 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <display-name>Pluto TV Sitcoms</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/DEAK3504508A_20200923T100655.png"/>
   </channel>
-  <programme channel="DEAK3504508A" start="20211011210300 +0000" stop="20211011212900 +0000">
-    <title>Chaos City: Mit allen Mitteln</title>
-    <desc>Ein stellvertretender Bürgermeister von New York, unterstützt von einem ungewöhnlichen Personal, muss ständig den ahnungslosen Bürgermeister retten.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/34/DE_VC_CTI_USQU352135A_DEAK3504508A-YCJpO4e-BwAaKj2G_20211011183355895.jpg"/>
-  </programme>
   <programme channel="DEAK3504508A" start="20211011212900 +0000" stop="20211011215500 +0000">
     <title>Chaos City: Oh, Baby!</title>
     <desc>Ein stellvertretender Bürgermeister von New York, unterstützt von einem ungewöhnlichen Personal, muss ständig den ahnungslosen Bürgermeister retten.</desc>
@@ -2109,11 +2114,6 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/DEAJ3200004UF_20210609T004558.png"/>
   </channel>
-  <programme channel="DEAJ3200004UF" start="20211011205954 +0000" stop="20211011212954 +0000">
-    <title>FailFactory | Loud AF</title>
-    <desc>Turn up the volume and get ready for some LOUD NOISES that will have you going WTF.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/61/DE_VC_CTI_USQU352137A_DE-151-DEAJ3200004UF-44920_20211011131623596.jpg"/>
-  </programme>
   <programme channel="DEAJ3200004UF" start="20211011212954 +0000" stop="20211011215953 +0000">
     <title>FailFactory | Redneck Redemption</title>
     <desc>If you're in this episode, you might be a redneck.</desc>
@@ -2196,20 +2196,20 @@ The best of the worst for June 2020.</desc>
     <desc>Other hits on this playlist include "Wrong Way,"  "Hit Me Baby One More Time" and "Speed King."</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/04/DE_VC_CTI_USQU352137A_DE-151-DEAJ3200004UF-44986_20211011131714783.jpg"/>
   </programme>
-  <programme channel="DEAJ3200004UF" start="20211012050001 +0000" stop="20211012053001 +0000">
+  <programme channel="DEAJ3200004UF" start="20211012050001 +0000" stop="20211012053002 +0000">
     <title>FailArmy Playlist | False Start</title>
     <desc>Check out this playlist of some  of the best themed compilations accompanied by music to set the mood.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/03/DE_VC_CTI_USQU352137A_DE-151-DEAJ3200004UF-44987_20211011131550585.jpg"/>
+  </programme>
+  <programme channel="DEAJ3200004UF" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>FailArmy Playlist | Everything Sucks</title>
+    <desc>Other hits on this playlist include "Vacuum,"  "Down for Double" and "Curb Your Enthusiasm."</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/19/DE_VC_CTI_USQU352137A_DE-151-DEAJ3200004UF-44988_20211011131535590.jpg"/>
   </programme>
   <channel id="DEBA33000356L">
     <display-name>DUST</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/DEBA33000356L_20210414T024456.png"/>
   </channel>
-  <programme channel="DEBA33000356L" start="20211011210005 +0000" stop="20211011213005 +0000">
-    <title>Orbital Redux</title>
-    <desc>Max and Tommie race against the clock as the virus takes over their ship.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/57/DE_VC_CTI_USQO570425A_7abd73fb-ec3a-11eb-b3b8-0a9c8934df2b_20210725085942775.jpg"/>
-  </programme>
   <programme channel="DEBA33000356L" start="20211011213005 +0000" stop="20211011220006 +0000">
     <title>Orbital Redux</title>
     <desc>Tommie’s boyfriend busts her for using autoreplies to his love letters.</desc>
@@ -2264,11 +2264,6 @@ The best of the worst for June 2020.</desc>
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/DEAJ3200005JH_20201208T050228.png"/>
   </channel>
-  <programme channel="DEAJ3200005JH" start="20211011210010 +0000" stop="20211011213010 +0000">
-    <title>Viral WIld | 1.4</title>
-    <desc>Witness the rough and tumble animal world in the raw. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/DE_VC_CTI_USQU352137A_DE-152-DEAJ3200005JH-850185_20211011131636823.jpg"/>
-  </programme>
   <programme channel="DEAJ3200005JH" start="20211011213010 +0000" stop="20211011220000 +0000">
     <title>Viral Wild | 2.8</title>
     <desc>The wild lures us in with its beauty and awe... and then pounces. </desc>
@@ -2353,6 +2348,11 @@ The best of the worst for June 2020.</desc>
     <title>Puppy Love | Ep. 1.1</title>
     <desc>The cutest puppies. Nonstop.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/52/DE_VC_CTI_USQU352137A_DE-152-DEAJ3200005JH-75466_20211011131703947.jpg"/>
+  </programme>
+  <programme channel="DEAJ3200005JH" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>Kitten Love | Ep. 1.2</title>
+    <desc>The cutest kittens. Nonstop.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/55/DE_VC_CTI_USQU352137A_DE-152-DEAJ3200005JH-89017_20211011131622526.jpg"/>
   </programme>
   <channel id="DEAJ700007OT">
     <display-name>Pluto TV Serie+</display-name>
@@ -2467,15 +2467,15 @@ The best of the worst for June 2020.</desc>
     <desc>Ein "Catfish" ist jemand, der online vorgibt anders zu sein, als er in Wirklichkeit ist. Nev und Max besuchen Paare, die sich noch nie zuvor in der Realität getroffen haben und überprüfen für sie ob der Partner mit seinem Onlineimage übereinstimmt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/17/DE_VC_CTI_USQU352135A_DEAK3504502A-Xcmz0o1utce06Uaa_20211011183308802.jpg"/>
   </programme>
+  <programme channel="DEAK3504502A" start="20211012053000 +0000" stop="20211012062000 +0000">
+    <title>Catfish: The TV Show: Whitney &amp; Bre</title>
+    <desc>Ein "Catfish" ist jemand, der online vorgibt anders zu sein, als er in Wirklichkeit ist. Nev und Max besuchen Paare, die sich noch nie zuvor in der Realität getroffen haben und überprüfen für sie ob der Partner mit seinem Onlineimage übereinstimmt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/13/DE_VC_CTI_USQU352135A_DEAK3504502A-Xcmz3I1utce06Ubd_20211011183357541.jpg"/>
+  </programme>
   <channel id="DEAJ7000033P">
     <display-name>MTV Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/12/DEAJ7000033P_20200923T100631.png"/>
   </channel>
-  <programme channel="DEAJ7000033P" start="20211011210400 +0000" stop="20211011212700 +0000">
-    <title>Pimp my Ride: 1967 Ford Mustang</title>
-    <desc>'Pimp My Ride' mit Xzibit ist das Tuning-Format von MTV, das sich größter Beliebtheit erfreut. 'Pimp My Ride' zeigt, wie man alte Hecktürmodelle in hochqualifizierte, voll-präparierte Pimpmobiles inklusive Entertainment-Center umrüstet.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/85/DE_VC_CTI_USQU352135A_DEAJ7000033P-XOZKDCaKCwju35Xm_20211011183335064.jpg"/>
-  </programme>
   <programme channel="DEAJ7000033P" start="20211011212700 +0000" stop="20211011215000 +0000">
     <title>Pimp my Ride: 1985 Ford Ranger</title>
     <desc>'Pimp My Ride' mit Xzibit ist das Tuning-Format von MTV, das sich größter Beliebtheit erfreut. 'Pimp My Ride' zeigt, wie man alte Hecktürmodelle in hochqualifizierte, voll-präparierte Pimpmobiles inklusive Entertainment-Center umrüstet.</desc>
@@ -2614,11 +2614,6 @@ The best of the worst for June 2020.</desc>
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/DEAJ3500005RK_20201208T050231.png"/>
   </channel>
-  <programme channel="DEAJ3500005RK" start="20211011210011 +0000" stop="20211011213011 +0000">
-    <title>Obsesh TV: Adventure Amplified | Ep. 1.9</title>
-    <desc>The holy grail of cliff jumping as told by filmmaker and cliff jumper Nick Coulter. Andrew Muse gets the river rapids challenge of a lifetime from pro kayaker Rafa Ortiz. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/39/DE_VC_CTI_USQU352137A_DE-386-DEAJ3500005RK-2051755_20211011131704248.jpg"/>
-  </programme>
   <programme channel="DEAJ3500005RK" start="20211011213011 +0000" stop="20211011220000 +0000">
     <title>Obsesh TV: Adventure Amplified | Ep. 1.10</title>
     <desc>We span the globe for an epic road trip and freestyle cliff jumping competition across the Pacific Northwest, followed by an aerial journey of the Maldives from Dimag Ozgum, aka VacationWolf. </desc>
@@ -2694,10 +2689,15 @@ The best of the worst for June 2020.</desc>
     <desc>Practice yields incredible results.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/17/DE_VC_CTI_USQU352137A_DE-386-DEAJ3500005RK-743185_20211011131537566.jpg"/>
   </programme>
-  <programme channel="DEAJ3500005RK" start="20211012050000 +0000" stop="20211012053000 +0000">
+  <programme channel="DEAJ3500005RK" start="20211012050000 +0000" stop="20211012053001 +0000">
     <title>Exhibition Awesome | Walk the Line</title>
     <desc>They aren't afraid to live their life on the edge.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/13/DE_VC_CTI_USQU352137A_DE-386-DEAJ3500005RK-735602_20211011131639022.jpg"/>
+  </programme>
+  <programme channel="DEAJ3500005RK" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>Exhibition Awesome | High Dive</title>
+    <desc>These stunts are making a big splash.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/78/DE_VC_CTI_USQU352137A_DE-386-DEAJ3500005RK-735617_20211011131609036.jpg"/>
   </programme>
   <channel id="DEAJ700008WL">
     <display-name>Pluto TV Paranormal</display-name>
@@ -2757,11 +2757,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Ice Pilots</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/82/DEAJ7000096L_20210414T024304.png"/>
   </channel>
-  <programme channel="DEAJ7000096L" start="20211011203300 +0000" stop="20211011212600 +0000">
-    <title>Ice Pilots: Ein dickes Geschäft</title>
-    <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/95/DE_VC_CTI_USQU352135A_DEAJ7000096L-XShRQtvD4jYD-jut_20211011183200770.jpg"/>
-  </programme>
   <programme channel="DEAJ7000096L" start="20211011212600 +0000" stop="20211011221900 +0000">
     <title>Ice Pilots: Extreme Bedingungen</title>
     <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
@@ -2807,15 +2802,15 @@ The best of the worst for June 2020.</desc>
     <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/67/DE_VC_CTI_USQU352135A_DEAJ7000096L-XUp9zC_-2oednaMA_20211011183350531.jpg"/>
   </programme>
+  <programme channel="DEAJ7000096L" start="20211012052400 +0000" stop="20211012061600 +0000">
+    <title>Ice Pilots: Eingefroren</title>
+    <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/12/DE_VC_CTI_USQU352135A_DEAJ7000096L-XShQs9vD4jYD-jqb_20211011183425935.jpg"/>
+  </programme>
   <channel id="DEBA3300038NO">
     <display-name>Craction TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/53/DEBA3300038NO_20210512T003357.png"/>
   </channel>
-  <programme channel="DEBA3300038NO" start="20211011211500 +0000" stop="20211011213000 +0000">
-    <title> 19-2</title>
-    <desc>Bei einem Einsatz des Streifenwagens 19–2 vom 19. Revier in Montreal wird Nick Barrons Kollege Harvey schwer verletzt. Nick wirft sich vor, keine Verstärkung gerufen zu haben. Als er wieder im Dienst erscheint, wird ihm der Neuling Ben Chartier zugeteilt, der zuvor bei der Provinzpolizei war. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/69/DE_VC_CTI_USQO570425A_f0b300eb-2860-11ec-b6f0-0a9c8934df2b_20211008204644438.jpg"/>
-  </programme>
   <programme channel="DEBA3300038NO" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title> 19-2</title>
     <desc>Bei einem Einsatz des Streifenwagens 19–2 vom 19. Revier in Montreal wird Nick Barrons Kollege Harvey schwer verletzt. Nick wirft sich vor, keine Verstärkung gerufen zu haben. Als er wieder im Dienst erscheint, wird ihm der Neuling Ben Chartier zugeteilt, der zuvor bei der Provinzpolizei war. </desc>
@@ -2979,6 +2974,11 @@ The best of the worst for June 2020.</desc>
     <desc>Der Präsident der Vereinigten Staaten erklärt seine Absicht, Eggman zu besiegen. Unterdessen versucht auch Knuckles, in Eggmans Basis einzudringen. Doch Eggman hat eine wirksame Waffe, gegen die keiner so leicht ankommt: einen riesigen Windroboter!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/54/DE_VC_CTI_USQO570425A_effe46c4-2860-11ec-b6f0-0a9c8934df2b_20211008204644235.jpg"/>
   </programme>
+  <programme channel="DEBA3300038NO" start="20211012053000 +0000" stop="20211012054500 +0000">
+    <title>Sonic X</title>
+    <desc>Chris schmeißt  bei sich zu Hause eine Party und lädt dazu seinen Lehrer Stuart und den Bruder seiner Mutter, Sam Speed, ein.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/83/DE_VC_CTI_USQO570425A_eff299d6-2860-11ec-b6f0-0a9c8934df2b_20211008204548366.jpg"/>
+  </programme>
   <channel id="DEAK0500447A">
     <display-name>Nanoki</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/DEAK0500447A_20210310T011205.png"/>
@@ -3021,11 +3021,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Nick Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/35/DEAJ700002N8_20201029T004137.png"/>
   </channel>
-  <programme channel="DEAJ700002N8" start="20211011205500 +0000" stop="20211011212000 +0000">
-    <title>Hey Arnold: Helgas Verehrer / Verliebt, verlobt, ...</title>
-    <desc>Arnold ist ein normaler Junge außer, dass sein Kopf die Form eines Footballs hat. In einer großen Stadt setzt er sich für Recht und Ordnung ein. Arnold kann heute der Held des Tages sein – morgen schon der Trottel vom Dienst.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/33/DE_VC_CTI_USQU352135A_DEAJ700002N8-X1CkrmHxsQAa_0oh_20211011183306515.jpg"/>
-  </programme>
   <programme channel="DEAJ700002N8" start="20211011212000 +0000" stop="20211011214500 +0000">
     <title>Hey Arnold: Pausenaufsicht / Harolds Bar Mizwa</title>
     <desc>Arnold ist ein normaler Junge außer, dass sein Kopf die Form eines Footballs hat. In einer großen Stadt setzt er sich für Recht und Ordnung ein. Arnold kann heute der Held des Tages sein – morgen schon der Trottel vom Dienst.</desc>
@@ -3130,11 +3125,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Nick Rewind</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/98/DEAJ700004BT_20201006T090353.png"/>
   </channel>
-  <programme channel="DEAJ700004BT" start="20211011210000 +0000" stop="20211011212500 +0000">
-    <title>True Jackson: Rettet die Knabber-Klause</title>
-    <desc>Eine Schülerin als Vize-Präsidentin der coolsten Modefirma - Hier kommt True Jackson!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/62/DE_VC_CTI_USQU352135A_DEAJ700004BT-Xw1zjgMcHQAaLXZH_20211011183355331.jpg"/>
-  </programme>
   <programme channel="DEAJ700004BT" start="20211011212500 +0000" stop="20211011215000 +0000">
     <title>True Jackson: Königlicher Spaß</title>
     <desc>Eine Schülerin als Vize-Präsidentin der coolsten Modefirma - Hier kommt True Jackson!</desc>
@@ -3239,11 +3229,6 @@ The best of the worst for June 2020.</desc>
     <display-name>SpongeBob Schwammkopf</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/DEAJ70000561_20201029T004213.png"/>
   </channel>
-  <programme channel="DEAJ70000561" start="20211011210200 +0000" stop="20211011212700 +0000">
-    <title>SpongeBob Schwammkopf</title>
-    <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/48/DE_VC_CTI_USQU352135A_DEAJ70000561-XSdeohUgriUpW3Sa_20211011183200161.jpg"/>
-  </programme>
   <programme channel="DEAJ70000561" start="20211011212700 +0000" stop="20211011215300 +0000">
     <title>SpongeBob Schwammkopf</title>
     <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
@@ -3339,15 +3324,15 @@ The best of the worst for June 2020.</desc>
     <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/18/DE_VC_CTI_USQU352135A_DEAJ70000561-XSddfxUgriUpW3Cm_20211011183337071.jpg"/>
   </programme>
+  <programme channel="DEAJ70000561" start="20211012052300 +0000" stop="20211012054800 +0000">
+    <title>SpongeBob Schwammkopf</title>
+    <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/21/DE_VC_CTI_USQU352135A_DEAJ70000561-XSdd8RUgriUpW3Kh_20211011183515109.jpg"/>
+  </programme>
   <channel id="DEAJ700006MR">
     <display-name>iCarly</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/84/DEAJ700006MR_20201029T004216.png"/>
   </channel>
-  <programme channel="DEAJ700006MR" start="20211011210600 +0000" stop="20211011213300 +0000">
-    <title>iCarly: Ein liebes Lied</title>
-    <desc>Warum wird Entertainment für Kinder bloß immer von Erwachsenen gemacht? Das fragt sich die 13-jährige Carly Shay – und beschließt eines Tages, zusammen mit ihren Freunden "Sam" und "Freddie" eine eigene Internet-Show auf die Beine zu stellen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/69/DE_VC_CTI_USQU352135A_DEAJ700006MR-Xx_j9yJ0IgAHcgvy_20211011183357307.jpg"/>
-  </programme>
   <programme channel="DEAJ700006MR" start="20211011213300 +0000" stop="20211011220000 +0000">
     <title>iCarly: Das Großvaterdebakel</title>
     <desc>Warum wird Entertainment für Kinder bloß immer von Erwachsenen gemacht? Das fragt sich die 13-jährige Carly Shay – und beschließt eines Tages, zusammen mit ihren Freunden "Sam" und "Freddie" eine eigene Internet-Show auf die Beine zu stellen.</desc>
@@ -3442,11 +3427,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Teletubbies</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/DEBA3300023IR_20210113T004304.png"/>
   </channel>
-  <programme channel="DEBA3300023IR" start="20211011210027 +0000" stop="20211011213027 +0000">
-    <title>Blumen basteln</title>
-    <desc>Po bekommt von den anderen drei Teletubbies einen Auftrag: Sie soll auf die Lieblingssachen der anderen aufpassen. Das sind Laa-Laas Ball, Tinky Winkys Tasche und Dipsys Hut.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/53/DE_VC_CTI_USQU352137A_DE-669-DEBA3300023IR-10772370_20211011131703123.jpg"/>
-  </programme>
   <programme channel="DEBA3300023IR" start="20211011213027 +0000" stop="20211011220000 +0000">
     <title>Verkleiden</title>
     <desc>Tinky Winky, Dipsy, Laa Laa und Po erfinden ein neues Spiel: Sie wandern jeweils zu zweit über die Hügel, und immer wenn sie sich begegnen, rufen sie sich „Ah-Oh“ zu, was bei den Teletubbies "Hallo!" bedeutet. Aber da: Mitten im Spiel dreht sich plötzlich das Zauberwindrad!</desc>
@@ -3522,20 +3502,20 @@ The best of the worst for June 2020.</desc>
     <desc>Tinky Winky, Dipsy, Laa Laa und Po tanzen gerade vergnügt auf den Hügeln im Teletubby-Land. Da dreht sich plötzlich das Zauberwindrad. Schnell laufen die vier auf den Hügel und schauen gespannt auf das Teletubby-Bauchbild.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/82/DE_VC_CTI_USQU352137A_DE-669-DEBA3300023IR-10772373_20211011131655403.jpg"/>
   </programme>
-  <programme channel="DEBA3300023IR" start="20211012050007 +0000" stop="20211012053007 +0000">
+  <programme channel="DEBA3300023IR" start="20211012050007 +0000" stop="20211012053008 +0000">
     <title>Frau Ulkig: Freche Socke</title>
     <desc>Der Film auf dem Tubby-Bauchbild erzählt die Geschichte von der frechen Wollsocke. Die soll eigentlich ein Schlaflied für den Teddy singen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/24/DE_VC_CTI_USQU352137A_DE-669-DEBA3300023IR-10772374_20211011131544938.jpg"/>
+  </programme>
+  <programme channel="DEBA3300023IR" start="20211012053008 +0000" stop="20211012060008 +0000">
+    <title>Deliah packt eine Reisetasche</title>
+    <desc>Der Film auf dem Teletubby-Bauchbild zeigt uns zwei Mädchen. Delilah und ihre Schwester Cäcilia packen eine große Reisetasche.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/23/DE_VC_CTI_USQU352137A_DE-669-DEBA3300023IR-10772377_20211011131714094.jpg"/>
   </programme>
   <channel id="DEBA3300025TK">
     <display-name>SuperToons TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/61/DEBA3300025TK_20201208T050240.png"/>
   </channel>
-  <programme channel="DEBA3300025TK" start="20211011203000 +0000" stop="20211011213000 +0000">
-    <title>Bä-bä-bären</title>
-    <desc>Die Zeichentrickserie Bjorn &amp; Bucky folgt den Abenteuern zweier unermüdlicher – und ziemlich schelmischer – kleiner Bären: einem Braunbären namens Bucky und einem Eisbären namens Bjorn.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/41/DE_VC_CTI_USQU352137A_DE-660-DEBA3300025TK-14520918_20211011131557495.jpg"/>
-  </programme>
   <programme channel="DEBA3300025TK" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Chuck Huhn: Gib Gas</title>
     <desc>Chuck Huhn: Gib Gas ist eine Show, die auf der ursprünglichen Chuck Huhn-Serie basiert. Das goldene Ei, das Chuck Adoodledoo besaß, schlüpfte zu einem kleinen Phönix.</desc>
@@ -3680,6 +3660,11 @@ The best of the worst for June 2020.</desc>
     <desc>Star und Promi News </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/31/DE_VC_CTI_DEQY392104A_f3216fa9-c5cf-4e1a-9327-0fca346649ee_20211011183423484.jpg"/>
   </programme>
+  <programme channel="DEAH3904008A" start="20211012052500 +0000" stop="20211012061000 +0000">
+    <title>M4TV</title>
+    <desc>Lifestyle und Sport</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/03/DE_VC_CTI_DEQY392104A_12d033a1-8bce-49f9-9e47-4c2a02341a8c_20211011183147811.jpg"/>
+  </programme>
   <channel id="DEAH3904005A">
     <display-name>art-tv-ch</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/DEAH3904005A_20200923T100448.png"/>
@@ -3768,11 +3753,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Yogamour</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/29/DEAH3904007A_20200923T100409.png"/>
   </channel>
-  <programme channel="DEAH3904007A" start="20211011210500 +0000" stop="20211011212500 +0000">
-    <title>Tanzende Krieger</title>
-    <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/15/DE_VC_CTI_DEQY392104A_cee6f154-289a-4873-b667-20d825450e50_20211011203235365.jpg"/>
-  </programme>
   <programme channel="DEAH3904007A" start="20211011212500 +0000" stop="20211011214500 +0000">
     <title>Ohana Flow 1</title>
     <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
@@ -3883,15 +3863,15 @@ The best of the worst for June 2020.</desc>
     <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/15/DE_VC_CTI_DEQY392104A_ad6aee44-e0d9-4249-ac0d-974dc6b5daf8_20211011203248456.jpg"/>
   </programme>
+  <programme channel="DEAH3904007A" start="20211012053500 +0000" stop="20211012055500 +0000">
+    <title>Yin-Yoga</title>
+    <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/28/DE_VC_CTI_DEQY392104A_bd5061a2-c2e3-4cf0-b9ec-ed93312a67e5_20211011203200296.jpg"/>
+  </programme>
   <channel id="DEBA100000404">
     <display-name>Travelxp</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png"/>
   </channel>
-  <programme channel="DEBA100000404" start="20211011205921 +0000" stop="20211011212921 +0000">
-    <title>Kissed By The Sea Comino, Malta</title>
-    <desc>Tara visits the Comino island and explores the rugged landscapes of Mdina. Later, she learns about lifestyle of locals in Marsaxlokk and enjoys her time at Popeye Village.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/90/DE_VC_CTI_USQU352137A_DE-556-DEBA100000404-2280189_20211011131609976.jpg"/>
-  </programme>
   <programme channel="DEBA100000404" start="20211011212921 +0000" stop="20211011215922 +0000">
     <title>City Breaks Frankfurt, Germany</title>
     <desc>Christina is in Frankfurt and receives light shower rains.She decides to beat the rains and head out to one of the smaller towns. She visits Rudesheim, travels over historical sites and mid Rhine valley, home to the famous Riesling.</desc>
@@ -3977,15 +3957,15 @@ The best of the worst for June 2020.</desc>
     <desc>Indeya unwinds in Sri Lanka at a nature resort. She visits a 2200-year-old Buddhist temple, tries body boarding, explores the Yala National Park, enjoys a massage by the beach and cyles through the villages.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/92/DE_VC_CTI_USQU352137A_DE-556-DEBA100000404-2442146_20211011131611184.jpg"/>
   </programme>
+  <programme channel="DEBA100000404" start="20211012052935 +0000" stop="20211012055935 +0000">
+    <title>World Heritage Cyprus</title>
+    <desc>In the heritage lanes of the mediterranean island, buried in the depths of time, are the archaeological sites of Cyprus. Be it Khirokitia, one of the most significant Neolithic settlements of Cyprus, Paphos, a mysterious city with Greek influences, or the vibrant splashes in the churches constructed during the Byzantine rule - Cyprus is rich in its heritage.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/99/DE_VC_CTI_USQU352137A_DE-556-DEBA100000404-2844836_20211011131704576.jpg"/>
+  </programme>
   <channel id="DEAH3904009A">
     <display-name>EAT CLUB TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/66/DEAH3904009A_20200923T100513.png"/>
   </channel>
-  <programme channel="DEAH3904009A" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>foodpeoplePLACES</title>
-    <desc>Food culture from allover the world</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/DE_VC_CTI_DEQY392104A_3ae7e47a-9042-44f3-906c-72b39e6fc2f3_20211011203319311.jpg"/>
-  </programme>
   <programme channel="DEAH3904009A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Leckerschmecker Top 15 </title>
     <desc>Die beliebtesten Rezepte des Monats &amp; ein Highlight</desc>
@@ -4064,6 +4044,11 @@ The best of the worst for June 2020.</desc>
     <desc>Tips &amp; Tricks für die Zubereitung von Früchten</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/DE_VC_CTI_DEQY392104A_f769afa2-a24f-424f-82d5-38eb44802a0c_20211011203140766.jpg"/>
   </programme>
+  <programme channel="DEAH3904009A" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>foodpeoplePLACES</title>
+    <desc>Food culture from allover the world</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/DE_VC_CTI_DEQY392104A_3ae7e47a-9042-44f3-906c-72b39e6fc2f3_20211011203319311.jpg"/>
+  </programme>
   <channel id="DEBA3300022IF">
     <display-name>Fashion TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/31/DEBA3300022IF_20210113T004308.png"/>
@@ -4097,11 +4082,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Itsin TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/DEAJ0500415A_20200923T100532.png"/>
   </channel>
-  <programme channel="DEAJ0500415A" start="20211011203000 +0000" stop="20211011213000 +0000">
-    <title>Prominent</title>
-    <desc>Spannende Inhalte rund um die bekanntesten aber auch beliebtesten Promis und Influencer.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/02/DE_VC_CTI_DEQY392104A_9950e815-9f16-451c-90d6-628ba7f612c8_20211011203248629.jpg"/>
-  </programme>
   <programme channel="DEAJ0500415A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Katy Perry</title>
     <desc>Ihre Karriere startete mit dem Hit „I Kissed A Girl“ und inzwischen ist Katy Perry Mama und glücklich verheiratet. Alle News zu ihr hier!</desc>
@@ -4172,6 +4152,11 @@ The best of the worst for June 2020.</desc>
     <desc>News von deinen Disney Stars </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/69/DE_VC_CTI_DEQY392104A_8b4ed185-537f-44b9-bdac-8da64615fc7a_20211011203236291.jpg"/>
   </programme>
+  <programme channel="DEAJ0500415A" start="20211012052500 +0000" stop="20211012062500 +0000">
+    <title>Prominent</title>
+    <desc>Spannende Inhalte rund um die bekanntesten aber auch beliebtesten Promis und Influencer.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/02/DE_VC_CTI_DEQY392104A_9950e815-9f16-451c-90d6-628ba7f612c8_20211011203248629.jpg"/>
+  </programme>
   <channel id="DEAJ0500420A">
     <display-name>Health TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/DEAJ0500420A_20200923T100529.png"/>
@@ -4190,11 +4175,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Hallo:Eltern</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/69/DEBA1000006W2_20210908T010316.png"/>
   </channel>
-  <programme channel="DEBA1000006W2" start="20211011202319 +0000" stop="20211011213135 +0000">
-    <title>Familien-Stories</title>
-    <desc>Emotionale und interessante Geschichten über Familien</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/04/DE_VC_CTI_USQU352137A_DE-909-DEBA1000006W2-13842867_20211011131603172.jpg"/>
-  </programme>
   <programme channel="DEBA1000006W2" start="20211011213135 +0000" stop="20211011220213 +0000">
     <title>DIY-Tipps für Hochzeiten</title>
     <desc>DIY-Tipps für die Hochzeit</desc>
@@ -4315,10 +4295,15 @@ The best of the worst for June 2020.</desc>
     <desc>Hausmittel für deine Gesundheit.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/29/DE_VC_CTI_USQU352137A_DE-909-DEBA1000006W2-13759948_20211011131545768.jpg"/>
   </programme>
-  <programme channel="DEBA1000006W2" start="20211012051902 +0000" stop="20211012053104 +0000">
+  <programme channel="DEBA1000006W2" start="20211012051902 +0000" stop="20211012053105 +0000">
     <title>Ideen für dein Baby</title>
     <desc>Interessante Ideen für Babys</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/42/DE_VC_CTI_USQU352137A_DE-909-DEBA1000006W2-13809596_20211011131715112.jpg"/>
+  </programme>
+  <programme channel="DEBA1000006W2" start="20211012053105 +0000" stop="20211012054818 +0000">
+    <title>Selbstgemachtes fürs Eigenheim</title>
+    <desc>Tolle Ideen für Selbstgemachtes fürs Eigenheim</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/11/DE_VC_CTI_USQU352137A_DE-909-DEBA1000006W2-13681858_20211011131600133.jpg"/>
   </programme>
   <channel id="DEAK0500439A">
     <display-name>Just cooking</display-name>
@@ -4353,11 +4338,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Tastemade</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/DEBA2200006XB_20200923T100605.png"/>
   </channel>
-  <programme channel="DEBA2200006XB" start="20211011210001 +0000" stop="20211011213001 +0000">
-    <title>Make this Tonight</title>
-    <desc>Die Fülle des Frühlings ist in diesem Menü von Chefköchin Shirley Chung zu sehen. Süße Garnelen werden mit englischen Erbsen kombiniert, Spargel wird mit schwarzer Bohnensauce verfeinert und mit einem Spiegelei belegt, Grünkohl wird in aromatischen Reis mit geräuchertem Forellenrogen geworfen, und zum Abschluss hausgemachtes Mochi mit Frühlingserdbeeren und dekadentem Haselnussaufstrich.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/55/DE_VC_CTI_USQO570425A_d102e6e1-2aa3-11ec-87ac-0a9c8934df2b_20211011164727722.jpg"/>
-  </programme>
   <programme channel="DEBA2200006XB" start="20211011213001 +0000" stop="20211011220001 +0000">
     <title>Make this Tonight</title>
     <desc>Als Mutter von vier Jungen hat Chefköchin Christy Vega gemeistert, wie man alle am Tisch zufrieden stellt. In dieser Folge zaubert sie ein familienfreundliches Menü, das sowohl Kinder als auch Erwachsene lieben werden. Guacamole aus süßen Erbsen mit Oaxaca-Quesadillas, Heilbutt mit Papaya-Salsa und einer Beilage aus grünen Bohnen mit Avocado- und Cotija-Käse und zum Nachtisch die ultimative Leckerei, S’mores Riegel.</desc>
@@ -4438,15 +4418,15 @@ The best of the worst for June 2020.</desc>
     <desc>Harry und Bruce ziehen ihre Regenmäntel an und fahren nach Seattle, um fantastisches Essen, Cocktails und eine absurde Menge Kaffee zu genießen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/19/DE_VC_CTI_USQO570425A_d0f9ca6f-2aa3-11ec-87ac-0a9c8934df2b_20211011164610978.jpg"/>
   </programme>
+  <programme channel="DEBA2200006XB" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Day of Gluttony</title>
+    <desc>Harry und Bruce beenden die erste Staffel von Day of Gluttony, indem sie 24 fantastische Drinks und Gerichte an Kanadas Westküste verschlingen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/35/DE_VC_CTI_USQO570425A_d0fa6bd1-2aa3-11ec-87ac-0a9c8934df2b_20211011164611324.jpg"/>
+  </programme>
   <channel id="DEAK3504506A">
     <display-name>Pluto TV Inside</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/34/DEAK3504506A_20200923T100647.png"/>
   </channel>
-  <programme channel="DEAK3504506A" start="20211011211301 +0000" stop="20211011213501 +0000">
-    <title>Auction Hunters: Machine Gun Ton</title>
-    <desc>In Amerika werden täglich über zehntausend Lagerräume zur öffentlichen Versteigerung angeboten. Clinton „Ton“ Jones und Allen Haff versuchen, Auktionen zu gewinnen, Schätze zu erwerben und sie mit Gewinn zu verkaufen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/45/DE_VC_CTI_USQU352135A_DEAK3504506A-Xzq4fSqmEAAagT0M_20211011183425183.jpg"/>
-  </programme>
   <programme channel="DEAK3504506A" start="20211011213501 +0000" stop="20211011215701 +0000">
     <title>Auction Hunters: Always Money in Philadelphia</title>
     <desc>In Amerika werden täglich über zehntausend Lagerräume zur öffentlichen Versteigerung angeboten. Clinton „Ton“ Jones und Allen Haff versuchen, Auktionen zu gewinnen, Schätze zu erwerben und sie mit Gewinn zu verkaufen.</desc>
@@ -4561,11 +4541,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Beauty TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/38/DEAK0500453A_20200923T100457.png"/>
   </channel>
-  <programme channel="DEAK0500453A" start="20211011203500 +0000" stop="20211011212000 +0000">
-    <title>Jünger und besser aussehen</title>
-    <desc>Bei Beauty TV dreht sich alles um die individuelle Schönheit. Experten aus allen Bereichen kommen zu Wort: Beauty-Redakteurinnen, Blogger, Influencer, Stylisten und Models verraten den ein oder anderen Geheimtipp für strahlendes Aussehen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/49/DE_VC_CTI_DEQY392104A_52714ddd-6bb1-43b7-b108-8f2225994942_20211011203320452.jpg"/>
-  </programme>
   <programme channel="DEAK0500453A" start="20211011212000 +0000" stop="20211011214000 +0000">
     <title>Pilates: Energy &amp; Grace</title>
     <desc>Eine aufrechte Haltung strahlt Selbstbewusstsein und Stärke aus. Die „Energy &amp; Grace“ Pilates-Workouts von Beauty TV und My Blossom trainieren eure Balance und verhelfen euch zu einer starken Körpermitte.</desc>
@@ -4655,6 +4630,11 @@ The best of the worst for June 2020.</desc>
     <title>Yoga: Detox &amp; Let Go</title>
     <desc>Unter dem Motto „Detox &amp; Let Go“ nehmen euch Beauty TV und My Blossom mit auf eine Yoga-Reise. Die ausgewählten Yoga-Sessions entspannen Körper und Geist, befreien den Kopf und helfen euch dabei, Negatives loszulassen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/19/DE_VC_CTI_DEQY392104A_64a59846-c672-4365-863e-c29af5d302c0_20211011203320796.jpg"/>
+  </programme>
+  <programme channel="DEAK0500453A" start="20211012052500 +0000" stop="20211012060500 +0000">
+    <title>Meditation &amp; Yoga: Unwind &amp; Relax</title>
+    <desc>Zum Schluss zeigen Beauty TV und My Blossom drei Meditations-Anleitungen zum Entspannten und Kraft tanken. Ob morgens, zum Einschlafen oder zwischendurch – die Meditationen schaffen kleine Achtsamkeits-Momente im Alltag. Abschalten kann so einfach sein!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/87/DE_VC_CTI_DEQY392104A_02fb6de6-6826-4f4e-8b19-c5831555e1e3_20211011203159435.jpg"/>
   </programme>
   <channel id="DEAK0500457A">
     <display-name>Monarda Arts</display-name>
@@ -4810,11 +4790,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Bachstiftung</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/13/DEAJ0500427A_20200923T100455.png"/>
   </channel>
-  <programme channel="DEAJ0500427A" start="20211011205500 +0000" stop="20211011213500 +0000">
-    <title>Kantaten 4</title>
-    <desc> Chor &amp; Orchester der J.S. Bach-Stiftung bringen das gesamte Vokalwerk von Johann Sebastian Bach (1685−1750) zur Aufführung </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/DE_VC_CTI_DEQY392104A_9aab1c2a-43d6-418a-adea-f1345c94ae52_20211011203257711.jpg"/>
-  </programme>
   <programme channel="DEAJ0500427A" start="20211011213500 +0000" stop="20211011220000 +0000">
     <title>Kantaten 1</title>
     <desc>Chor &amp; Orchester der J.S. Bach-Stiftung bringen das gesamte Vokalwerk von Johann Sebastian Bach (1685−1750) zur Aufführung.</desc>
@@ -4918,6 +4893,11 @@ The best of the worst for June 2020.</desc>
     <desc>Erleben Sie mit GoldStar TV die Welt des Schlagers und ihre großen Stars hautnah.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/66/DE_VC_CTI_DEQY392104A_0183c154-c0e7-475d-922d-8beaf02c23f1_20211011203259138.jpg"/>
   </programme>
+  <programme channel="DEAK0500445A" start="20211012053500 +0000" stop="20211012064000 +0000">
+    <title>Goldies</title>
+    <desc>Erleben Sie mit GoldStar TV die Welt des Schlagers und ihre großen Stars hautnah.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/20/DE_VC_CTI_DEQY392104A_f81d4e46-df3e-4e03-912a-e69809c70727_20211011203259217.jpg"/>
+  </programme>
   <channel id="DEBA1000001ZC">
     <display-name>Qello Concerts by Stingray</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/DEBA1000001ZC_20200923T100341.png"/>
@@ -5005,11 +4985,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/DEBA2200005C9_20210209T093444.png"/>
   </channel>
-  <programme channel="DEBA2200005C9" start="20211011205900 +0000" stop="20211011213600 +0000">
-    <title>Carl Cox - Awakenings Festival</title>
-    <desc>In dieser Aufnahme der letzten 30 Minuten von Carl Cox' Set bei Awakenings 2018 in Amsterdam zieht der britische Superstar DJ alle Register. Im Zentrum einer architektonisch eindrucksvollen Bühne mit perfekt synchronisierten Nebel- und Lichtverhältnissen trifft Cox die Menge mit einem Schwall von Techno-Stampfern.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/20/DE_VC_CTI_USQO570425A_dceab358-1cc3-11ec-a57a-0a9c8934df2b_20210923232912158.jpg"/>
-  </programme>
   <programme channel="DEBA2200005C9" start="20211011213600 +0000" stop="20211012000300 +0000">
     <title>Bambounou - Live at Nuits Sonores</title>
     <desc>Der mit richtigen Namen heißende Jeremy Guindo, französisch-malaysisch-polnischer Herkunft, hat sich eine starke und unabhängige Identität geschaffen, die von seiner Vorliebe für Science-Fiction und Astrophysik beeinflusst wurde, ohne jemals sein Hauptziel dabei zu vergessen: den Tanz. Auf diese Weise zog er auch die Aufmerksamkeit von Modeselektor auf sich. Seitdem ist er ein beliebter Gast in den angesagtesten Clubs und Festivals der Techno-Szene - vom Berghain in Berlin bis zu den Nuits Sonores, wo wir ihn auch zu sehen bekommen.</desc>
@@ -5034,6 +5009,11 @@ The best of the worst for June 2020.</desc>
     <title>Gold Panda &amp; Anoushka Shankar</title>
     <desc>Für diese 2018 im Salle Wagram in Paris aufgezeichnete Episode treffen wir Gold Panda, die Offenbarung der britischen Techno-Szene (dessen richtiger Name Derwin Schlecker ist), an der Seite von Anoushka Shankar, einer großartigen Sitaristin, die wie keine andere das Erbe ihres Vaters, des großen Ravi Shankar, wieder aufleben lässt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/25/DE_VC_CTI_USQO570425A_a0b6175d-225f-11ec-960e-0a9c8934df2b_20211001052106348.jpg"/>
+  </programme>
+  <programme channel="DEBA2200005C9" start="20211012053700 +0000" stop="20211012063600 +0000">
+    <title>Yasmine Hamdan – Live in Paris</title>
+    <desc>Dieses Pariser Konzert 2014 folgt auf die Veröffentlichung ihres Albums "Ya Nass" (Crammed Discs), aber auch auf die Veröffentlichung des Films "Only Lovers Left Alive" von Jim Jarmush, in dem sie "Hal" singt und sich selbst spielt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/98/DE_VC_CTI_USQO570425A_c4d2086b-1752-11ec-bf63-0a9c8934df2b_20210917051900778.jpg"/>
   </programme>
   <channel id="DEBA2200004S1">
     <display-name>Qwest TV Classical</display-name>
@@ -5078,11 +5058,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Qwest TV Jazz and Beyond</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/89/DEBA2200003I0_20210209T093434.png"/>
   </channel>
-  <programme channel="DEBA2200003I0" start="20211011195200 +0000" stop="20211011213300 +0000">
-    <title>Rhoda Scott Lady Quartet - Live</title>
-    <desc>Mit Julie Saury am Schlagzeug, Sophie Alour und Lisa Cat-Berro am Tenor- bzw. Altsaxophon weiß Rhoda Scott, wie sie sich zu umgeben hat. Und um ehrlich zu sein, ist es ein wahres Vergnügen, endlich einmal eine reine Frauenband zu sehen - das Gegenteil ist ja wesentlich häufiger zu sehen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/65/DE_VC_CTI_USQO570425A_878ce3b4-1cc3-11ec-a57a-0a9c8934df2b_20210923233121060.jpg"/>
-  </programme>
   <programme channel="DEBA2200003I0" start="20211011213300 +0000" stop="20211011222600 +0000">
     <title>The Latin Beat</title>
     <desc>Rhythmen, Tanz und Performances: Afro-Kubanische Grooves und die totale, vibrierende Energie der Samba und Salsa werden Sie nicht gleichgültig lassen. Erleben Sie bei den Konzerten von Paco De Lucia, Chucho Valdes und Milton Nascimento lateinamerikanische Musik, die Sie auf eine Reise von La Havana bis zur Copacabana entführt.</desc>
@@ -5161,11 +5136,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/87/DEBB1900001Z6_20210714T000927.png"/>
   </channel>
-  <programme channel="DEBB1900001Z6" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>From The Studio - Jupiter 6: vintage techno classic</title>
-    <desc>Starsky will be your host/teacher for this From The Studio show. Discover the best electronic music gears and learn how to use them! In this episode : Jupiter 6: vintage techno classic</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/63/DE_VC_CTI_USQT620324A_DEBB1900001Z6_7fe67c6dc9ff8799df61a065_20211011052952600.jpg"/>
-  </programme>
   <programme channel="DEBB1900001Z6" start="20211011213000 +0000" stop="20211011214000 +0000">
     <title>Clubbing News</title>
     <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
@@ -5333,6 +5303,11 @@ The best of the worst for June 2020.</desc>
     <title>Spielfilm</title>
     <desc>European Originals</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/66/DE_VC_CTI_DEQY392104A_50c0bd35-8f73-4712-9be2-45cc08eb924f_20211011183109051.jpg"/>
+  </programme>
+  <programme channel="DEAJ0500431A" start="20211012052500 +0000" stop="20211012070000 +0000">
+    <title>Spielfilm</title>
+    <desc>European Originals</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/12/DE_VC_CTI_DEQY392104A_8c045739-7665-40e8-a53a-66cf204d6cfe_20211011183359164.jpg"/>
   </programme>
   <channel id="DEBA3300034HH">
     <display-name>Watch4 Movies</display-name>
@@ -5509,11 +5484,6 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <display-name>Fabella</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/99/DEBA15000130L_20210623T011207.png"/>
   </channel>
-  <programme channel="DEBA15000130L" start="20211011170000 +0000" stop="20211011213000 +0000">
-    <title>Romantic Comedy</title>
-    <desc>Fabella ist der deutsche Kanal für Frauenfilme.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/DE_VC_CTI_DEQY392104A_fa38c866-a386-4e88-b47b-68903071ffd3_20211011203319904.jpg"/>
-  </programme>
   <programme channel="DEBA15000130L" start="20211011213000 +0000" stop="20211012023000 +0000">
     <title>Abendunterhaltung</title>
     <desc>Fabella ist der deutsche Kanal für Frauenfilme.</desc>
@@ -5597,15 +5567,15 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <desc>Tico: Ein toller Freund - Episode 16: Tico wird Mutter</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/68/DE_VC_CTI_USQO570425A_f96bee3f-2ac7-11ec-87ac-0a9c8934df2b_20211011203321014.jpg"/>
   </programme>
+  <programme channel="DEBA3300040CR" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Das Mädchen von der Farm</title>
+    <desc>Das Mädchen von der Farm - Episode 15: Der erste Lohn</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/13/DE_VC_CTI_USQO570425A_f96df7b3-2ac7-11ec-87ac-0a9c8934df2b_20211011203223362.jpg"/>
+  </programme>
   <channel id="DEBA33000212C">
     <display-name>Family - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/24/DEBA33000212C_20210923T010819.png"/>
   </channel>
-  <programme channel="DEBA33000212C" start="20211011210814 +0000" stop="20211011213213 +0000">
-    <title>Where's Chicky? - Staffel 1 - Folge 2</title>
-    <desc>Niemand weiß, wo Chicky ist. Wir wissen nur, dass er süß und überaus naiv ist. In dieser Zusammenstellung folgst du Chicky, dem Zeichentrickvogel, auf seinem Weg durch ein Puzzle, einer Eisenbahnanlage, einem Mülleimer und vieles mehr!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/80/DE_VC_CTI_USQU352137A_DE-721-DEBA33000212C-10559345_20211011131624521.jpg"/>
-  </programme>
   <programme channel="DEBA33000212C" start="20211011213213 +0000" stop="20211011215515 +0000">
     <title>Louie - Staffel 2 - Folgen 4-6</title>
     <desc>Louie, zeichne mir eine Vogelscheuche Louie, zeichne mir einen Leuchtturm Louie, zeichne mir eine Maus Hast du schon mal davon geträumt, eine Insel zu erkunden oder zum Mond zu reisen? Sehnst du dich danach, Autorennen zu fahren oder dich mit einem freundlichen Bären zu unterhalten? Kein Problem! Mit Louie ist alles möglich! Mit seiner Hilfe und der von Yoko lernst du malen und hast dabei Spaß!</desc>

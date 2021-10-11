@@ -81,11 +81,6 @@
     <display-name>Euronews en directo</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20200923T101206.png"/>
   </channel>
-  <programme channel="ESAJ4500024LR" start="20211011211600 +0000" stop="20211011212900 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Noticias en directo y de última hora, análisis y entrevistas del Centro de Noticias de Europa.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/ES_VC_CTI_USQU352137A_ES-544-ESAJ4500024LR-15043947_20211011164620289.jpg"/>
-  </programme>
   <programme channel="ESAJ4500024LR" start="20211011212900 +0000" stop="20211011214300 +0000">
     <title>Euronews Tonight</title>
     <desc>Noticias en directo y de última hora, análisis y entrevistas del Centro de Noticias de Europa.</desc>
@@ -246,6 +241,16 @@
     <desc>Disfruta del programa matutino de "Euronews" con las noticias de última hora, con reportajes periodísticos y análisis sociales sobre los grandes temas que afectan a Europa.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/ES_VC_CTI_USQU352137A_ES-544-ESAJ4500024LR-15043979_20211011164317846.jpg"/>
   </programme>
+  <programme channel="ESAJ4500024LR" start="20211012052400 +0000" stop="20211012053600 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Disfruta del programa matutino de "Euronews" con las noticias de última hora, con reportajes periodísticos y análisis sociales sobre los grandes temas que afectan a Europa.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/18/ES_VC_CTI_USQU352137A_ES-544-ESAJ4500024LR-15043980_20211011164720909.jpg"/>
+  </programme>
+  <programme channel="ESAJ4500024LR" start="20211012053600 +0000" stop="20211012054700 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Disfruta del programa matutino de "Euronews" con las noticias de última hora, con reportajes periodísticos y análisis sociales sobre los grandes temas que afectan a Europa.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/64/ES_VC_CTI_USQU352137A_ES-544-ESAJ4500024LR-15043981_20211011164621323.jpg"/>
+  </programme>
   <channel id="ESBA3300037CD">
     <display-name>Euronews</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/ESBA3300037CD_20210908T010206.png"/>
@@ -343,11 +348,6 @@
     <display-name>Trace Sportstars</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/ESBA3300035DP_20210811T022036.png"/>
   </channel>
-  <programme channel="ESBA3300035DP" start="20211011210459 +0000" stop="20211011213000 +0000">
-    <title>Clubland</title>
-    <desc>Bienvenido a Clubland, un programa dedicado a los mejores equipos de futbol. ¡TRACE Sport Stars explora a los clubes más legendarios en la historia del futbol! Sus rivalidades, tradiciones, héroes y jugadores controvertidos.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/45/ES_VC_CTI_USQO570425A_d8075e1c-21e5-11ec-af65-0a9c8934df2b_20211006005223984.jpg"/>
-  </programme>
   <programme channel="ESBA3300035DP" start="20211011213000 +0000" stop="20211011215959 +0000">
     <title>Football Stars</title>
     <desc>Giroud. Echamos una mirada a los primeros días de Cristiano Ronaldo en el Real Madrid, luego hablamos con la organización FIFPRO, que busca desarrollar el futbol femenil. Luego tomamos una desviación artística con la fiebre de tatuajes que ha invadido el mundo del futbol. También conocerás a otros jugadores que juegan con pelotas sin utilizar sus pies.</desc>
@@ -423,15 +423,15 @@
     <desc>En Sport Stars Uncovered, adéntrate en la vida secreta de los mejores campeones. En TRACE Sport Stars, entérate sobre sus finanzas, su poder de seducción, sus tatuajes, sus cuerpos perfectos, ¡y sus novias!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/37/ES_VC_CTI_USQO570425A_d8293c60-21e5-11ec-af65-0a9c8934df2b_20211007003745343.jpg"/>
   </programme>
+  <programme channel="ESBA3300035DP" start="20211012052959 +0000" stop="20211012055500 +0000">
+    <title>Fight Stars</title>
+    <desc>En Fight Stars te enterarás de todo sobre las mejores estrellas del combate, como el boxeador británico Kell Brook o el veterano Bernard Hopkins. Además, descubre los tatuajes de algunos peleadores. Por último, ¡Ronda Rousey tiene muy buenas noticias!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/ES_VC_CTI_USQO570425A_d829e1fa-21e5-11ec-af65-0a9c8934df2b_20211007003745531.jpg"/>
+  </programme>
   <channel id="ESBA3300038FN">
     <display-name>Surf World TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESBA3300038FN_20210908T010442.png"/>
   </channel>
-  <programme channel="ESBA3300038FN" start="20211011204841 +0000" stop="20211011212611 +0000">
-    <title>The All Saints Perfect Chapter</title>
-    <desc>Surfer Ricardo Dos Santos, special guest of the 4th Edition of Perfect Chapter was shot in Brazil days before he found out he has been invited to participate in one of the biggest sporting events in Portugal. 'The All Saints Perfect Chapter' is a compelling surf documentary that follows the journey of Bruno Dos Santos, the surfer who took his place. Official Selections: Bells Beach Surf Film Festival 2016 &amp; Surf at Lisbon Film Fest 2015.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/70/ES_VC_CTI_USQO570425A_4b839bc1-25fb-11ec-a34b-0a9c8934df2b_20211007003744607.jpg"/>
-  </programme>
   <programme channel="ESBA3300038FN" start="20211011212611 +0000" stop="20211011230000 +0000">
     <title>The Perfect Wave</title>
     <desc>The tale of a surfer's relentless journey in pursuit of the perfect wave.</desc>
@@ -584,11 +584,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/ESAJ4500025S7_20201029T004331.png"/>
   </channel>
-  <programme channel="ESAJ4500025S7" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Surfing for Peace:Surfing for Peace</title>
-    <desc>The Paskowitz family, the Rothmans, and Kelly Slater go to Israel to surf and raise awareness.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/84/ES_VC_CTI_USQU352137A_ES-587-ESAJ4500025S7-15037895_20211011164318880.jpg"/>
-  </programme>
   <programme channel="ESAJ4500025S7" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Santa Cruz Euro Skate Tour 2:Santa Cruz Euro Skate Tour 2</title>
     <desc>The pros of the Santa Cruz team return to skate the streets of Europe.</desc>
@@ -659,15 +654,15 @@
     <desc>Get to know firsthand the names of the chosen surfers that will be performing in the spectacular conditions that Praia do Norte, in Nazaré has to offer, in the 2016 edition of the Perfect Chapter.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/34/ES_VC_CTI_USQU352137A_ES-587-ESAJ4500025S7-15037909_20211011164319555.jpg"/>
   </programme>
+  <programme channel="ESAJ4500025S7" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Home Bros:Home Bros</title>
+    <desc>When amidst the covid-19 pandemic, Australian videomaker, Tai Jennison, and his home bros found themselves stuck in one of the most surfable stretches of coastline in the world, they decided to make t</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/31/ES_VC_CTI_USQU352137A_ES-587-ESAJ4500025S7-15037910_20211011164557920.jpg"/>
+  </programme>
   <channel id="ESBA1400006NP">
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/ESBA1400006NP_20210609T005141.png"/>
   </channel>
-  <programme channel="ESBA1400006NP" start="20211011205953 +0000" stop="20211011212953 +0000">
-    <title>Best Fails of the Month | Ep. 3.8</title>
-    <desc>The best of the worst for August 2020.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/73/ES_VC_CTI_USQU352137A_ES-151-ESBA1400006NP-3180261_20211011164314478.jpg"/>
-  </programme>
   <programme channel="ESBA1400006NP" start="20211011212953 +0000" stop="20211011215953 +0000">
     <title>Best Fails of the Month | Ep. 3.9</title>
     <desc>The best of the worst for September 2020.</desc>
@@ -750,20 +745,20 @@ The best of the worst for June 2020.</desc>
     <desc>Please don't try this at home.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/44/ES_VC_CTI_USQU352137A_ES-151-ESBA1400006NP-44919_20211011164315107.jpg"/>
   </programme>
-  <programme channel="ESBA1400006NP" start="20211012050001 +0000" stop="20211012053000 +0000">
+  <programme channel="ESBA1400006NP" start="20211012050001 +0000" stop="20211012053001 +0000">
     <title>FailArmy Now | Delicious Cinnamon</title>
     <desc>What do cinnamon vacuums, introverts and pants have in common? They're all in this episode of FAILARMY NOW.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/76/ES_VC_CTI_USQU352137A_ES-151-ESBA1400006NP-10970349_20211011164313848.jpg"/>
+  </programme>
+  <programme channel="ESBA1400006NP" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>FailArmy Now | Vegan Dance Party</title>
+    <desc>What do a Canadian Superhero, a mountain-biker gang and janky furniture have in common? They're all in this episode of FAILARMY NOW.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/81/ES_VC_CTI_USQU352137A_ES-151-ESBA1400006NP-9481109_20211011164316844.jpg"/>
   </programme>
   <channel id="ESAJ4500016BH">
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/ESAJ4500016BH_20201208T050257.png"/>
   </channel>
-  <programme channel="ESAJ4500016BH" start="20211011210010 +0000" stop="20211011213010 +0000">
-    <title>Viral WIld | 1.4</title>
-    <desc>Witness the rough and tumble animal world in the raw. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/22/ES_VC_CTI_USQU352137A_ES-152-ESAJ4500016BH-850185_20211011164636275.jpg"/>
-  </programme>
   <programme channel="ESAJ4500016BH" start="20211011213010 +0000" stop="20211011220000 +0000">
     <title>Viral Wild | 2.8</title>
     <desc>The wild lures us in with its beauty and awe... and then pounces. </desc>
@@ -849,6 +844,11 @@ The best of the worst for June 2020.</desc>
     <desc>The cutest puppies. Nonstop.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/03/ES_VC_CTI_USQU352137A_ES-152-ESAJ4500016BH-75466_20211011164441386.jpg"/>
   </programme>
+  <programme channel="ESAJ4500016BH" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>Kitten Love | Ep. 1.2</title>
+    <desc>The cutest kittens. Nonstop.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/94/ES_VC_CTI_USQU352137A_ES-152-ESAJ4500016BH-89017_20211011164314305.jpg"/>
+  </programme>
   <channel id="ESAJ4500021HQ">
     <display-name>Rakuten Stories</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20210923T011022.png"/>
@@ -897,11 +897,6 @@ The best of the worst for June 2020.</desc>
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ESAJ4500023Y5_20201208T050258.png"/>
   </channel>
-  <programme channel="ESAJ4500023Y5" start="20211011210011 +0000" stop="20211011213011 +0000">
-    <title>Obsesh TV: Adventure Amplified | Ep. 1.9</title>
-    <desc>The holy grail of cliff jumping as told by filmmaker and cliff jumper Nick Coulter. Andrew Muse gets the river rapids challenge of a lifetime from pro kayaker Rafa Ortiz. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/61/ES_VC_CTI_USQU352137A_ES-386-ESAJ4500023Y5-2051755_20211011164713256.jpg"/>
-  </programme>
   <programme channel="ESAJ4500023Y5" start="20211011213011 +0000" stop="20211011220000 +0000">
     <title>Obsesh TV: Adventure Amplified | Ep. 1.10</title>
     <desc>We span the globe for an epic road trip and freestyle cliff jumping competition across the Pacific Northwest, followed by an aerial journey of the Maldives from Dimag Ozgum, aka VacationWolf. </desc>
@@ -977,20 +972,20 @@ The best of the worst for June 2020.</desc>
     <desc>Practice yields incredible results.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/51/ES_VC_CTI_USQU352137A_ES-386-ESAJ4500023Y5-743185_20211011164752160.jpg"/>
   </programme>
-  <programme channel="ESAJ4500023Y5" start="20211012050000 +0000" stop="20211012053000 +0000">
+  <programme channel="ESAJ4500023Y5" start="20211012050000 +0000" stop="20211012053001 +0000">
     <title>Exhibition Awesome | Walk the Line</title>
     <desc>They aren't afraid to live their life on the edge.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/73/ES_VC_CTI_USQU352137A_ES-386-ESAJ4500023Y5-735602_20211011164637280.jpg"/>
+  </programme>
+  <programme channel="ESAJ4500023Y5" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>Exhibition Awesome | High Dive</title>
+    <desc>These stunts are making a big splash.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/40/ES_VC_CTI_USQU352137A_ES-386-ESAJ4500023Y5-735617_20211011164733868.jpg"/>
   </programme>
   <channel id="ESAJ3800005C5">
     <display-name>Comedia Made in Spain</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/ESAJ3800005C5_20210428T113604.png"/>
   </channel>
-  <programme channel="ESAJ3800005C5" start="20211011211200 +0000" stop="20211011213500 +0000">
-    <title>Central de Cómicos</title>
-    <desc>Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/77/ES_VC_CTI_USQU352135A_ESAJ3800005C5-YD9KjAXXRAAaIfI8_20211011183400800.jpg"/>
-  </programme>
   <programme channel="ESAJ3800005C5" start="20211011213500 +0000" stop="20211011215800 +0000">
     <title>Central de Cómicos</title>
     <desc>Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.</desc>
@@ -1075,11 +1070,6 @@ The best of the worst for June 2020.</desc>
     <display-name>MTV Originals</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/ESAJ380000226_20201029T004343.png"/>
   </channel>
-  <programme channel="ESAJ380000226" start="20211011210100 +0000" stop="20211011212500 +0000">
-    <title>Las farsantes: Episodio 104</title>
-    <desc>Amy y Karma son amigas de toda la vida: se conocen entre ellas más que a sí mismas. A raíz de un malentendido, en clase empiezan a creer que son lesbianas y por eso son elegidas como las reinas de la fiesta del instituto.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/23/ES_VC_CTI_USQU352135A_ESAJ380000226-YG1awPP9XQAbgRKW_20211011183203695.jpg"/>
-  </programme>
   <programme channel="ESAJ380000226" start="20211011212500 +0000" stop="20211011221000 +0000">
     <title>Teen Mom 1: Momentos no vistos</title>
     <desc>Teen Mom te mostrará el primer año de maternidad de las adolescentes que ya conociste en 'Embarazada a los 16'  no será fácil, pues tendrán que lidiar con los problemas que conlleva ser una joven madre.</desc>
@@ -1159,11 +1149,6 @@ The best of the worst for June 2020.</desc>
     <display-name>MTV Catfish</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/ESAJ3800003LX_20210414T025436.png"/>
   </channel>
-  <programme channel="ESAJ3800003LX" start="20211011202200 +0000" stop="20211011212000 +0000">
-    <title>MTV Catfish Colombia</title>
-    <desc>Catfish Colombia es cúmplice de aquellos jóvenes que encuentran el amor online, aquellos que se conocen en las redes sociales. Pero, ¿qué pasa si no son quienes dicen ser? Sebastián y Diego nos muestran la verdad.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/42/ES_VC_CTI_USQU352135A_ESAJ3800003LX-X_W5eQDaTgATiVeN_20211011183203851.jpg"/>
-  </programme>
   <programme channel="ESAJ3800003LX" start="20211011212000 +0000" stop="20211011220900 +0000">
     <title>Catfish: mentiras en la red</title>
     <desc>El programa de televisión reúne a parejas que han interactuado únicamente a través de pantallas LCD. En el transcurso de los meses supuestamente se han enamorado, pero ¿qué pasará cuando se reúnan en la vida real por primera vez?</desc>
@@ -1223,11 +1208,6 @@ The best of the worst for June 2020.</desc>
     <display-name>MTV Cribs</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/93/ESAJ3800006TT_20210414T024016.png"/>
   </channel>
-  <programme channel="ESAJ3800006TT" start="20211011211400 +0000" stop="20211011213700 +0000">
-    <title>Teen Cribs: Episodio 216</title>
-    <desc>Algunos de los adolescentes más pijos de América te enseñan sus impresionantes casas al más puro estilo 'MTV Cribs'. ¿Preparado para flipar con estas supercasas?</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/18/ES_VC_CTI_USQU352135A_ESAJ3800006TT-Xz4epxfchgAaeRUp_20211011183513586.jpg"/>
-  </programme>
   <programme channel="ESAJ3800006TT" start="20211011213700 +0000" stop="20211011220000 +0000">
     <title>Teen Cribs: Episodio 202</title>
     <desc>Algunos de los adolescentes más pijos de América te enseñan sus impresionantes casas al más puro estilo 'MTV Cribs'. ¿Preparado para flipar con estas supercasas?</desc>
@@ -1337,11 +1317,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Pluto TV Mundo Real</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/ESAJ3800008ZD_20201118T003337.png"/>
   </channel>
-  <programme channel="ESAJ3800008ZD" start="20211011205900 +0000" stop="20211011212100 +0000">
-    <title>Empeños a lo bestia</title>
-    <desc>Como propietarios de la casa de empeño más grande de Detroit, la familia Gold, han comprado y vendido cosas que no puedes imaginar. Si cada boleto de empeño tiene una historia que contar, entonces Les Gold tiene miles de historias en su almacén.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/16/ES_VC_CTI_USQU352135A_ESAJ3800008ZD-YBpyKZkqAwAbSkek_20211011183122801.jpg"/>
-  </programme>
   <programme channel="ESAJ3800008ZD" start="20211011212100 +0000" stop="20211011214600 +0000">
     <title>Empeños a lo bestia</title>
     <desc>Como propietarios de la casa de empeño más grande de Detroit, la familia Gold, han comprado y vendido cosas que no puedes imaginar. Si cada boleto de empeño tiene una historia que contar, entonces Les Gold tiene miles de historias en su almacén.</desc>
@@ -1416,15 +1391,15 @@ The best of the worst for June 2020.</desc>
     <desc>Basada en las premiadas novelas policíacas de Caroline Graham. Chantaje, intriga, engaño y adulterio abundan en Midsomer, un condado aparentemente idílico donde el inspector jefe Barnaby investiga todo tipo de sucesos ruines.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/45/ES_VC_CTI_USQU352135A_ESBA3300025WZ-X2kL9eS1aQATig1k_20211011183334195.jpg"/>
   </programme>
+  <programme channel="ESBA3300025WZ" start="20211012052200 +0000" stop="20211012071500 +0000">
+    <title>Los asesinatos de Midsomer: Los pescadores</title>
+    <desc>Basada en las premiadas novelas policíacas de Caroline Graham. Chantaje, intriga, engaño y adulterio abundan en Midsomer, un condado aparentemente idílico donde el inspector jefe Barnaby investiga todo tipo de sucesos ruines.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/09/ES_VC_CTI_USQU352135A_ESBA3300025WZ-X2kL8eS1aQATigz6_20211011183125166.jpg"/>
+  </programme>
   <channel id="ESBA3300027H5">
     <display-name>Las Reglas Del Juego</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/ESBA3300027H5_20210512T003426.png"/>
   </channel>
-  <programme channel="ESBA3300027H5" start="20211011203500 +0000" stop="20211011212500 +0000">
-    <title>Las Reglas Del Juego: El golpe de los doce pasos</title>
-    <desc>Un equipo de delincuentes de alta tecnología intenta robar a criminales ricos y hombres de negocios corruptos.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/38/ES_VC_CTI_USQU352135A_ESBA3300027H5-XzOlK0_UdgAbc35z_20211011183307829.jpg"/>
-  </programme>
   <programme channel="ESBA3300027H5" start="20211011212500 +0000" stop="20211011221500 +0000">
     <title>Las Reglas Del Juego: El golpe del miembro número 6 del jurado</title>
     <desc>Un equipo de delincuentes de alta tecnología intenta robar a criminales ricos y hombres de negocios corruptos.</desc>
@@ -1564,10 +1539,15 @@ The best of the worst for June 2020.</desc>
     <desc>Serie de programas especiales producidos por ¡HOLA! Media con ocasión de grandes acontecimientos para el público de ¡HOLA</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/21/ES_VC_CTI_USQU352137A_ES-790-ESBA1400008NE-9657115_20211011164751283.jpg"/>
   </programme>
-  <programme channel="ESBA1400008NE" start="20211012043814 +0000" stop="20211012053046 +0000">
+  <programme channel="ESBA1400008NE" start="20211012043814 +0000" stop="20211012053047 +0000">
     <title>Especiales de ¡HOLA! - Temporada 2019-20 - Diana sigue aquí</title>
     <desc>“Diana sigue aquí” muestra la presencia hoy, 20 años después, de Diana de Gales. Su influencia, su legado, su proyección en múltiples campos. Conocidos expertos en realeza, comunicadores, diseñadores y otros especialistas, analizan cómo sigue vivo el influjo de Lady Di y desmenuzan cómo pervive su legado en las princesas y reinas actuales, en sus hijos, los principe Guillermo y Harry, en su nuera, la duquesa de Cambridge y por supuesto en el mundo de la moda y el glamour.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/87/ES_VC_CTI_USQU352137A_ES-790-ESBA1400008NE-12703812_20211011164642406.jpg"/>
+  </programme>
+  <programme channel="ESBA1400008NE" start="20211012053047 +0000" stop="20211012054552 +0000">
+    <title>Especiales de ¡HOLA! - Temporada 2019-20 - Lo mejor de los Oscar 2020</title>
+    <desc>Serie de programas especiales producidos por ¡HOLA! Media con ocasión de grandes acontecimientos para el público de ¡HOLA</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/28/ES_VC_CTI_USQU352137A_ES-790-ESBA1400008NE-9657110_20211011164556603.jpg"/>
   </programme>
   <channel id="ESBA22000102A">
     <display-name>Love Nature</display-name>
@@ -1622,6 +1602,11 @@ The best of the worst for June 2020.</desc>
     <title>Defensa y Ataque</title>
     <desc>Los principales depredadores de África han desarrollado medios formidables para sobrevivir y prosperar.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/19/ES_VC_CTI_USQO570425A_e54bda07-282d-11ec-b4f3-0a9c8934df2b_20211008123240445.jpg"/>
+  </programme>
+  <programme channel="ESBA22000102A" start="20211012052423 +0000" stop="20211012055241 +0000">
+    <title>Defensa y Ataque</title>
+    <desc>Caza junto a depredadores aéreos para ver el mundo desde sus agudos ojos.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/00/ES_VC_CTI_USQO570425A_e54dd838-282d-11ec-b4f3-0a9c8934df2b_20211008123129902.jpg"/>
   </programme>
   <channel id="ESBA22000094V">
     <display-name>Explore by TVPlayer</display-name>
@@ -1680,16 +1665,6 @@ de los animales más adaptados de la Tierra.</desc>
     <display-name>Planeta Junior</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20201208T050259.png"/>
   </channel>
-  <programme channel="ESAJ4500026J3" start="20211011211420 +0000" stop="20211011212659 +0000">
-    <title>Magic Mania :: Ep. 22</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/00/ES_VC_CTI_USQU352137A_ES-594-ESAJ4500026J3-10771904_20211011164750610.jpg"/>
-  </programme>
-  <programme channel="ESAJ4500026J3" start="20211011212659 +0000" stop="20211011213201 +0000">
-    <title>The Shadownsters :: Ep.102 Félix "El goloso"</title>
-    <desc>Esta noche es Félix " El goloso" quien acecha</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/25/ES_VC_CTI_USQU352137A_ES-594-ESAJ4500026J3-13774825_20211011164559071.jpg"/>
-  </programme>
   <programme channel="ESAJ4500026J3" start="20211011213201 +0000" stop="20211011214511 +0000">
     <title>Sandra, detective de cuentos :: Ep. 21 Champú a la miel / Ricitos de Oro</title>
     <desc>SANDRA y su ayudante FO viajan al cuento de Ricitos de Oro reclamados por la MADRE de la protagonista del cuento. RICITOS ha huido de casa tras una fenomenal rabieta. La detective afronta el caso con optimismo, segura de que será uno de los más fáciles de su carrera. Al fin y al cabo, el cuento de Ricitos de Oro es una inocente historia en la que no sucede gran cosa. Nada más lejos de la realidad. RICITOS DE ORO resulta ser una niña endiabladamente difícil, que pondrá en un montón de apremiantes y divertidos aprietos a la experimentada detective y su sufrido ayudante.</desc>
@@ -1840,15 +1815,20 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Hazel encoge sin querer a sus padres en una excursión. / Las Charmers acaban dentro de un regalo de cumpleaños por culpa de Hazel.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/02/ES_VC_CTI_USQU352137A_ES-594-ESAJ4500026J3-11662131_20211011164622901.jpg"/>
   </programme>
+  <programme channel="ESAJ4500026J3" start="20211012052635 +0000" stop="20211012053138 +0000">
+    <title>The Shadownsters :: Ep.104 "Plastico" Chris</title>
+    <desc>En esta ocasión nos sorprenderá  "Plastico" Chris</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/80/ES_VC_CTI_USQU352137A_ES-594-ESAJ4500026J3-13774827_20211011164559590.jpg"/>
+  </programme>
+  <programme channel="ESAJ4500026J3" start="20211012053138 +0000" stop="20211012054524 +0000">
+    <title>Maya la serie T1 :: Ep. 58 Reina por un dia</title>
+    <desc>Mientras la reina abandona la colmena para unas cortas vacaciones, el juez Buena Cera elige una joven reina para reemplazarla! Pero ésta es experimentada y se comporta como una diva! La colmena está del revés, Maya y Willy tendrán que hacer algo</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/19/ES_VC_CTI_USQU352137A_ES-594-ESAJ4500026J3-9871551_20211011164756868.jpg"/>
+  </programme>
   <channel id="ESAJ38000046O">
     <display-name>Pluto TV Kids</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/62/ESAJ38000046O_20201029T004405.png"/>
   </channel>
-  <programme channel="ESAJ38000046O" start="20211011211008 +0000" stop="20211011213508 +0000">
-    <title>Bella y los Bulldogs: Receptor-Impostor</title>
-    <desc>Bella Dawson es una de las líderes del equipo de animadoras de la escuela, y una chica a la que todo el mundo le encantaría tener en su pandilla de amigos.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/57/ES_VC_CTI_USQU352135A_ESAJ38000046O-X8YMqUkm-wATO4Iz_20211011183313832.jpg"/>
-  </programme>
   <programme channel="ESAJ38000046O" start="20211011213508 +0000" stop="20211011220008 +0000">
     <title>Una chica corriente: Novios y amigos</title>
     <desc>Addie Singer, de 13 años, lucha con los problemas de la adolescencia como todos los chicos de esa edad. Afortunadamente ella tiene su guitarra y sus amigos Geena y Zack.</desc>
@@ -1944,15 +1924,15 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Addie Singer, de 13 años, lucha con los problemas de la adolescencia como todos los chicos de esa edad. Afortunadamente ella tiene su guitarra y sus amigos Geena y Zack.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/11/ES_VC_CTI_USQU352135A_ESAJ38000046O-YAbNviqXOAATQxcb_20211011183247692.jpg"/>
   </programme>
+  <programme channel="ESAJ38000046O" start="20211012053408 +0000" stop="20211012055908 +0000">
+    <title>True Jackson</title>
+    <desc>True Jackson es una chica que vende sándwiches en las puertas de una firma de moda y un día le ofrecen una oportunidad única... Hacerse cargo de una línea de ropa para jóvenes.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/10/ES_VC_CTI_USQU352135A_ESAJ38000046O-X_1fOolnswAay4iL_20211011183314550.jpg"/>
+  </programme>
   <channel id="ESAJ3800009VJ">
     <display-name>Pluto TV Animakids</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/ESAJ3800009VJ_20201029T004411.png"/>
   </channel>
-  <programme channel="ESAJ3800009VJ" start="20211011205600 +0000" stop="20211011212100 +0000">
-    <title>The Mighty B!</title>
-    <desc>Mighty B! La Súper Abeja cuenta la historia de Bessie Higgenbottom, una chica de 9 años y tres cuartos que vive en San Francisco. Es la abeja exploradora más entregada del mundo y sueña con convertirse en una superheroína llamada la Súper Abeja.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/33/ES_VC_CTI_USQU352135A_ESAJ3800009VJ-YCzdnDDH7AATol2S_20211011183516252.jpg"/>
-  </programme>
   <programme channel="ESAJ3800009VJ" start="20211011212100 +0000" stop="20211011214500 +0000">
     <title>Sanjay y Craig: Reversos / Relajado Bill</title>
     <desc>Sanjay es un chico simpático, divertido y  poco convencional que tiene algo muy claro: nada es imposible cuando estás con tu mejor amigo ¡y más si es una serpiente parlante!</desc>
@@ -2057,11 +2037,6 @@ de los animales más adaptados de la Tierra.</desc>
     <display-name>Bob Esponja</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/98/ESBA33000262Z_20210209T093344.png"/>
   </channel>
-  <programme channel="ESBA33000262Z" start="20211011210900 +0000" stop="20211011213500 +0000">
-    <title>Bob Esponja - Pantalones cuadrados: La Cara Abrasiva / El Gusano Musical</title>
-    <desc>Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. Sus buenas intenciones suelen traer bastantes problemas.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/80/ES_VC_CTI_USQU352135A_ESBA33000262Z-X89BUUi66QAaLgPX_20211011183519884.jpg"/>
-  </programme>
   <programme channel="ESBA33000262Z" start="20211011213500 +0000" stop="20211011220100 +0000">
     <title>Bob Esponja - Pantalones cuadrados</title>
     <desc>Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. Sus buenas intenciones suelen traer bastantes problemas.</desc>
@@ -2241,25 +2216,20 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Caillou descubre que la pizza casera está más rica que la pizza de comida rápida que le traen a casa.// Caillou entiende la importancia de adaptarse a los cambios cuando los abuelos hacen de canguros durante la noche.// Caillou aprende a mantener la mente abierta cuando prueba su destreza a los bolos.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/74/ES_VC_CTI_USQU352137A_ES-665-ESBA3300020W5-11895001_20211011164625919.jpg"/>
   </programme>
-  <programme channel="ESBA3300020W5" start="20211012050125 +0000" stop="20211012053128 +0000">
+  <programme channel="ESBA3300020W5" start="20211012050125 +0000" stop="20211012053129 +0000">
     <title>Caillou es Mayor // Las Gafas de Caillou // La Fiesta de Caillou</title>
     <desc>Cuando Andre, un amigo mayor de Caillou, viene a casa para jugar con él, este aprende la importancia de no ocultar quién eres realmente.// Caillou descubre lo importante que es ver bien después de fabricar unas gafas de pega.// Caillou aprende que hay más de una forma de hacer las cosas cuando la señorita Martin organiza un baile en la guardería.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/08/ES_VC_CTI_USQU352137A_ES-665-ESBA3300020W5-11895031_20211011164601062.jpg"/>
+  </programme>
+  <programme channel="ESBA3300020W5" start="20211012053129 +0000" stop="20211012060141 +0000">
+    <title>La Sombra de Caillou // Altos Vuelos // El Montón de Hojas de Caillou</title>
+    <desc>A Caillou ya no le da miedo preguntar en clase cuando se convierte en un “científico de sombras” y aprende muchas cosas sobre el tema en la guardería.// Caillou aprende a expresarse y a dar su opinión un día de juegos con Daniel.// Caillou decide tener recursos y crear su propio “montón para saltar” después de pasárselo en grande con las hojas del otoño.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/96/ES_VC_CTI_USQU352137A_ES-665-ESBA3300020W5-11895173_20211011164722569.jpg"/>
   </programme>
   <channel id="ESBA33000188W">
     <display-name>duckTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/ESBA33000188W_20210209T093457.png"/>
   </channel>
-  <programme channel="ESBA33000188W" start="20211011211141 +0000" stop="20211011212142 +0000">
-    <title>Aprender con ducktv</title>
-    <desc>Programas de ducktv con un fuerte aspecto educativo. Los episodios de esta categoría enseñan los primeros conceptos, la música y el arte, estimulan la imaginación y la creatividad y desarrollan las habilidades cognitivas.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/25/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391922_20211011164556431.jpg"/>
-  </programme>
-  <programme channel="ESBA33000188W" start="20211011212142 +0000" stop="20211011213143 +0000">
-    <title>Estaciones con ducktv</title>
-    <desc>Episodios estacionales especiales del diverso número de series que promueven actividades estacionales, refuerzan la identificación de las características estacionales y enseñan sobre los ciclos de la naturaleza.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/95/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391924_20211011164642203.jpg"/>
-  </programme>
   <programme channel="ESBA33000188W" start="20211011213143 +0000" stop="20211011214143 +0000">
     <title>Aprender con ducktv</title>
     <desc>Programas de ducktv con un fuerte aspecto educativo. Los episodios de esta categoría enseñan los primeros conceptos, la música y el arte, estimulan la imaginación y la creatividad y desarrollan las habilidades cognitivas.</desc>
@@ -2490,10 +2460,20 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Los programas más populares de ducktv, que representan diferentes valores educativos. Sólo para nombrar algunos, la serie Mimo &amp; Bobo desarrolla habilidades sociales, Equipo de Bomberos fomenta la resolución de problemas, mientras que Modelando promueve la identificación de formas y colores.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/69/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391865_20211011164750327.jpg"/>
   </programme>
-  <programme channel="ESBA33000188W" start="20211012051024 +0000" stop="20211012052024 +0000">
+  <programme channel="ESBA33000188W" start="20211012051024 +0000" stop="20211012052025 +0000">
     <title>Aprender con ducktv</title>
     <desc>Programas de ducktv con un fuerte aspecto educativo. Los episodios de esta categoría enseñan los primeros conceptos, la música y el arte, estimulan la imaginación y la creatividad y desarrollan las habilidades cognitivas.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/25/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391922_20211011164556431.jpg"/>
+  </programme>
+  <programme channel="ESBA33000188W" start="20211012052025 +0000" stop="20211012053026 +0000">
+    <title>Estaciones con ducktv</title>
+    <desc>Episodios estacionales especiales del diverso número de series que promueven actividades estacionales, refuerzan la identificación de las características estacionales y enseñan sobre los ciclos de la naturaleza.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/95/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391924_20211011164642203.jpg"/>
+  </programme>
+  <programme channel="ESBA33000188W" start="20211012053026 +0000" stop="20211012054026 +0000">
+    <title>los favoritos de ducktv</title>
+    <desc>Los programas más populares de ducktv, que representan diferentes valores educativos. Sólo para nombrar algunos, la serie Mimo &amp; Bobo desarrolla habilidades sociales, Equipo de Bomberos fomenta la resolución de problemas, mientras que Modelando promueve la identificación de formas y colores.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/69/ES_VC_CTI_USQU352137A_ES-572-ESBA33000188W-3391865_20211011164750327.jpg"/>
   </programme>
   <channel id="ESAJ4500017Y1">
     <display-name>Fashion TV</display-name>
@@ -2518,11 +2498,6 @@ de los animales más adaptados de la Tierra.</desc>
     <display-name>Pluto TV Cocina</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/93/ESAJ3800007PC_20210401T071459.png"/>
   </channel>
-  <programme channel="ESAJ3800007PC" start="20211011204500 +0000" stop="20211011213200 +0000">
-    <title>A Bocados: A Bocados 23</title>
-    <desc>El cocinero Ander Gonzalez elabora una receta mientras la nutricionista Gabriela Uriarte explica las propiedades de los ingredientes utilizados y analiza el equilibrio dietetico de las recetas.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/12/ES_VC_CTI_USQU352135A_ESAJ3800007PC-X0YNR7mhjAAaS4jr_20211011183400925.jpg"/>
-  </programme>
   <programme channel="ESAJ3800007PC" start="20211011213200 +0000" stop="20211011220200 +0000">
     <title>Jamies Quick &amp; Easy Food: Atún/Cordero a la cerveza/Tallarines/Pato</title>
     <desc>Jamie Oliver: 5 Ingredientes - Platos Fáciles y Rápidos es un recetario infalible con platos rápidos y fáciles de recordar. Jamie ha creado una impresionante colección de elaboraciones prácticas y sabrosas con solo cinco ingredientes.</desc>
@@ -2593,15 +2568,15 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Jamie Oliver: 5 Ingredientes - Platos Fáciles y Rápidos es un recetario infalible con platos rápidos y fáciles de recordar. Jamie ha creado una impresionante colección de elaboraciones prácticas y sabrosas con solo cinco ingredientes.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/ES_VC_CTI_USQU352135A_ESAJ3800007PC-X4W6RUUQ5QAak1NB_20211011183246879.jpg"/>
   </programme>
+  <programme channel="ESAJ3800007PC" start="20211012053800 +0000" stop="20211012060800 +0000">
+    <title>Jamies Quick &amp; Easy Food: Cordero/Ensalada de lentejas/Hígado, bacón/Tallarines con tahini</title>
+    <desc>Jamie Oliver: 5 Ingredientes - Platos Fáciles y Rápidos es un recetario infalible con platos rápidos y fáciles de recordar. Jamie ha creado una impresionante colección de elaboraciones prácticas y sabrosas con solo cinco ingredientes.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/22/ES_VC_CTI_USQU352135A_ESAJ3800007PC-X4W6RUUQ5QAak1M3_20211011183402097.jpg"/>
+  </programme>
   <channel id="ESBA2200006B4">
     <display-name>Tastemade</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/57/ESBA2200006B4_20210512T003434.png"/>
   </channel>
-  <programme channel="ESBA2200006B4" start="20211011210001 +0000" stop="20211011213001 +0000">
-    <title>Comidas económicas</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/ES_VC_CTI_USQO570425A_c99876d1-266f-11ec-a34b-0a9c8934df2b_20211006081559233.jpg"/>
-  </programme>
   <programme channel="ESBA2200006B4" start="20211011213001 +0000" stop="20211011220002 +0000">
     <title>Make this tonight en español</title>
     <desc>El chef Eduardo prepara su sabrosa receta mediterránea de Rigatoni a la Vodka con un toque de salchicha casera y una salsa picante de chile.</desc>
@@ -2682,15 +2657,15 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Los frijoles además de ser muy económicos son nutritivos y versátiles, ¡vamos a cocinar!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/84/ES_VC_CTI_USQO570425A_a16736b8-1c40-11ec-ac2f-0a9c8934df2b_20210923122901324.jpg"/>
   </programme>
+  <programme channel="ESBA2200006B4" start="20211012052959 +0000" stop="20211012060000 +0000">
+    <title>Comidas económicas</title>
+    <desc>¡Buongiorno a tutti! No te puedes perder estas tres recetas deliciosas, económicas y muy italianas.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/24/ES_VC_CTI_USQO570425A_0742a04f-1e11-11ec-9d66-0a9c8934df2b_20210926111838037.jpg"/>
+  </programme>
   <channel id="ESBA3300036W1">
     <display-name>Museum TV Free</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/14/ESBA3300036W1_20210811T021912.png"/>
   </channel>
-  <programme channel="ESBA3300036W1" start="20211011211641 +0000" stop="20211011213139 +0000">
-    <title>Private Tour  S1 E8 Japan japanism, inspired objects</title>
-    <desc>Private tour takes you to discover the exhibition "Japan-japanism, inspired objects, 1867-2018" at the decorative arts museum. Japan began to be known around the 1850s and its art was quickly recognized. In this exhibition you will be able to observe Japanese objects, but also objects of Japanese influence which testify to the relations between France and Japan.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/72/ES_VC_CTI_USQO570425A_f3341ed1-2586-11ec-a40b-0a9c8934df2b_20211005071820589.jpg"/>
-  </programme>
   <programme channel="ESBA3300036W1" start="20211011213139 +0000" stop="20211011222652 +0000">
     <title>Photo Contest E4 Old Lyon</title>
     <desc>Today, we invite you to Lyon. The two candidates of the day, Christophe Boulair and Julien Arnaud, will have one hour to compete on the theme of Old Lyon. They will have to walk around the old town in search of the best spot to take the most beautiful picture as possible.</desc>
@@ -2776,6 +2751,11 @@ de los animales más adaptados de la Tierra.</desc>
     <desc>Secret treasures takes you on a journey to discover the unsuspected secrets and treasures of the National Assembly in France. Some of the most delicate works are kept in the greatest secrecy. But this place, which is the temple of the French democracy, opens its doors to us exceptionally today. We will make you discover this emblematic universe, more known for its political episodes than for the treasures that it shelters.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/74/ES_VC_CTI_USQO570425A_9dfbb012-266b-11ec-a34b-0a9c8934df2b_20211006095911950.jpg"/>
   </programme>
+  <programme channel="ESBA3300036W1" start="20211012052549 +0000" stop="20211012055409 +0000">
+    <title>Sketchbook E19 The tree</title>
+    <desc>Harry, Raphael, Luca, Marine and Mush reveal their best drawing techniques</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/36/ES_VC_CTI_USQO570425A_9dfcb59b-266b-11ec-a34b-0a9c8934df2b_20211006095835470.jpg"/>
+  </programme>
   <channel id="ESBA3900001IB">
     <display-name>Vevo Pop</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/ESBA3900001IB_20210609T004814.png"/>
@@ -2842,11 +2822,6 @@ de los animales más adaptados de la Tierra.</desc>
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/ESAJ49000041W_20210209T093441.png"/>
   </channel>
-  <programme channel="ESAJ49000041W" start="20211011205900 +0000" stop="20211011213600 +0000">
-    <title>Carl Cox - Awakenings Festival</title>
-    <desc>En esta grabación de los últimos 30 minutos de la actuación de Carl Cox en el Awakenings de 2018 en Ámsterdam, el DJ superestrella británico lo da absolutamente todo. En el centro de un escenario con un diseño arquitectónico impresionante, con neblina y luces sincronizadas a la perfección, Cox cautiva al público con una descarga de música techno.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/22/ES_VC_CTI_USQO570425A_dd8fddb0-1cc3-11ec-a57a-0a9c8934df2b_20210923233013692.jpg"/>
-  </programme>
   <programme channel="ESAJ49000041W" start="20211011213600 +0000" stop="20211012000300 +0000">
     <title>Bambounou - Live at Nuits Sonores</title>
     <desc>De origen franco-malo-polaco, Jeremy Guindo ha construido una fuerte e independiente identidad bajo su verdadero nombre. Influenciado por su atracción por la ciencia ficción y la astrofísica, no ha olvidado jamás su objetivo principal: la danza. Así fue como atrajo la atención de Modeselektor. Desde entonces, se ha presentado en los clubes y festivales más populares de la escena techno, desde el Berghain de Berlín hasta las Nuits Sonores. Es en este último donde lo veremos.</desc>
@@ -2871,6 +2846,11 @@ de los animales más adaptados de la Tierra.</desc>
     <title>Gold Panda &amp; Anoushka Shankar</title>
     <desc>El DJ y pionero de la segunda ola del Detroit techno, Kenny Larkin, se une al trompetista de jazz francés Erik Truffaz para un apasionante encuentro en homenaje a la música de Miles Davis. La actuación de este dúo, llena de potencia, groove y sensualidad, marca el inicio de la segunda edición de la serie Variations, en 2017, que ofrece una colección de conciertos tributo entre productores electrónicos e instrumentistas clásicos.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/10/ES_VC_CTI_USQO570425A_a0c1d8cb-225f-11ec-960e-0a9c8934df2b_20211001052148283.jpg"/>
+  </programme>
+  <programme channel="ESAJ49000041W" start="20211012053700 +0000" stop="20211012063600 +0000">
+    <title>Yasmine Hamdan – Live in Paris</title>
+    <desc>Este concierto en París en 2014 sigue al lanzamiento de su álbum, Ya Nass (Crammed Discs), así como a la película de Jim Jarmush, *Only Lovers Left Alive*, en la que canta "Hal" mientras se interpreta a sí misma.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/02/ES_VC_CTI_USQO570425A_d7a72371-1752-11ec-bf63-0a9c8934df2b_20210917051926871.jpg"/>
   </programme>
   <channel id="ESAJ4900003N6">
     <display-name>Qwest TV Classical</display-name>
@@ -2916,11 +2896,6 @@ Compuesta en 1823, la fama de esta sinfonía reside en su último movimiento, to
     <display-name>Qwest TV Jazz and Beyond</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/67/ESAJ49000023R_20210209T093433.png"/>
   </channel>
-  <programme channel="ESAJ49000023R" start="20211011195200 +0000" stop="20211011213300 +0000">
-    <title>Rhoda Scott Lady Quartet - Live</title>
-    <desc>Con Julie Saury a la batería, Sophie Alour y Lisa Cat-Berro al saxo tenor y alto respectivamente, Rhoda Scott sabe muy bien cuál es la clave del éxito. Además, hay que confirmar una realidad, y es que es un verdadero placer ver por fin a un grupo completamente femenino, que, por desgracia, suele ser poco común.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/39/ES_VC_CTI_USQO570425A_9766ea6d-1cc3-11ec-a57a-0a9c8934df2b_20210923233055139.jpg"/>
-  </programme>
   <programme channel="ESAJ49000023R" start="20211011213300 +0000" stop="20211011222600 +0000">
     <title>The Latin Beat</title>
     <desc>Una fusión de ritmo, danza y actuación: el brillo de los ritmos afrocubanos y la alegría pura y vibrante de la samba y la salsa. Experimente la música latina de cerca, a través de conciertos de Paco De Lucia, Chucho Valdés y Milton Nascimento que lo llevarán de La Habana hasta Copacabana.</desc>
@@ -3009,11 +2984,6 @@ Compuesta en 1823, la fama de esta sinfonía reside en su último movimiento, to
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/ESBB19000012F_20210714T000925.png"/>
   </channel>
-  <programme channel="ESBB19000012F" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>From The Studio - Jupiter 6: vintage techno classic</title>
-    <desc>Starsky will be your host/teacher for this From The Studio show. Discover the best electronic music gears and learn how to use them! In this episode : Jupiter 6: vintage techno classic</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/50/ES_VC_CTI_USQT620324A_ESBB19000012F_7fe67c6dc9ff8799df61a065_20211011183425529.jpg"/>
-  </programme>
   <programme channel="ESBB19000012F" start="20211011213000 +0000" stop="20211011214000 +0000">
     <title>Clubbing News</title>
     <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
@@ -3196,11 +3166,6 @@ Compuesta en 1823, la fama de esta sinfonía reside en su último movimiento, to
     <display-name>Cine Feel Good – Verdi TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/42/ESBA3300022SL_20210310T011154.png"/>
   </channel>
-  <programme channel="ESBA3300022SL" start="20211011195047 +0000" stop="20211011213353 +0000">
-    <title>El Festín de Babette</title>
-    <desc>1871. En una remota aldea de pescadores de la costa danesa, dominada por la tradición puritana, dos hermanas solteras recuerdan con nostalgia su lejana juventud. La aparición de Babette, que llega desde París, huyendo del terror, cambiará sus vidas. La recién llegada es acogida como sirvienta y, años después, tendrá ocasión de corresponder a la bondad y al calor con que fue recibida organizando una opulenta cena con los mejores platos y vinos de la gastronomía francesa.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/01/ES_VC_CTI_USQU352137A_ES-610-ESBA3300022SL-8026113_20211011164643454.jpg"/>
-  </programme>
   <programme channel="ESBA3300022SL" start="20211011213353 +0000" stop="20211012000405 +0000">
     <title>Vete y vive</title>
     <desc>Gracias a una iniciativa del Estado de Israel y de los Estados Unidos, en 1985 se lleva a cabo una amplia operación para trasladar a miles de judíos etíopes (falashas) a Israel. Una mujer etíope, que no es judía, convence a su hijo para que se declare judío a fin de que pueda huir de la miseria. Cuando el niño llega a Israel, dada su condición de huérfano, lo adopta una familia judía francesa que vive en Tel-Aviv. Allí pasa la infancia atemorizado ante la posibilidad de que se descubra su doble secreto, su doble mentira: no es ni judío ni huérfano, solo es negro.</desc>
@@ -3415,11 +3380,6 @@ Compuesta en 1823, la fama de esta sinfonía reside en su último movimiento, to
     <display-name>Familiares - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ESBA3300017FA_20210923T010723.png"/>
   </channel>
-  <programme channel="ESBA3300017FA" start="20211011211032 +0000" stop="20211011213442 +0000">
-    <title>Mouk - Temporada 1 - Episodios 41-42</title>
-    <desc>La plantación de bambú Hanami De Tokio a Nueva York, de Australia a Madagascar y a través de Grecia, estos dos amigos se encuentran con habitantes de todo el planeta... y como nada es nunca como en casa, ¡la aventura está servida! Súbete a una bicicleta con ellos y descubre este mundo realista, moderno y colorido. Gente increíble, paisajes increíbles y costumbres desconocidas: nuestros dos viajeros descubrirán juntos muchos países diferentes. Más allá de las diferencias, compartirán una hermosa experiencia y harán amigos en todas partes</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/ES_VC_CTI_USQU352137A_ES-718-ESBA3300017FA-13407617_20211011164318958.jpg"/>
-  </programme>
   <programme channel="ESBA3300017FA" start="20211011213442 +0000" stop="20211011215750 +0000">
     <title>Bugged - Temporada 1 - Episodios 13-15</title>
     <desc>Alergia ¡Vaya peste! Mamá Murphy Sigue a nuestro héroe Murphy en su afán por capturar el premio máximo: un insecto llamado Puck. Pero para Murphy nada sale como debería y tiene un gran rival: Blat Jack, un supercazador de recompensas. ¡Todo lo que podía salir mal saldrá mal! Revive los días gloriosos de los dibujos animados cómicos.</desc>
@@ -3548,6 +3508,11 @@ Compuesta en 1823, la fama de esta sinfonía reside en su último movimiento, to
     <title>Alegría tristeza</title>
     <desc>RAKUTEN CINEMA - Marcos (Roberto Álamo), Sandra (Maggie Civantos) y su hija Lola (Claudia Placer) forman una familia vital y carismática. Marcos, bombero de profesión y acostumbrado a vivir situaciones límite, recibirá un duro golpe que hará que su vida dé un giro inesperado. A partir de entonces, sufrirá un bloqueo que no le permitirá reconocer las emociones de los demás ni empatizar con ellos. Con la ayuda de los suyos, iniciará un tratamiento para superar este shock. En el camino para volver a sentir, su hija Lola será la clave para reconstruir de nuevo su universo. Un largometraje sobre las emociones, el miedo a sentir y sobre la VIDA.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/49/ES_VC_CTI_USQU352137A_ES-429-ESAJ4500020V7-7156532_20211011164700576.jpg"/>
+  </programme>
+  <programme channel="ESAJ4500020V7" start="20211012052829 +0000" stop="20211012071118 +0000">
+    <title>Entre dos mundos (Asesinato sin motivo)</title>
+    <desc>En 1985 Edmund Perry, un joven estudiante de color, es asesinado durante un desafortunado encuentro con un oficial de policía. Edmund parecía tener todo a su favor al graduarse en la Academia Phillips Exeter con una beca para la Universidad de Stanford, pero todo se truncó en un instante y acabó en tragedia.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/02/ES_VC_CTI_USQU352137A_ES-429-ESAJ4500020V7-14589071_20211011164642046.jpg"/>
   </programme>
   <channel id="ESAJ45000181E">
     <display-name>Acción - Rakuten TV</display-name>

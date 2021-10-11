@@ -32,11 +32,6 @@
     <display-name>Euronews en direct</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png"/>
   </channel>
-  <programme channel="FRBA1000005TW" start="20211011211600 +0000" stop="20211011212900 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Depuis le bureau européen, des analyses et des interviews sur les sujets d'actualité brulants.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/30/FR_VC_CTI_USQU352137A_FR-542-FRBA1000005TW-15045661_20211011183251327.jpg"/>
-  </programme>
   <programme channel="FRBA1000005TW" start="20211011212900 +0000" stop="20211011214300 +0000">
     <title>Euronews Tonight</title>
     <desc>Depuis le bureau européen, des analyses et des interviews sur les sujets d'actualité brulants.</desc>
@@ -197,6 +192,16 @@
     <desc>Découvrez l'émission matinale quotidienne qui aborde les thèmes brulants en Europe et dans le monde.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/17/FR_VC_CTI_USQU352137A_FR-542-FRBA1000005TW-15045691_20211011183338401.jpg"/>
   </programme>
+  <programme channel="FRBA1000005TW" start="20211012052400 +0000" stop="20211012053600 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Découvrez l'émission matinale quotidienne qui aborde les thèmes brulants en Europe et dans le monde.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/65/FR_VC_CTI_USQU352137A_FR-542-FRBA1000005TW-15045692_20211011183252172.jpg"/>
+  </programme>
+  <programme channel="FRBA1000005TW" start="20211012053600 +0000" stop="20211012054700 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Découvrez l'émission matinale quotidienne qui aborde les thèmes brulants en Europe et dans le monde.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/02/FR_VC_CTI_USQU352137A_FR-542-FRBA1000005TW-15045693_20211011183455326.jpg"/>
+  </programme>
   <channel id="FRBA3300065KW">
     <display-name>Euronews</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRBA3300065KW_20210908T010212.png"/>
@@ -323,11 +328,6 @@
     <display-name>Motorsport.tv</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRBA3300053F3_20210908T010400.png"/>
   </channel>
-  <programme channel="FRBA3300053F3" start="20211011205737 +0000" stop="20211011212632 +0000">
-    <title>Motor1 Drive - Mai</title>
-    <desc>Motor1 Drive, c'est votre magazine mensuel consacré au marché de l'automobile. Essais, avis, conseils, actualités... Retrouvez Motor1 Drive tous les mois sur Motorsport.tv !</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/53/FR_VC_CTI_USQO570425A_e2fcda9f-1e0a-11ec-9d66-0a9c8934df2b_20210925155454189.jpg"/>
-  </programme>
   <programme channel="FRBA3300053F3" start="20211011212632 +0000" stop="20211011215420 +0000">
     <title>Motor1 Drive - Mars</title>
     <desc>Motor1 Drive, c'est votre magazine mensuel consacré au marché de l'automobile. Essais, avis, conseils, actualités... Retrouvez Motor1 Drive tous les mois sur Motorsport.tv !</desc>
@@ -433,15 +433,15 @@
     <desc>Au soir de la première étape, Ott Tänak semble déjà en position de force pour signer le quatre à la suite en s'imposant au Pays de Galles. Thierry Neuville et Sébastien Ogier sont pour leur part bien remontés au classement ce vendredi après-midi.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/42/FR_VC_CTI_USQO570425A_e273b701-1e0a-11ec-9d66-0a9c8934df2b_20210925155703407.jpg"/>
   </programme>
+  <programme channel="FRBA3300053F3" start="20211012052513 +0000" stop="20211012060000 +0000">
+    <title>Manche 7 : Hockenheim</title>
+    <desc>Grande finale de la Porsche Carrera Cup Allemagne à Hockenheim ! Thomas Preining compte 27 points d’avance sur Michael Ammermüller. Duel au sommet pour les deux dernières courses de l’année.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/FR_VC_CTI_USQO570425A_e2609b86-1e0a-11ec-9d66-0a9c8934df2b_20210925155702562.jpg"/>
+  </programme>
   <channel id="FRBA3300055J0">
     <display-name>Surf World TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/43/FRBA3300055J0_20210908T010447.png"/>
   </channel>
-  <programme channel="FRBA3300055J0" start="20211011204841 +0000" stop="20211011212611 +0000">
-    <title>The All Saints Perfect Chapter</title>
-    <desc>Surfer Ricardo Dos Santos, special guest of the 4th Edition of Perfect Chapter was shot in Brazil days before he found out he has been invited to participate in one of the biggest sporting events in Portugal. 'The All Saints Perfect Chapter' is a compelling surf documentary that follows the journey of Bruno Dos Santos, the surfer who took his place. Official Selections: Bells Beach Surf Film Festival 2016 &amp; Surf at Lisbon Film Fest 2015.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/84/FR_VC_CTI_USQO570425A_4b342102-25fb-11ec-a34b-0a9c8934df2b_20211005171058910.jpg"/>
-  </programme>
   <programme channel="FRBA3300055J0" start="20211011212611 +0000" stop="20211011230000 +0000">
     <title>The Perfect Wave</title>
     <desc>The tale of a surfer's relentless journey in pursuit of the perfect wave.</desc>
@@ -634,11 +634,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/FRBA1000006LP_20201029T004312.png"/>
   </channel>
-  <programme channel="FRBA1000006LP" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Surfing for Peace:Surfing for Peace</title>
-    <desc>The Paskowitz family, the Rothmans, and Kelly Slater go to Israel to surf and raise awareness.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/28/FR_VC_CTI_USQU352137A_FR-588-FRBA1000006LP-15037546_20211011183212384.jpg"/>
-  </programme>
   <programme channel="FRBA1000006LP" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Santa Cruz Euro Skate Tour 2:Santa Cruz Euro Skate Tour 2</title>
     <desc>The pros of the Santa Cruz team return to skate the streets of Europe.</desc>
@@ -709,14 +704,15 @@
     <desc>Get to know firsthand the names of the chosen surfers that will be performing in the spectacular conditions that Praia do Norte, in Nazaré has to offer, in the 2016 edition of the Perfect Chapter.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/16/FR_VC_CTI_USQU352137A_FR-588-FRBA1000006LP-15037560_20211011183243488.jpg"/>
   </programme>
+  <programme channel="FRBA1000006LP" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Home Bros:Home Bros</title>
+    <desc>When amidst the covid-19 pandemic, Australian videomaker, Tai Jennison, and his home bros found themselves stuck in one of the most surfable stretches of coastline in the world, they decided to make t</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/22/FR_VC_CTI_USQU352137A_FR-588-FRBA1000006LP-15037561_20211011183212696.jpg"/>
+  </programme>
   <channel id="FRBA3300001KU">
     <display-name>AbsintheTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/82/FRBA3300001KU_20210826T001158.png"/>
   </channel>
-  <programme channel="FRBA3300001KU" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Fire on the Mountain</title>
-    <desc>-</desc>
-  </programme>
   <programme channel="FRBA3300001KU" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Mathieu Crepel Board Bag</title>
     <desc>Les webisodes de boardbag de Mathieu vous apporteront un pass VIP pour découvrir ce qui se passe dans la vraie vie d'un snowboardeur professionnel
@@ -832,11 +828,6 @@ the experiences of Black musicians in the world of alternative rock and punk mus
     <display-name>gTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/FRBB3500001P6_20210908T010244.png"/>
   </channel>
-  <programme channel="FRBB3500001P6" start="20211011204500 +0000" stop="20211011213000 +0000">
-    <title>VERSUS #1 Il prend le circuit a l'envers ! - Quart de finale Bun Hay Mean vs brak2K - gTV</title>
-    <desc>Decouvrez le nouveau show VERSUS sur gTV, presente par Trinity ! Soutenez vos streameurs et createurs de contenu preferes dans un tournoi gaming epique qui determinera qui est le meilleur joueur.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/89/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug3000000194_20211011164637874.jpg"/>
-  </programme>
   <programme channel="FRBB3500001P6" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title>Le combat de Giants - Stories #2 - gTV</title>
     <desc>Suivez le destin des Giants de l'equipe esports de Rainbow Six Siege alors qu'ils se rendent a Tokoname au Japon pour la finale de la Pro League Saison X. Production SoPress</desc>
@@ -867,6 +858,11 @@ the experiences of Black musicians in the world of alternative rock and punk mus
     <desc>L'intelligence artificielle est partout dans les jeux video, que ce soit pour creer des mondes, repondre aux actions des joueurs ou simuler des comportements.
 Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programmeur chez Ubisoft Thibaut Assandri pour discuter de l'IA dans les jeux !</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/48/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug3000000290_20211011164656477.jpg"/>
+  </programme>
+  <programme channel="FRBB3500001P6" start="20211012053000 +0000" stop="20211012054500 +0000">
+    <title>Jeux sur ecoute : les joueurs en Allemagne de l'Est - Stories- gTV</title>
+    <desc>Fin des annees 80, Allemagne de l'Est. Des jeunes passionnes d'informatique decouvrent le jeu video et s'echangent des copies en depit de la surveillance de la Stasi, voici l'histoire des jeux sur ecoute.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/47/FR_VC_CTI_USQT620324A_FRBB3500001P6_ubiug3000000292_20211011164638880.jpg"/>
   </programme>
   <channel id="FRBA3300031ZC">
     <display-name>Stormcast Novelas</display-name>
@@ -976,6 +972,11 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Meurtres Insolites révèle une histoire criminelle vraie et étonnamment étrange. Il ne s'agit pas de meurtriers en série qui échappent au FBI, mais de cascades à la Fargo avec des rebondissements choquants et des personnages inhabituels.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/11/FR_VC_CTI_USQU352135A_FRAJ38000089S-YQpqZz7ycgATTWzr_20211011183306390.jpg"/>
   </programme>
+  <programme channel="FRAJ38000089S" start="20211012053600 +0000" stop="20211012060600 +0000">
+    <title>Bizarre Murders: Dépouillé pour de largent</title>
+    <desc>Meurtres Insolites révèle une histoire criminelle vraie et étonnamment étrange. Il ne s'agit pas de meurtriers en série qui échappent au FBI, mais de cascades à la Fargo avec des rebondissements choquants et des personnages inhabituels.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/13/FR_VC_CTI_USQU352135A_FRAJ38000089S-YQpqPT7ycgATTV5K_20211011183453273.jpg"/>
+  </programme>
   <channel id="FRBA3300059J5">
     <display-name>Krime</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/77/FRBA3300059J5_20210811T022059.png"/>
@@ -1019,6 +1020,11 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <title>Barristers Season 1 Episode 1</title>
     <desc>En 15 mois, nous avons un accès sans précédent aux avocats, à leurs dossiers et au système judiciaire. Dans cet épisode, une mère se bat pour régler l'accès à ses enfants  il y a un défi à réembaucher d'anciens agents de la RUC et une affaire type est en cours devant le tribunal pour obtenir une indemnisation pour les personnes vivant sous des pylônes électriques.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/39/FR_VC_CTI_USQO570425A_9fb2bba0-1cfb-11ec-a57a-0a9c8934df2b_20210926232058047.jpg"/>
+  </programme>
+  <programme channel="FRBA3300059J5" start="20211012052443 +0000" stop="20211012055753 +0000">
+    <title>Barristers Season 1 Episode 2</title>
+    <desc>Cette série, un instantané du monde des avocats, a été tournée sur une période de 15 mois. Dans l'épisode 2, une entreprise poursuit le conseil municipal de Derry pour une facture impayée  un homme blessé au travail réclame des dommages-intérêts et nous voyons comment un des meilleurs avocats se prépare à mener une affaire pénale majeure.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/99/FR_VC_CTI_USQO570425A_9fb51573-1cfb-11ec-a57a-0a9c8934df2b_20210926232225682.jpg"/>
   </programme>
   <channel id="FRAJ4500026AB">
     <display-name>Rakuten Stories</display-name>
@@ -1068,11 +1074,6 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/74/FRBA10000029E_20201208T050251.png"/>
   </channel>
-  <programme channel="FRBA10000029E" start="20211011210011 +0000" stop="20211011213011 +0000">
-    <title>Obsesh TV: Adventure Amplified | Ep. 1.9</title>
-    <desc>The holy grail of cliff jumping as told by filmmaker and cliff jumper Nick Coulter. Andrew Muse gets the river rapids challenge of a lifetime from pro kayaker Rafa Ortiz. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/15/FR_VC_CTI_USQU352137A_FR-386-FRBA10000029E-2051755_20211011183340087.jpg"/>
-  </programme>
   <programme channel="FRBA10000029E" start="20211011213011 +0000" stop="20211011220000 +0000">
     <title>Obsesh TV: Adventure Amplified | Ep. 1.10</title>
     <desc>We span the globe for an epic road trip and freestyle cliff jumping competition across the Pacific Northwest, followed by an aerial journey of the Maldives from Dimag Ozgum, aka VacationWolf. </desc>
@@ -1148,10 +1149,15 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Practice yields incredible results.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/37/FR_VC_CTI_USQU352137A_FR-386-FRBA10000029E-743185_20211011183518474.jpg"/>
   </programme>
-  <programme channel="FRBA10000029E" start="20211012050000 +0000" stop="20211012053000 +0000">
+  <programme channel="FRBA10000029E" start="20211012050000 +0000" stop="20211012053001 +0000">
     <title>Exhibition Awesome | Walk the Line</title>
     <desc>They aren't afraid to live their life on the edge.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/44/FR_VC_CTI_USQU352137A_FR-386-FRBA10000029E-735602_20211011183129758.jpg"/>
+  </programme>
+  <programme channel="FRBA10000029E" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>Exhibition Awesome | High Dive</title>
+    <desc>These stunts are making a big splash.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/19/FR_VC_CTI_USQU352137A_FR-386-FRBA10000029E-735617_20211011183518224.jpg"/>
   </programme>
   <channel id="FRAJ38000050Z">
     <display-name>MTV Catfish</display-name>
@@ -1211,11 +1217,6 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <display-name>MTV Classics</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/FRAJ3800004CC_20210209T093414.png"/>
   </channel>
-  <programme channel="FRAJ3800004CC" start="20211011204300 +0000" stop="20211011213100 +0000">
-    <title>The Challenge: Vendettas</title>
-    <desc>The Challenge est une compétition de télé-réalité dans laquelle on se bat pour gagner de l'argent. Les participants doivent faire face à des défis brutaux, des éliminatoires dévastatrices, des liaisons torrides et des rivalités amères.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/59/FR_VC_CTI_USQU352135A_FRAJ3800004CC-YBJ-L86YgAAT7N6w_20211011183454762.jpg"/>
-  </programme>
   <programme channel="FRAJ3800004CC" start="20211011213100 +0000" stop="20211011221900 +0000">
     <title>The Challenge: Vendettas</title>
     <desc>The Challenge est une compétition de télé-réalité dans laquelle on se bat pour gagner de l'argent. Les participants doivent faire face à des défis brutaux, des éliminatoires dévastatrices, des liaisons torrides et des rivalités amères.</desc>
@@ -1286,15 +1287,15 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Entre fiction, réalité et jeu télévisé, Pimp my Ride, animé par le rappeur west coast Xzibit, c'est le show à l'américaine, qui réalise vos vœux les plus fous.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/37/FR_VC_CTI_USQU352135A_FRAJ3800004CC-YAFYl8wXzgATC-Ld_20211011183306531.jpg"/>
   </programme>
+  <programme channel="FRAJ3800004CC" start="20211012052800 +0000" stop="20211012055100 +0000">
+    <title>Pimp My Ride: La Volkswagen Baja Bug de Krissy</title>
+    <desc>Entre fiction, réalité et jeu télévisé, Pimp my Ride, animé par le rappeur west coast Xzibit, c'est le show à l'américaine, qui réalise vos vœux les plus fous.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/55/FR_VC_CTI_USQU352135A_FRAJ3800004CC-X-G2TH9z7AAaqVDk_20211011183126028.jpg"/>
+  </programme>
   <channel id="FRBA33000234L">
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/FRBA33000234L_20210714T001607.png"/>
   </channel>
-  <programme channel="FRBA33000234L" start="20211011205953 +0000" stop="20211011212953 +0000">
-    <title>Best Fails of the Month | Ep. 3.8</title>
-    <desc>The best of the worst for August 2020.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/53/FR_VC_CTI_USQU352137A_FR-151-FRBA33000234L-3180261_20211011183314046.jpg"/>
-  </programme>
   <programme channel="FRBA33000234L" start="20211011212953 +0000" stop="20211011215953 +0000">
     <title>Best Fails of the Month | Ep. 3.9</title>
     <desc>The best of the worst for September 2020.</desc>
@@ -1377,10 +1378,15 @@ The best of the worst for June 2020.</desc>
     <desc>Please don't try this at home.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/63/FR_VC_CTI_USQU352137A_FR-151-FRBA33000234L-44919_20211011183246175.jpg"/>
   </programme>
-  <programme channel="FRBA33000234L" start="20211012050001 +0000" stop="20211012053000 +0000">
+  <programme channel="FRBA33000234L" start="20211012050001 +0000" stop="20211012053001 +0000">
     <title>FailArmy Now | Delicious Cinnamon</title>
     <desc>What do cinnamon vacuums, introverts and pants have in common? They're all in this episode of FAILARMY NOW.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/26/FR_VC_CTI_USQU352137A_FR-151-FRBA33000234L-10970349_20211011183312911.jpg"/>
+  </programme>
+  <programme channel="FRBA33000234L" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>FailArmy Now | Vegan Dance Party</title>
+    <desc>What do a Canadian Superhero, a mountain-biker gang and janky furniture have in common? They're all in this episode of FAILARMY NOW.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/04/FR_VC_CTI_USQU352137A_FR-151-FRBA33000234L-9481109_20211011183130279.jpg"/>
   </programme>
   <channel id="FRBA33000622P">
     <display-name>Télézap par TVPlayer</display-name>
@@ -1490,15 +1496,15 @@ The best of the worst for June 2020.</desc>
     <desc>Après le terrible accident dont il a été victime, Camilo meure à l’hôpital. Paulina, malgré la souffrance qu’elle sent, parvient à être avec lui pour entendre ses derniers mots. Raquel vit un cauchemar lorsqu’elle revient de son voyage et trouve son fils mort.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/01/FR_VC_CTI_USQU352137A_FR-820-FRBA3300022OA-14204349_20211011183319696.jpg"/>
   </programme>
+  <programme channel="FRBA3300022OA" start="20211012052333 +0000" stop="20211012061349 +0000">
+    <title>Terres sauvages:Épisode 54</title>
+    <desc>Amparo apprend que Carolina attend l'enfant de Daniel et décide de se rendre à la cabane pour tirer au claire ses doutes, mais le trouve en train d'embrasser Isabel.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/25/FR_VC_CTI_USQU352137A_FR-820-FRBA3300022OA-14204319_20211011183419760.jpg"/>
+  </programme>
   <channel id="FRBA3300061XH">
     <display-name>Explore by TVPlayer</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/FRBA3300061XH_20210811T022032.png"/>
   </channel>
-  <programme channel="FRBA3300061XH" start="20211011193526 +0000" stop="20211011213541 +0000">
-    <title>Le Piège Blanc</title>
-    <desc>Ce voyage au cœur des glaces nous entraîne dans un périple haletant au fil d’une expédition polaire de plongée sous-marine au Groenland. Août 2012, c’est la fin de l’été arctique, deux aventuriers dérivent en kayak de mer au milieu des géants de glaces que charrie le courant Est-Groenlandais. Ils vont relier les 2 seules communautés de l’une des côtes les plus sauvages au monde. Point de départ : Ittoqqortoormiit. Une aventure humaine intense sur 1000 kilomètres !</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/09/FR_VC_CTI_USQO570425A_a2c52666-1e4f-11ec-9d66-0a9c8934df2b_20210926011404488.jpg"/>
-  </programme>
   <programme channel="FRBA3300061XH" start="20211011213541 +0000" stop="20211011214757 +0000">
     <title>Etoiles et Pollution Lumineuse: Retiens la Nuit</title>
     <desc>Mais où sont passées les étoiles? La Terre s'allume de plus en plus, tandis que le ciel, lui, s'éteint. Il n'y a plus d'obscurité totale en Europe aujourd'hui et 60% de la population ne peut plus voir la voie lactée. Astronomes et écologistes tirent la sonnette d'alarme et tentent, via les relais associatifs, de sensibiliser les maires de communes à la préservation de l'environnement nocturne en prônant l'extinction totale de l'éclairage public nocturne.</desc>
@@ -1553,11 +1559,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Plus Belle la Vie</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/67/FRAJ3800009AY_20210310T011125.png"/>
   </channel>
-  <programme channel="FRAJ3800009AY" start="20211011205800 +0000" stop="20211011212500 +0000">
-    <title>Plus Belle la Vie</title>
-    <desc>Au cœur de Marseille, dans le quartier populaire du Mistral, les habitants vivent ensemble, s’aiment et se déchirent parfois. Plusieurs familles organisent leur vie autour du bar du mistral, celui de Roland.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/90/FR_VC_CTI_USQU352135A_FRAJ3800009AY-X5aHS3LROQAaGs2S_20211011183445717.jpg"/>
-  </programme>
   <programme channel="FRAJ3800009AY" start="20211011212500 +0000" stop="20211011215200 +0000">
     <title>Plus Belle la Vie</title>
     <desc>Au cœur de Marseille, dans le quartier populaire du Mistral, les habitants vivent ensemble, s’aiment et se déchirent parfois. Plusieurs familles organisent leur vie autour du bar du mistral, celui de Roland.</desc>
@@ -1648,15 +1649,15 @@ The best of the worst for June 2020.</desc>
     <desc>Au cœur de Marseille, dans le quartier populaire du Mistral, les habitants vivent ensemble, s’aiment et se déchirent parfois. Plusieurs familles organisent leur vie autour du bar du mistral, celui de Roland.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/77/FR_VC_CTI_USQU352135A_FRAJ3800009AY-X5aIKHLROQAaGuC1_20211011183125713.jpg"/>
   </programme>
+  <programme channel="FRAJ3800009AY" start="20211012052600 +0000" stop="20211012055300 +0000">
+    <title>Plus Belle la Vie: Episode 5</title>
+    <desc>Au cœur de Marseille, dans le quartier populaire du Mistral, les habitants vivent ensemble, s’aiment et se déchirent parfois. Plusieurs familles organisent leur vie autour du bar du mistral, celui de Roland.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/52/FR_VC_CTI_USQU352135A_FRAJ3800009AY-X5aIJ3LROQAaGuCR_20211011183207708.jpg"/>
+  </programme>
   <channel id="FRAJ3800007V8">
     <display-name>Pluto TV Series</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/FRAJ3800007V8_20210811T021822.png"/>
   </channel>
-  <programme channel="FRAJ3800007V8" start="20211011204605 +0000" stop="20211011213705 +0000">
-    <title>Secret State: Épisode 3</title>
-    <desc>Avant une élection générale, un grave accident industriel à Teesside cause plusieurs morts et soulève des questions sur les mesures de sécurité chez PetroFex, l'entreprise américaine concernée.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/47/FR_VC_CTI_USQU352135A_FRAJ3800007V8-YIZzMcne-QAbVTeX_20211011183207645.jpg"/>
-  </programme>
   <programme channel="FRAJ3800007V8" start="20211011213705 +0000" stop="20211011222705 +0000">
     <title>Secret State: Épisode 4</title>
     <desc>Avant une élection générale, un grave accident industriel à Teesside cause plusieurs morts et soulève des questions sur les mesures de sécurité chez PetroFex, l'entreprise américaine concernée.</desc>
@@ -1711,18 +1712,6 @@ The best of the worst for June 2020.</desc>
     <display-name>ADN</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png"/>
   </channel>
-  <programme channel="FRBA2200007G7" start="20211011205438 +0000" stop="20211011212246 +0000">
-    <title>Dagashi Kashi</title>
-    <desc>Kokonotsu Shikada avait un plan de vie tout tracé :Devenir mangaka ! 
-( et accessoirement, ne jamais reprendre la boutique de bonbons de son père pour laquelle il n'a aucun intérêt, au grand désespoir de ce dernier.)
-
-Mais tout cela va se compliquer quand Hotaru Shidare, future héritière de la Shidare Company, débarque dans leur magasin, bien décidée à engager le père de Kokonotsu dans leur entreprise. 
-
-Le problème ? Le père de Kokonotsu s'y refuse tant que son fils n'aura pas pris la relève.
-
-Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temps qu'il faudra..</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/67/FR_VC_CTI_USQO570425A_5131cbbe-215a-11ec-af65-0a9c8934df2b_20210929205926595.jpg"/>
-  </programme>
   <programme channel="FRBA2200007G7" start="20211011212246 +0000" stop="20211011215055 +0000">
     <title>Dagashi Kashi</title>
     <desc>Bien décidée à convaincre Kokonotsu, Hotaru revient à la charge pour lui en apprendre plus sur les bonbons et les gâteaux. Elle lui présente un problème insoupçonné avec les Kinako-bô, ainsi qu'une boisson très spéciale…</desc>
@@ -1803,15 +1792,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Après beaucoup de péripécies, Naruto et ses coéquipiers arrivent enfin à la maison de Tazuna. Kakashi perd momentanément sa capacité à bouger – le Sharingan qu’il a utilisé a complètement épuisé son énergie. Naruto, Sasuke et Sakura ont l’air confiant et ils sont soulagés de s’être débarrassés de Zabuza. Cependant, une question trotte dans la tête de Kakashi. Habituellement les chasseurs Ninjas sont chargés de faire disparaître les corps des déserteurs, alors pourquoi Haku a-t-il emporté chez lui le corps de Zabuza? Kakashi ne pouvait en arriver qu’à une seule conclusion: le garçon avait probablement aidé Zabuza. Naruto et son équipe ne peuvent cacher leur étonnement quand ils apprennent que Zabuza est peut être bien encore en vie. Après avoir appris cette nouvelle aux trois jeunes Ninjas, Kakashi décide de mettre sur pied un entraînement qui permettra à Naruto, Sasuke et Sakura de se préparer à un nouvel affrontement.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/26/FR_VC_CTI_USQO570425A_513ed9d3-215a-11ec-af65-0a9c8934df2b_20210929205841932.jpg"/>
   </programme>
+  <programme channel="FRBA2200007G7" start="20211012052050 +0000" stop="20211012054746 +0000">
+    <title>Naruto</title>
+    <desc>Sakura s’en va en ville avec Tazuna et découvre à quel point les habitants de Naminokuni (Le Pays des vagues) souffrent sous le joug de Gato. C’est la raison pour laquelle Tazuna met sa vie en péril pour construire un nouveau pont qui traverse l’océan. Il croit qu’en construisant un pont, les habitants n’auront plus à dépendre de Gato qui contrôle le transport maritime. Pendant ce temps, Naruto et Sasuke s’entraînent avec assiduité à grimper à un arbre en utilisant leur Chakra. Mais un enfant nommé Inari leur lance un regard froid et anéantit leurs efforts en disant qu’ils n’ont aucune chance de gagner contre Kaiza. Le père nourricier qu’Inari admirait profondément, a été exécuté par Gato…</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/09/FR_VC_CTI_USQO570425A_5140123b-215a-11ec-af65-0a9c8934df2b_20210929205842259.jpg"/>
+  </programme>
   <channel id="FRAJ3800010QO">
     <display-name>Bob L'eponge+</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/FRAJ3800010QO_20210609T005044.png"/>
   </channel>
-  <programme channel="FRAJ3800010QO" start="20211011210218 +0000" stop="20211011212618 +0000">
-    <title>Bob léponge: Une aventure 'Taille Viking' / L'École buissonnière</title>
-    <desc>Bob l'éponge est une éponge de mer qui vit avec son escargot de compagnie, Gary, dans un ananas... Bob l'éponge est sacrément optimiste mais se débrouille toujours pour s'attirer des ennuis...</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/81/FR_VC_CTI_USQU352135A_FRAJ3800010QO-YNWmtGYxLQAUb47A_20211011183450243.jpg"/>
-  </programme>
   <programme channel="FRAJ3800010QO" start="20211011212618 +0000" stop="20211011215018 +0000">
     <title>Bob léponge: Grand-père, le pirate / Le Club des céphalopodes</title>
     <desc>Bob l'éponge est une éponge de mer qui vit avec son escargot de compagnie, Gary, dans un ananas... Bob l'éponge est sacrément optimiste mais se débrouille toujours pour s'attirer des ennuis...</desc>
@@ -2055,15 +2044,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Troy le Train est un dessin animé pour les enfants. Troy le Train est le Train le plus rapide et le plus intelligent de la ville ! Avec l'aide de son ami Teddy, il peut se transformer en n'importe quel véhicule: camion de pompier, voiture de police, ambulance, camion poubelle, bus, helicopter, monster truck ou en véhicules de construction comme le bulldozer ou la tractopelle ! Ce dessin animé pour les enfants sur les camions est idéal pour les garçons comme pour les filles qui aiment les voitures.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/50/FR_VC_CTI_USQU352137A_FR-651-FRBA33000306L-6908529_20211011183400956.jpg"/>
   </programme>
+  <programme channel="FRBA33000306L" start="20211012053034 +0000" stop="20211012060416 +0000">
+    <title>Troy le Train</title>
+    <desc>Troy le Train est un dessin animé pour les enfants. Troy le Train est le Train le plus rapide et le plus intelligent de la ville ! Avec l'aide de son ami Teddy, il peut se transformer en n'importe quel véhicule: camion de pompier, voiture de police, ambulance, camion poubelle, bus, helicopter, monster truck ou en véhicules de construction comme le bulldozer ou la tractopelle ! Ce dessin animé pour les enfants sur les camions est idéal pour les garçons comme pour les filles qui aiment les voitures.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/36/FR_VC_CTI_USQU352137A_FR-651-FRBA33000306L-6908516_20211011183502813.jpg"/>
+  </programme>
   <channel id="FRAJ38000061J">
     <display-name>iCarly</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/FRAJ38000061J_20210209T093422.png"/>
   </channel>
-  <programme channel="FRAJ38000061J" start="20211011210000 +0000" stop="20211011212500 +0000">
-    <title>iCarly: Trop jeune pour ça</title>
-    <desc>Ce qui au départ semblait être une tâche pénible, enregistrer une vidéo pour le concours de talents organisé par l'école, a finalement transformé Carly Shay et sa meilleure amie Samantha en de véritables stars du web.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/16/FR_VC_CTI_USQU352135A_FRAJ38000061J-X_wc0HfEmgATHFtU_20211011183341110.jpg"/>
-  </programme>
   <programme channel="FRAJ38000061J" start="20211011212500 +0000" stop="20211011215030 +0000">
     <title>iCarly: Que le meilleur chante</title>
     <desc>Ce qui au départ semblait être une tâche pénible, enregistrer une vidéo pour le concours de talents organisé par l'école, a finalement transformé Carly Shay et sa meilleure amie Samantha en de véritables stars du web.</desc>
@@ -2159,15 +2148,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Ce qui au départ semblait être une tâche pénible, enregistrer une vidéo pour le concours de talents organisé par l'école, a finalement transformé Carly Shay et sa meilleure amie Samantha en de véritables stars du web.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/FR_VC_CTI_USQU352135A_FRAJ38000061J-X-HTcJa25gAb8BOL_20211011183243269.jpg"/>
   </programme>
+  <programme channel="FRAJ38000061J" start="20211012052230 +0000" stop="20211012054730 +0000">
+    <title>iCarly: Gibby perd son sang froid</title>
+    <desc>Ce qui au départ semblait être une tâche pénible, enregistrer une vidéo pour le concours de talents organisé par l'école, a finalement transformé Carly Shay et sa meilleure amie Samantha en de véritables stars du web.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/34/FR_VC_CTI_USQU352135A_FRAJ38000061J-X-HTcZa25gAb8BOz_20211011183339868.jpg"/>
+  </programme>
   <channel id="FRAJ38000035M">
     <display-name>Pluto TV Kids Séries</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/FRAJ38000035M_20210209T093410.png"/>
   </channel>
-  <programme channel="FRAJ38000035M" start="20211011210700 +0000" stop="20211011213200 +0000">
-    <title>100 choses à faire avant le lycée: Devenir une Bonne Fée !</title>
-    <desc>Trois meilleurs amis d'enfance se lancent dans une quête pour tirer le meilleur parti de leurs deux dernières années de collège en faisant une liste de 100 choses à atteindre avant de partir au lycée.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/70/FR_VC_CTI_USQU352135A_FRAJ38000035M-X9sO5GNgBAAaeEsI_20211011183313208.jpg"/>
-  </programme>
   <programme channel="FRAJ38000035M" start="20211011213200 +0000" stop="20211011215600 +0000">
     <title>100 choses à faire avant le lycée: Passer une nuit blanche !</title>
     <desc>Trois meilleurs amis d'enfance se lancent dans une quête pour tirer le meilleur parti de leurs deux dernières années de collège en faisant une liste de 100 choses à atteindre avant de partir au lycée.</desc>
@@ -2267,11 +2256,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>SuperToons TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/61/FRBA3300029ZY_20201208T050252.png"/>
   </channel>
-  <programme channel="FRBA3300029ZY" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Les Histoires d'Om Nom</title>
-    <desc>Om Nom, le héros mondialement connu des jeux Cut the Rope, est un adorable monstre qui se nourrit exclusivement de bonbons. Un beau jour, il apparaît mystérieusement devant la maison d'un garçon, et c'est le début de folles aventures.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/FR_VC_CTI_USQU352137A_FR-658-FRBA3300029ZY-13963170_20211011183241126.jpg"/>
-  </programme>
   <programme channel="FRBA3300029ZY" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Booba</title>
     <desc>Qui est Booba? Booba est aussi mignon et curieux qu’un enfant de 5 ans. Il explore le monde sans colère ni ressentiment, uniquement avec joie et émerveillement. Il ne parle pas, mais il fait des bruits pour exprimer ses émotions. Personne ne sait d'où il vient, mais il a visiblement raté les 100 dernières années de l'évolution humaine et explore les lieux modernes avec un enthousiasme et une énergie sans limites. Ses mouvements maladroits, combinés à un grand désir d'en apprendre plus sur le monde qui l'entoure, donnent souvent un résultat hilarant! Cependant, cela ne satisfait pas la curiosité de Booba, ses aventures continueront donc dans la série à venir.</desc>
@@ -2352,15 +2336,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Qui est Booba? Booba est aussi mignon et curieux qu’un enfant de 5 ans. Il explore le monde sans colère ni ressentiment, uniquement avec joie et émerveillement. Il ne parle pas, mais il fait des bruits pour exprimer ses émotions. Personne ne sait d'où il vient, mais il a visiblement raté les 100 dernières années de l'évolution humaine et explore les lieux modernes avec un enthousiasme et une énergie sans limites. Ses mouvements maladroits, combinés à un grand désir d'en apprendre plus sur le monde qui l'entoure, donnent souvent un résultat hilarant! Cependant, cela ne satisfait pas la curiosité de Booba, ses aventures continueront donc dans la série à venir.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/30/FR_VC_CTI_USQU352137A_FR-658-FRBA3300029ZY-13294430_20211011183155634.jpg"/>
   </programme>
+  <programme channel="FRBA3300029ZY" start="20211012053000 +0000" stop="20211012063000 +0000">
+    <title>Les Sunny Bunnies</title>
+    <desc>Les Sunny Bunnies sont 5 boules poilues chargées de lumière, dont les noms sont : Turbo, Big Boo, Shiny, Iris et Hopper qui peuvent apparaître à n'importe quel endroit où il y a de la lumière. Les Bunnies apportent toujours de la joie et du bonheur  elles sont rayonnantes et toujours prêtes pour explorer de nouveaux lieux excitants, pour trouver des amusements et des jeux malicieux.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/12/FR_VC_CTI_USQU352137A_FR-658-FRBA3300029ZY-14674999_20211011183523547.jpg"/>
+  </programme>
   <channel id="FRBA3300028VI">
     <display-name>Caillou</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/FRBA3300028VI_20210113T004313.png"/>
   </channel>
-  <programme channel="FRBA3300028VI" start="20211011210248 +0000" stop="20211011213248 +0000">
-    <title>Caillou:Partage de la fusée // Grand-père l'entraîneur // Cadet de la sécurité</title>
-    <desc>Caillou et Léo reconnaissent le sens véritable du partage lorsqu'ils se procurent une fusée jouet. // Grand-père devient l'entraîneur de l'équipe de soccer et Caillou vient qu'à réaliser que son grand-papa est fier de lui, quoi qu'il arrive! // Caillou comprend qu'il n'a pas besoin d'un écusson pour venir en aide aux autres, lorsqu'à la garderie, on le nomme cadet de la sécurité.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/30/FR_VC_CTI_USQU352137A_FR-666-FRBA3300028VI-10427648_20211011183249555.jpg"/>
-  </programme>
   <programme channel="FRBA3300028VI" start="20211011213248 +0000" stop="20211011220000 +0000">
     <title>Caillou:Caillou en patin // Photo de lapin // Caillou essaie de siffler</title>
     <desc>Caillou fait preuve de persévérance lorqu'il fait l'essai de nouveaux patins à roulettes que papa lui a offerts. // Prendre une photo d'un lapin au jardin de grand-papa s'avère une leçon de persévérance pour Caillou. // Caillou réalise qu'il n'y a aucune honte à admettre un échec lorsqu'il essaie de sifller comme Clémentine.</desc>
@@ -2440,6 +2424,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>Caillou:Montrer aux amis // Caillou le magicien // Le château de Caillou</title>
     <desc>Caillou veut trouver quelque chose de spécial à montrer aux amis de la garderie mais il a du mal à choisir entre son dinosaure, son cerf-volant ou sa voiture de pompier. // Grand-mère montre à Caillou comment faire un tour de magie. // Caillou veut jouer aux châteaux et aux dragons mais Gilbert n’a pas très envie de faire le dragon.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/46/FR_VC_CTI_USQU352137A_FR-666-FRBA3300028VI-9526860_20211011183523532.jpg"/>
+  </programme>
+  <programme channel="FRBA3300028VI" start="20211012052718 +0000" stop="20211012055724 +0000">
+    <title>Caillou:Une histoire pour Mousseline // Caillou l’apprenti pompier // Caillou à la rescousse</title>
+    <desc>Mousseline n’arrive pas à s’endormir, alors son grand frère Caillou décide de l’aider. // La garderie de Caillou reçoit la visite du chef pompier qui vient enseigner aux enfants comment réagir en cas d’incendie. // Léo et Caillou partent à la rescousse des voitures que Mousseline a cachées sous les coussins du canapé.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/11/FR_VC_CTI_USQU352137A_FR-666-FRBA3300028VI-9526862_20211011183523818.jpg"/>
   </programme>
   <channel id="FRBA330005784">
     <display-name>L'Atelier des chefs</display-name>
@@ -2586,11 +2575,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Museum TV Free</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/FRBA3300064WS_20210811T021924.png"/>
   </channel>
-  <programme channel="FRBA3300064WS" start="20211011211641 +0000" stop="20211011213139 +0000">
-    <title>Visite Privée E8 Japon japonisme, objets inspirés</title>
-    <desc>Visite privée vous emmène à la découverte de l’exposition « Japon-japonisme, objets inspirés, 1867-2018 » au musée des arts décoratifs. Le japon a commencé à se faire connaître vers les années 1850 et son art fut très vite reconnu. Dans cette exposition vous pourrez observés des objets japonais, mais également des objets d’influence japonaise qui témoignent des relations entre la France et le Japon.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/61/FR_VC_CTI_USQO570425A_051a87fc-2587-11ec-a40b-0a9c8934df2b_20211005051953814.jpg"/>
-  </programme>
   <programme channel="FRBA3300064WS" start="20211011213139 +0000" stop="20211011222652 +0000">
     <title>Photo Contest E4 Le vieux lyon</title>
     <desc>Aujourd’hui, nous vous donnons rendez vous à Lyon. Les deux candidats du jour, Christophe Boulair et Julien Arnaud, auront une heure pour s’affronter sur le thème du Vieux Lyon. Ils vont pouvoir arpenter la vieille ville à la recherche du meilleur spot pour prendre la plus belle photographie possible.</desc>
@@ -2675,6 +2659,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>Secret treasures E1 L' Assemblée Nationale</title>
     <desc>Secret treasures vous emmène à la découverte des secrets et trésors insoupçonnés de l’Assemblée nationale en France. Certaines des œuvres les plus délicates y sont conservées dans le plus grand secret. Mais ce lieu, qui est le temple de la démocratie française nous ouvre exceptionnellement ses portes aujourd’hui. Nous allons vous faire découvrir cet univers emblématique, plus connu pour ses épisodes politiques que pour les trésors qu’il abrite.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/74/FR_VC_CTI_USQO570425A_ad33c122-266b-11ec-a34b-0a9c8934df2b_20211006062706492.jpg"/>
+  </programme>
+  <programme channel="FRBA3300064WS" start="20211012052549 +0000" stop="20211012055409 +0000">
+    <title>Sketchbook S1 E19 L’arbre</title>
+    <desc>Dans Sketchbook, découvrez l’univers d’Harry, Raphaël, Luca et Marine. Ces 4 artistes passionnés de dessin vous révèlent leurs meilleures techniques pour devenir un véritable pro dans l’art du dessin. Que vous soyez débutant ou confirmé, chaque épisode sera dédié à une technique ou une thématique : le croquis, l’aquarelle, la transparence, l’autoportrait… Soyez prêts à découvrir une nouvelle façon d’aborder le dessin avec Sketchbook !</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/99/FR_VC_CTI_USQO570425A_ad349542-266b-11ec-a34b-0a9c8934df2b_20211006062428124.jpg"/>
   </programme>
   <channel id="FRBA3300063FP">
     <display-name>My Zen TV Free</display-name>
@@ -2795,11 +2784,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/59/FRBA2200003RR_20210209T093440.png"/>
   </channel>
-  <programme channel="FRBA2200003RR" start="20211011205900 +0000" stop="20211011213600 +0000">
-    <title>Carl Cox - Awakenings Festival</title>
-    <desc>Dans cette performance qui clôt le set de Carl Cox à Awakenings 2018 à Amsterdam, le célèbre DJ britannique sort le grand jeu. Au centre d'une scène à l'architecture saisissante, dans un décor embrumé aux lumières parfaitement synchronisées, Cox fait s’abattre la foudre dans un déluge de percussions techno.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/53/FR_VC_CTI_USQO570425A_c88f6087-1cc3-11ec-a57a-0a9c8934df2b_20210923232934611.jpg"/>
-  </programme>
   <programme channel="FRBA2200003RR" start="20211011213600 +0000" stop="20211012000300 +0000">
     <title>Bambounou - Live at Nuits Sonores</title>
     <desc>D'origine franco-malienne-polonaise, Jeremy Guindo - de son vrai nom - s'est construit une identité forte et indépendante, influencée par son attrait pour la science-fiction et l'astrophysique, sans jamais oublier son but premier, la danse. C'est ainsi qu'il attire l'attention de Modeselektor. Le célèbre duo allemand signe Bambounou sur 50 Weapons, leur label expérimental destiné à disparaître après 50 sorties seulement, qui lui permettra de sortir 2 albums et 6 Eps. Depuis, ce sont les clubs et festivals les plus prisés de la scène techno qui l'accueillent, du Berghain à Berlin aux Nuits Sonores où on le retrouve ici.</desc>
@@ -2824,6 +2808,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>Gold Panda &amp; Anoushka Shankar</title>
     <desc>Pour cet épisode tourné en 2018 à la Salle Wagram, à Paris, nous retrouvons Gold Panda, révélation de la scène techno britannique (de son vrai nom Derwin Schlecker), aux côtés d’Anoushka Shankar, grande sitariste unique en son genre, qui revisite pour l’occasion l’héritage de son père, le grand Ravi Shankar.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/84/FR_VC_CTI_USQO570425A_82daf834-225f-11ec-960e-0a9c8934df2b_20211001052138124.jpg"/>
+  </programme>
+  <programme channel="FRBA2200003RR" start="20211012053700 +0000" stop="20211012063600 +0000">
+    <title>Yasmine Hamdan – Live in Paris</title>
+    <desc>Ce concert parisien de 2014 suit la sortie de son album "Ya Nass" (Crammed Discs), mais aussi celle du film de Jim Jarmush, "Only Lovers Left Alive" dans lequel elle chante « Hal » en interprétant son propre rôle.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/97/FR_VC_CTI_USQO570425A_a57b8b1b-1752-11ec-bf63-0a9c8934df2b_20210917051943934.jpg"/>
   </programme>
   <channel id="FRBA2200002IV">
     <display-name>Qwest TV Classical</display-name>
@@ -2868,11 +2857,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Qwest TV Jazz and Beyond</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/FRBA2200001SP_20210209T093438.png"/>
   </channel>
-  <programme channel="FRBA2200001SP" start="20211011195200 +0000" stop="20211011213300 +0000">
-    <title>Rhoda Scott Lady Quartet - Live</title>
-    <desc>Avec Julie Saury à la batterie, Sophie Alour et Lisa Cat-Berro respectivement au saxophone ténor et alto, Rhoda Scott sait s’entourer et, pour être tout à fait honnête, c’est un vrai plaisir de finalement voir un groupe composé uniquement de femmes – l’inverse étant, au contraire, très commun.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/34/FR_VC_CTI_USQO570425A_83165c31-1cc3-11ec-a57a-0a9c8934df2b_20210924011820200.jpg"/>
-  </programme>
   <programme channel="FRBA2200001SP" start="20211011213300 +0000" stop="20211011222600 +0000">
     <title>The Latin Beat</title>
     <desc>Rythmes, danses et performances : les grooves afro-cubains et l'énergie pure et vibrante de la samba et de la salsa ne vous laisseront pas indifférents. Plongez au coeur de la musique latine à travers des concerts de Paco De Lucia, Chucho Valdes et Milton Nascimento, qui vous emmèneront de La Havane à Copacabana.</desc>
@@ -2932,11 +2916,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/FRBB1900001FA_20210714T000933.png"/>
   </channel>
-  <programme channel="FRBB1900001FA" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>From The Studio - Jupiter 6: vintage techno classic</title>
-    <desc>Starsky will be your host/teacher for this From The Studio show. Discover the best electronic music gears and learn how to use them! In this episode : Jupiter 6: vintage techno classic</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/64/FR_VC_CTI_USQT620324A_FRBB1900001FA_7fe67c6dc9ff8799df61a065_20211011053057894.jpg"/>
-  </programme>
   <programme channel="FRBB1900001FA" start="20211011213000 +0000" stop="20211011214000 +0000">
     <title>Clubbing News</title>
     <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
@@ -3037,11 +3016,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Pluto TV Ciné</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png"/>
   </channel>
-  <programme channel="FRAJ3800002W5" start="20211011190035 +0000" stop="20211011212235 +0000">
-    <title>Red eagle</title>
-    <desc>Une mystérieuse confrérie d’hommes politiques s’apprête à signer un contrat pour la construction d’une centrale nucléaire. Les riverains menacés sont impuissants face à cette organisation. Mais un justicier violent et sans pitié veille sur la cité.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/49/FR_VC_CTI_USQU352135A_FRAJ3800002W5-YQOwSJfeZQAUovmh_20211011183447798.jpg"/>
-  </programme>
   <programme channel="FRAJ3800002W5" start="20211011212235 +0000" stop="20211011231335 +0000">
     <title>Elektra</title>
     <desc>Elektra, célèbre tueuse à gages, accepte un contrat qu’elle refusera plus tard de remplir en protégeant sa cible et la fille de celui-ci de la terrible et maléfique organisation criminelle appelée « La Main ».</desc>
@@ -3091,15 +3065,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Mike Christian est un homme marié et heureux qui rencontre sa chérie du lycée Alex, et après toutes ces années, des étincelles volent toujours. Lorsque Mike est déterminé, Alex est son véritable âme sœur, il se rend compte qu'il a un énorme problème: il a signé un accord prénuptial à toute épreuve et sa femme (Jamie-Lynn Sigler) ne le laissera pas sortir du mariage.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/80/FR_VC_CTI_USQO570425A_41334647-1cb7-11ec-a57a-0a9c8934df2b_20210925000440112.jpg"/>
   </programme>
+  <programme channel="FRBA3300054PU" start="20211012053008 +0000" stop="20211012062712 +0000">
+    <title>Nox, les sentinelles de la lumière E1</title>
+    <desc>Des ombres s'échappent du monde sombre vers le monde humain. Affamés et figés, ils se nourrissent de la joie, de l'amour et de la vie humaine. Les forces du mal gagnent en force et la porte protégeant la planète terre du monde sombre est sur le point d'être détruite. Les Gate Keepers, une équipe de jeunes aux super pouvoirs, se battent sans relâche pour maintenir un équilibre fragile.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/11/FR_VC_CTI_USQO570425A_d765fd72-1e0a-11ec-9d66-0a9c8934df2b_20210925155640971.jpg"/>
+  </programme>
   <channel id="FRBA2200008H8">
     <display-name>UniversCiné</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/16/FRBA2200008H8_20210414T024625.png"/>
   </channel>
-  <programme channel="FRBA2200008H8" start="20211011200722 +0000" stop="20211011213343 +0000">
-    <title>La Traque</title>
-    <desc>Un matin, David, le propriétaire d'une entreprise spécialisée dans les engrais chimiques, et son fils Eric découvrent plusieurs cerfs morts, empalés sur une barrière électrique. Eric met la main sur une dent de sanglier d'une taille incroyable, dans un des cadavres. Père et fils décident d'aller chasser cet animal. Ils sont accompagnés par Nicolas, le frère d'Eric, et par Nathan, son gendre, qui compte surtout profiter de l'occasion pour parler à son beau-père de son avenir et de celui de sa fille. Les chasseurs vont vite découvrir qu'un nouvel engrais pourrait être à l'origine de mutations génétiques chez les animaux...</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/48/FR_VC_CTI_USQO570425A_6eb8e5ef-0b9e-11ec-b015-0a9c8934df2b_20210902050535834.jpg"/>
-  </programme>
   <programme channel="FRBA2200008H8" start="20211011213343 +0000" stop="20211011220000 +0000">
     <title>Belle gueule</title>
     <desc>C'est l'été, le Sud. Tous les jours, Sarah, seize ans, vend des beignets avec son père sur les plages. Un soir, elle fait la rencontre de Baptiste qui n’est pas du même milieu social qu’elle. Pour lui cacher d’où elle vient, elle enchaîne les mensonges... Avec Oulaya Amamra, César 2017 du meilleur espoir féminin pour "Divines".                .</desc>
@@ -3275,11 +3249,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Documentaires - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/FRBA3300027K7_20210923T010535.png"/>
   </channel>
-  <programme channel="FRBA3300027K7" start="20211011202449 +0000" stop="20211011212706 +0000">
-    <title>The Third Shore</title>
-    <desc>Un indigène quitte sa tribu à l'âge de 15 ans. Quelques années plus tard, il traverse le cœur du Brésil sur les traces de João Kramura, l'enfant blanc enlevé par sa propre tribu en 1953.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/99/FR_VC_CTI_USQU352137A_FR-719-FRBA3300027K7-14589161_20211011183322207.jpg"/>
-  </programme>
   <programme channel="FRBA3300027K7" start="20211011212706 +0000" stop="20211011230141 +0000">
     <title>Heavy Water</title>
     <desc>Heavy Water est un film de Michael Oblowitz, produit par Red Bull Media House et All Edge Entertainment. Il retrace la vie et l'époque de Nathan Fletcher, membre de la « famille royale » du surf et figure clé de l'histoire du big wave.</desc>
@@ -3314,11 +3283,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Famille - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210923T010747.png"/>
   </channel>
-  <programme channel="FRBA3300026BR" start="20211011211629 +0000" stop="20211011213737 +0000">
-    <title>Alex - Saison 1 - Épisodes 42-46</title>
-    <desc>Carotte | Courgette | Cerise | Kiwi | Poivre Alex est un garçon curieux de 5 ans qui veut apprendre du monde qui l'entoure. Tout au long des quatre saisons de la série, il découvrira d'où viennent les fruits et légumes, ce que sont les animaux dans la mer et dans la jungle et le son des instruments de musique.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/09/FR_VC_CTI_USQU352137A_FR-720-FRBA3300026BR-12731764_20211011183527202.jpg"/>
-  </programme>
   <programme channel="FRBA3300026BR" start="20211011213737 +0000" stop="20211011220145 +0000">
     <title>Mouk - Saison 1 - Épisodes 39-40</title>
     <desc>L'oiseau chanteur La piste des dinosaures De Tokyo à New York, de l'Australie à Madagascar en passant par la Grèce, ces deux amis rencontrent des habitants du monde entier… et parce que rien n'est jamais comme chez soi, l'aventure frappe toujours à leur porte! Montez à vélo avec eux et découvrez ce monde réaliste, moderne et coloré. Des gens incroyables, des paysages incroyables et des coutumes inconnues: nos deux voyageurs découvriront ensemble de nombreux pays différents. Au-delà des différences, ils partageront une belle expérience et se feront des amis partout!</desc>
@@ -3414,10 +3378,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Le jeu de piste Au-dessus des cimes De Tokyo à New York, de l'Australie à Madagascar en passant par la Grèce, ces deux amis rencontrent des habitants du monde entier… et parce que rien n'est jamais comme chez soi, l'aventure frappe toujours à leur porte! Montez à vélo avec eux et découvrez ce monde réaliste, moderne et coloré.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/64/FR_VC_CTI_USQU352137A_FR-720-FRBA3300026BR-12731797_20211011183218958.jpg"/>
   </programme>
-  <programme channel="FRBA3300026BR" start="20211012051430 +0000" stop="20211012053755 +0000">
+  <programme channel="FRBA3300026BR" start="20211012051430 +0000" stop="20211012053756 +0000">
     <title>Monk Little Dog - Saison 1 - Épisodes 8-14</title>
     <desc>Monk à la pêche Monk à la plage Monk fait du ski Monk joue au tennis Monk à la patinoire Monk et la biscotte maudite Monk envoie une carte postale Monk est un petit chien jovial qui fait obstinément de son mieux mais échoue toujours! Lorsque les choses ne fonctionnent pas pour Monk, des catastrophes s'ensuivent. Les choses peuvent devenir totalement hors de contrôle très rapidement!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/25/FR_VC_CTI_USQU352137A_FR-720-FRBA3300026BR-10515685_20211011183143660.jpg"/>
+  </programme>
+  <programme channel="FRBA3300026BR" start="20211012053756 +0000" stop="20211012060203 +0000">
+    <title>Mouk - Saison 1 - Épisodes 31-32</title>
+    <desc>Le sirop d'érable Une croisière de tout repos De Tokyo à New York, de l'Australie à Madagascar en passant par la Grèce, ces deux amis rencontrent des habitants du monde entier… et parce que rien n'est jamais comme chez soi, l'aventure frappe toujours à leur porte! Montez à vélo avec eux et découvrez ce monde réaliste, moderne et coloré. Des gens incroyables, des paysages incroyables et des coutumes inconnues: nos deux voyageurs découvriront ensemble de nombreux pays différents. Au-delà des différences, ils partageront une belle expérience et se feront des amis partout!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/58/FR_VC_CTI_USQU352137A_FR-720-FRBA3300026BR-12731854_20211011183400519.jpg"/>
   </programme>
   <channel id="FRAJ4500025AN">
     <display-name>Films dramatiques - Rakuten TV</display-name>

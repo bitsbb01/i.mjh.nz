@@ -52,11 +52,6 @@
     <display-name>Radio-Canada.ca</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/CAAJ17000040F_20210525T053230.png"/>
   </channel>
-  <programme channel="CAAJ17000040F" start="20211011210512 +0000" stop="20211011212649 +0000">
-    <title>Économie</title>
-    <desc>Suivez l'actualité économique en regardant les reportages de Radio-Canada INFO.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/79/CA_VC_CTI_USQO375324A_XM0Q5616BICOAO_20211011182106240.jpg"/>
-  </programme>
   <programme channel="CAAJ17000040F" start="20211011212649 +0000" stop="20211011214827 +0000">
     <title>International</title>
     <desc>Suivez l'actualité internationale en regardant les reportages de Radio-Canada INFO.</desc>
@@ -260,11 +255,6 @@
     <display-name>Baywatch</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/37/CABA3700002ML_20210525T053234.png"/>
   </channel>
-  <programme channel="CABA3700002ML" start="20211011204428 +0000" stop="20211011213323 +0000">
-    <title>Baywatch</title>
-    <desc>''River of No Return, Part 2'' - A whitewater rafting trip turns deadly when Mitch, Hobie, Eddie, Shauni and CJ are pursued by the murderous miners that killed Mitch's uncle to get his map leading to the "Golden Boot" that Mitch and the others are now searching for.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/84/CA_VC_CTI_USQT620324A_CABA3700002ML_Fremantle_Baywatch_S03E02_RiverOfNoR_20211011113113679.jpg"/>
-  </programme>
   <programme channel="CABA3700002ML" start="20211011213323 +0000" stop="20211011222445 +0000">
     <title>Baywatch</title>
     <desc>''Tequila Bay'' - Jimmy Slade and Matt Brody tangle with a violent surf gang, while Mitch's life is thrown into turmoil when former lover Stephanie Holden assumes co-command of Baywatch headquarters.</desc>
@@ -427,11 +417,6 @@
     <display-name>Degrassi</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/18/CAAJ34000197E_20210323T122006.png"/>
   </channel>
-  <programme channel="CAAJ34000197E" start="20211011205415 +0000" stop="20211011212525 +0000">
-    <title>Degrassi: The Next Generation:Umbrella, Pt. 1</title>
-    <desc>Clare is disillusioned with her parents after they decide to separate and she starts questioning her faith, including her decision to wait until after marriage for sex. When Eli rejects her, she wonders if he’s really over his dead ex-girlfriend.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/38/CA_VC_CTI_USQU352137A_CA-716-CAAJ34000197E-9322774_20211011132607335.jpg"/>
-  </programme>
   <programme channel="CAAJ34000197E" start="20211011212525 +0000" stop="20211011215615 +0000">
     <title>Degrassi: The Next Generation:Umbrella, Pt. 2</title>
     <desc>Clare is disillusioned with her parents after they decide to separate and she starts questioning her faith, including her decision to wait until after marriage for sex. When Eli rejects her, she wonders if he’s really over his dead ex-girlfriend.</desc>
@@ -512,6 +497,11 @@
     <desc>Degrassi’s back in session and this term high school’s more complicated than ever: Clare can’t believe Eli’s over her. She’s convinced his ‘normal’ behavior is a plot to win her back.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/79/CA_VC_CTI_USQU352137A_CA-716-CAAJ34000197E-11524251_20211011132724255.jpg"/>
   </programme>
+  <programme channel="CAAJ34000197E" start="20211012052719 +0000" stop="20211012055710 +0000">
+    <title>Degrassi: The Next Generation:What's My Age Again?</title>
+    <desc>All Anya wants for her 18th birthday is a kiss from her favourite doctor. But when he tells her he’s off to Africa to help the poor, and she gets rejected from TU (the only school she applied to), she wants to go along. But will he share her enthusiasm?</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/31/CA_VC_CTI_USQU352137A_CA-716-CAAJ34000197E-11524252_20211011132930645.jpg"/>
+  </programme>
   <channel id="CAAJ3400017AE">
     <display-name>MagellanTV Now</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/CAAJ3400017AE_20210525T051443.png"/>
@@ -565,11 +555,6 @@
     <display-name>Nosey</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/83/CABB1900002SS_20210622T090455.png"/>
   </channel>
-  <programme channel="CABB1900002SS" start="20211011204345 +0000" stop="20211011213101 +0000">
-    <title>The Jerry Springer Show</title>
-    <desc>Melody hates that her sister Amanda is ruining her life by dating a 54 year old biker and loser named Wolf.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/61/CA_VC_CTI_USQO570425A_8501a3e0-06b2-11ec-b68a-0a9c8934df2b_20210827004441346.jpg"/>
-  </programme>
   <programme channel="CABB1900002SS" start="20211011213101 +0000" stop="20211011221918 +0000">
     <title>The Jerry Springer Show</title>
     <desc>Linda's ex-best friend is trying to steal her man! Sherry wants her boyfriend Terry’s wife and family gone!</desc>
@@ -625,6 +610,11 @@
     <desc>Chrissie is desperate to prove to her husband Rick that he’s the real father of her child. Plus, a teen mom wants to prove that Andre is her child’s father, but are the results in her favor?</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/69/CA_VC_CTI_USQO570425A_643a0533-e9e7-11eb-988d-0a9c8934df2b_20210721085523997.jpg"/>
   </programme>
+  <programme channel="CABB1900002SS" start="20211012053655 +0000" stop="20211012062430 +0000">
+    <title>The Maury Show</title>
+    <desc>The weather may be cold, but these shocking updates are red hot!  What happened after these guests left our show and went back to their lives? Don’t miss today’s Maury!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/40/CA_VC_CTI_USQO570425A_64c290ff-e9e7-11eb-988d-0a9c8934df2b_20210721085643987.jpg"/>
+  </programme>
   <channel id="CABB19000010Y">
     <display-name>Circle</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/21/CABB19000010Y_20210622T090503.png"/>
@@ -673,6 +663,11 @@
     <title>Road Stories</title>
     <desc>Host Chuck Wicks sits down with Brantley Gilbert and they discover the magic of Patrick Swayze's RoadHouse.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/66/CA_VC_CTI_USQO570425A_7aaad7df-1e0f-11ec-9d66-0a9c8934df2b_20210925161147986.jpg"/>
+  </programme>
+  <programme channel="CABB19000010Y" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Road Stories</title>
+    <desc>Host Chuck Wicks sits down with Mitchell Tenpenny &amp; discuss his near death experience with a serial killer.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/44/CA_VC_CTI_USQO570425A_4aa6fa42-1cbb-11ec-a57a-0a9c8934df2b_20210926094702236.jpg"/>
   </programme>
   <channel id="CAAJ2700008QA">
     <display-name>FilmRise Classic TV</display-name>
@@ -723,6 +718,11 @@
     <desc>An ex-con who is mentored by Hoffs is suspected of reverting to his old ways of stealing cars.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/98/CA_VC_CTI_USQO375324A_XM0MILJMT3VC26_20211011182233101.jpg"/>
   </programme>
+  <programme channel="CAAJ2700008QA" start="20211012052905 +0000" stop="20211012062826 +0000">
+    <title>Doc Martin</title>
+    <desc>Curmudgeonly Martin Ellingham's plans to resume his career as a consultant in London are put on hold with the birth of the son he fathered with his now estranged partner, Louisa Glasson.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/26/CA_VC_CTI_USQO375324A_XM08SNPP5XVYZ2_20211011182200686.jpg"/>
+  </programme>
   <channel id="CAAJ34000158F">
     <display-name>MHz Now</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/CAAJ34000158F_20200819T020356.png"/>
@@ -756,11 +756,6 @@
     <display-name>Haunt TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/CABA800009T5_20210525T053241.png"/>
   </channel>
-  <programme channel="CABA800009T5" start="20211011205557 +0000" stop="20211011212542 +0000">
-    <title>Paranormal State</title>
-    <desc>The team helps a woman and her dog who are being harassed by spirits.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/99/CA_VC_CTI_USQO570425A_9f0c8c43-23ce-11ec-8df8-0a9c8934df2b_20211006135040102.jpg"/>
-  </programme>
   <programme channel="CABA800009T5" start="20211011212542 +0000" stop="20211011214738 +0000">
     <title>Paranormal State</title>
     <desc>Trek to Maine, where a winged creature is attacking a woman and her daughter.</desc>
@@ -786,10 +781,15 @@
     <desc>Remember a young couple whose love story was cut short by devil worshippers.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/52/CA_VC_CTI_USQO570425A_91bfc5f2-0f4d-11ec-a949-0a9c8934df2b_20210908124428647.jpg"/>
   </programme>
-  <programme channel="CABA800009T5" start="20211012040738 +0000" stop="20211012043244 +0000">
+  <programme channel="CABA800009T5" start="20211012040738 +0000" stop="20211012052713 +0000">
     <title>National Parks Secrets &amp; Legends</title>
     <desc>Meet the park’s shape-shifting skinwalkers and time-travelling wingmakers.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/01/CA_VC_CTI_USQO570425A_75bbd3c0-f88a-11eb-994c-0a9c8934df2b_20210812131339451.jpg"/>
+  </programme>
+  <programme channel="CABA800009T5" start="20211012052713 +0000" stop="20211012055643 +0000">
+    <title>Paranormal State</title>
+    <desc>The team helps a woman and her dog who are being harassed by spirits.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/99/CA_VC_CTI_USQO570425A_9f0c8c43-23ce-11ec-8df8-0a9c8934df2b_20211006135040102.jpg"/>
   </programme>
   <channel id="CAAJ3400001HV">
     <display-name>Hollywire</display-name>
@@ -836,15 +836,15 @@
 </desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/82/CA_VC_CTI_USQU352137A_CA-208-CAAJ3400001HV-10744622_20211011132849921.jpg"/>
   </programme>
+  <programme channel="CAAJ3400001HV" start="20211012052507 +0000" stop="20211012055544 +0000">
+    <title>Hollywood Paparazzi</title>
+    <desc>Exclusive paparazzi interviews featuring Chase Hudson, Bryce Hall, And Noah Beck.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/34/CA_VC_CTI_USQU352137A_CA-208-CAAJ3400001HV-3665700_20211011132633440.jpg"/>
+  </programme>
   <channel id="CAAJ4000006UF">
     <display-name>TMZ</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/CAAJ4000006UF_20210309T011752.png"/>
   </channel>
-  <programme channel="CAAJ4000006UF" start="20211011203605 +0000" stop="20211011212242 +0000">
-    <title>TMZ Sports</title>
-    <desc>Some of the best stories in sports have been off the field and we’re reporting on athletes from NFL, NBA, UFC, WWE, MLB and more!</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/57/CA_VC_CTI_USQO375324A_XM0YWI98JLWIMT_20211011182154831.jpg"/>
-  </programme>
   <programme channel="CAAJ4000006UF" start="20211011212242 +0000" stop="20211011215419 +0000">
     <title>TMZ Live</title>
     <desc>TMZ Live is TMZ.com’s one-hour daily entertainment news program that brings viewers inside the TMZ newsroom.</desc>
@@ -910,15 +910,15 @@
     <desc>We love Hollywood, we just have a funny way of showing it.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/85/CA_VC_CTI_USQO375324A_XM0DDPQ5BB5AXA_20211011182237742.jpg"/>
   </programme>
+  <programme channel="CAAJ4000006UF" start="20211012052845 +0000" stop="20211012061022 +0000">
+    <title>TMZ TV</title>
+    <desc>It all started with a website but moving to the silver screen just made TMZ even better. But don't worry if you miss an episode, you can catch up right here. Easy to watch TMZ on TV clips just for you!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/42/CA_VC_CTI_USQO375324A_XM0RIFWDWHE1HC_20211011182256376.jpg"/>
+  </programme>
   <channel id="CABB2600009WE">
     <display-name>Dr. G: Medical Examiner</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/CABB2600009WE_20210824T091313.png"/>
   </channel>
-  <programme channel="CABB2600009WE" start="20211011204317 +0000" stop="20211011213626 +0000">
-    <title>Dr. G: Medical Examiner</title>
-    <desc>"Hit and Run" - Dr. G preforms an autopsy on an alleged hit-and-run victim but finds no evidence of vehicular injury on the 41-year-old man's body. Could his alcoholism have had a role in his death?</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/96/CA_VC_CTI_USQT620324A_CABB2600009WE_DrGMedicalExaminer_S01_E02_SD_20211011092730092.jpg"/>
-  </programme>
   <programme channel="CABB2600009WE" start="20211011213626 +0000" stop="20211011222943 +0000">
     <title>Dr. G: Medical Examiner</title>
     <desc>"The Mystery of the Haunted Crossing" - In August of 1995, when Dr. G worked in Texas, a pile of human bones was found at a supposedly haunted railroad crossing. Dr. G was able to determine the age but not the sex.</desc>
@@ -963,6 +963,11 @@
     <title>Dr. G: Medical Examiner</title>
     <desc>"Dying to Be Young" - A healthy 53-year-old woman is found dead in bed. After performing an autopsy and taking blood and tissue samples, Dr. G cannot find the cause of death.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/13/CA_VC_CTI_USQT620324A_CABB2600009WE_DrGMedicalExaminer_S01_E12_SD_20211011092733946.jpg"/>
+  </programme>
+  <programme channel="CABB2600009WE" start="20211012053617 +0000" stop="20211012062844 +0000">
+    <title>Dr. G: Medical Examiner</title>
+    <desc>"Death on the Road" - A man is found dead in a motel room due to multiple shotgun wounds. Dr. G proves the scene isn't what it seems.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/18/CA_VC_CTI_USQT620324A_CABB2600009WE_DrGMedicalExaminer_S02_E01_SD_20211011092751476.jpg"/>
   </programme>
   <channel id="CAAJ2700012PP">
     <display-name>Forensic Files</display-name>
@@ -1058,15 +1063,15 @@
     <desc>It was one of the most unusual cases in forensic history. Investigators had to find a way to solve a murder case with evidence which consisted of a squashed tomato found at the crime scene.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/86/CA_VC_CTI_USQO375324A_XM0UQ8XCA86G2Y_20211011182237977.jpg"/>
   </programme>
+  <programme channel="CAAJ2700012PP" start="20211012053308 +0000" stop="20211012055904 +0000">
+    <title>Forensic Files</title>
+    <desc>When a dedicated, well-respected teacher disappeared, police had to determine if she'd gone on vacation without telling anyone, or if she was the victim of foul play.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/83/CA_VC_CTI_USQO375324A_XM0I3PWDXR4IM8_20211011182235822.jpg"/>
+  </programme>
   <channel id="CAAJ3400002DI">
     <display-name>Law&amp;Crime</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/CAAJ3400002DI_20210727T132423.png"/>
   </channel>
-  <programme channel="CAAJ3400002DI" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Law&amp;Crime Daily</title>
-    <desc>The first-run daily newsmagazine features coverage of the day's most intriguing real-life court cases and true-crime events -- with exclusive footage, interviews, and analysis from the top legal exper</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/85/CA_VC_CTI_USQU352137A_CA-893-CAAJ3400002DI-15031985_20211011132513841.jpg"/>
-  </programme>
   <programme channel="CAAJ3400002DI" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Prime Crime</title>
     <desc>Prime Crime takes a deep dive into the most high profile and memorable cases that have defined the true crime genre.</desc>
@@ -1142,6 +1147,11 @@
     <desc>The first-run daily newsmagazine features coverage of the day's most intriguing real-life court cases and true-crime events -- with exclusive footage, interviews, and analysis from the top legal exper</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/56/CA_VC_CTI_USQU352137A_CA-893-CAAJ3400002DI-15032011_20211011132514653.jpg"/>
   </programme>
+  <programme channel="CAAJ3400002DI" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Prime Crime</title>
+    <desc>Prime Crime takes a deep dive into the most high profile and memorable cases that have defined the true crime genre.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/86/CA_VC_CTI_USQU352137A_CA-893-CAAJ3400002DI-15032013_20211011132607335.jpg"/>
+  </programme>
   <channel id="CABA3700005AD">
     <display-name>Court TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/51/CABA3700005AD_20210525T051446.png"/>
@@ -1210,15 +1220,15 @@
     <desc>This episode includes: Elvis' Last Night, Skunk Ape, Murdered Heiress &amp; UD and Haunting on 37th Street.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/70/CA_VC_CTI_USQO375324A_XM01YB1BCDL4IR_20211011182035256.jpg"/>
   </programme>
+  <programme channel="CAAJ27000079E" start="20211012053154 +0000" stop="20211012062510 +0000">
+    <title>Unsolved Mysteries with Robert Stack</title>
+    <desc>This episode includes: Backyard Bones &amp; UD, Twin Behind Bars, Ghosts Go to Court and Sharon Kinne.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/35/CA_VC_CTI_USQO375324A_XM0B36Y77XSMP6_20211011182202149.jpg"/>
+  </programme>
   <channel id="CAAJ27000135F">
     <display-name>Unsolved Mysteries</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/92/CAAJ27000135F_20210727T132431.png"/>
   </channel>
-  <programme channel="CAAJ27000135F" start="20211011203623 +0000" stop="20211011213517 +0000">
-    <title>Unsolved Mysteries with Robert Stack</title>
-    <desc>This episode includes: Chair of Death, Coma Healer &amp; UD, Animal Saviors, Holy Grail and Signs from Heaven.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/43/CA_VC_CTI_USQO375324A_XM0O4I3V9P3HP8_20211011182234121.jpg"/>
-  </programme>
   <programme channel="CAAJ27000135F" start="20211011213517 +0000" stop="20211011223044 +0000">
     <title>Unsolved Mysteries with Robert Stack</title>
     <desc>This episode includes: Red Shoes &amp; UD, Insecurity Guard, She Finds Fugitives, Bad Friday &amp; UD and SB: Rachel Cooke.</desc>
@@ -1302,11 +1312,6 @@
     <display-name>Game Show Central</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/22/CAAJ2700027GW_20210622T090459.png"/>
   </channel>
-  <programme channel="CAAJ2700027GW" start="20211011210000 +0000" stop="20211011212615 +0000">
-    <title>Idiotest 2057</title>
-    <desc>America vs. Great Britain Comedian Ben Gleib hosts this special rivalry edition of Idiotest where a British team faces off against an American team to answer increasingly difficult brain teaser puzzles.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/92/CA_VC_CTI_USQU352137A_CA-416-CAAJ2700027GW-1139749_20211011132600761.jpg"/>
-  </programme>
   <programme channel="CAAJ2700027GW" start="20211011212615 +0000" stop="20211011215159 +0000">
     <title>Idiotest 2059</title>
     <desc>Married Couple vs. Friends Watch as married couple Ashley and Meggan compete against self-proclaimed weirdo, Christian, and his friend Jacob in this new episode of Idiotest  hosted by comedian Ben Gleib.</desc>
@@ -1461,10 +1466,15 @@
     <desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (18 out of 39)</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/CA_VC_CTI_USQU352137A_CA-468-CAAJ34000147C-1094467_20211011132700135.jpg"/>
   </programme>
-  <programme channel="CAAJ34000147C" start="20211012044900 +0000" stop="20211012053628 +0000">
+  <programme channel="CAAJ34000147C" start="20211012044900 +0000" stop="20211012053629 +0000">
     <title>Deal or No Deal</title>
     <desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (19 out of 39)</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/76/CA_VC_CTI_USQU352137A_CA-468-CAAJ34000147C-1094468_20211011132808122.jpg"/>
+  </programme>
+  <programme channel="CAAJ34000147C" start="20211012053629 +0000" stop="20211012062439 +0000">
+    <title>Deal or No Deal</title>
+    <desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (13 out of 39)</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/28/CA_VC_CTI_USQU352137A_CA-468-CAAJ34000147C-1094462_20211011132629286.jpg"/>
   </programme>
   <channel id="CABA8000043F">
     <display-name>beIN SPORTS XTRA</display-name>
@@ -1531,11 +1541,6 @@
     <display-name>PlayersTV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/CABA800006WP_20210525T053248.png"/>
   </channel>
-  <programme channel="CABA800006WP" start="20211011210016 +0000" stop="20211011213029 +0000">
-    <title>Tyreek Hill: Cheetah In The Wild</title>
-    <desc>All-Pro wide receiver Tyreek Hill boxes, participates in a mystery box challenge, and plays in a celebrity basketball event</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/08/CA_VC_CTI_USQO570425A_9a4d4852-25f2-11ec-a34b-0a9c8934df2b_20211006135156185.jpg"/>
-  </programme>
   <programme channel="CABA800006WP" start="20211011213029 +0000" stop="20211011220025 +0000">
     <title>The Journey: Christian Wood and NBA Players</title>
     <desc>CloseUp360 captures the journeys and lifestyles of NBA youngsters Christian Wood, Grant Riller, Lamar Stevens, and Markelle Fultz.</desc>
@@ -1718,11 +1723,6 @@
     <display-name>Outside TV+</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/CAAJ2700030ON_20210525T053254.png"/>
   </channel>
-  <programme channel="CAAJ2700030ON" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Ultimate Rush</title>
-    <desc>Leo Houlding, Jason Pickles and Sean Leary challenge themselves to rise to 2931 meters in Queen Maud Land, Antarctica.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/13/CA_VC_CTI_USQU352137A_CA-143-CAAJ2700030ON-15030454_20211011132718166.jpg"/>
-  </programme>
   <programme channel="CAAJ2700030ON" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Explorers</title>
     <desc>Sebastian Copeland and Eric McNair cross the Greenland ice sheet.</desc>
@@ -1787,11 +1787,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/CAAJ34000107T_20210525T053256.png"/>
   </channel>
-  <programme channel="CAAJ34000107T" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Getting Heated:Getting Heated</title>
-    <desc>Mick Fanning, Ross Williams and others clash on the hottest topics in surfing with explosive debates, unfiltered takes and bold predictions.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/29/CA_VC_CTI_USQU352137A_CA-568-CAAJ34000107T-15041181_20211011132606003.jpg"/>
-  </programme>
   <programme channel="CAAJ34000107T" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>World Surf Weekly:World Surf Weekly</title>
     <desc>A recap of the top surfing stories, the best surfing clips, weekly newsreels, and athlete profiles from around the world.</desc>
@@ -1861,11 +1856,6 @@
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/CAAJ34000089L_20210525T053257.png"/>
   </channel>
-  <programme channel="CAAJ34000089L" start="20211011210009 +0000" stop="20211011213009 +0000">
-    <title>Exhibition Awesome |  MVP</title>
-    <desc>Win or lose, these athletes have one goal: be the best you can be.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/83/CA_VC_CTI_USQU352137A_CA-386-CAAJ34000089L-735626_20211011132510991.jpg"/>
-  </programme>
   <programme channel="CAAJ34000089L" start="20211011213009 +0000" stop="20211011220009 +0000">
     <title>Exhibition Awesome | Circus Troop</title>
     <desc>These entertainers are training for their greatest show.</desc>
@@ -1945,6 +1935,11 @@
     <title>PAA Presents: Daredevils</title>
     <desc>A special dedicated to the athletes who ride on wheels, jump off hills, and show no fear. </desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/97/CA_VC_CTI_USQU352137A_CA-386-CAAJ34000089L-14946825_20211011132720908.jpg"/>
+  </programme>
+  <programme channel="CAAJ34000089L" start="20211012053002 +0000" stop="20211012055959 +0000">
+    <title>PAA Presents: Ultimate Fighters</title>
+    <desc>A showcase of amazing and talented gymnasts from around the world.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/47/CA_VC_CTI_USQU352137A_CA-386-CAAJ34000089L-14946821_20211011132925989.jpg"/>
   </programme>
   <channel id="CAAJ2700006I4">
     <display-name>Adventure Sports Network</display-name>
@@ -2035,15 +2030,15 @@
     <desc>Follow the latest updates about Paddle Sports on Adventure Sports Network.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/60/CA_VC_CTI_USQO375324A_XM08BEU3DOVIQY_20211011182011507.jpg"/>
   </programme>
+  <programme channel="CAAJ2700006I4" start="20211012053253 +0000" stop="20211012055430 +0000">
+    <title>Surf</title>
+    <desc>Packed with provocative interviews and travel features to the world's most exotic surf locales.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/82/CA_VC_CTI_USQO375324A_XM0UXMDR5ELLE6_20211011182238408.jpg"/>
+  </programme>
   <channel id="CAAJ3400005M5">
     <display-name>Waypoint TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/CAAJ3400005M5_20210525T053302.png"/>
   </channel>
-  <programme channel="CAAJ3400005M5" start="20211011205356 +0000" stop="20211011212253 +0000">
-    <title>BASS On The Water S15:E3 "Last-Call Stripers in New Jersey"</title>
-    <desc>On The Water heads south to catch the last of the striped bass fall run in New Jersey.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/55/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-12965817_20211011132720509.jpg"/>
-  </programme>
   <programme channel="CAAJ3400005M5" start="20211011212253 +0000" stop="20211011214931 +0000">
     <title>Lunkerville S13:E1 "Ice Fishing for Donkeys"</title>
     <desc>Bartender, YouTube Creator, and wild man Todd Grubb and his buddy Andrew Knowlton take Mike D ice fishing at a secret lake in New Hampshire. Panfish, crappie, bass, pickerel and rib-eye steaks are on the menu as Todd shows Mike how to catch fish with finesse jigs and a portable sonar. The 3 also set tip-ups with live bait and try to land Mike's first bass on the ice.</desc>
@@ -2139,6 +2134,11 @@
     <desc>Tullibee is not the first that most consider when thinking of a Mid- Winter bite. However, a few of our friends over at LockJaw Outdoors have been on a great bite and we're fortunate to be a part of it!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/30/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-9571413_20211011132550367.jpg"/>
   </programme>
+  <programme channel="CAAJ3400005M5" start="20211012052336 +0000" stop="20211012054455 +0000">
+    <title>Fish Addictions S6:E1 "How To Catch Backwoods Crappies"</title>
+    <desc>During this week’s episode, the team and I revisited an old honey hole of mine from my childhood to chase big northern Minnesota Crappies. During this episode, we were able to use the Garmin LiveScope to stay on a school of Crappies roaming a deep basin.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/CA_VC_CTI_USQU352137A_CA-231-CAAJ3400005M5-8319458_20211011132848078.jpg"/>
+  </programme>
   <channel id="CAAJ27000252W">
     <display-name>World Poker Tour</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/14/CAAJ27000252W_20210525T054312.png"/>
@@ -2192,11 +2192,6 @@
     <display-name>MAVTV Select</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/CAAJ3400020SN_20210525T053312.png"/>
   </channel>
-  <programme channel="CAAJ3400020SN" start="20211011210104 +0000" stop="20211011213107 +0000">
-    <title>Part 1 - Night of Mayhem - Bakersfield, CA</title>
-    <desc>Night of Mayhem - Kern County Raceway - Bakersfield, CA. Event Date: 11/11/17</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/33/CA_VC_CTI_USQU352137A_CA-303-CAAJ3400020SN-2811678_20211011132926726.jpg"/>
-  </programme>
   <programme channel="CAAJ3400020SN" start="20211011213107 +0000" stop="20211011220115 +0000">
     <title>On the Edge: 2017 - Flat Track - Pendleton, OR</title>
     <desc>Pendleton Round-Up - flat track racing - Pendleton, OR. Event Date: 7/21/17</desc>
@@ -2247,20 +2242,20 @@
     <desc>Weekly Show 8 from Wheatland, MO. Event Date: 7/14/18</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/71/CA_VC_CTI_USQU352137A_CA-303-CAAJ3400020SN-1725905_20211011132511991.jpg"/>
   </programme>
-  <programme channel="CAAJ3400020SN" start="20211012050010 +0000" stop="20211012053011 +0000">
+  <programme channel="CAAJ3400020SN" start="20211012050010 +0000" stop="20211012053012 +0000">
     <title>On the Edge: 2017 - Flat Track - Unlimited - Pendleton, OR</title>
     <desc>Pendleton Round-Up - Flat Track Unlimited class - Pendleton, OR. Event Date: 7/21/17</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/23/CA_VC_CTI_USQU352137A_CA-303-CAAJ3400020SN-3530704_20211011132553195.jpg"/>
+  </programme>
+  <programme channel="CAAJ3400020SN" start="20211012053012 +0000" stop="20211012060015 +0000">
+    <title>Night of Destruction: Trailer Race - Irwindale, CA</title>
+    <desc>Night of Destruction: Trailer Race - Irwindale, CA. Event Date: 4/28/18</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/68/CA_VC_CTI_USQU352137A_CA-303-CAAJ3400020SN-2761871_20211011132720698.jpg"/>
   </programme>
   <channel id="CAAJ2700026RD">
     <display-name>PowerNation</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/10/CAAJ2700026RD_20210525T053314.png"/>
   </channel>
-  <programme channel="CAAJ2700026RD" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Buick Regal Paint and Trim</title>
-    <desc>Tommy and Marc give us some tips on painting trim and glass installation before our '85 Buick gets a new interior. Plus a Chevelle owner in need of a little rescuing.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/82/CA_VC_CTI_USQU352137A_CA-177-CAAJ2700026RD-5528205_20211011132508478.jpg"/>
-  </programme>
   <programme channel="CAAJ2700026RD" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Grand Marquis Build</title>
     <desc>Complete build of our Big Body Grand Marquis</desc>
@@ -2341,6 +2336,11 @@
     <desc>After a year in the shop, the turbo powered 292 straight-six is broken in and hits the road and the track for a run down the 1/8th mile drag strip. Plus we rescue a Toyota Tundra in need of accessories.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/53/CA_VC_CTI_USQU352137A_CA-177-CAAJ2700026RD-4638027_20211011132849358.jpg"/>
   </programme>
+  <programme channel="CAAJ2700026RD" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Leveling Kit ’02 Old School Sierra</title>
+    <desc>Transformation of our throwback Sierra continues with a lift kit, 33” tall tires, and a tune-up before we hit the trail for some wheelin’ in the country.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/49/CA_VC_CTI_USQU352137A_CA-177-CAAJ2700026RD-5528287_20211011132554012.jpg"/>
+  </programme>
   <channel id="CAAJ2700004WI">
     <display-name>MOTORVISION.TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/CAAJ2700004WI_20210525T053316.png"/>
@@ -2394,11 +2394,6 @@
     <display-name>Tastemade</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/17/CAAJ2700023NK_20210525T053318.png"/>
   </channel>
-  <programme channel="CAAJ2700023NK" start="20211011210003 +0000" stop="20211011213004 +0000">
-    <title>Humble Pie</title>
-    <desc>Humble Pie</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/05/CA_VC_CTI_USQU352137A_CA-877-CAAJ2700023NK-15041108_20211011132659210.jpg"/>
-  </programme>
   <programme channel="CAAJ2700023NK" start="20211011213004 +0000" stop="20211011220004 +0000">
     <title>Chicken Coup</title>
     <desc>From unloved pantry stalwart to gourmet pub favorite, Frankie demonstrates how mac 'n' cheese continues to reinvent itself. Later, Frankie shares the history of fried chicken, explains the KFC phenome</desc>
@@ -2478,6 +2473,11 @@
     <title>Mud Crab in Dumaguete</title>
     <desc>Mud Crab in Dumaguete</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/98/CA_VC_CTI_USQU352137A_CA-877-CAAJ2700023NK-15041292_20211011132514013.jpg"/>
+  </programme>
+  <programme channel="CAAJ2700023NK" start="20211012053003 +0000" stop="20211012060003 +0000">
+    <title>Rainbow Runner in Apo Island</title>
+    <desc>Rainbow Runner in Apo Island</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/49/CA_VC_CTI_USQU352137A_CA-877-CAAJ2700023NK-15041296_20211011132929048.jpg"/>
   </programme>
   <channel id="CAAJ1700001XB">
     <display-name>Food52</display-name>
@@ -2568,15 +2568,15 @@
     <desc>A collection of our favorite comforting cooking projects, to keep you busy and well-fed!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/48/CA_VC_CTI_USQO375324A_XM04HGU7XARX2X_20211011182258236.jpg"/>
   </programme>
+  <programme channel="CAAJ1700001XB" start="20211012052814 +0000" stop="20211012055951 +0000">
+    <title>Genius Recipes with Kristen Miglore</title>
+    <desc>Each week, Kristen Miglore unearths recipes that will change the way you cook.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/65/CA_VC_CTI_USQO375324A_XM0KHX9JKYO5NU_20211011182258062.jpg"/>
+  </programme>
   <channel id="CAAJ3400016J9">
     <display-name>The Design Network</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/06/CAAJ3400016J9_20210525T053320.png"/>
   </channel>
-  <programme channel="CAAJ3400016J9" start="20211011210036 +0000" stop="20211011213041 +0000">
-    <title>Holistic Home</title>
-    <desc>Anne is an entrepreneur whose home office headquarters is having an identity crisis.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/00/CA_VC_CTI_USQU352137A_CA-553-CAAJ3400016J9-11090354_20211011132813348.jpg"/>
-  </programme>
   <programme channel="CAAJ3400016J9" start="20211011213041 +0000" stop="20211011220041 +0000">
     <title>Holistic Home</title>
     <desc>Jordan and Jeff crave an oasis that completely reimagines what a home gym can be.</desc>
@@ -2647,10 +2647,15 @@
     <desc>Andrea's off to Palm Springs for a fun-filled day with actor Jonathan Bennett.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/83/CA_VC_CTI_USQU352137A_CA-553-CAAJ3400016J9-13493748_20211011132601434.jpg"/>
   </programme>
-  <programme channel="CAAJ3400016J9" start="20211012050012 +0000" stop="20211012053011 +0000">
+  <programme channel="CAAJ3400016J9" start="20211012050012 +0000" stop="20211012053012 +0000">
     <title>Made It</title>
     <desc>Lauren MacLeod’s Mermaid Trash started with $250 and a dream to support environmentalism.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/11/CA_VC_CTI_USQU352137A_CA-553-CAAJ3400016J9-14658971_20211011132851542.jpg"/>
+  </programme>
+  <programme channel="CAAJ3400016J9" start="20211012053012 +0000" stop="20211012060009 +0000">
+    <title>Made It</title>
+    <desc>What started as an upcycling hobby for Candice Luter has grown into a successful retail collection.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/78/CA_VC_CTI_USQU352137A_CA-553-CAAJ3400016J9-14658975_20211011132929956.jpg"/>
   </programme>
   <channel id="CABB2600006SV">
     <display-name>Hell's Kitchen</display-name>
@@ -2710,11 +2715,6 @@
     <display-name>Are We There Yet?</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/45/CABB1900003GW_20210824T091317.png"/>
   </channel>
-  <programme channel="CABB1900003GW" start="20211011205643 +0000" stop="20211011212237 +0000">
-    <title>Are We There Yet?</title>
-    <desc>Lindsey orders a Michelle Obama sweater online.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/59/CA_VC_CTI_USQO570425A_6879cc66-2253-11ec-960e-0a9c8934df2b_20211001041534132.jpg"/>
-  </programme>
   <programme channel="CABB1900003GW" start="20211011212237 +0000" stop="20211011214630 +0000">
     <title>Are We There Yet?</title>
     <desc>Nick leads Suzanne to speculate that something is not right.</desc>
@@ -2810,15 +2810,15 @@
     <desc>Lindsey orders a Michelle Obama sweater online.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/59/CA_VC_CTI_USQO570425A_6879cc66-2253-11ec-960e-0a9c8934df2b_20211001041534132.jpg"/>
   </programme>
+  <programme channel="CABB1900003GW" start="20211012052237 +0000" stop="20211012054630 +0000">
+    <title>Are We There Yet?</title>
+    <desc>Nick leads Suzanne to speculate that something is not right.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/12/CA_VC_CTI_USQO570425A_687aa340-2253-11ec-960e-0a9c8934df2b_20211001041552332.jpg"/>
+  </programme>
   <channel id="CAAJ270002855">
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/CAAJ270002855_20210309T011859.png"/>
   </channel>
-  <programme channel="CAAJ270002855" start="20211011210010 +0000" stop="20211011213010 +0000">
-    <title>Animals Unscripted | Pet Shop Boys</title>
-    <desc>Cat videos, dog videos, bird videos, all the pet videos!</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/74/CA_VC_CTI_USQU352137A_CA-152-CAAJ270002855-71036_20211011132654716.jpg"/>
-  </programme>
   <programme channel="CAAJ270002855" start="20211011213010 +0000" stop="20211011220010 +0000">
     <title>Animals Unscripted | Say Cheese</title>
     <desc>Smiling pets, cats in boxes, animal climbers and much more.</desc>
@@ -2899,20 +2899,20 @@
     <desc>Did you know cats have 230 bones? That’s a whopping 24 more bones than humans!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/90/CA_VC_CTI_USQU352137A_CA-152-CAAJ270002855-11779654_20211011132510104.jpg"/>
   </programme>
-  <programme channel="CAAJ270002855" start="20211012050002 +0000" stop="20211012053001 +0000">
+  <programme channel="CAAJ270002855" start="20211012050002 +0000" stop="20211012053002 +0000">
     <title>Animals Unscripted | Pet Shop Boys</title>
     <desc>Cat videos, dog videos, bird videos, all the pet videos!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/74/CA_VC_CTI_USQU352137A_CA-152-CAAJ270002855-71036_20211011132654716.jpg"/>
+  </programme>
+  <programme channel="CAAJ270002855" start="20211012053002 +0000" stop="20211012060001 +0000">
+    <title>Animals Unscripted | Say Cheese</title>
+    <desc>Smiling pets, cats in boxes, animal climbers and much more.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/83/CA_VC_CTI_USQU352137A_CA-152-CAAJ270002855-71042_20211011132550086.jpg"/>
   </programme>
   <channel id="CAAJ2700029OC">
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/CAAJ2700029OC_20210720T084146.png"/>
   </channel>
-  <programme channel="CAAJ2700029OC" start="20211011205953 +0000" stop="20211011212953 +0000">
-    <title>Best Fails of the Month | Ep. 3.8</title>
-    <desc>The best of the worst for August 2020.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/68/CA_VC_CTI_USQU352137A_CA-151-CAAJ2700029OC-3180261_20211011132751153.jpg"/>
-  </programme>
   <programme channel="CAAJ2700029OC" start="20211011212953 +0000" stop="20211011215953 +0000">
     <title>Best Fails of the Month | Ep. 3.9</title>
     <desc>The best of the worst for September 2020.</desc>
@@ -2995,21 +2995,20 @@ The best of the worst for June 2020.</desc>
     <desc>Please don't try this at home.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/88/CA_VC_CTI_USQU352137A_CA-151-CAAJ2700029OC-44919_20211011132718166.jpg"/>
   </programme>
-  <programme channel="CAAJ2700029OC" start="20211012050001 +0000" stop="20211012053000 +0000">
+  <programme channel="CAAJ2700029OC" start="20211012050001 +0000" stop="20211012053001 +0000">
     <title>FailArmy Now | Delicious Cinnamon</title>
     <desc>What do cinnamon vacuums, introverts and pants have in common? They're all in this episode of FAILARMY NOW.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/02/CA_VC_CTI_USQU352137A_CA-151-CAAJ2700029OC-10970349_20211011132919773.jpg"/>
+  </programme>
+  <programme channel="CAAJ2700029OC" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>FailArmy Now | Vegan Dance Party</title>
+    <desc>What do a Canadian Superhero, a mountain-biker gang and janky furniture have in common? They're all in this episode of FAILARMY NOW.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/27/CA_VC_CTI_USQU352137A_CA-151-CAAJ2700029OC-9481109_20211011132549428.jpg"/>
   </programme>
   <channel id="CABA3700001DB">
     <display-name>Always Funny Videos</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/50/CABA3700001DB_20210720T084155.png"/>
   </channel>
-  <programme channel="CABA3700001DB" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>AFV's Bonehead Brigade Countdown: Be All You Can Be</title>
-    <desc>Episode 102 - ATTEN-SHUN! Welcome to the Bonehead Brigade, if you bumble, stumble, fall, flip or fail, we want you! Our mission? To save the world, one belly laugh at a time!
-</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/26/CA_VC_CTI_USQT620324A_CABA3700001DB_178667_20211011112600907.jpg"/>
-  </programme>
   <programme channel="CABA3700001DB" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>AFV's Ultimate Top 1000 Countdown</title>
     <desc>Episode 104 - We're counting down the top 1000 videos of the year. Get ready to laugh your face off as Alfonso Ribeiro brings you the most hilarious and shocking fails of 2020.
@@ -3093,15 +3092,15 @@ The best of the worst for June 2020.</desc>
 </desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/27/CA_VC_CTI_USQT620324A_CABA3700001DB_178668_20211011112457755.jpg"/>
   </programme>
+  <programme channel="CABA3700001DB" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>AFV's Ultimate Top 1000 Countdown</title>
+    <desc>Episode 105 - We're counting down the top 1000 videos of the year. Get ready to laugh your face off as Alfonso Ribeiro brings you the most hilarious and shocking fails of 2020.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/41/CA_VC_CTI_USQT620324A_CABA3700001DB_178671_20211011113110603.jpg"/>
+  </programme>
   <channel id="CAAJ3400013EH">
     <display-name>Dry Bar Comedy</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/CAAJ3400013EH20200730102745.png"/>
   </channel>
-  <programme channel="CAAJ3400013EH" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Dry Bar Comedy:Maher Matta - Personally Speaking</title>
-    <desc>Born in Lebanon and raised in the American South, Maher Matta jokes about flying while Arab, using Rogaine at fifteen, and working as a state trooper.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/22/CA_VC_CTI_USQU352137A_CA-370-CAAJ3400013EH-8636736_20211011132845735.jpg"/>
-  </programme>
   <programme channel="CAAJ3400013EH" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Dry Bar Comedy:Dave Nihill - Documented</title>
     <desc>Dave is the winner of the prestigious 43rd annual San Francisco Comedy Competition, and runner up in the Moth’s largest US Grandslam storytelling competition. </desc>
@@ -3200,11 +3199,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Moonbug</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/70/CABA3700003NA_20210323T122017.png"/>
   </channel>
-  <programme channel="CABA3700003NA" start="20211011205749 +0000" stop="20211011212554 +0000">
-    <title>New T-Rex Ranch - Searching for Treasure</title>
-    <desc>T-Rex Ranch brings you another awesome fun-packed collection of Jurassic dinosaur videos !</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/35/CA_VC_CTI_USQT620324A_CABA3700003NA_newtrexranchsearchingfortreasure_20211011112710127.jpg"/>
-  </programme>
   <programme channel="CABA3700003NA" start="20211011212554 +0000" stop="20211011215311 +0000">
     <title>Learn With Gecko</title>
     <desc>Laugh and learn with Gecko and the mechanicals at Gecko's Garage.</desc>
@@ -3294,11 +3288,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Kidoodle.TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/70/CAAJ34000122Z_20210309T011856.png"/>
   </channel>
-  <programme channel="CAAJ34000122Z" start="20211011210005 +0000" stop="20211011213003 +0000">
-    <title>Ruby Gloom:Venus de Gloomsville</title>
-    <desc>Venus is pulling out her roots! The screenplay writing contest deadline is in two days and she hasn't written a word.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/04/CA_VC_CTI_USQU352137A_CA-414-CAAJ34000122Z-11894674_20211011132720908.jpg"/>
-  </programme>
   <programme channel="CAAJ34000122Z" start="20211011213003 +0000" stop="20211011214503 +0000">
     <title>Angry Birds:Royal Pains</title>
     <desc>Handsome Pig can't get a break. Gale just ignores his attempts to impress her. Only one thing left to try an overly elaborate ritual from The Book! Let's hope they turn to the right page</desc>
@@ -3384,15 +3373,15 @@ The best of the worst for June 2020.</desc>
     <desc>Puffburt tries to join Kit and Brushy's marble game by using a painted acorn. The trail of color left behind shows the Wonderballs that when it comes to creating art, sometimes you just have to roll w</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/22/CA_VC_CTI_USQU352137A_CA-414-CAAJ34000122Z-9657237_20211011132810185.jpg"/>
   </programme>
+  <programme channel="CAAJ34000122Z" start="20211012053007 +0000" stop="20211012060005 +0000">
+    <title>Bananas In Pyjamas:The Cushion / The Babysitting Bananas</title>
+    <desc>The Bananas spill some juice on one of Bernard’s cushions and everything they do to try and clean it only makes things worse.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/48/CA_VC_CTI_USQU352137A_CA-414-CAAJ34000122Z-14746258_20211011132628086.jpg"/>
+  </programme>
   <channel id="CABA800010P3">
     <display-name>Xplore</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/CABA800010P3_20210525T053325.png"/>
   </channel>
-  <programme channel="CABA800010P3" start="20211011210847 +0000" stop="20211011213241 +0000">
-    <title>Lucky Dog</title>
-    <desc>When a mother reaches out to find a companion for her special needs son, Brandon thinks Bobo could be it.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/94/CA_VC_CTI_USQO570425A_aba33d5e-264b-11ec-a34b-0a9c8934df2b_20211006115516801.jpg"/>
-  </programme>
   <programme channel="CABA800010P3" start="20211011213241 +0000" stop="20211011215634 +0000">
     <title>Lucky Dog</title>
     <desc>A woman seeks Brandon’s help finding a canine companion for her family.</desc>
@@ -3493,15 +3482,15 @@ The best of the worst for June 2020.</desc>
     <desc>A Palm Springs couple seeks Brandon’s help finding a furry companion.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/73/CA_VC_CTI_USQO570425A_aba26ce5-264b-11ec-a34b-0a9c8934df2b_20211006115356558.jpg"/>
   </programme>
+  <programme channel="CABA800010P3" start="20211012053023 +0000" stop="20211012055416 +0000">
+    <title>Lucky Dog</title>
+    <desc>When a mother reaches out to find a companion for her special needs son, Brandon thinks Bobo could be it.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/94/CA_VC_CTI_USQO570425A_aba33d5e-264b-11ec-a34b-0a9c8934df2b_20211006115516801.jpg"/>
+  </programme>
   <channel id="CABA800007KQ">
     <display-name>The Jack Hanna Channel</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/52/CABA800007KQ_20210525T053327.png"/>
   </channel>
-  <programme channel="CABA800007KQ" start="20211011210025 +0000" stop="20211011212452 +0000">
-    <title>Jack Hanna's Into the Wild</title>
-    <desc>Join Jungle Jack as he enrolls his grandkids in zookeeper training at Arizona’s Wildlife World Zoo!</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/29/CA_VC_CTI_USQO570425A_2993c4d6-2aca-11ec-87ac-0a9c8934df2b_20211011201547969.jpg"/>
-  </programme>
   <programme channel="CABA800007KQ" start="20211011212452 +0000" stop="20211011214919 +0000">
     <title>Jack Hanna's Into the Wild</title>
     <desc>Come along with Jungle Jack as he heads to Pigeon Forge, Tennessee, for an All-American bald eagle adventure!</desc>
@@ -3602,15 +3591,15 @@ The best of the worst for June 2020.</desc>
     <desc>Join Jungle Jack as he enrolls his grandkids in zookeeper training at Arizona’s Wildlife World Zoo!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/29/CA_VC_CTI_USQO570425A_2993c4d6-2aca-11ec-87ac-0a9c8934df2b_20211011201547969.jpg"/>
   </programme>
+  <programme channel="CABA800007KQ" start="20211012053406 +0000" stop="20211012055833 +0000">
+    <title>Jack Hanna's Into the Wild</title>
+    <desc>Come along with Jungle Jack as he heads to Pigeon Forge, Tennessee, for an All-American bald eagle adventure!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/CA_VC_CTI_USQO570425A_22bb42bb-2a9e-11ec-87ac-0a9c8934df2b_20211011150441581.jpg"/>
+  </programme>
   <channel id="CAAJ400001018">
     <display-name>WIRED</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/45/CAAJ400001018_20210525T053329.png"/>
   </channel>
-  <programme channel="CAAJ400001018" start="20211011211646 +0000" stop="20211011213747 +0000">
-    <title>Tech Support</title>
-    <desc>Game designer Jeff Kaplan uses the power of Twitter to answer some common "Overwatch" questions.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/91/CA_VC_CTI_USQO375324A_XM010ZMTUL3GOP_20211011182213151.jpg"/>
-  </programme>
   <programme channel="CAAJ400001018" start="20211011213747 +0000" stop="20211011214732 +0000">
     <title>Tech Support</title>
     <desc>Gordon Ramsay uses the power of Twitter to answer some common cooking questions.</desc>
@@ -3806,6 +3795,16 @@ The best of the worst for June 2020.</desc>
     <desc>Game designer Jeff Kaplan uses the power of Twitter to answer some common "Overwatch" questions.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/91/CA_VC_CTI_USQO375324A_XM010ZMTUL3GOP_20211011182213151.jpg"/>
   </programme>
+  <programme channel="CAAJ400001018" start="20211012052230 +0000" stop="20211012053215 +0000">
+    <title>Tech Support</title>
+    <desc>Gordon Ramsay uses the power of Twitter to answer some common cooking questions.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/34/CA_VC_CTI_USQO375324A_XM09USBAERZUWP_20211011182033823.jpg"/>
+  </programme>
+  <programme channel="CAAJ400001018" start="20211012053215 +0000" stop="20211012053758 +0000">
+    <title>Autocomplete Interview</title>
+    <desc>"Damsel" stars Robert Pattinson and Mia Wasikowska take the WIRED Autocomplete Interview and answer the internet's most searched questions about themselves. Did Robert Pattinson go to college? How do you pronounce Mia Wasikowska? Did Robert Pattinson make music for Twilight? Watch as they answer all these questions and more! "Damsel" hits theaters 6/22</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/44/CA_VC_CTI_USQO375324A_XM0IYGPRWKZ0DN_20211011182104822.jpg"/>
+  </programme>
   <channel id="CABA800002RW">
     <display-name>InWonder</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/CABA800002RW_20210525T053335.png"/>
@@ -3845,15 +3844,15 @@ The best of the worst for June 2020.</desc>
     <desc>A murderer tries to kill his final victim as the car they are in slowly sinks to the bottom of a lake.  The only way to save the victim is to rescue her as the car continues to sink.  We test fire multiple handguns underwater to see if you can actually penetrate a car windshield and save the victim.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/CA_VC_CTI_USQO570425A_5c1878ad-1d08-11ec-a57a-0a9c8934df2b_20210926010632629.jpg"/>
   </programme>
+  <programme channel="CABA800002RW" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Hollywood Weapons: Fact or Fiction?</title>
+    <desc>In this iconic scene, Chief Brody hangs on to his sinking boat as a giant shark approaches him with a scuba tank lodged in its mouth.  We construct a giant shark on a motorized platform to test if you can hit, and explode, the tank with an M1 Garand rifle while perched in a precarious position.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/03/CA_VC_CTI_USQO570425A_53f71541-2261-11ec-960e-0a9c8934df2b_20211003003909496.jpg"/>
+  </programme>
   <channel id="CAAJ3400007TS">
     <display-name>WeatherSpy</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/85/CAAJ3400007TS_20210525T053337.png"/>
   </channel>
-  <programme channel="CAAJ3400007TS" start="20211011210023 +0000" stop="20211011213024 +0000">
-    <title>DronedOut | High Altitude</title>
-    <desc>Breath-taking views...quite literally.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/43/CA_VC_CTI_USQU352137A_CA-388-CAAJ3400007TS-747021_20211011132719130.jpg"/>
-  </programme>
   <programme channel="CAAJ3400007TS" start="20211011213024 +0000" stop="20211011220024 +0000">
     <title>Earthscapes | Anomalies</title>
     <desc>Fires, tornados and other freak-acts of nature.</desc>
@@ -3934,6 +3933,11 @@ The best of the worst for June 2020.</desc>
     <desc>Travel the world with athletes of many disciplines as they take their skills out into the wild.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/44/CA_VC_CTI_USQU352137A_CA-388-CAAJ3400007TS-1425412_20211011132849342.jpg"/>
   </programme>
+  <programme channel="CAAJ3400007TS" start="20211012053003 +0000" stop="20211012060003 +0000">
+    <title>Adventure/Anywhere | Skimboarding, Snowboarding &amp; Slacklining</title>
+    <desc>Travel the world with athletes of many disciplines as they take their skills out into the wild.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/48/CA_VC_CTI_USQU352137A_CA-388-CAAJ3400007TS-1425429_20211011132926999.jpg"/>
+  </programme>
   <channel id="CAAJ3400003T7">
     <display-name>Stingray Naturescape</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/CAAJ3400003T7_20210525T053339.png"/>
@@ -3987,16 +3991,6 @@ The best of the worst for June 2020.</desc>
     <display-name>eScapes</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/30/CAAJ2700003Q8_20210525T053333.png"/>
   </channel>
-  <programme channel="CAAJ2700003Q8" start="20211011210517 +0000" stop="20211011212044 +0000">
-    <title>Mackinac Bridge, Michigan featuring Peter White,Eagles, George Winston</title>
-    <desc>Michigan's iconic Mackinac Bridge.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/01/CA_VC_CTI_USQO375324A_XM0NAWQ6N1KKMV_20211011182213356.jpg"/>
-  </programme>
-  <programme channel="CAAJ2700003Q8" start="20211011212044 +0000" stop="20211011213611 +0000">
-    <title>Pittsburgh, Pennsylvania featuring Cyndi Lauper,Elton John, Don Henley</title>
-    <desc>A night time look at Pittsburgh, Pennsylvania.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/35/CA_VC_CTI_USQO375324A_XM0BHXUYH456OY_20211011182127615.jpg"/>
-  </programme>
   <programme channel="CAAJ2700003Q8" start="20211011213611 +0000" stop="20211011215138 +0000">
     <title>Point Cabrillo Light, Caspar, California featuring Tracy Chapman,Peter Gabriel, The Bangles</title>
     <desc>Relax as the sun sets on this picturesque scene of Michigan's Manistique East Breakwater Light.</desc>
@@ -4147,6 +4141,16 @@ The best of the worst for June 2020.</desc>
     <desc>The peaceful and picturesque Big Manitou Falls of Wisconsin's Pattison State Park.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/14/CA_VC_CTI_USQO375324A_XM0NAWJ0KFZI9Q_20211011182202680.jpg"/>
   </programme>
+  <programme channel="CAAJ2700003Q8" start="20211012051940 +0000" stop="20211012053507 +0000">
+    <title>Curl Curl Beach, New South Wales, Australia featuring Pieces of a Dream,Althea Rene, The Lost Dogs</title>
+    <desc>Australia's beautiful South Curl Curl Beach.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/33/CA_VC_CTI_USQO375324A_XM0EVVUDO4LR6X_20211011182126825.jpg"/>
+  </programme>
+  <programme channel="CAAJ2700003Q8" start="20211012053507 +0000" stop="20211012055034 +0000">
+    <title>Shanghai, China featuring Grant Geissman,California Guitar Trio, Joyce Cooling</title>
+    <desc>A tour of beautifully illuminated Shanghai.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/27/CA_VC_CTI_USQO375324A_XM06KK6X74S4US_20211011182234607.jpg"/>
+  </programme>
   <channel id="CAAJ1700002PA">
     <display-name>The Asylum</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/CAAJ1700002PA_20200819T020408.png"/>
@@ -4235,10 +4239,15 @@ The best of the worst for June 2020.</desc>
     <desc>Kent, Art and Natasha demand human privileges, but a coffee maker hijacks their robot revolution and takes over the ship. Meanwhile, time distortion turns Tina and Michael's half-day mission into a year-long ordeal on a barren planet.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/29/CA_VC_CTI_USQU352137A_CA-252-CAAJ2700024HE-1938002_20211011132653049.jpg"/>
   </programme>
-  <programme channel="CAAJ2700024HE" start="20211012050002 +0000" stop="20211012053002 +0000">
+  <programme channel="CAAJ2700024HE" start="20211012050002 +0000" stop="20211012053003 +0000">
     <title>Powerless | Episode 6</title>
     <desc>With the ship trapped in a lightning storm, Karen struggles to persuade the crew to limit their power usage, while Stewart learns to pilot the ship manually with help from Zalian. Meanwhile, Kent attempts to re-educate Natasha, who has been reduced to the mental age of a child after the first lightning strike.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/84/CA_VC_CTI_USQU352137A_CA-252-CAAJ2700024HE-1938003_20211011132849858.jpg"/>
+  </programme>
+  <programme channel="CAAJ2700024HE" start="20211012053003 +0000" stop="20211012060003 +0000">
+    <title>First Contact | Episode 7</title>
+    <desc>An alien appears in Stewart's dreams, but only seems to communicate if Stewart's dreams are erotic in nature. Stewart enlists both A.R.T. and Zalian's medicine cabinet in a dark, humiliating journey to make first contact. Karen slaps Michael in a rage over his tryst with Tina, and has to go undergo HR arbitration, overseen by an un-objective Tina.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/05/CA_VC_CTI_USQU352137A_CA-252-CAAJ2700024HE-1938004_20211011132552966.jpg"/>
   </programme>
   <channel id="CAAJ40000077N">
     <display-name>FilmRise Free Movies</display-name>
@@ -4273,11 +4282,6 @@ The best of the worst for June 2020.</desc>
     <display-name>FilmRise Action</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/CAAJ2700014EE_20210727T132439.png"/>
   </channel>
-  <programme channel="CAAJ2700014EE" start="20211011202238 +0000" stop="20211011212210 +0000">
-    <title>Hunter</title>
-    <desc>The Beach Boy arrives in Los Angeles from Hawaii, picks up his luggage and heads for his car. The next day, he arrives at Eddy Marks' house and shoots him down in his kitchen.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/51/CA_VC_CTI_USQO375324A_XM074BODXNJ3MM_20211011182010955.jpg"/>
-  </programme>
   <programme channel="CAAJ2700014EE" start="20211011212210 +0000" stop="20211011222318 +0000">
     <title>Hunter</title>
     <desc>Hunter and McCall go after a contract killer who is making hits throughout the city in order to ingratiate himself with a criminal kingpin in order to kill him.</desc>
@@ -4327,11 +4331,6 @@ The best of the worst for June 2020.</desc>
     <display-name>FilmRise Western</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/35/CAAJ27000159K_20210727T132443.png"/>
   </channel>
-  <programme channel="CAAJ27000159K" start="20211011210503 +0000" stop="20211011213714 +0000">
-    <title>The Rifleman</title>
-    <desc>Gavin and Ezra Martin think that Lucas killed their son Clemmie while taking part in a train robbery and Lucas refuses to tell them what really happened.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/80/CA_VC_CTI_USQO375324A_XM0UIUB58W4O1D_20211011182216306.jpg"/>
-  </programme>
   <programme channel="CAAJ27000159K" start="20211011213714 +0000" stop="20211011220915 +0000">
     <title>The Rifleman</title>
     <desc>Eddie's daughter causes trouble for Lucas when two strangers threaten her life after she arrives with criminal information and stolen money.</desc>
@@ -4407,15 +4406,15 @@ The best of the worst for June 2020.</desc>
     <desc>When a man rides into Tombstone with three bullets in him, Earp decides to go alone to arrest Old Man Clanton for stealing the man's horses.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/CA_VC_CTI_USQO375324A_XM0G1TAMWLIQ80_20211011182216478.jpg"/>
   </programme>
+  <programme channel="CAAJ27000159K" start="20211012053244 +0000" stop="20211012060454 +0000">
+    <title>The Life and Legend of Wyatt Earp</title>
+    <desc>Earp soon learns that the Tombstone newspaper The Nugget is run by a crooked editor who is in league with the gangs running Arizona including the Clantons.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/64/CA_VC_CTI_USQO375324A_XM07GMW1AQXKUM_20211011182259528.jpg"/>
+  </programme>
   <channel id="CAAJ3400011V4">
     <display-name>The Preview Channel</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/62/CAAJ3400011V4_20210309T011921.png"/>
   </channel>
-  <programme channel="CAAJ3400011V4" start="20211011205507 +0000" stop="20211011213530 +0000">
-    <title>V Previews: The Latest Video Games</title>
-    <desc>An hour of this year's hottest upcoming and released video game trailers..</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/42/CA_VC_CTI_USQU352137A_CA-501-CAAJ3400011V4-7125437_20211011132655131.jpg"/>
-  </programme>
   <programme channel="CAAJ3400011V4" start="20211011213530 +0000" stop="20211011222428 +0000">
     <title>V Previews: The Latest Video Games</title>
     <desc>The hottest upcoming and released video game trailers..</desc>
@@ -4446,10 +4445,15 @@ The best of the worst for June 2020.</desc>
     <desc>The latest upcoming drama films. </desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/01/CA_VC_CTI_USQU352137A_CA-501-CAAJ3400011V4-5464333_20211011132719726.jpg"/>
   </programme>
-  <programme channel="CAAJ3400011V4" start="20211012042111 +0000" stop="20211012053017 +0000">
+  <programme channel="CAAJ3400011V4" start="20211012042111 +0000" stop="20211012053018 +0000">
     <title>Trending Movies On Demand</title>
     <desc>-</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/11/CA_VC_CTI_USQU352137A_CA-501-CAAJ3400011V4-3303808_20211011132812828.jpg"/>
+  </programme>
+  <programme channel="CAAJ3400011V4" start="20211012053018 +0000" stop="20211012060138 +0000">
+    <title>Animation Fascination Previews</title>
+    <desc>A list of upcoming animated films. </desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/77/CA_VC_CTI_USQU352137A_CA-501-CAAJ3400011V4-1511324_20211011132514832.jpg"/>
   </programme>
   <channel id="CABB2600017ZU">
     <display-name>80s Flashback</display-name>

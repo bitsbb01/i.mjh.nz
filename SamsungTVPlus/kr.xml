@@ -301,11 +301,6 @@
     <display-name>연합뉴스TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/KRBB500040HQ_20210824T090935.png"/>
   </channel>
-  <programme channel="KRBB500040HQ" start="20211011192000 +0000" stop="20211011212000 +0000">
-    <title>뉴스특보</title>
-    <desc>뉴스특보</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/98/KR_VC_CTI_USQT620324A_43747_20211011074306497.jpg"/>
-  </programme>
   <programme channel="KRBB500040HQ" start="20211011212000 +0000" stop="20211011225000 +0000">
     <title>뉴스특보</title>
     <desc>뉴스특보</desc>
@@ -482,10 +477,15 @@
     <desc>봉팔은 큰맘먹고 귀신인 현지에게 뽀뽀를 해주지만, 정작 아무 기억도 떠오르지 않는 현지는 당황하여 도망가버린다. 한편 온라인 게임에서 한바탕 키보드 배틀을 치룬 천상은 현피를 뜨기 위해 어느 고시원을 찾아가는데.. 기억을 찾기 위해 봉팔에게 붙어있어보기로 결심한 여자귀신 현지. 귀신의 도움을 받아 좀더 수월하게 퇴마사업을 하기로 마음 먹은 남자사람 봉팔.  이 둘의 기묘한 동거가 시작된다.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/44/KR_VC_CTI_KRQT161013A_B120160709_D3_225497_20210915090013673.jpg"/>
   </programme>
-  <programme channel="KRBB2700010M9" start="20211012042415 +0000" stop="20211011205149 +0000">
+  <programme channel="KRBB2700010M9" start="20211012042415 +0000" stop="20211012052650 +0000">
     <title>싸우자 귀신아 4화</title>
     <desc>봉팔에게 드레스를 선물받은 현지는 봉팔에게 묘한 감정을 느끼지만, 정작 봉팔은 짝사랑하는 서연과 가까워짐을 느낀다.한편 현지는 혜성이 자신의 존재를 인지하면서도 의식적으로 피해 지나가는 듯한 느낌을 받는데... 봉팔에게 퇴마비용을 주지 못해 도망다니던 천상, 인랑은 동아리방에서마저 쫓겨나 귀신들린 찜질방으로 향하고...악령 앞에서 천상, 인랑 개그콤비 절체절명의 순간! 봉팔, 현지 진짜 퇴마 콤비가 등장한다!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/15/KR_VC_CTI_KRQT161013A_B120160709_D4_225500_20210915090033513.jpg"/>
+  </programme>
+  <programme channel="KRBB2700010M9" start="20211012052650 +0000" stop="20211011205149 +0000">
+    <title>싸우자 귀신아 5화</title>
+    <desc>천상과 인랑은 봉팔에게 퇴마 사업을 제안하고, 급기야는 서연을 이용해 봉팔을 동아리에 가입시킨다.한편 서연 때문에 동아리도 가입하고, 자신은 안중에도 없는 봉팔을 보면서 현지는 왠지 모를 질투를 느끼게 된다천상, 인랑과 함께 팀을 이뤄 퇴마를 가게 된 봉팔. 어딘가 이상한 꼬마귀신과 그 꼬마귀신을 찾아 헤매는 엄마를 보게 되면서 봉팔은 자신의 트라우마와 대면하게 되는데..</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/31/KR_VC_CTI_KRQT161013A_B120160709_D5_225503_20210915090014347.jpg"/>
   </programme>
   <programme channel="KRBB2700010M9" start="20211011205149 +0000" stop="20211011215938 +0000">
     <title>싸우자 귀신아 13화</title>
@@ -526,6 +526,11 @@
     <title>싸우자 귀신아 4화</title>
     <desc>봉팔에게 드레스를 선물받은 현지는 봉팔에게 묘한 감정을 느끼지만, 정작 봉팔은 짝사랑하는 서연과 가까워짐을 느낀다.한편 현지는 혜성이 자신의 존재를 인지하면서도 의식적으로 피해 지나가는 듯한 느낌을 받는데... 봉팔에게 퇴마비용을 주지 못해 도망다니던 천상, 인랑은 동아리방에서마저 쫓겨나 귀신들린 찜질방으로 향하고...악령 앞에서 천상, 인랑 개그콤비 절체절명의 순간! 봉팔, 현지 진짜 퇴마 콤비가 등장한다!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/15/KR_VC_CTI_KRQT161013A_B120160709_D4_225500_20210915090033513.jpg"/>
+  </programme>
+  <programme channel="KRBB2700010M9" start="20211012052650 +0000" stop="20211012063114 +0000">
+    <title>싸우자 귀신아 5화</title>
+    <desc>천상과 인랑은 봉팔에게 퇴마 사업을 제안하고, 급기야는 서연을 이용해 봉팔을 동아리에 가입시킨다.한편 서연 때문에 동아리도 가입하고, 자신은 안중에도 없는 봉팔을 보면서 현지는 왠지 모를 질투를 느끼게 된다천상, 인랑과 함께 팀을 이뤄 퇴마를 가게 된 봉팔. 어딘가 이상한 꼬마귀신과 그 꼬마귀신을 찾아 헤매는 엄마를 보게 되면서 봉팔은 자신의 트라우마와 대면하게 되는데..</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/31/KR_VC_CTI_KRQT161013A_B120160709_D5_225503_20210915090014347.jpg"/>
   </programme>
   <channel id="KRBA1300028ST">
     <display-name>이번 생은 처음이라</display-name>
@@ -610,6 +615,11 @@
     <desc>결국 마주 선 유령과 지하철 유령! 지하철 유령의 분노 앞에, 유령마저 죽음의 위기에 처하는데...! 누구도 예상 못 한 또 다른 비극적 사건이 터지고, 모두가 혼란에 휩싸인 그 때... 유진이 나타난다!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/09/KR_VC_CTI_KRQT161013A_B120194541_D16_240509_20210823023444614.jpg"/>
   </programme>
+  <programme channel="KRBB2700002L1" start="20211012052304 +0000" stop="20211012063728 +0000">
+    <title>유령을 잡아라 1화</title>
+    <desc>왕수리 지하철경찰대 수사1반 고지석 반장은 경찰대 수석졸업에 빛나는 엘리트다. 최고의 스펙을 가졌지만, 그의 꿈은 단 하나, 안정적인 경찰공무원 생활을 하는 것. 그런데 어느 날… 지석의 안정적인 경찰공무원 생활을 쫑낼 일생일대의 사건이 터진다. 지난 2년간 수많은 사람이 오가는 지하철역에서 사람을 납치, 살해, 유기 했지만 누구의 눈에도 띄지 않은 연쇄살인마, ‘지하철유령’ 놈이 지하철경찰대 30주년행사를 뒤집어놓는다! 행사를 준비한 지석은 경찰 인생 최대의 위기를 맞게 되고… 설상가상, 지석의 안정적인 경찰 인생을 뒤엎을 운명(?)의 그녀, 유령까지 만나게 되는데!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/50/KR_VC_CTI_KRQT161013A_B120194541_D1_240464_20210823023435124.jpg"/>
+  </programme>
   <channel id="KRBB2700003H8">
     <display-name>막돼먹은 영애씨 시즌1</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/30/KRBB2700003H8_20210824T090943.png"/>
@@ -658,6 +668,11 @@
     <title>막돼먹은 영애씨 시즌1 12화</title>
     <desc>* 막돼먹은 영애씨 12회원준에게 고백했지만 거절당한 영애. 원준의 얼굴을 어떻게 마주쳐야 할 지 난감하기만 하고..억지로 회사에 나가보는데, 우연히 영애가 부담스럽다는 원준의 통화내용을 듣게 된다. 영애, 원준을 보기 더욱 껄끄러워졌는데.. 이런 영애에게 때마침 스카웃 제의가 들어온다. 나쁘지 않은 조건의 솔깃한 제안에 영애. 망설임 없이 스카웃 제의를 승낙하게 되는데...한편 영채는 옛 남자친구 준오에게서 영채가 빌려갔던 책을 돌려달라는 연락을 받고..나영에게서 준오가 요즘 대기업에 취직하고 잘나간다는 소식을 듣게 된다. 영채, 괜한 옛감정이 살아나는 듯 한데.. *출연자김현숙(이영애 역) / 정다혜(이영채 역) / 김정하(엄마 역) / 송민형(아빠 역) / 박상진(이영민 역) / 유형관(상관 역) / 윤서현(선배 역) / 임서연(여동료 역) / 최원준(연하남 역) / 고세원(김혁규 역)</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/KR_VC_CTI_KRQT161013A_B120120542_D12_203538_20210823041138030.jpg"/>
+  </programme>
+  <programme channel="KRBB2700003H8" start="20211012053526 +0000" stop="20211012062817 +0000">
+    <title>막돼먹은 영애씨 시즌1 13화</title>
+    <desc>* 막돼먹은 영애씨 13회대학선배로부터 스카웃 제의를 받은 후 회사에 사표를 내고 나온 영애.새로운 회사에 출근하기까지 1주일의 시간을 갖고..원준이 자신의 마음을 받아주지 않은 건 자신이 뚱뚱해서라고 생각한 영애는 1주일동안 단식원에 들어가기로 한다.영애, 살을 빼겠다는 굳은 다짐을 하고 단식원으로 향하는데, 영애에겐 한 끼를 굶는 것조차 버거운 일.피땀 흘리는 소동 끝에 결국 단식원을 탈출하고 마는데..뜻 밖에도 단식원 앞에 원준의 모습이 보인다!한편, 영채는 나영의 오빠 혁규의 스쿠터를 분실하고 혁규는 영채에게 스쿠터 값을 물어낼 것을 요구한다.돈이 없는 영채. 스쿠터 값을 갚을 때 까지 혁규에게 충성을 다할 것을 약속하고..이후로 혁규의 요구라면 어쩔 수 없이 들어주게 되는데.. *출연자김현숙(이영애 역) / 정다혜(이영채 역) / 김정하(엄마 역) / 송민형(아빠 역) / 박상진(이영민 역) / 유형관(상관 역) / 윤서현(선배 역) / 임서연(여동료 역) / 최원준(연하남 역) / 고세원(김혁규 역)</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/KR_VC_CTI_KRQT161013A_B120120542_D13_203541_20210823041159523.jpg"/>
   </programme>
   <channel id="KRBA13000478L">
     <display-name>응답하라 1994</display-name>
@@ -786,6 +801,11 @@
     <desc>▶ "첨부터...마음을 깠어."    덕이(김미경)의 야생적 엄마 본능은   해영(서현진)과 도경(에릭) 사이의    묘한 썸의 기류를 정확히 포착한다! ▶ 한편, 도경의 엄마 지야(남기애)는    장회장(강남길)과의 만남에서 마주친   의외의 인물에 혼비백산하고..! ▶ 그리고 다가온 해영의 생일,    도경의 마음이 향하는 곳은 바로..!   믿고 보는 tvN 로코 드라마!    동명 오해 로맨스 &lt;또 오해영&gt;</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/44/KR_VC_CTI_KRQT161013A_B120169361_D6_228998_20210727063748877.jpg"/>
   </programme>
+  <programme channel="KRBA1300046PR" start="20211012052641 +0000" stop="20211012064028 +0000">
+    <title>또 오해영 7화</title>
+    <desc>▶ "스탠드 값, 유리창 값, 이걸로 퉁"    옆집 남녀 사이를 오가는 다주는 밀당!    스탠드를 준 도경(에릭)에 이어,     해영(서현진)이 도경에게 준비한 것은...? ▶ 골목에서 수경(예지원)과 마주친 해영과 도경,    비밀스레 어둠 속으로 몸을 숨기는데,    그 순간 묘한(?) 2차 사건 발생! ▶ 한편, 도경에게 '금' 해영(전혜빈)의 메일이 도착하고,    '흙' 해영(서현진) 앞에는 한 남자가 나타나는데!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/30/KR_VC_CTI_KRQT161013A_B120169361_D7_229001_20210727063704004.jpg"/>
+  </programme>
   <channel id="KRBB2700004WR">
     <display-name>치즈인더트랩</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/KRBB2700004WR_20210824T090939.png"/>
@@ -849,11 +869,6 @@
     <display-name>영앤드라마</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/67/KRBB500004F9_20210324T000805.png"/>
   </channel>
-  <programme channel="KRBB500004F9" start="20211011205255 +0000" stop="20211011213111 +0000">
-    <title>싱스트리트 5,6회</title>
-    <desc>힐링 차박 속 우리의 음악, 음악이 주는 울림</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/74/KR_VC_CTI_KRPBA3501QY_4085de1cacbd008994c94651c8f9e3ea0efc0b4c-7908412f_20211011132736408.jpg"/>
-  </programme>
   <programme channel="KRBB500004F9" start="20211011213111 +0000" stop="20211011224418 +0000">
     <title>꽃보다 남자 12회</title>
     <desc>제하에게 납치된 잔디를 홀로 구하러 나타난 준표에게 제하와 일당들은 집단 폭력을 가한다. F4 멤버들이 현장으로 들이닥치며 사건이 일단락 지어지려는 순간 준표에게 마지막 일격을 시도하는 제하. 잔디는 몸을 날려 준표를 보호하고 두 사람은 병원신세를 지게 되지만 다시 한 번 마음을 확인한다. 다함께 떠난 스키여행에서 준표는 강회장에게 끌려가던 중 잔디의 실종 소식을 듣게 되는데...</desc>
@@ -898,11 +913,6 @@
     <display-name>맛있는 녀석들</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/KRBB500008S1_20210428T035825.png"/>
   </channel>
-  <programme channel="KRBB500008S1" start="20211011202729 +0000" stop="20211011213015 +0000">
-    <title>맛있는 녀석들 - 봄나물과 쭈꾸미</title>
-    <desc>밥상에도 봄이 왔다. 봄 내음 솔솔 봄나물! 김준현이 극찬한 원추리! 과연 입맛 돌게 만드는 원추리의 맛은? 더욱 입맛 더 돋구는 산채비빔밥은 보너스~ 유민상의 역작 참치 비빔밥 대공개! 봄을 만나 통통하게 물오른 봄 주꾸미의 상상초월 맛의 세계도 함께 볼 수 있다.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/39/KR_VC_CTI_KRPBA3501QY_4085de1cebb43bc9e5c900b440e2d05c9aa9cfdf-7012b84b_20211011132735670.jpg"/>
-  </programme>
   <programme channel="KRBB500008S1" start="20211011213015 +0000" stop="20211011223314 +0000">
     <title>맛있는 녀석들 - 떡볶이와 돈가스</title>
     <desc>학창시절 추억의 맛 특집! 남녀노소 누구나 좋아하는 떡볶이와 분식계의 제왕 돈가스! 달콤한 빙수와 매콤한 떡볶이의 환상의 콜라보레이션! 돈가스에 소금을 찍어 먹는 독특한 식사법부터 김민경의 센세이션 레시피 돈가스 빵까지! 맛있는 녀석들과 재미나게 만나보자.</desc>
@@ -1084,6 +1094,11 @@
     <desc>'밀실'의 경계를 뛰어넘다! 국내 유일의 어드벤처 버라이어티 &lt;대탈출3&gt; 아홉 번째 이야기!  무장 단체가 지키는 수상한 노동의 현장?! 탈출러들의 목숨(?)을 위협하는 다섯 번째 탈출 장소 어둠의 조직이 운영하는 &lt;빵공장&gt;에서 탈출하라!  갑자기 분위기 체험 삶의 현장?! 영문도 모른 채 시작된 여섯 탈출러들의 노동기! "먹으면 죽어요~" 수상한 노란색 가루부터, "도망쳐도 죽어요~" 목을 압박하는 의문의 목걸이(?)까지! 끝없는 노동에 보이지 않는 탈출구! 생존 난이도는 극악?!   일콕(?)도 잠시, 공장의 비밀스러운 악행을 막기 위한 ‘특급 미션’ 등장!  탈출을 꾀하는 6인의 발걸음 소리는... ‘도박도박'?! 중독은 NO! 묻고 더블로 가(?) 탈출러들의 목숨을 건 한판승! ‘본격’ 블록버스터급 두뇌 전략 플레이 시작! 과연 모두의 눈을 속이고 무사히 탈출에 성공할 수 있을까?  상상초월의 콘셉트로 무장한 어드벤처 버라이어티!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/23/KR_VC_CTI_KRQT161013A_B120196370_D9_165694_20210813030424163.jpg"/>
   </programme>
+  <programme channel="KRBA1300050T9" start="20211012052136 +0000" stop="20211012064647 +0000">
+    <title>대탈출3 10회</title>
+    <desc>'밀실'의 경계를 뛰어넘다!  국내 유일의 어드벤처 버라이어티 &lt;대탈출3&gt; 열 번째 이야기!   지난주, 어둠의 조직이 운영하는 '빵공장’에 갇힌 탈출러들  검은탑에서 유출된 생화학 무기부터 불법도박장 입성까지!  공장의 비밀을 알아낸 6인방의 ‘미션 임파서블’ 첩보 대작전(?)   더 이상 물러날 곳은 없다! '단발 형제X야근 정예 멤버' 크로스!  서로의 도움 없이는 이곳을 영영 빠져나가지 못한다?!  긴장의 연속! 냉혹한 도박판의 세계에 발을 들인 단발 형제 종민X병재!  "묻고 더블로 가~!" 무차별 베팅의 결말은...신체포기각서?!  동작 그만! 단발 형제는 우리가 지킨다!  야근 정예 멤버들의 신통한(?) 전략으로 전화위복을 노리는데!     "가장 만지기 싫은 곳에 단서가 있다!"  적중률 100% 강호동 선생의 '단서 지리학' 강의부터,  최종 미션을 위한 매개체, 사라진 요원 '김강렬'을 찾아서!  첩첩산중?! 탈출러들의 수상한 낌새(?)를 눈치 챈 어둠의 조직  쫓는 자와 쫓기는 자! 촌각을 다투는 '타임 리밋'의 시작!  이대로 미션 실패..? 끝날 때까지 끝난 게 아니다!!  과연 탈출러들은 미션을 완수하고 무사히 탈출에 성공 할 수 있을까?     상상초월의 콘셉트로 무장한 어드벤처 버라이어티!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/24/KR_VC_CTI_KRQT161013A_B120196370_D10_165697_20210813030424163.jpg"/>
+  </programme>
   <channel id="KRBB2700005LF">
     <display-name>온앤오프(25-26,28-37회)</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/KRBB2700005LF_20210824T090946.png"/>
@@ -1122,11 +1137,6 @@
     <display-name>플레이어 시즌1</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/KRBB2700013RP_20210923T010330.png"/>
   </channel>
-  <programme channel="KRBB2700013RP" start="20211011200714 +0000" stop="20211011212805 +0000">
-    <title>플레이어 12회</title>
-    <desc>&lt;플레이 수퍼모델 코리아&gt; TOP 모델을 향한 두 번째 이야기!50인의 매력 판정단에게어필하라! &lt;도전! 매력 만수르&gt; ‘이 중 가장 매력적인사람은?’ 두근두근  &lt;이미지 게임&gt;부터 재치와 순발력 그리고, 센스 끝판왕 뽑기 &lt;포즈대결&gt;, 요즘은 옷 빨리  (잘)입는사람이 각광받는 시대? &lt;옷빨리 입기 대결&gt;까지!‘매력 만수르’가되기 위한 멤버들의 달콤 살벌한 대결 속으로! come come!플레이 수퍼모델 코리아 대망의 마지막 미션!&lt;개별 화보 촬영&gt;모델에서 예능인으로 변신한 정혁의 비포&amp;애프터촬영부터마주치면 위험해! 전국의 이용진 닮은꼴과의 도플갱어 화보, 특별한 파트너와 함께하는 이진호의 스웩 넘치는 힙합 앨범 자켓 촬영, 파이터의 변신은 무죄? 김동현의 파격 뮤지컬 화보, 그리고 화보를 뛰어넘는 예술작품을 완성한 이수근&amp;황제성&amp;이이경까지!대한민국 최조 여성매거진의 지면을 장식할 주인공은 누구?글로벌 톱모델이 되기 위한 피. 땀. 눈물~ 섞인 서바이벌  &lt;플레이 슈퍼 모델코리아&gt;!</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/14/KR_VC_CTI_KRQT161013A_B120193714_D12_155266_20210915085956135.jpg"/>
-  </programme>
   <programme channel="KRBB2700013RP" start="20211011212805 +0000" stop="20211011224345 +0000">
     <title>플레이어 13회</title>
     <desc>외모가 각광받는 시대는 지났다. 지금은 뇌순시대!플레이어 멤버들의 섹시한(x) 순수한(o) 뇌를 뽐내는 시간 ♡덜 똑똑한 애 옆에 덜 똑똑한 애! (해맑) 일곱 남자들이 펼칠 &lt;천.재.특.집&gt; PLAY 속으로 레~고!최(애는) 최(애고) 차(은우는) 차(은우) 얼굴천재(?)로 변신한 수근‘모히또가서 몰디브한잔~?’ 플레이어의 연기천재 동현라디오 가가~ 음악천재 프레디 황큐리 &amp; 사과천재(?) 스티브 용진‘맛있쥬?’ 슈가보이 요리천재 백진호 &amp; 원조 개그천재 이경 채플린어디서 많이 본 공대천재 너~드한 정혁까지!천재 특집에 걸맞는 첫 번째 PLAY 판!추억의 퀴즈 프로그램! 지식이 필요 없는 fun한 퀴즈쇼!☆ 웃지마! 브레인 서바이벌 ★역대급 머릿수 채운 게스트 군단과 함께~뒷통수 탁! 치는 無근본 문제까지!댕청美 뇌순美 수치美 대방출 ♬♩♪그리고 이어지는 ‘덜~ 지니어스 게임’뇌섹미 뿜뿜~ 더 지니어스 우승자! 동민&amp;진호의 깜짝 등장!그리고 그냥 불러서 나온 남창희까지!최종 승자에겐 500만원의 상금이?!패자에겐 대 굴욕의 벌칙이 주어지는데...!‘지금부터 덜 지니어스 게임을 시작하겠습니다. 최종 승자는 누가 될지, 건투를 빕니다.‘플레이어 최고 천재를 가리기 위한 두뇌싸움의 시작!이런 모습 처음이야...☆ 놓치면 후회 하실 거예요 ♡</desc>
@@ -1191,6 +1201,11 @@
     <desc>새로운 출발을 위해 &lt;신박한 정리&gt;를 찾아온 오늘의 의뢰인은? 이태원 요식업계의 전설, 예능과 연기를 종횡무진하는 만능 방송인 ‘홍석천’! 최근 코로나19의 여파로 이태원에서 운영하던 마지막 가게까지 정리하게 되고 폐업한 가게 물건들까지 모조리 집에 들여놓게 된 석천! 그렇게 꽉 막힌 집 안에서 매일 홀로 시간을 보내고 있다는데... 남다른 감각으로 중무장한 석천답게 미국, 이탈리아, 프랑스, 태국 등 세계 방방곡곡에서 직접 공수해 온 진귀한 예술품과 패션 아이템들로 가득한 이곳은 마치 ‘홍석천 박물관’? 한편, 거실과 주방 한복판을 차지한 처치 곤란 가구들부터 시작해 초대형 금고와 현금 계수기, 20년 묵은 옷들을 토해내는(?) 옷장까지... 감탄과 경악이 공존한 잡동사니 하우스의 실체는 과연!? ‘비워야 산다’ 애라 VS ‘비울 건 없다’ 석천의 치열한 대립! “언젠간 쓰~겠지”를 연발하는 석천의 마음을 돌린 신박한 정리단의 강력한 한 방은? 취향 저격 100% ‘아트 하우스’ 탄생 임박! 석천의 새 출발을 응원하기 위해 찾아온 스페셜 게스트의 정체와 쉬지 않고 달려온 그에게 힐링이 되어줄 새 보금자리가 공개됩니다!</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/47/KR_VC_CTI_KRQT161013A_B120207837_D16_276493_20210729094334982.jpg"/>
   </programme>
+  <programme channel="KRBA1300049HI" start="20211012052517 +0000" stop="20211012071128 +0000">
+    <title>신박한 정리 17회</title>
+    <desc>집이 바뀌면 삶이 바뀐다 집구석 카운슬링 &lt;신박한 정리&gt; 열일곱 번째 이야기!  &lt;신박한 정리&gt;를 간절히 기다린 오늘의 의뢰인은? '워킹맘계의 사기캐' 김빈우와 '훈남 CEO' 남편 전용진, 그리고 개구쟁이 두 남매!  SNS 속에서처럼 완벽할 것 같았던 빈우의 집... 그러나 현실은 혼돈의 카오스?!  빈티지한 갬성의 신혼집은 사라지고... '빈티지한 키즈카페'로 전락한 혼잡한 거실과 수납 공간 부족으로 '정리 NO답' 상태인 주방! '패셔니스타' 부부의 욕구템들로 터져나갈 듯한 드레스룸까지!  엎친 데 덮친 격! 코로나 사태로 인해 재택근무에 돌입한 빈우 부부와 두 아이의 놀이공간이 혼재! 공간 분리도 시급한 상황!  한편, '욕구템'을 둘러싼 지분 다툼으로 시작해 전여친 선물까지 등판...?! 역대급 위험(?)했던 비우기 현장 大공개!  ‘더 이상 이렇게 살 수는 없다!’ 고가의 '욕구템'들과도 시원하게 이별! 통 크게 비운 빈우 부부에게 찾아온 기적의 공간은?!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/76/KR_VC_CTI_KRQT161013A_B120207837_D17_283556_20210729094338663.jpg"/>
+  </programme>
   <channel id="KRBB2700006AO">
     <display-name>쇼미더머니9</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/93/KRBB2700006AO_20210824T090948.png"/>
@@ -1224,11 +1239,6 @@
     <display-name>신서유기7</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/KRBB500031C8_20210324T000830.png"/>
   </channel>
-  <programme channel="KRBB500031C8" start="20211011195058 +0000" stop="20211011212455 +0000">
-    <title>신서유기7 6회</title>
-    <desc>머리부터 발끝까지 2019년 F/W 컨셉으로 돌아온 가을 요괴들!  ※과몰입 주의※ 호동의 시크(?)한 가죽LOOK부터 구)조준상 현)아이돌 규현의 파격 헤어 변신까지 런웨이 방불케 한 출근길 패션 大공개!  도사도, 톱스타도 못 찾은 용볼이 ‘요괴들의 주 출몰지’ 상암동에 떨어졌다?! 사상 최초 '선(先) 용★볼 대방출' 용볼 단체 미션에 모두 성공하면 소원 성취! 실패하면 단체 스머프 분장이 기다리는데...  과연 요괴들은 7성구를 모두 획득할 수 있을지?  짧지만 꽉 채웠다! '120분 시간제한 릴레이 게임' 비빔밥 재료가 걸린 시그니처 게임 ‘인물 퀴즈’부터 설득과 반박이 남발하는 논리甲 3대3 ‘동심 대토론’, 물고 뜯고 즐기는(?) ‘돌아온 암전 좀비’까지!  쉴 틈 없는 게임 러시! 한 순간도 놓치지 않을 거예요~♥</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/39/KR_VC_CTI_KRQT161013A_B120194767_D6_153615_20210405142052991.jpg"/>
-  </programme>
   <programme channel="KRBB500031C8" start="20211011212455 +0000" stop="20211011225941 +0000">
     <title>신서유기7 7회</title>
     <desc>규현의 ‘전화’위복과 맞바꾼 '120분 시간제한 릴레이 촬영' 파이널!  동심자극 기상미션 ‘자네 지금 뭐 하는 건가’ 페이크 남발로 동심 대신 의심 가득해진 현장! 흥신흥왕 강림한 삼겹살 파티까지 기대해주세요♥  ~드디어 단체 스머프 분장 온.에.어~ 꿈과 환상의 나라에 여섯 스머프가 떴다! 송 단장을 필두로 스파르타 춤 연습(?)에 돌입하는데~  수많은 사람들이 모인 동심의 세계에서 스머프들이 준비한 빅 이벤트는 무엇일지?  이방인의 눈으로 용볼을 찾아라! '글로벌 특집' 글로벌 눈높이에 맞춘 캐릭터 선정 게임 ‘클래식 퀴즈’ 지성&amp;교양을 겸비한 자만이 글로벌 캐릭터를 얻는다!  아침부터 모차르트도 울고 갈 오답 퍼레이드♬ 여섯 요괴 중 숨은 클래식 新 강자는?  ※바다 건너 온 글로벌 셀럽들의 2019 용볼 투어※ 이유 없이 그냥! (귀여운) ‘강 팬다’! ♨상시 대기♨ 개그 공연 전문 ‘멕시코 수그라스’! 선물 스틸러 ‘은산타’! 프리덤을 찾는 ‘자유의 조신상’!  부와 명성은 우리 손에~ ‘클레오 송트라’ &amp; ‘피라오’! 세계적인 VVIP를 위한 2층 투어 버스까지 대기 완료!</desc>
@@ -1253,6 +1263,11 @@
     <title>신서유기7 11회</title>
     <desc>영화의 도시, 밀양에 떨어진 용볼을 찾으러 왔다! 할리우드급 스릴甲 스케일甲 '용볼 대방출'  규현, 시즌 첫 단독 용볼 미션에 도전하다! 창녕 조커의 손에 용볼의 운명이 달렸는데~ 시즌7의 대미를 장식할 수 있을까?  아듀 2019! 요괴들의 송년 파티에 초대합니다★ OB의 깨알 콩트부터 조정뱅이의 무아지경 노래방까지! 텐션 오를 대로 오른 광란의 송년회 현장 대 공개!  이제 다 끝난 줄 알았지? 이어지는 '기상미션' ‘신개념 탁구’로 모닝 해장국을 쟁취할 팀은?  한 달 전, 용신 영접 후 소원을 빌었던 요괴들! 기다리고 기다리던 선물을 받고 즐거워하는데~ 갑자기! “돌림판이 왜 거기서 나와...?” 단체 회식 장소를 결정지을 '복불복 돌림판' 등판!  ‘김밥헤븐’부터 ‘호텔 뷔페’, ‘새해맞이 설악산 종주’까지 극과 극을 달리는 회식 장소! 과연 어디로?!  “늦게 보여줘서 미안해~” 본격 하드털이 시작 '미방분 대방출' 글로벌 셀럽들의 프랑스 코스 요리 식사와 야외 취침을 걸고 벌어진 OB:YB 족구 대결! 거기에 '시즌7 분장 컬렉션'까지 기대해주세요♥</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/89/KR_VC_CTI_KRQT161013A_B120194767_D11_168992_20210405142052984.jpg"/>
+  </programme>
+  <programme channel="KRBB500031C8" start="20211012052912 +0000" stop="20211012070258 +0000">
+    <title>신서유기7 1회</title>
+    <desc>서기 이천십구년 가을, '도사들의 성지'라 불리는 '계룡산'에서 '전설의 용볼'이 신묘한 기운을 뿜어내기 시작한다. 어느새 소문은 계룡산을 넘어 세계 각지로 퍼지고, 용한 능력을 가진 도사들이 용볼 찾기에 나서는데...!  범우주적 비주얼! '강묘한' 호동! 365일 예능감 팍팍! '무릎팍동자' 수근! 도사계의 여포! '온달프' 지원! 아이돌 램프 탈출한 '조지니' 규현! 빅마우스 활용에 득도한 '피추도사' 피오와 코끼리 코 회전의 神 '송무도사' 민호까지!  천태만상 인간 세상~♪ 고깔 게임도 가지가지~♬ 잠자리를 걸고 펼쳐지는 Upgrade '고깔고깔 대작전' 최고의 투시력을 뽐낸 도사는 포근~한 호텔급 침대 세트! 꼴등은 친환경적(?)인 어마무시한 잠자리 당첨이오~ 몸개그라면 도가 튼 도사들의 신통방통한 침구 쟁탈전 大공개! 강식당 출신 도사 셰프들의 요리 실력 발휘 TIME★  살아 숨쉬는(?) 가을 특산물로 최고의 만찬을 기대했으나~ 한껏 신난 도사들 앞을 가로막은 통곡의 벽! '인.물.퀴.즈&gt; 계속되는 오답 릴레이에 침샘 대신 식은땀 폭발!  과연 도사들은 영험한 능력으로 위기를 극복할 수 있을까?!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/27/KR_VC_CTI_KRQT161013A_B120194767_D1_153600_20210405142102500.jpg"/>
   </programme>
   <channel id="KRBA36000036Q">
     <display-name>모터그래프</display-name>
@@ -1348,20 +1363,15 @@
     <desc>포터 전기차(포터II 일렉트릭)을 타보았습니다. 올 들어 판매되는 포터 10대 중 1대는 전기차 모델이라고 하는데요. ‘포터르기니 무얼실을라고’의 새로운 진화. 함께 살펴보시죠.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/66/KR_VC_CTI_KRPBA3501QY_4085de1c40505277193f5b72c7566950c6b7c78e-6bbdeec1_20211011132906505.jpg"/>
   </programme>
+  <programme channel="KRBA36000036Q" start="20211012053201 +0000" stop="20211012055931 +0000">
+    <title>'언덕을 못 올라간다고?!' 기아 신형 K5 1.6 터보 시승기</title>
+    <desc>기아차 K5 1.6 터보를 시승했습니다. 최근 1.6 터보 모델을 비롯한 신형 K5의 출고가 원활하게 진행되고 있는데요. 그중에서 많은 문제점들도 발견되고 있습니다. 그래서 그와 관련된 몇가지를 살펴봤습니다. 그리고 1.6 터보 모델의 기본적인 특징도 다뤘습니다. 영상을 통해 살펴보시죠!</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/34/KR_VC_CTI_KRPBA3501QY_4085de1c8384878830d84fe5400d6a1bbdc1e3d8-6bbdeec1_20211011132726061.jpg"/>
+  </programme>
   <channel id="KRBA4800001CX">
     <display-name>셀레브</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/86/KRBA4800001CX_20210209T003851.png"/>
   </channel>
-  <programme channel="KRBA4800001CX" start="20211011210240 +0000" stop="20211011212049 +0000">
-    <title>패션 전문가들의 인사이트 : S1 E2</title>
-    <desc>패션에 대한 궁금증을 풀어준다! 김수찬, 김지현, 손희락, 이석,이의연의 토크 모음.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/11/KR_VC_CTI_KRPBA3501QY_6c01201a600e6c3f098bc9000152a4f0-6a7f84f6_20211011132816434.jpg"/>
-  </programme>
-  <programme channel="KRBA4800001CX" start="20211011212049 +0000" stop="20211011213600 +0000">
-    <title>특별한 커리어 스토리 : S1 E2</title>
-    <desc>자신만의 커리어를 쌓아나가고 있는 이들의 이야기 ! 법의학자 유성호, 파티플래너 김정연, 잡큐멘터리 박현우, 투자심사역 박희은의 인터뷰.</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/95/KR_VC_CTI_KRPBA3501QY_6c01201a600e6dfcb304ea0001c2074d-6a7f84f6_20211011132715646.jpg"/>
-  </programme>
   <programme channel="KRBA4800001CX" start="20211011213600 +0000" stop="20211011215440 +0000">
     <title>포기 없는 도전 스토리 : S1 E2</title>
     <desc>매일 영감을 주는 그들! 크리에이터 고효주, 나몰라패밀리, 프로젝트 매니저 김혜인의 인터뷰부터 국토교통부의 임금직접지급제로 변화를 만들어가고 있는 현장까지!</desc>
@@ -1494,15 +1504,15 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
 sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요리사 홀리안이 함께 합니다.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/55/KR_VC_CTI_KRPBA3501QY_4085de1c8887314803bd90863bb26b3e8dac68d7-6a7f84f6_20211011132803660.jpg"/>
   </programme>
+  <programme channel="KRBA4800001CX" start="20211012053455 +0000" stop="20211012055010 +0000">
+    <title>클로브 전주현 인터뷰 : S5 E1</title>
+    <desc>디자이너들의 삶, 그리고 그들만의 독보적인 철학! 클로브 디자이너 전주현의 인터뷰를 만나보세요.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/51/KR_VC_CTI_KRPBA3501QY_6c01201a600fa15b098bc9000152bba4-6a7f84f6_20211011132505329.jpg"/>
+  </programme>
   <channel id="KRBB2700007K0">
     <display-name>코미디빅리그 (330-341)</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/94/KRBB2700007K0_20210824T090949.png"/>
   </channel>
-  <programme channel="KRBB2700007K0" start="20211011201413 +0000" stop="20211011213305 +0000">
-    <title>코미디빅리그 334회</title>
-    <desc>래퍼 ‘그리’가 코빅에 떴다! 그가 ‘이국주’에게 날린 ‘촌철살인 멘트’는? 그리고 ‘추억의 명곡’으로 텐션 폭팔한 ‘이국주’! ‘그녀’의 흥을 깼던 노래의 정체까지~![이국주-김철민-이은지-설명근]의 &lt;국주의 거짓말&gt;꿩 ‘이진호’가 돌아왔다! 우승상품 ‘최신핸드폰’ 때문에 열 받은 사연은? 한편 ‘최성민’이 호의를 외치자 극한(?)상황이 일어나는데...![이용진-이진호-양세형-양세찬-최성민]의 &lt;가족 오락가락관&gt;‘옛날사람’과 함께한 ‘옛날통닭’ 먹방! 그리고 ‘아저씨’ 임을 몸소 증명한 ‘옛날퀴즈’와 아저씨 버전 ‘불타오르네’까지~![이상준]의 &lt;니쭈의 ASM R&gt;남편에게 예쁘게 보이려 ‘벌크업’한 ‘홍윤화’! ‘그녀’의 충격 비주얼 공개! 한편 ‘황제성’의 ‘다나까’ 교육법이 불러일으킨 참담한 결과는?[황제성-문세윤-홍윤화-최성민-박영재-양배차-최우선]의 &lt;산적은 산적이다&gt;‘양세찬’이 ‘장도연’에게 골라준 머리부터 발끝까지 ‘풀 셋팅 패션’ 은? 그리고 ‘장도연’이 마트에서 만난 동창 ‘허안나’ 앞에서 ‘망신’당한 사연까지~![양세찬-장도연]의 &lt;육아IS뭔들&gt;황철두 ‘황제성’st ‘아이유 3단 고음’ 공개! 한편 ‘황제성’은 사과를 자르다 여친 ‘이은지’를 뿅 가게 하는데...![황제성-허안나-김철민-이은지]의 &lt;황철두&gt;으른신 ‘이진호&amp;문세윤&amp;김두영’이 외국인들을 위해 준비한 방은? 그리고 ‘문세윤’이 마을을 위해 만들어온 ‘이정표’까지~![이진호-문세윤-박영재-김두영-이정수-한현민]의 &lt;동네으른들&gt;</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/53/KR_VC_CTI_KRQT161013A_B120127353_D334_210134_20210827104417371.jpg"/>
-  </programme>
   <programme channel="KRBB2700007K0" start="20211011213305 +0000" stop="20211011224917 +0000">
     <title>코미디빅리그 335회</title>
     <desc>&lt;동백꽃 필 무렵&gt; ‘강하늘♥공효진’을 뛰어넘는(?) ‘양세찬♥장도연’의 ‘후드티 키스신’ 공개!한편 ‘양세찬’은 ‘장도연’이 준비한 장어반찬에 몸 둘 바를 모르는데...![양세찬-장도연]의 &lt;육아IS뭔들&gt;문세윤’이 재해석한 명곡! 원타임의 &lt;HOT 뜨거&gt; 공개!그리고 ‘황제성’이 준비한 대한민국 최고의 ‘대형밴드’까지~![황제성-문세윤-홍윤화-최성민-박영재-양배차-최우선]의 &lt;산적은 산적이다&gt;‘이국주’가 자신의 이상형 ‘카메라 감독님’을 유혹하다! 그 결과는?한편 ‘이국주’ 닮은꼴 현아(?)의 판을 뒤집은 ‘이민기’ 닮은꼴이 공개되는데...![이국주-김철민-이은지-설명근]의 &lt;국주의 거짓말&gt;오프닝 축하공연으로 ‘이용진&amp;양세형’이 불렀던 동요 ‘동물농장’은?그리고 ‘최성민’ 때문에 욱한 코빅MC ‘신영일’이 한 행동까지~![이용진-이진호-양세형-양세찬-최성민]의 &lt;가족 오락가락관&gt;니쭈 ‘이상준’의 ‘수능 떡’ 먹방!한편 ‘니쭈’와 ‘친구’는 수능 영역 ‘언어듣기평가’를 진행하는데...![이상준]의 &lt;니쭈의 ASMR&gt;‘이진호’가 ‘김두영’과의 당연하지 게임으로 이겨서 얻은 것은?그리고 ‘문세윤’이 전국노래자랑에서 부를(?) 노래들까지~![이진호-문세윤-박영재-김두영-이정수-한현민]의 &lt;동네으른들&gt;황철두 ‘황제성’이 맥주와 함께 시원하게 땄던 물건(?)들의 정체는?한편 황철두 ‘황제성’은 분위기를 띄우기 위해 김건모의 &lt;잘못된 만남&gt;을 부르는데...![황제성-허안나-김철민-이은지]의 &lt;황철두&gt;</desc>
@@ -1640,11 +1650,6 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <display-name>우리의식탁</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/98/KRBA4800002BQ_20210324T000856.png"/>
   </channel>
-  <programme channel="KRBA4800002BQ" start="20211011210927 +0000" stop="20211011212654 +0000">
-    <title>쇠고기불고기, 우렁이강된장, 알리오올리오</title>
-    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의식탁입니다. [쇠고기불고기, 우렁이강된장, 알리오올리오]</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/80/KR_VC_CTI_KRPBA3501QY_4085de1c6602edd848245ddb345662699019e2c3-68393aaf_20211011132608852.jpg"/>
-  </programme>
   <programme channel="KRBA4800002BQ" start="20211011212654 +0000" stop="20211011214314 +0000">
     <title>닭가슴살구이, 피시앤칩스, 양송이수프</title>
     <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의식탁입니다. [닭가슴살구이, 피시앤칩스, 양송이수프]</desc>
@@ -1780,6 +1785,11 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의식탁입니다. [ABC주스, 야채수프, 마파두부 덮밥, 두부 브로콜리 덮밥, 두부 카레덮밥, 한식 채수]</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/07/KR_VC_CTI_KRPBA3501QY_4085de1ca2ca89b12bbfb52025ea6ea47db70029-68393aaf_20211011132821570.jpg"/>
   </programme>
+  <programme channel="KRBA4800002BQ" start="20211012052445 +0000" stop="20211012055027 +0000">
+    <title>들기름 막국수, 토마토 솥밥, 세 가지 감자요리, 일주일 채식반찬</title>
+    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의식탁입니다. [들기름막국수, 토마토솥밥, 감자채전, 꽈리고추 알감자조림, 비건 감자샐러드, 마늘조림, 가지절임, 브로콜리 두부무침, 오이고추 된장무침, 미역줄기볶음, 우엉조림, 미나리 콩나물 무침]</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/22/KR_VC_CTI_KRPBA3501QY_4085de1cb821b208763fbae41d3493510cfd359a-68393aaf_20211011132903268.jpg"/>
+  </programme>
   <channel id="KRAH4602000A">
     <display-name>현대홈쇼핑+Shop</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/KRAH4602000A_20210324T000853.png"/>
@@ -1858,15 +1868,15 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <desc>한국 영화 관객 수 순위 1위 &lt;명량&gt; 주역들이 전하는 명량해전의 뒷이야기. 과연 이순신 장군은 명량해전을 어떻게 준비하였을까 낱낱이 파헤친다.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/26/KR_VC_CTI_KRPBA3501QY_4085de1cdc62791077ac814fb109e104b13738a2-6ef2f844_20211011132917127.jpg"/>
   </programme>
+  <programme channel="KRBA3600002XY" start="20211012053420 +0000" stop="20211012072922 +0000">
+    <title>천군</title>
+    <desc>남한의 핵물리학자를 납치해간 북한군과 그들을 뒤쫓는 남한군은 돌풍에 휩싸여 1572년의 조선으로 가게 되고 거기서 이순신을 만나게 되는데...</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/42/KR_VC_CTI_KRPBA3501QY_4085de1cdfc7636a03b6d0b8694604b71c685286-6ef2f844_20211011132640265.jpg"/>
+  </programme>
   <channel id="KRBB500006QF">
     <display-name>비포플레이</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/02/KRBB500006QF_20210324T000838.png"/>
   </channel>
-  <programme channel="KRBB500006QF" start="20211011211116 +0000" stop="20211011213333 +0000">
-    <title>2020 LWT INVITATIONAL DAY1 하이라이트</title>
-    <desc>[LWT 초청전] 4강 풀리그 천상계 여성 플레이어 개막전 첫 경기인만큼 어떤 경기들을 보여줄지가 기대됩니다. (하이라이트)</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/78/KR_VC_CTI_KRPBA3501QY_4085de1cc4df18604d3ada23cc31bf2bb4b28701-7a8c9541_20211011132549176.jpg"/>
-  </programme>
   <programme channel="KRBB500006QF" start="20211011213333 +0000" stop="20211011214949 +0000">
     <title>2020 LWT INVITATIONAL DAY2 하이라이트</title>
     <desc>[LWT 초청전] 4강 풀리그 천상계 여성 플레이어 두 번 째 경기 지금 시작합니다. (하이라이트)</desc>
@@ -1966,11 +1976,6 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <display-name>스포TV</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/KRBB500001ZN_20210324T000841.png"/>
   </channel>
-  <programme channel="KRBB500001ZN" start="20211011211355 +0000" stop="20211011212620 +0000">
-    <title>20-21 프리미어리그 15R 아스날 vs 첼시</title>
-    <desc>20-21 프리미어리그 15R 아스날 vs 첼시 하이라이트</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/32/KR_VC_CTI_KRPBA3501QY_4085de1c7d79589679a307bc66890490b164de81-7fc383c4_20211011132719288.jpg"/>
-  </programme>
   <programme channel="KRBB500001ZN" start="20211011212620 +0000" stop="20211011213923 +0000">
     <title>20-21 프리미어리그 15R 울버햄튼 vs 토트넘</title>
     <desc>20-21 프리미어리그 15R 울버햄튼 vs 토트넘</desc>
@@ -2106,15 +2111,20 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <desc>20-21 라리가 29R 바르셀로나 vs 바야돌리드 하이라이트</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/76/KR_VC_CTI_KRPBA3501QY_4085de1c686c5486b4570e29372927e2714e8ac7-7fc383c4_20211011132728200.jpg"/>
   </programme>
+  <programme channel="KRBB500001ZN" start="20211012052438 +0000" stop="20211012053808 +0000">
+    <title>20-21 프리미어리그 16R 첼시 vs 아스톤빌라</title>
+    <desc>20-21 프리미어리그 16R 첼시 vs 아스톤빌라 하이라이트</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/46/KR_VC_CTI_KRPBA3501QY_4085de1c5bdf2b3e5dc2fe2a5769f2bb84dca0fc-7fc383c4_20211011132823002.jpg"/>
+  </programme>
+  <programme channel="KRBB500001ZN" start="20211012053808 +0000" stop="20211012055032 +0000">
+    <title>20-21 프리미어리그 16R 크리스탈팰리스 vs 레스터</title>
+    <desc>20-21 프리미어리그 16R 크리스탈팰리스 vs 레스터 하이라이트</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/54/KR_VC_CTI_KRPBA3501QY_4085de1c557e326229c3a754c13f1766f970a8a0-7fc383c4_20211011132910234.jpg"/>
+  </programme>
   <channel id="KRBB50000790">
     <display-name>빌리어즈TV 레전드</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/KRBB50000790_20210324T000844.png"/>
   </channel>
-  <programme channel="KRBB50000790" start="20211011203707 +0000" stop="20211011213009 +0000">
-    <title>2016 코리아당구 2차대회 3쿠션 여자부 결승</title>
-    <desc>2016년 대한민국 아마추어 최강자를 가리는 코리아 당구왕</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/88/KR_VC_CTI_KRPBA3501QY_4085de1c9fb4ee3b7e2a1f99b8c29559673742a4-7b4eff76_20211011132507897.jpg"/>
-  </programme>
   <programme channel="KRBB50000790" start="20211011213009 +0000" stop="20211011222352 +0000">
     <title>2016 코리아당구 2차대회 4구 남자부 8강 2경기</title>
     <desc>2016년 대한민국 아마추어 최강자를 가리는 코리아 당구왕</desc>
@@ -2160,18 +2170,15 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <desc>2016년 대한민국 아마추어 최강자를 가리는 코리아 당구왕</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/64/KR_VC_CTI_KRPBA3501QY_4085de1cf12015ffb39488cd511ee948d3d27b74-7b4eff76_20211011132810858.jpg"/>
   </programme>
+  <programme channel="KRBB50000790" start="20211012053054 +0000" stop="20211012062442 +0000">
+    <title>2016 코리아당구 2차대회 4구 여자부 4강 1경기</title>
+    <desc>2016년 대한민국 아마추어 최강자를 가리는 코리아 당구왕</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/18/KR_VC_CTI_KRPBA3501QY_4085de1cd70a0742ff14de774dfaefe0dba1b869-7b4eff76_20211011132748964.jpg"/>
+  </programme>
   <channel id="KRBB500002RQ">
     <display-name>ch.핑크퐁</display-name>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/47/KRBB500002RQ_20210324T000848.png"/>
   </channel>
-  <programme channel="KRBB500002RQ" start="20211011205505 +0000" stop="20211011212252 +0000">
-    <title>핑크퐁 튼튼쌤 율동체조 (하) Ep3</title>
-    <desc>흥과 끼를 주체할 수 없는 핑크퐁 그리고 귀여운 아기상어 올리와 함께&#13;
-튼튼쌤과 율동체조하면 기분이 UP UP!&#13;
-핑크퐁 인기 동요를 모아 율동체조와 함께 하면 재미가 두 배~ &#13;
-영유아기 신체 발달과 성장을 돕는 동작들이 가득~ 신나게 따라만 해도 몸이 튼튼! 키가 쑥쑥!</desc>
-    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/70/KR_VC_CTI_KRPBA3501QY_4085de1c822dca939ffbfae9fd634e2e524334d3-7d853d9d_20211011132902728.jpg"/>
-  </programme>
   <programme channel="KRBB500002RQ" start="20211011212252 +0000" stop="20211011214116 +0000">
     <title>핑크퐁과 호기의 댄스타임 Ep3</title>
     <desc>&lt;명탐정 핑크퐁과 호기 파트2&gt;를 인형극으로 봐요! 그리고 핑크퐁과 호기와 함께 재미있는 율동을 배워요!&#13;
@@ -2247,6 +2254,11 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
     <title>핑크퐁 인기 동요 모음집 Ep1</title>
     <desc>핑크퐁과 함께 과일 나라로 떠나요! 길쭉길쭉 바나나~ 주렁주렁 포도~ 탱글탱글 토마토! 놀랍고 신비로운 인체의 세계! 음식을 먹으면 전부 어디로 가나요? 허파는 어디에 있고 무슨 일을 해요? 왜 사람마다 피부색이 다를까요? 몸 속 구석구석에 대해 아이들이 궁금해하는 것들을 귀여운 캐릭터로 변신한 몸 속 기관들과 함께 쉽고 자세하게 배울 수 있어요.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/23/KR_VC_CTI_KRPBA3501QY_4085de1c10758ed1fa29f82e8111b792baef6d8b-7d853d9d_20211011132752239.jpg"/>
+  </programme>
+  <programme channel="KRBB500002RQ" start="20211012053058 +0000" stop="20211012055917 +0000">
+    <title>핑크퐁 자장가 동요</title>
+    <desc>밤마다 잠이 솔솔~ 듣다보면 어느새 새근새근 잠드는 핑크퐁 잠자리 동요! 모차르트 자장가', '브람스 자장가' 등 심리적 안정을 주는 잔잔한 멜로디로 아이들의 잠자리를 편안하게 만들어주세요.</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/62/KR_VC_CTI_KRPBA3501QY_4085de1c38fd789e8a21e04fd25afb0dc79f7d3c-7d853d9d_20211011132754911.jpg"/>
   </programme>
   <channel id="KRBB5000052G">
     <display-name>미니특공대TV</display-name>
@@ -2387,5 +2399,10 @@ sellev.Club Originals 시즌 4, 조향사 문인성, 심리학자 차희연, 요
 [제노스에게서 돌아선 단단단]&#13;
 단단단은 미니특공대에 협조하기로 한다. 카라의 유일한 조건은 바로, '지구에서 가장 맛있는 과자를 먹기'?! 그런데 어째, 볼트를 보는 눈길이 심상치 않다? 카라와 볼트의 데이트 소동이 펼쳐진다.</desc>
     <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/04/KR_VC_CTI_KRPBA3501QY_4085de1c380add215fe4bf494ab99c78f6a4919a-78ca2b18_20211010223723810.jpg"/>
+  </programme>
+  <programme channel="KRBB5000052G" start="20211012053018 +0000" stop="20211012055623 +0000">
+    <title>미라큘러스: 레이디버그와 블랙캣 - 산타의 복수</title>
+    <desc>어느 산타 클로스가 레이디버그 때문에 호크모스가 보낸 검은 나비에 지배당한다. 이제 '산타'는 이번 크리스마스 이브를 파리 역대 최악의 크리스마스 이브로 만드려고 한다. 과연 레이디버그와 블랙캣은 크리스마스를 구할 수 있을까?</desc>
+    <icon src="https://tvpmlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/22/KR_VC_CTI_KRPBA3501QY_4085de1c6511b6f1e88ce830e3292599e9f95453-78ca2b18_20211010223827777.jpg"/>
   </programme>
 </tv>

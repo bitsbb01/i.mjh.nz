@@ -37,11 +37,6 @@
     <display-name>Euronews in diretta</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png"/>
   </channel>
-  <programme channel="ITAJ4500023ZX" start="20211011211700 +0000" stop="20211011212900 +0000">
-    <title>Euronews Tonight</title>
-    <desc>Le ultime notizie con analisi e interviste dallo News Centre d'Europa.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/32/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044803_20211011183311358.jpg"/>
-  </programme>
   <programme channel="ITAJ4500023ZX" start="20211011212900 +0000" stop="20211011214200 +0000">
     <title>Euronews Tonight</title>
     <desc>Le ultime notizie con analisi e interviste dallo News Centre d'Europa.</desc>
@@ -207,6 +202,11 @@
     <desc>Il programma mattutino di Euronews con le ultime notizie e le analisi e i reportage sui social media sulle storie più importanti che riguardano l'Europa e il mondo.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/10/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044836_20211011183154477.jpg"/>
   </programme>
+  <programme channel="ITAJ4500023ZX" start="20211012053000 +0000" stop="20211012054300 +0000">
+    <title>Good Morning Europe</title>
+    <desc>Il programma mattutino di Euronews con le ultime notizie e le analisi e i reportage sui social media sulle storie più importanti che riguardano l'Europa e il mondo.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/66/IT_VC_CTI_USQU352137A_IT-543-ITAJ4500023ZX-15044837_20211011183154633.jpg"/>
+  </programme>
   <channel id="ITBA33000432S">
     <display-name>Euronews</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/ITBA33000432S_20210908T010217.png"/>
@@ -304,11 +304,6 @@
     <display-name>Surf World TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/91/ITBA33000456L_20210908T010437.png"/>
   </channel>
-  <programme channel="ITBA33000456L" start="20211011204841 +0000" stop="20211011212611 +0000">
-    <title>The All Saints Perfect Chapter</title>
-    <desc>Surfer Ricardo Dos Santos, special guest of the 4th Edition of Perfect Chapter was shot in Brazil days before he found out he has been invited to participate in one of the biggest sporting events in Portugal. 'The All Saints Perfect Chapter' is a compelling surf documentary that follows the journey of Bruno Dos Santos, the surfer who took his place. Official Selections: Bells Beach Surf Film Festival 2016 &amp; Surf at Lisbon Film Fest 2015.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/32/IT_VC_CTI_USQO570425A_4bae26bf-25fb-11ec-a34b-0a9c8934df2b_20211005170933988.jpg"/>
-  </programme>
   <programme channel="ITBA33000456L" start="20211011212611 +0000" stop="20211011230000 +0000">
     <title>The Perfect Wave</title>
     <desc>The tale of a surfer's relentless journey in pursuit of the perfect wave.</desc>
@@ -437,6 +432,11 @@
     <desc>L'appuntamento con il telegiornale di Sportitalia. All'interno ampia rassegna stampa nazionale e internazionale. Servizi, focus e approfondimenti sui temi di giornata e sul mondo dello sport a 360 gradi. </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/IT_VC_CTI_USQO570425A_b5855380-28a2-11ec-b6f0-0a9c8934df2b_20211010015816737.jpg"/>
   </programme>
+  <programme channel="ITBA2200010O1" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Si Live 24</title>
+    <desc>L'appuntamento con il telegiornale di Sportitalia. All'interno ampia rassegna stampa nazionale e internazionale. Servizi, focus e approfondimenti sui temi di giornata e sul mondo dello sport a 360 gradi. </desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/32/IT_VC_CTI_USQO570425A_b5867bce-28a2-11ec-b6f0-0a9c8934df2b_20211010015821871.jpg"/>
+  </programme>
   <channel id="ITBA1500002UB">
     <display-name>HorizonSports</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/ITBA1500002UB_20200923T100305.png"/>
@@ -485,11 +485,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/49/ITAJ4500025ES_20201029T004442.png"/>
   </channel>
-  <programme channel="ITAJ4500025ES" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Surfing for Peace:Surfing for Peace</title>
-    <desc>The Paskowitz family, the Rothmans, and Kelly Slater go to Israel to surf and raise awareness.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/00/IT_VC_CTI_USQU352137A_IT-586-ITAJ4500025ES-15038238_20211011183312520.jpg"/>
-  </programme>
   <programme channel="ITAJ4500025ES" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Santa Cruz Euro Skate Tour 2:Santa Cruz Euro Skate Tour 2</title>
     <desc>The pros of the Santa Cruz team return to skate the streets of Europe.</desc>
@@ -559,6 +554,11 @@
     <title>Perfect Chapter 2016:Perfect Chapter 2016</title>
     <desc>Get to know firsthand the names of the chosen surfers that will be performing in the spectacular conditions that Praia do Norte, in Nazaré has to offer, in the 2016 edition of the Perfect Chapter.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/98/IT_VC_CTI_USQU352137A_IT-586-ITAJ4500025ES-15038252_20211011183421545.jpg"/>
+  </programme>
+  <programme channel="ITAJ4500025ES" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Home Bros:Home Bros</title>
+    <desc>When amidst the covid-19 pandemic, Australian videomaker, Tai Jennison, and his home bros found themselves stuck in one of the most surfable stretches of coastline in the world, they decided to make t</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/29/IT_VC_CTI_USQU352137A_IT-586-ITAJ4500025ES-15038253_20211011183421670.jpg"/>
   </programme>
   <channel id="ITBA3300022EA">
     <display-name>SportOutdoor.tv</display-name>
@@ -634,20 +634,20 @@
     <desc>Val di Pejo</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/IT_VC_CTI_USQU352137A_IT-614-ITBA3300022EA-14489244_20211011183156701.jpg"/>
   </programme>
-  <programme channel="ITBA3300022EA" start="20211012050048 +0000" stop="20211012052935 +0000">
+  <programme channel="ITBA3300022EA" start="20211012050048 +0000" stop="20211012052936 +0000">
     <title>Nord Europa e Mar Baltico</title>
     <desc>La puntata 8 di MONDO CROCIERA ci porta nel Nord Europa e Mar Baltico con Msc Crociere, il country manager Leonardo Massa fa il punto sulla stagione, l’hotel manager Castellano ci...</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/60/IT_VC_CTI_USQU352137A_IT-614-ITBA3300022EA-12977949_20211011183225075.jpg"/>
+  </programme>
+  <programme channel="ITBA3300022EA" start="20211012052936 +0000" stop="20211012062258 +0000">
+    <title>Turismo montano in Trentino</title>
+    <desc>La puntata numero 8 del 2020 del Talk Show S4, dedicato al turismo e agli sport all'aria aperta, vede come ospiti in studio: LORENA CHIARA (MONTEROSA) ALESSANDRO MOTTINELLI...</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/43/IT_VC_CTI_USQU352137A_IT-614-ITBA3300022EA-3523224_20211011183406244.jpg"/>
   </programme>
   <channel id="ITBB2000001QB">
     <display-name>Italian Fishing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/ITBB2000001QB_20210714T000818.png"/>
   </channel>
-  <programme channel="ITBB2000001QB" start="20211011203131 +0000" stop="20211011212951 +0000">
-    <title>Tubertini - Bolognese sul Molo Novo V2</title>
-    <desc>Ci troviamo a Livorno sul celebre molo Novo, per una sessione a bolognese tutta particolare per testare le novità Tubertini. Scopriamo insieme a Marco Volpi e Nico, il suo piccolo, grande aiutante, quali catture ci riserva questo particolarissimo spot.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/35/IT_VC_CTI_USQU352137A_IT-861-ITBB2000001QB-12987891_20211011183320441.jpg"/>
-  </programme>
   <programme channel="ITBB2000001QB" start="20211011212951 +0000" stop="20211011215816 +0000">
     <title>Herakles - I bass del Jumbo Lake</title>
     <desc>Herakles ci porta nelle Marche, presso il Jumbo Lake, alla ricerca di bass.</desc>
@@ -754,6 +754,11 @@ Conosceremo anche  il territorio circostante le acque in gestione FIPSAS, la lor
     <desc>-</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/IT_VC_CTI_USQU352137A_IT-861-ITBB2000001QB-14673433_20211011183214365.jpg"/>
   </programme>
+  <programme channel="ITBB2000001QB" start="20211012052841 +0000" stop="20211012060439 +0000">
+    <title>Tubertini - Roubaisienne nel fiume Po</title>
+    <desc>Tubertini, questa volta, ci porta a pesca sulle rive del fiume Po con una tecnica particolare per questa acque: la roubasienne!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/02/IT_VC_CTI_USQU352137A_IT-861-ITBB2000001QB-11889347_20211011183530845.jpg"/>
+  </programme>
   <channel id="ITBA330004446">
     <display-name>Humanity Documentari</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/98/ITBA330004446_20210908T010339.png"/>
@@ -787,16 +792,6 @@ Conosceremo anche  il territorio circostante le acque in gestione FIPSAS, la lor
     <display-name>Yamato Animation</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/ITBA1400007MX_20201208T050611.png"/>
   </channel>
-  <programme channel="ITBA1400007MX" start="20211011205837 +0000" stop="20211011212611 +0000">
-    <title>Inuyashiki l'ultimo eroe Ep. 6 Gente di 2chan</title>
-    <desc>Shishigami è scappato dagli agenti, ma è ricercato. Si rifugia da Watanabe, una compagna di classe che prova sentimenti per lui. Intanto, Inuyashiki impara ad utilizzare i suoi poteri con l’aiuto di Ando.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/47/IT_VC_CTI_USQU352137A_IT-591-ITBA1400007MX-14529475_20211011183142676.jpg"/>
-  </programme>
-  <programme channel="ITBA1400007MX" start="20211011212611 +0000" stop="20211011213238 +0000">
-    <title>Catman Ep. 14 Catman awakes </title>
-    <desc>Lunatico, eogista, strafottente. In una parola...semplicemente CATMAN! Sempre a caccia di risposte, sempre a caccia di guai...</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/68/IT_VC_CTI_USQU352137A_IT-591-ITBA1400007MX-10559063_20211011183354595.jpg"/>
-  </programme>
   <programme channel="ITBA1400007MX" start="20211011213238 +0000" stop="20211011220019 +0000">
     <title>Assassination classroom S2 Ep.10 L'ora della festa dell'istituto</title>
     <desc>La festa dell'Istituto Kunugigaoka è una vera e propria competizione e Gakushu vuole a tutti i costi schiacciare la sezione E anche questa volta!</desc>
@@ -902,15 +897,20 @@ Conosceremo anche  il territorio circostante le acque in gestione FIPSAS, la lor
     <desc>I membri del club di scherma sono convinti che la vecchietta della pensione sia Gigi travestito. Guidati dal loro professore, i ragazzi del club useranno ogni mezzo per smascherarlo, fino a spiare in un bagno dove però si trova anche la sorella del professore.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/23/IT_VC_CTI_USQU352137A_IT-591-ITBA1400007MX-14979084_20211011183318928.jpg"/>
   </programme>
+  <programme channel="ITBA1400007MX" start="20211012052734 +0000" stop="20211012053043 +0000">
+    <title>Catman Ep. 02 CATMAN &amp; A COIN</title>
+    <desc>Lunatico, eogista, strafottente. In una parola...semplicemente CATMAN! Sempre a caccia di risposte, sempre a caccia di guai...</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/44/IT_VC_CTI_USQU352137A_IT-591-ITBA1400007MX-10427819_20211011183239805.jpg"/>
+  </programme>
+  <programme channel="ITBA1400007MX" start="20211012053043 +0000" stop="20211012055833 +0000">
+    <title>Cells at work S2 Ep. 02 Immunità acquisita</title>
+    <desc>Come sarebbe l’interno del nostro corpo se tutte le cellule avessero sembianze umane e svolgessero una vera e propria professione? E se tutti i virus e batteri che lo minacciano avessero l’aspetto di “villain da shonen” e ingaggiassero battaglie all’ultimo sangue con le nostre difese immunitarie?</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/50/IT_VC_CTI_USQU352137A_IT-591-ITBA1400007MX-11524126_20211011183523610.jpg"/>
+  </programme>
   <channel id="ITBA1400001QN">
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/48/ITBA1400001QN_20210714T000900.png"/>
   </channel>
-  <programme channel="ITBA1400001QN" start="20211011205953 +0000" stop="20211011212953 +0000">
-    <title>Best Fails of the Month | Ep. 3.8</title>
-    <desc>The best of the worst for August 2020.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/46/IT_VC_CTI_USQU352137A_IT-151-ITBA1400001QN-3180261_20211011183200957.jpg"/>
-  </programme>
   <programme channel="ITBA1400001QN" start="20211011212953 +0000" stop="20211011215953 +0000">
     <title>Best Fails of the Month | Ep. 3.9</title>
     <desc>The best of the worst for September 2020.</desc>
@@ -993,20 +993,20 @@ The best of the worst for June 2020.</desc>
     <desc>Please don't try this at home.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/49/IT_VC_CTI_USQU352137A_IT-151-ITBA1400001QN-44919_20211011183455624.jpg"/>
   </programme>
-  <programme channel="ITBA1400001QN" start="20211012050001 +0000" stop="20211012053000 +0000">
+  <programme channel="ITBA1400001QN" start="20211012050001 +0000" stop="20211012053001 +0000">
     <title>FailArmy Now | Delicious Cinnamon</title>
     <desc>What do cinnamon vacuums, introverts and pants have in common? They're all in this episode of FAILARMY NOW.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/26/IT_VC_CTI_USQU352137A_IT-151-ITBA1400001QN-10970349_20211011183457471.jpg"/>
+  </programme>
+  <programme channel="ITBA1400001QN" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>FailArmy Now | Vegan Dance Party</title>
+    <desc>What do a Canadian Superhero, a mountain-biker gang and janky furniture have in common? They're all in this episode of FAILARMY NOW.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/42/IT_VC_CTI_USQU352137A_IT-151-ITBA1400001QN-9481109_20211011183202397.jpg"/>
   </programme>
   <channel id="ITAJ4500016FM">
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/ITAJ4500016FM_20210414T024133.png"/>
   </channel>
-  <programme channel="ITAJ4500016FM" start="20211011210010 +0000" stop="20211011213010 +0000">
-    <title>Viral WIld | 1.4</title>
-    <desc>Witness the rough and tumble animal world in the raw. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/01/IT_VC_CTI_USQU352137A_IT-152-ITAJ4500016FM-850185_20211011183316773.jpg"/>
-  </programme>
   <programme channel="ITAJ4500016FM" start="20211011213010 +0000" stop="20211011220000 +0000">
     <title>Viral Wild | 2.8</title>
     <desc>The wild lures us in with its beauty and awe... and then pounces. </desc>
@@ -1092,6 +1092,11 @@ The best of the worst for June 2020.</desc>
     <desc>The cutest puppies. Nonstop.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/13/IT_VC_CTI_USQU352137A_IT-152-ITAJ4500016FM-75466_20211011183526011.jpg"/>
   </programme>
+  <programme channel="ITAJ4500016FM" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>Kitten Love | Ep. 1.2</title>
+    <desc>The cutest kittens. Nonstop.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/34/IT_VC_CTI_USQU352137A_IT-152-ITAJ4500016FM-89017_20211011183141547.jpg"/>
+  </programme>
   <channel id="ITAJ4500021M7">
     <display-name>Rakuten Stories</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/ITAJ4500021M7_20210923T011003.png"/>
@@ -1135,11 +1140,6 @@ The best of the worst for June 2020.</desc>
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/14/ITAJ4500022GD_20201208T050614.png"/>
   </channel>
-  <programme channel="ITAJ4500022GD" start="20211011210011 +0000" stop="20211011213011 +0000">
-    <title>Obsesh TV: Adventure Amplified | Ep. 1.9</title>
-    <desc>The holy grail of cliff jumping as told by filmmaker and cliff jumper Nick Coulter. Andrew Muse gets the river rapids challenge of a lifetime from pro kayaker Rafa Ortiz. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/IT_VC_CTI_USQU352137A_IT-386-ITAJ4500022GD-2051755_20211011183523156.jpg"/>
-  </programme>
   <programme channel="ITAJ4500022GD" start="20211011213011 +0000" stop="20211011220000 +0000">
     <title>Obsesh TV: Adventure Amplified | Ep. 1.10</title>
     <desc>We span the globe for an epic road trip and freestyle cliff jumping competition across the Pacific Northwest, followed by an aerial journey of the Maldives from Dimag Ozgum, aka VacationWolf. </desc>
@@ -1215,20 +1215,20 @@ The best of the worst for June 2020.</desc>
     <desc>Practice yields incredible results.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/09/IT_VC_CTI_USQU352137A_IT-386-ITAJ4500022GD-743185_20211011183429807.jpg"/>
   </programme>
-  <programme channel="ITAJ4500022GD" start="20211012050000 +0000" stop="20211012053000 +0000">
+  <programme channel="ITAJ4500022GD" start="20211012050000 +0000" stop="20211012053001 +0000">
     <title>Exhibition Awesome | Walk the Line</title>
     <desc>They aren't afraid to live their life on the edge.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/11/IT_VC_CTI_USQU352137A_IT-386-ITAJ4500022GD-735602_20211011183249946.jpg"/>
+  </programme>
+  <programme channel="ITAJ4500022GD" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>Exhibition Awesome | High Dive</title>
+    <desc>These stunts are making a big splash.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/10/IT_VC_CTI_USQU352137A_IT-386-ITAJ4500022GD-735617_20211011183142769.jpg"/>
   </programme>
   <channel id="ITBA1400008DV">
     <display-name>Cuore Ribelle</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/ITBA1400008DV_20210609T004924.png"/>
   </channel>
-  <programme channel="ITBA1400008DV" start="20211011203524 +0000" stop="20211011212703 +0000">
-    <title>Cuore Ribelle:S. 2 Ep. 112</title>
-    <desc>Miguel trova l'orologio di Antonio accanto al corpo di Donna Elvira e vuole consultare tutti gli orologiai della zona per scoprire a chi appartenga, ma Olmedo lo obbliga a consegnarglielo e a lasciar perdere il caso. Miguel decide allora di comunicare al Comando Superiore che Carranza e' ancora vivo e che Olmedo lo tiene nascosto in prigione. Sara decide pero' di non inviare il telegramma e di fare presto qualcosa per liberare Carranza. Intanto Olmedo racconta ad Antonio dell'orologio e gli dice che glielo restituira' solo se lui in cambio spaventera' Sara per convincerla a non scrivere piu' articoli contro di lui. Nel frattempo, arriva il vestito da sposa di Eugenia e Martina lo brucia di nascosto con il ferro da stiro e da' la colpa a Carmen, perche' gelosa del rapporto che quest'ultima ha con Eugenia. La ragazza pero' non le crede. Successivamente, Alvaro chiede ad Olmedo di aiutarlo a risolvere il problema delle rivolte dei contadini e Olmedo acconsente, a patto che lui gli faccia a sua volta un favore. Quando il capitano torna in caserma, Miguel e Morales lo informano che l'orologio e' stato rubato. Infine, arriva in paese Virtudes, una botanica. La donna si imbatte in Rafali'n che fa cadere dei sacchi pieni di terra che doveva studiare. Poi, si reca alla taverna, dove, dopo aver conosciuto Julieta decide di fermarsi per un po' di tempo ad Arazana. Prende quindi </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/83/IT_VC_CTI_USQU352137A_IT-629-ITBA1400008DV-13921085_20211011183524569.jpg"/>
-  </programme>
   <programme channel="ITBA1400008DV" start="20211011212703 +0000" stop="20211011221842 +0000">
     <title>Cuore Ribelle:S. 2 Ep. 113</title>
     <desc>Roberto e' felice perche' riuscira' a portare avanti il suo progetto di scioperare, ma Alvaro, per lo stesso motivo, minaccia i suoi lavoratori.Miguel non sa piu' come comportarsi con Olmedo, il quale tenta di far ricadere sulla Mano Nera la colpa della morte di Donna Elvira.Virtudes fa il primo passo con Pepe, e Sara chiede spiegazioni al governatore riguardo la morte di suo zio. una camera alla locanda della Maña.</desc>
@@ -1283,16 +1283,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Canale Europa</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/ITBA1400003WT_20210714T000859.png"/>
   </channel>
-  <programme channel="ITBA1400003WT" start="20211011204923 +0000" stop="20211011212056 +0000">
-    <title>Cook Academy - Puntata 18</title>
-    <desc>In compagnia della Chef Cristina Lunardi, volto noto della tv italiana vi presentiamo Cook Academy. In ogni puntata ospiti e personaggi della cucina e della aziende del settore.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/90/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-14941733_20211011183523422.jpg"/>
-  </programme>
-  <programme channel="ITBA1400003WT" start="20211011212056 +0000" stop="20211011213257 +0000">
-    <title>Car Influencer per un Giorno - Jaguar F-Type R, con Elena Giaveri e Adriano Gioria</title>
-    <desc>Jaguar F-Type è la protagonista della quinta puntata del 2021 di “Car Influencer per un Giorno”. Si tratta della versione R con motore 5.0 da 575 CVm 700 Nm di coppia massima, cambio automatico a 8 rapporti e 4 ruote motrici. A provare questo bolide con Elena Giaveri sarà Adriano Gioria, classe 1957 di Novara, grande appassionato di ciclismo, fotografia e motori.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/95/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-13131110_20211011183227375.jpg"/>
-  </programme>
   <programme channel="ITBA1400003WT" start="20211011213257 +0000" stop="20211011214147 +0000">
     <title>Car Influencer per un Giorno Suzuki Across, con Elena Giaveri e Matteo Ferrari</title>
     <desc>La terza puntata di Car Influencer per un Giorno vede come protagonista la nuova Suzuki Across, un SUV ibrido plug-in pensato per funzionare principalmente in modalità elettrica. Grazie all’utilizzo di tre motori e una batteria da 18,1 Kw/h riesce a percorrere in città fino a 98 Km con zero emissioni e ha una potenza combinata di 306 CV. Il fortunato tester al fianco di Elena Giaveri è Matteo Ferrari, 36enne della Franciacorta che si occupa di sicurezza sul lavoro e ovviamente grande appassionato di motori.</desc>
@@ -1388,10 +1378,15 @@ The best of the worst for June 2020.</desc>
     <desc>Un viaggio tra le meraviglie del nostro territorio, sia gastronomiche che culturali, insieme alla chef Cristina Lunardini, le ricette della zia Cri, la ormai mitica «zia Cri» di RAI1, e la giornalista professionista Cristina Zani.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/34/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-13471453_20211011183523125.jpg"/>
   </programme>
-  <programme channel="ITBA1400003WT" start="20211012050652 +0000" stop="20211012053143 +0000">
+  <programme channel="ITBA1400003WT" start="20211012050652 +0000" stop="20211012053144 +0000">
     <title>ChronoGP - S03:30 - Il GP di Russia | Hamilton l’uomo dei record | Sainz sul terzo gradino del podio</title>
     <desc>E sono 100! Domenica scorsa in Russia Lewis Hamilton ha raggiunto la tripla cifra e pazienza se il successo è arrivato accompagnato dalla solita dose di fortuna. L’inglese è stato bravo a cogliere l’opportunità sottoforma di pioggia, portandosi a casa una coppa che sembrava, fino a pochi giri dal termine, saldamente nelle mani del connazionale Norris. Al comando alla prima curva Sainz ha portato sul podio una Ferrari consistente che a Sochi ha trovato le caratteristiche di pista perfette per competere ad alto livello.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/95/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-14938623_20211011183319259.jpg"/>
+  </programme>
+  <programme channel="ITBA1400003WT" start="20211012053144 +0000" stop="20211012055706 +0000">
+    <title>ChronoGP - S03:31 - Ferrari si prepara per la Turchia | Aston Martin in galleria del vento</title>
+    <desc>Al GP di Turchia Ferrari raddoppia. Anche la monoposto di Sainz sarà equipaggiata dal nuovo motore 065/6. La scelta maturata da Binotto arriva dopo i riferimenti positivi di Leclerc a Sochi. A distanza di un mese, la decisione Mercedes di sbloccare il motore per disporre di più potenza ha causato problemi di affidabilità. Hamilton a Zandwort e Bottas a Monza e poi a Sochi hanno anticipato la sostituzione del PU e ad oggi il quadro motori del Team Mercedes è preoccupante.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/36/IT_VC_CTI_USQU352137A_IT-789-ITBA1400003WT-14938633_20211011183419822.jpg"/>
   </programme>
   <channel id="ITBA14000026G">
     <display-name>Televisa Telenovelas</display-name>
@@ -1451,11 +1446,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Alma TV Travel</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/ITBB20000035L_20210714T000906.png"/>
   </channel>
-  <programme channel="ITBB20000035L" start="20211011210756 +0000" stop="20211011213451 +0000">
-    <title>La gola in Viaggio EP5</title>
-    <desc>Un viaggio alla scoperta della bellezza del territorio italiano e alla bontà dei suoi prodotti di eccellenza. Puntata 5</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/74/IT_VC_CTI_USQU352137A_IT-896-ITBB20000035L-13691710_20211011183407995.jpg"/>
-  </programme>
   <programme channel="ITBB20000035L" start="20211011213451 +0000" stop="20211011214851 +0000">
     <title>Il Bel Paese S2 EP9</title>
     <desc>Una preziosa raccolta di destinazioni italiane, consuete e inconsuete, narrate con la tecnica aerea del drone. Puntata 9</desc>
@@ -1615,15 +1605,15 @@ The best of the worst for June 2020.</desc>
     <desc>Il pianeta Uranio soffre un terremoto. Il pianeta è attaccato da Antiuranium. Un buco nero è nato dall'esplosione di una stella. Questa forza ha spinto Uranio fuori dalla sua orbita. I Soldati dell'Uranio guardano il cielo che è pieno di Superjet di Antiuranio che sparano raggi. Vengono attaccati di nuovamente.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/93/IT_VC_CTI_USQU352137A_IT-609-ITBA3300020W1-3515484_20211011183154461.jpg"/>
   </programme>
+  <programme channel="ITBA3300020W1" start="20211012053146 +0000" stop="20211012054546 +0000">
+    <title>Atomicron S1 EP7 - L’ordine Del Caos</title>
+    <desc>I comandanti sono preoccupati da Hydrostar che si collega a loro. Tutti insieme devono creare un sistema di protezione, il nemico è molto forte. Quattro ammiraglie, Sub Zero, Ferrox, Toxin e Xen, compongono un poliedro attorno al pianeta Uranium per proteggerlo. Il Comandante Super Antisostanza ordina di nuovo di attaccare Galaticor.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/43/IT_VC_CTI_USQU352137A_IT-609-ITBA3300020W1-3515509_20211011183423125.jpg"/>
+  </programme>
   <channel id="ITBA3300019FA">
     <display-name>AMUSE ANIMATION</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/ITBA3300019FA_20210414T024026.png"/>
   </channel>
-  <programme channel="ITBA3300019FA" start="20211011210528 +0000" stop="20211011213014 +0000">
-    <title>Monster Town:Da sola in mezzo al mare / Intrappolato in una grotta! / Le Olimpiadi di Monster Town / La coppa è sparita</title>
-    <desc>Maverick è un Super Monster Truck. Tutti gli abitanti di Monster City possono contare su di lui. Tuttavia, non riesce quasi mai a risolvere un problema da solo. Fortunatamente, i suoi amici sono sempre disposti ad aiutarlo!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/45/IT_VC_CTI_USQU352137A_IT-650-ITBA3300019FA-11131035_20211011183525464.jpg"/>
-  </programme>
   <programme channel="ITBA3300019FA" start="20211011213014 +0000" stop="20211011215507 +0000">
     <title>Monster Town:La Crazy Race! / Bloccato sulla sponda del fiume / Lo skittle bowl / La Foresta Infestata</title>
     <desc>Maverick è un Super Monster Truck. Tutti gli abitanti di Monster City possono contare su di lui. Tuttavia, non riesce quasi mai a risolvere un problema da solo. Fortunatamente, i suoi amici sono sempre disposti ad aiutarlo!</desc>
@@ -1763,16 +1753,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Planeta Junior</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/79/ITAJ45000261B_20210609T005127.png"/>
   </channel>
-  <programme channel="ITAJ45000261B" start="20211011210218 +0000" stop="20211011212532 +0000">
-    <title>I Misteri Di Mosley S1 :: Ep.09 L'importante è vincere</title>
-    <desc>La Squadra Di Calcio Guidata Dall’allenatore Konkout, Sta Perdendo L’ennesima Partita E Mo Racconta Di Quando Il Loro Coach (Questo È Tra L’altro Il Nome Di Battesimo Di Konkout) È Stato Assunto Dalla Misteriosa Squadra “El Muerto De Madrid”. Durante Questa Esperienza Coach Capisce Che L’importante Non È Vincere Ma Essere Onesti, A Dispetto Di Quanto Lo Spirito Del Padre Sta Provando Ad Insegnarlgli. El Muerto De Madrid Vince Perché È Sleale E Soprattutto Perché I Giocatori Sono Tutti Morti Da Sessantanni.. La Vicenda È In Realtà Un Sogno Di Konkout Che Ha Un Misterioso Sfondo Di Verità...</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/53/IT_VC_CTI_USQU352137A_IT-856-ITAJ45000261B-12549951_20211011183239805.jpg"/>
-  </programme>
-  <programme channel="ITAJ45000261B" start="20211011212532 +0000" stop="20211011213015 +0000">
-    <title>Jakob :: Ep.04 | Ep.05 | Ep.06</title>
-    <desc>Jakob Eps 04,.05 e 06</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/80/IT_VC_CTI_USQU352137A_IT-856-ITAJ45000261B-3366896_20211011183233754.jpg"/>
-  </programme>
   <programme channel="ITAJ45000261B" start="20211011213015 +0000" stop="20211011215322 +0000">
     <title>Professor Young :: Ep.23 Il piccolo genio</title>
     <desc>Adam ha un nuovo studente, un genio di otto anni, e cerca di non farsi sopraffare dalla gelosia.</desc>
@@ -1943,15 +1923,20 @@ The best of the worst for June 2020.</desc>
     <desc>Quando Linguini fallisce nel realizzare l’impasto per i noodles, decide di andarsene dal Goh Rong per un po’. Grazie a Pucca e ai suoi amici però, capirà il valore del lavoro di squadra e deciderà di tornare.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/38/IT_VC_CTI_USQU352137A_IT-856-ITAJ45000261B-12566981_20211011183228111.jpg"/>
   </programme>
+  <programme channel="ITAJ45000261B" start="20211012052452 +0000" stop="20211012053455 +0000">
+    <title>Pucca 3D :: Ep.38 La sprarizione del Goh-Rong - Prima parte</title>
+    <desc>Il Goh Rong scompare nel nulla per colpa di un certo Edward, mandato da Dong King. Pucca e i suoi amici si mettono a cercarlo.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/25/IT_VC_CTI_USQU352137A_IT-856-ITAJ45000261B-12567016_20211011183532017.jpg"/>
+  </programme>
+  <programme channel="ITAJ45000261B" start="20211012053455 +0000" stop="20211012055844 +0000">
+    <title>Little Charmers S2 :: Ep.26 Maghette scintillanti / Baby maghetti</title>
+    <desc>Hazel lancia un incantesimo perché la notte arrivi prima e, con essa, il pigiama party. / Hazel trasforma accidentalmente i genitori in bambini.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/29/IT_VC_CTI_USQU352137A_IT-856-ITAJ45000261B-12539708_20211011183226187.jpg"/>
+  </programme>
   <channel id="ITBA1400010A5">
     <display-name>Teletubbies</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/10/ITBA1400010A5_20210113T004321.png"/>
   </channel>
-  <programme channel="ITBA1400010A5" start="20211011210204 +0000" stop="20211011213204 +0000">
-    <title>Fungie il delfino</title>
-    <desc>I Teletubbies amano saltare, ma si fermano per vedere Andy Brown e alcuni bambini fanno una gita in barca per vedere Funghi il delfino. I Teletubbies sono a Teletubbyland. Quando si incontrano, si salutano, assicurandosi che nessuno si perda.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/59/IT_VC_CTI_USQU352137A_IT-668-ITBA1400010A5-11967609_20211011183458207.jpg"/>
-  </programme>
   <programme channel="ITBA1400010A5" start="20211011213204 +0000" stop="20211011220000 +0000">
     <title>Ginnastica</title>
     <desc>I Teletubbies si divertono a strisciare intorno alla colonna di Home Hill prima di guardare alcuni bambini che fanno ginnastica. Laa-Laa gioca a palla in casa con gli altri Teletubbies, ma il Noo-Noo prende la palla per primo.</desc>
@@ -2032,20 +2017,15 @@ The best of the worst for June 2020.</desc>
     <desc>I Teletubbies stanno facendo il loro Tubby Toast quando una voce strillante gli porta un messaggio. I Teletubbies guardano Alex Pascall e alcuni bambini andare alla ricerca di uccelli nel parco.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/83/IT_VC_CTI_USQU352137A_IT-668-ITBA1400010A5-9775253_20211011183253460.jpg"/>
   </programme>
+  <programme channel="ITBA1400010A5" start="20211012052955 +0000" stop="20211012055956 +0000">
+    <title>Uccellini urbani</title>
+    <desc>Andy Brown e alcuni bambini danno da mangiare ad alcuni uccelli e li guardano giocare sul tavolo degli uccelli. A Teletubbyland, è tempo per Tubby Custard, ma Dipsy rovescia il suo su un Tubby Seat. Nessuno vuole sedersi al Tubby Custard, quindi Noo-Noo mette in ordine.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/00/IT_VC_CTI_USQU352137A_IT-668-ITBA1400010A5-11974208_20211011183300371.jpg"/>
+  </programme>
   <channel id="ITBA1400006JR">
     <display-name>duckTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/ITBA1400006JR_20210113T004323.png"/>
   </channel>
-  <programme channel="ITBA1400006JR" start="20211011211141 +0000" stop="20211011212142 +0000">
-    <title>Imparare con ducktv</title>
-    <desc>Spettacoli ducktv con un forte aspetto educativo. Gli episodi di questa categoria insegnano i primi concetti, la musica e l'arte, stimolano l'immaginazione e la creatività e sviluppano le capacità cognitive.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/51/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448306_20211011183152590.jpg"/>
-  </programme>
-  <programme channel="ITBA1400006JR" start="20211011212142 +0000" stop="20211011213143 +0000">
-    <title>Stagioni con ducktv</title>
-    <desc>Speciali episodi stagionali delle diverse serie che promuovono le attività stagionali, rafforzano l'identificazione delle caratteristiche stagionali e insegnano i cicli della natura.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448309_20211011183516927.jpg"/>
-  </programme>
   <programme channel="ITBA1400006JR" start="20211011213143 +0000" stop="20211011214143 +0000">
     <title>Imparare con ducktv</title>
     <desc>Spettacoli ducktv con un forte aspetto educativo. Gli episodi di questa categoria insegnano i primi concetti, la musica e l'arte, stimolano l'immaginazione e la creatività e sviluppano le capacità cognitive.</desc>
@@ -2276,10 +2256,20 @@ The best of the worst for June 2020.</desc>
     <desc>Le mostre ducktv più popolari, che rappresentano diversi valori educativi. Solo per citarne alcuni, la serie Mimo &amp; Bobo sviluppa le abilità sociali, Squadra dei Pompieri promuove la risoluzione dei problemi, mentre Modellare promuove l'identificazione di forme e colori.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/62/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448303_20211011183312364.jpg"/>
   </programme>
-  <programme channel="ITBA1400006JR" start="20211012051024 +0000" stop="20211012052024 +0000">
+  <programme channel="ITBA1400006JR" start="20211012051024 +0000" stop="20211012052025 +0000">
     <title>Imparare con ducktv</title>
     <desc>Spettacoli ducktv con un forte aspetto educativo. Gli episodi di questa categoria insegnano i primi concetti, la musica e l'arte, stimolano l'immaginazione e la creatività e sviluppano le capacità cognitive.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/51/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448306_20211011183152590.jpg"/>
+  </programme>
+  <programme channel="ITBA1400006JR" start="20211012052025 +0000" stop="20211012053026 +0000">
+    <title>Stagioni con ducktv</title>
+    <desc>Speciali episodi stagionali delle diverse serie che promuovono le attività stagionali, rafforzano l'identificazione delle caratteristiche stagionali e insegnano i cicli della natura.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448309_20211011183516927.jpg"/>
+  </programme>
+  <programme channel="ITBA1400006JR" start="20211012053026 +0000" stop="20211012054026 +0000">
+    <title>ducktv preferiti</title>
+    <desc>Le mostre ducktv più popolari, che rappresentano diversi valori educativi. Solo per citarne alcuni, la serie Mimo &amp; Bobo sviluppa le abilità sociali, Squadra dei Pompieri promuove la risoluzione dei problemi, mentre Modellare promuove l'identificazione di forme e colori.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/62/IT_VC_CTI_USQU352137A_IT-571-ITBA1400006JR-3448303_20211011183312364.jpg"/>
   </programme>
   <channel id="ITBA3300021QD">
     <display-name>Brindiamo!</display-name>
@@ -2365,6 +2355,11 @@ The best of the worst for June 2020.</desc>
     <desc>Ornella Fado visita Washington DC e va a scoprire un ristorante proprio a due passi dalla Casa Bianca,  "Luigino". Il proprietario e chef è Carmine Marzano,  prepara delle ricette tipiche piemontesi. Ospite della trasmissione la bellissima Adrianna Sgarlata Miss Virginia 2006. (2006)</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/05/IT_VC_CTI_USQU352137A_IT-640-ITBA3300021QD-3789064_20211011183317822.jpg"/>
   </programme>
+  <programme channel="ITBA3300021QD" start="20211012053045 +0000" stop="20211012060545 +0000">
+    <title>Brindiamo! "Amo" Ristorante</title>
+    <desc>Ornella Fado visita "Amo" ristorante, che si trova nel museo Amo di Verona. Con lo chef Vincenzo Buonocore, Ornella prepara alcune ricette fuori menù, e insieme al sommelier Niccolò Petrilli, scelgono il vino perfetto per ogni piatto.  Visita alcune delle cantine più interessanti del territorio ed intervista il vice sindaco della città di Verona Dott. Stefano Casali. (2014)</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/38/IT_VC_CTI_USQU352137A_IT-640-ITBA3300021QD-3765114_20211011183355536.jpg"/>
+  </programme>
   <channel id="ITAJ4500017PG">
     <display-name>Fashion TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/ITAJ4500017PG_20201029T004542.png"/>
@@ -2388,11 +2383,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Donna TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/ITBB2000004QF_20210714T000907.png"/>
   </channel>
-  <programme channel="ITBB2000004QF" start="20211011210139 +0000" stop="20211011212940 +0000">
-    <title>Andrea Celeste EP80</title>
-    <desc>Episodio 80 - Andrea Celeste rimane orfana e dopo che la sua madrina è morta finisce in orfanotrofio. Prima di morire la madrina le confessa che la madre è ancora viva. Celeste è più che decisa a ritrovarla.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/54/IT_VC_CTI_USQU352137A_IT-895-ITBB2000004QF-13650587_20211011183324100.jpg"/>
-  </programme>
   <programme channel="ITBB2000004QF" start="20211011212940 +0000" stop="20211011220009 +0000">
     <title>Donna Pratica EP45</title>
     <desc>Episodio 45 - Curiosità, consigli utili e affascinanti esperienze di vita. Un programma per le donne fatto dalle donne.</desc>
@@ -2472,11 +2462,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Alma TV Food</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/33/ITBB2000002SV_20210714T000904.png"/>
   </channel>
-  <programme channel="ITBB2000002SV" start="20211011205825 +0000" stop="20211011212656 +0000">
-    <title>Codice Rugiati S2 EP16</title>
-    <desc>Programma di Cucina con Simone Rugiati Puntata 16 - Stagione 2</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/69/IT_VC_CTI_USQU352137A_IT-897-ITBB2000002SV-13770600_20211011183529854.jpg"/>
-  </programme>
   <programme channel="ITBB2000002SV" start="20211011212656 +0000" stop="20211011215424 +0000">
     <title>Pillole di Sapori EP21</title>
     <desc>Puntata 21 - Programma di Cucina</desc>
@@ -2571,11 +2556,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Museum TV Free</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/ITBA3300040O8_20210811T021919.png"/>
   </channel>
-  <programme channel="ITBA3300040O8" start="20211011211641 +0000" stop="20211011213139 +0000">
-    <title>Private Tour  S1 E8 Japan japanism, inspired objects</title>
-    <desc>Private tour takes you to discover the exhibition "Japan-japanism, inspired objects, 1867-2018" at the decorative arts museum. Japan began to be known around the 1850s and its art was quickly recognized. In this exhibition you will be able to observe Japanese objects, but also objects of Japanese influence which testify to the relations between France and Japan.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/29/IT_VC_CTI_USQO570425A_fd5f8741-2586-11ec-a40b-0a9c8934df2b_20211005052019172.jpg"/>
-  </programme>
   <programme channel="ITBA3300040O8" start="20211011213139 +0000" stop="20211011222652 +0000">
     <title>Photo Contest E4 Old Lyon</title>
     <desc>Today, we invite you to Lyon. The two candidates of the day, Christophe Boulair and Julien Arnaud, will have one hour to compete on the theme of Old Lyon. They will have to walk around the old town in search of the best spot to take the most beautiful picture as possible.</desc>
@@ -2660,6 +2640,11 @@ The best of the worst for June 2020.</desc>
     <title>Secret treasures S1 E1 Secret Treasures: The National Assembly</title>
     <desc>Secret treasures takes you on a journey to discover the unsuspected secrets and treasures of the National Assembly in France. Some of the most delicate works are kept in the greatest secrecy. But this place, which is the temple of the French democracy, opens its doors to us exceptionally today. We will make you discover this emblematic universe, more known for its political episodes than for the treasures that it shelters.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/66/IT_VC_CTI_USQO570425A_a55d3562-266b-11ec-a34b-0a9c8934df2b_20211006062641524.jpg"/>
+  </programme>
+  <programme channel="ITBA3300040O8" start="20211012052549 +0000" stop="20211012055409 +0000">
+    <title>Sketchbook E19 The tree</title>
+    <desc>Harry, Raphael, Luca, Marine and Mush reveal their best drawing techniques</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/96/IT_VC_CTI_USQO570425A_a55e3475-266b-11ec-a34b-0a9c8934df2b_20211006062540288.jpg"/>
   </programme>
   <channel id="ITBA33000399U">
     <display-name>My Zen TV Free</display-name>
@@ -2761,11 +2746,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/ITBA22000037I_20210209T093440.png"/>
   </channel>
-  <programme channel="ITBA22000037I" start="20211011205900 +0000" stop="20211011213600 +0000">
-    <title>Carl Cox - Awakenings Festival</title>
-    <desc>In questa registrazione dei 30 minuti finali del set di Carl Cox all’evento Awakenings 2018 ad Amsterdam, il DJ-superstar britannico dimostra in modo chiaro di avere tutte le carte in regola. Al centro di un palcoscenico architettonicamente suggestivo, con fumo e luci in perfetto sincro, Cox colpisce la folla con una raffica di stomp techno.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/34/IT_VC_CTI_USQO570425A_c7f0bbbb-1cc3-11ec-a57a-0a9c8934df2b_20210923233055593.jpg"/>
-  </programme>
   <programme channel="ITBA22000037I" start="20211011213600 +0000" stop="20211012000300 +0000">
     <title>Bambounou - Live at Nuits Sonores</title>
     <desc>Di origine franco-maliano-polacca, Jeremy Guindo - dal suo vero nome - ha costruito un'identità forte, incisiva ed indipendente, influenzata dalla sua attrazione per la fantascienza e per l'astrofisica, senza mai dimenticare il suo obiettivo primario, la danza. È così che ha attirato l'attenzione di Modeselektor. Da allora si è esibito nei club e nei festival più popolari della scena techno, dal Berghain di Berlino al Nuits Sonores, dove lo ritroviamo in questa occasione.</desc>
@@ -2790,6 +2770,11 @@ The best of the worst for June 2020.</desc>
     <title>Gold Panda &amp; Anoushka Shankar</title>
     <desc>In questo episodio girato nel 2018 presso la Salle Wagram di Parigi, incontriamo Gold Panda, rivelazione della techno britannica (il suo vero nome è Derwin Schlecker), accanto ad Anoushka Shankar, una grande sitarista diversa da tutte le altre, che rivisita per l'occasione l'eredità di suo padre, il grande Ravi Shankar.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/41/IT_VC_CTI_USQO570425A_767f78db-225f-11ec-960e-0a9c8934df2b_20211001052136553.jpg"/>
+  </programme>
+  <programme channel="ITBA22000037I" start="20211012053700 +0000" stop="20211012063600 +0000">
+    <title>Yasmine Hamdan – Live in Paris</title>
+    <desc>Questo concerto parigino del 2014 segue l'uscita del suo album "Ya Nass" (Crammed Discs), ma anche l'uscita del film di Jim Jarmush, "Only Lovers Left Alive" in cui lei canta "Hal" interpretando se stessa.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/03/IT_VC_CTI_USQO570425A_a57b8cfc-1752-11ec-bf63-0a9c8934df2b_20210917051904786.jpg"/>
   </programme>
   <channel id="ITBA22000022U">
     <display-name>Qwest TV Classical</display-name>
@@ -2836,11 +2821,6 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <display-name>Qwest TV Jazz and Beyond</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/71/ITBA2200001BV_20210209T093436.png"/>
   </channel>
-  <programme channel="ITBA2200001BV" start="20211011195200 +0000" stop="20211011213300 +0000">
-    <title>Rhoda Scott Lady Quartet - Live</title>
-    <desc>Con Julie Saury alla batteria, Sophie Alour e Lisa Cat-Berro rispettivamente al sax tenore e contralto, Rhoda Scott sa come circondarsi e, ad essere onesti, è un vero piacere vedere finalmente una band tutta al femminile - dato che siamo abituati a vedere quasi sempre il contrario.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/36/IT_VC_CTI_USQO570425A_6e2a9600-1cc3-11ec-a57a-0a9c8934df2b_20210923232933782.jpg"/>
-  </programme>
   <programme channel="ITBA2200001BV" start="20211011213300 +0000" stop="20211011222600 +0000">
     <title>The Latin Beat</title>
     <desc>Fusione di ritmo, danza ed esecuzione: dal bagliore dei groove afro-cubani alla pura e vibrante gioia della samba e della salsa. Vivi la musica Latina da vicino attraverso documentari di artisti del calibro di Paco De Lucia, Chucho Valdes e Milton Nascimento spaziando dall’Avana a Copacabana.</desc>
@@ -2982,11 +2962,6 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/ITBB1900001O3_20210714T000935.png"/>
   </channel>
-  <programme channel="ITBB1900001O3" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>From The Studio - Jupiter 6: vintage techno classic</title>
-    <desc>Starsky will be your host/teacher for this From The Studio show. Discover the best electronic music gears and learn how to use them! In this episode : Jupiter 6: vintage techno classic</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/12/IT_VC_CTI_USQT620324A_ITBB1900001O3_7fe67c6dc9ff8799df61a065_20211011053045257.jpg"/>
-  </programme>
   <programme channel="ITBB1900001O3" start="20211011213000 +0000" stop="20211011214000 +0000">
     <title>Clubbing News</title>
     <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
@@ -3203,6 +3178,11 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <title>Uninvited - Marcelo Burlon</title>
     <desc>Un ritratto pubblico e privato di Marcelo Burlon una delle personalità più affascinanti e influenti del panorama della moda attuale</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/28/IT_VC_CTI_USQU352137A_IT-619-ITBA14000093A-5823123_20211011183230906.jpg"/>
+  </programme>
+  <programme channel="ITBA14000093A" start="20211012052200 +0000" stop="20211012063904 +0000">
+    <title>L'economia della felicità</title>
+    <desc>L'economia della felicità cui si riferisce il titolo si rifà al concetto di localizzazione economica. Secondo molti attivisti e studiosi intervistati nel documentario, la globalizzazione delle attività agricole, industriali, del terziario ha portato con sè non solo cambiamenti climatici inaspettati e ingestibili, ma anche disparità sociali, alienazione, stress e solitudine a livello umano. La soluzione che può traghettare i popoli verso una migliore qualità dell'esistenza passa proprio per la localizzazione che implica meno passaggi tra produttore e consumatore e ci restituisce il contatto profondo con le nostre origini.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/27/IT_VC_CTI_USQU352137A_IT-619-ITBA14000093A-5855741_20211011183256077.jpg"/>
   </programme>
   <channel id="ITBA2200004GK">
     <display-name>Sofy.tv</display-name>
@@ -3491,6 +3471,11 @@ Contemporánea de Cuba, creata nel 1959, esegue tre danze sacre al Teatro Nazion
     <title>Boom &amp; Reds - Stagione 1 - Episodi 85-90</title>
     <desc>Dall'episodio 85 a 90 I Reds sono delle piccole creature che vivono in comunità su un albero d’un mondo fantastico, e amano riunirsi per disegnare. In ogni episodio, l’orco Boom cercherà d’indovinare cosa stanno disegnando i Reds.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/75/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-10472003_20211011183521202.jpg"/>
+  </programme>
+  <programme channel="ITBA14000043B" start="20211012052146 +0000" stop="20211012054523 +0000">
+    <title>Van Dogh - Stagione 1 - Episodi 46-50</title>
+    <desc>Nuvola di acque di rana | Mela con Gnomi | Pallacanestro coniglietto | Polpo in macchina | Piano albero Con gli zaini addosso, Won, Pan e Kit, cavalcano il loro triciclo attraverso percorsi a molla con un sorriso sui loro volti mentre sanno che troveranno Van Dogh sulla loro strada. Questo geniale pittore, come ogni giorno, ha messo il suo cavalletto tra i girasoli.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/57/IT_VC_CTI_USQU352137A_IT-723-ITBA14000043B-13441768_20211011183252062.jpg"/>
   </programme>
   <channel id="ITAJ4500020HT">
     <display-name>Drama - Rakuten TV</display-name>

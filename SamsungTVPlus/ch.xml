@@ -3,11 +3,6 @@
     <display-name>Wilder Planet</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/CHBA3300028G3_20210714T000948.png"/>
   </channel>
-  <programme channel="CHBA3300028G3" start="20211011210919 +0000" stop="20211011212543 +0000">
-    <title>Smalltalk-Tagebücher: Änderungen</title>
-    <desc>Sie mögen klein sein, aber wirbellose Tiere sind Experten darin, sich auf und ab zu bewegen. Wusstest du schon dass die amerikanische Kakerlake das schnellste Tier auf sechs Beinen ist oder dass eine Libelle Geschwindigkeiten erreichen kann über 30mph?</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/27/CH_VC_CTI_USQO570425A_2a2ab8b7-167b-11ec-9997-0a9c8934df2b_20210916010852076.jpg"/>
-  </programme>
   <programme channel="CHBA3300028G3" start="20211011212543 +0000" stop="20211011221428 +0000">
     <title>Mitten im wilden Deutschland : Folge 1 </title>
     <desc>Der Tierfilmer Andreas Kieling wandert entlang der ehemaligen Grenze zwischen Ost- und Westdeutschland, heute eine grüne Kette von Naturschutzgebieten. Hier entdeckt er die Schätze der Natur und ein Volk mit einer reichen Geschichte.</desc>
@@ -63,6 +58,11 @@
     <desc>Diese Serie feiert Lateinamerikas dramatischste Regionen, von den Hohen Anden zum dampfenden Amazonas, von den windigen Steppen Patagoniens zu den Sümpfen Venezuelas – atemberaubende Schönheit und eine aufregende, vielfältige Tierwelt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/16/CH_VC_CTI_USQO570425A_38173d6a-282e-11ec-b4f3-0a9c8934df2b_20211008123131501.jpg"/>
   </programme>
+  <programme channel="CHBA3300028G3" start="20211012053727 +0000" stop="20211012062607 +0000">
+    <title>Vertraute Feinde</title>
+    <desc>An der Westgrenze des Chobe-Nationalparks in Botsuana hat die Zahl der Löwen zugenommen. Aufgrund ihrer zahlenmäßigen Stärke trauen sie sich inzwischen sogar, Elefanten anzugreifen. Die Dokumentation erzählt die Geschichte der Serondela-Elefantenherde und ihrer gefährlichen Gegner, der Löwen des Savuti-Rudels.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/09/CH_VC_CTI_USQO570425A_2aa502d8-167b-11ec-9997-0a9c8934df2b_20210916010857648.jpg"/>
+  </programme>
   <channel id="CHAJ35000037Z">
     <display-name>Komödien - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/26/CHAJ35000037Z_20210923T010911.png"/>
@@ -87,10 +87,15 @@
     <desc>In dieser erfrischenden Komödie geht es um verschiedene Paare in unterschiedlichsten Lebensphasen, die nach der Geburt ihres Nachwuchses versuchen ihr Sexleben wieder in alte oder manchmal auch neue Bahnen zu lenken. Mit dabei ist auch das lesbisch Paar Larissa und Jody, die im zweiten Jahr der Elternschaft mit den Gegensätzen ihrer Lebensweise und der Rolle des Elternseins kämpfen müssen...</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/58/CH_VC_CTI_USQU352137A_CH-436-CHAJ35000037Z-14658875_20211011164656867.jpg"/>
   </programme>
-  <programme channel="CHAJ35000037Z" start="20211012035015 +0000" stop="20211012053631 +0000">
+  <programme channel="CHAJ35000037Z" start="20211012035015 +0000" stop="20211012053632 +0000">
     <title>Ein Date mit Miss Fortune</title>
     <desc>Jack wird in einem Café von der wunderschönen Portugiesin Maria aus einer bizarren Situation mit seiner Ex-Freundin befreit. Nach dem spontanen ersten Date verstehen die beiden sich großartig und für Jack ist klar: Sie ist die Richtige. Doch die abergläubische Maria und ihre portugiesische Familie machen es ihm nicht leicht...</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/74/CH_VC_CTI_USQU352137A_CH-436-CHAJ35000037Z-13851068_20211011164637452.jpg"/>
+  </programme>
+  <programme channel="CHAJ35000037Z" start="20211012053632 +0000" stop="20211012071438 +0000">
+    <title>Air Bud: Champion auf 4 Pfoten</title>
+    <desc>Buddy hat einen neuen Trick unter seiner Pfote – American Football. Als Buddys Besitzer plötzlich der neue Quarterback seiner Schule wird, fällt Buddy auch mit in den Huddle! Die dynamische Paarung von Buddy und Josh helfen mit dabei, die Timberwolves in die Staatsmeisterschaft zu tragen</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/40/CH_VC_CTI_USQU352137A_CH-436-CHAJ35000037Z-2585929_20211011164737593.jpg"/>
   </programme>
   <channel id="CHBA100000532">
     <display-name>Euronews Live</display-name>
@@ -145,11 +150,6 @@
     <display-name>Mystery Krimi</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/50/CHBB310000196_20210908T010421.png"/>
   </channel>
-  <programme channel="CHBB310000196" start="20211011203149 +0000" stop="20211011212209 +0000">
-    <title>Medium: Traumwandlerin</title>
-    <desc>Hellseherin Allison Dubois schlafwandelt. Dabei hält sie Autofahrer an und bittet sie um Geld. Zuvor hatte sie versucht, 15 Millionen Dollar abzuheben. Da verdächtigt Lauren Ballou ihren Exmann, den gemeinsamen Sohn Justin entführt zu haben. Im Schlaf führt Allison ihren Mann Joe zu einem Auto, das von der Straße abgekommen ist. Darin finden sie Laurens Exmann und 15 Millionen Dollar. Aber wo ist Justin?</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/95/CH_VC_CTI_USQT620324A_CHBB310000196_MEDI0204_20211011183221373.jpg"/>
-  </programme>
   <programme channel="CHBB310000196" start="20211011212209 +0000" stop="20211011221140 +0000">
     <title>Republic of Doyle: Heiße Ware</title>
     <desc>Eine Firmeninhaberin tritt an die Doyles heran und bittet sie, ihren Mann zu überwachen.</desc>
@@ -238,11 +238,6 @@
     <display-name>spot on news</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/CHAJ0500461A_20200923T100606.png"/>
   </channel>
-  <programme channel="CHAJ0500461A" start="20211011211500 +0000" stop="20211011213000 +0000">
-    <title>Mode &amp; Beauty</title>
-    <desc>Entdecke die neuesten Nachrichten aus der Welt der Mode sowie die angesagtesten Beauty-Trends und -Tipps. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/98/CH_VC_CTI_DEQY392104A_f10193fa-a4d1-4ab0-a2b8-f0c7acc5f51b_20211011203158292.jpg"/>
-  </programme>
   <programme channel="CHAJ0500461A" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title>people</title>
     <desc>Unterhaltsam und spannend: Aktuelle Storys aus den Leben der Stars, Sternchen und Royals. Palastberichte, Baby-News, Liebes-Gerüchte und mehr.</desc>
@@ -368,6 +363,11 @@
     <desc>Aktuelle Politik-Nachrichten aus Deutschland, Europa und der ganzen Welt. Verfolge die wichtigsten Infos zu den politischen Entwicklungen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/36/CH_VC_CTI_DEQY392104A_fc72ab14-6069-4539-8a69-5ced7ee8b763_20211011203236163.jpg"/>
   </programme>
+  <programme channel="CHAJ0500461A" start="20211012052500 +0000" stop="20211012054500 +0000">
+    <title>Vermischtes</title>
+    <desc>Relevante Ratgeber-Themen aus den Bereichen Haushalt, Job, Auto und Reisen. Die richtigen Guidebooks für alle Interessierten.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/28/CH_VC_CTI_DEQY392104A_fd253f4e-4c54-4d53-a576-2309c9d2b7ad_20211011203159261.jpg"/>
+  </programme>
   <channel id="CHBA3300018TD">
     <display-name>Bloomberg TV+</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/32/CHBA3300018TD_20201118T003328.png"/>
@@ -435,11 +435,6 @@
     <display-name>Motorvision</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/CHAJ0500410A_20200923T100348.png"/>
   </channel>
-  <programme channel="CHAJ0500410A" start="20211011190000 +0000" stop="20211011213000 +0000">
-    <title>Rally</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/10/CH_VC_CTI_DEQY392104A_efd4ba72-d1ae-4c80-96c2-fa8ca339b074_20211011203319983.jpg"/>
-  </programme>
   <programme channel="CHAJ0500410A" start="20211011213000 +0000" stop="20211012003000 +0000">
     <title>Enduro &amp; Motocross</title>
     <desc>-</desc>
@@ -473,6 +468,11 @@
     <title>Sport &amp; Lifestyle</title>
     <desc>Top Regattas and competition across the globe, overview of equipment, accessories and technologies. Visit with us the most famous shipyards.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/84/CH_VC_CTI_DEQY392104A_79304e1a-467a-4797-bb7e-14eaba2d0b67_20211011203236007.jpg"/>
+  </programme>
+  <programme channel="CHAJ0500420A" start="20211012053000 +0000" stop="20211012083000 +0000">
+    <title>Motor Boats</title>
+    <desc>Get on board and test with us some of the best motor boats on the market.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/CH_VC_CTI_DEQY392104A_e741a463-268e-45b0-920f-2b920f83cd0b_20211011203222706.jpg"/>
   </programme>
   <channel id="CHAJ0500423A">
     <display-name>HorizonSports</display-name>
@@ -754,11 +754,6 @@
     <display-name>Tennis Channel Deutschland</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/CHBA22000080G_20201208T050218.png"/>
   </channel>
-  <programme channel="CHBA22000080G" start="20211011211547 +0000" stop="20211011213053 +0000">
-    <title>Prakash WorldWide - Miami</title>
-    <desc>Prakash visits with friends, gets a tour of the Miami Dolphins' home stadium, and celebrates with eggs during Easter.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/CH_VC_CTI_USQO570425A_b07c42ce-2aad-11ec-87ac-0a9c8934df2b_20211011164430748.jpg"/>
-  </programme>
   <programme channel="CHBA22000080G" start="20211011213053 +0000" stop="20211011214226 +0000">
     <title>Tennis Honors - Kobe Bryant</title>
     <desc>Kobe Bryan't connection to the tennis world is explored on the one year anniversary of his passing.</desc>
@@ -852,11 +847,6 @@
     <display-name>FUEL TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/99/CHAJ3200004KJ_20201029T004111.png"/>
   </channel>
-  <programme channel="CHAJ3200004KJ" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>Surfing for Peace:Surfing for Peace</title>
-    <desc>The Paskowitz family, the Rothmans, and Kelly Slater go to Israel to surf and raise awareness.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/97/CH_VC_CTI_USQU352137A_CH-583-CHAJ3200004KJ-15038928_20211011164639978.jpg"/>
-  </programme>
   <programme channel="CHAJ3200004KJ" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Santa Cruz Euro Skate Tour 2:Santa Cruz Euro Skate Tour 2</title>
     <desc>The pros of the Santa Cruz team return to skate the streets of Europe.</desc>
@@ -927,6 +917,11 @@
     <desc>Get to know firsthand the names of the chosen surfers that will be performing in the spectacular conditions that Praia do Norte, in Nazaré has to offer, in the 2016 edition of the Perfect Chapter.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/28/CH_VC_CTI_USQU352137A_CH-583-CHAJ3200004KJ-15038942_20211011164436545.jpg"/>
   </programme>
+  <programme channel="CHAJ3200004KJ" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Home Bros:Home Bros</title>
+    <desc>When amidst the covid-19 pandemic, Australian videomaker, Tai Jennison, and his home bros found themselves stuck in one of the most surfable stretches of coastline in the world, they decided to make t</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/10/CH_VC_CTI_USQU352137A_CH-583-CHAJ3200004KJ-15038943_20211011164739688.jpg"/>
+  </programme>
   <channel id="CHBA2200005YI">
     <display-name>InWonder</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/CHBA2200005YI_20200923T100727.png"/>
@@ -990,6 +985,11 @@
     <title>Hollywood Weapons: Fact or Fiction?</title>
     <desc>A murderer tries to kill his final victim as the car they are in slowly sinks to the bottom of a lake.  The only way to save the victim is to rescue her as the car continues to sink.  We test fire multiple handguns underwater to see if you can actually penetrate a car windshield and save the victim.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/19/CH_VC_CTI_USQO570425A_7518703e-25f4-11ec-a34b-0a9c8934df2b_20211005171026793.jpg"/>
+  </programme>
+  <programme channel="CHBA2200005YI" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Hollywood Weapons: Fact or Fiction?</title>
+    <desc>In this iconic scene, Chief Brody hangs on to his sinking boat as a giant shark approaches him with a scuba tank lodged in its mouth.  We construct a giant shark on a motorized platform to test if you can hit, and explode, the tank with an M1 Garand rifle while perched in a precarious position.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/CH_VC_CTI_USQO570425A_759e95ac-25f4-11ec-a34b-0a9c8934df2b_20211005171233725.jpg"/>
   </programme>
   <channel id="CHAJ32000057T">
     <display-name>FTF</display-name>
@@ -1078,11 +1078,6 @@
     <display-name>AbsintheTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/25/CHAJ0500463A_20210826T001209.png"/>
   </channel>
-  <programme channel="CHAJ0500463A" start="20211011204500 +0000" stop="20211011213000 +0000">
-    <title>Hwuyxwet Puneluxutth</title>
-    <desc>A group of First Nations students at Penelakut Island works with trail builder Riley McIntosh to create a new mountain bike trail in the community. The film also weaves in the stories, culture, and history of Penelakut Island and its people.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/50/CH_VC_CTI_DEQY392104A_db80d151-ae4a-4922-9375-e8ba75b0a9fa_20211011183144022.jpg"/>
-  </programme>
   <programme channel="CHAJ0500463A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Paradigme</title>
     <desc>A snowboard documentary filmed and directed by Julien Roserens in the Wallis Region of Switzerland. </desc>
@@ -1142,6 +1137,11 @@
     <title>TWE12VE Making Of</title>
     <desc>Twelve riders having a blast, redefining the limits of what is possible</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/41/CH_VC_CTI_DEQY392104A_b9904026-e454-4dfc-8854-1cf37bfedbc7_20211011183217763.jpg"/>
+  </programme>
+  <programme channel="CHAJ0500463A" start="20211012053000 +0000" stop="20211012055500 +0000">
+    <title>Glacier Express</title>
+    <desc>The Glacier Express is a five-part episodic film series featuring Switzerland’s legendary Glacier Express with Holden Explorer Fredi Kalbermatten, photographer Silvano Zeiter and adventure filmmaker Gray Thompson</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/69/CH_VC_CTI_DEQY392104A_34a8a3c6-3a64-483c-80d8-f3ac5dc5b01d_20211011183146671.jpg"/>
   </programme>
   <channel id="CHBA3300031AD">
     <display-name>Horse &amp; Country</display-name>
@@ -1211,6 +1211,11 @@
     <desc>Equitrekking Alberta. Equitrekking host Darley Newman travels to Alberta, Canada to experience Western adventure and stunning natural scenery. (S4, Ep 1/9)</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/14/CH_VC_CTI_USQO570425A_4bd0cb87-2ac7-11ec-87ac-0a9c8934df2b_20211011203204041.jpg"/>
   </programme>
+  <programme channel="CHBA3300031AD" start="20211012053229 +0000" stop="20211012060134 +0000">
+    <title>Parelli: Amazing Grace</title>
+    <desc>Pat Parelli helps problem horse Amazing Grace through Natural Horsemanship methods. (S2, Ep 1/7)</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/22/CH_VC_CTI_USQO570425A_4bd42b19-2ac7-11ec-87ac-0a9c8934df2b_20211011203204214.jpg"/>
+  </programme>
   <channel id="CHAJ0500434A">
     <display-name>Rocket Beans TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/CHAJ0500434A_20200923T100615.png"/>
@@ -1250,6 +1255,11 @@
     <desc>Unsere Jungs und Mädels in der Games-Redaktion haben Gesprächsbedarf. In einer gemütlichen Runde plaudern sie beispielsweise über Octopath Traveler, dem neusten Nintendo Switch JRPG von den Bravely Default-Entwicklern und sonstige Gaming-Themen. </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/52/CH_VC_CTI_DEQY392104A_6856cbd5-701d-4aa8-ac19-5f0214dc5e6e_20211011183111014.jpg"/>
   </programme>
+  <programme channel="CHAJ0500434A" start="20211012052000 +0000" stop="20211012061000 +0000">
+    <title>Retro Klub</title>
+    <desc>Das Format für Pixelverliebte und die Ewiggestrigen von heute. Moderator Gregor Kartsios schwelgt mit euch in Erinnerungen, liefert Infos rund um Arcade-Klassiker, Sonic Mania, N64, Power Rangers und andere Retro-Schätze. Garantierter Nostalgie-Faktor!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/CH_VC_CTI_DEQY392104A_5d2f4c07-5858-4423-b00a-f7728f2f9e2b_20211011183149492.jpg"/>
+  </programme>
   <channel id="CHBB3500001GP">
     <display-name>gTV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/00/CHBB3500001GP_20210908T010239.png"/>
@@ -1287,11 +1297,6 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
     <display-name>gTV [FR]</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/CHBB3500002Y0_20210908T010302.png"/>
   </channel>
-  <programme channel="CHBB3500002Y0" start="20211011204500 +0000" stop="20211011213000 +0000">
-    <title>VERSUS #1 Il prend le circuit a l'envers ! - Quart de finale Bun Hay Mean vs brak2K - gTV</title>
-    <desc>Decouvrez le nouveau show VERSUS sur gTV, presente par Trinity ! Soutenez vos streameurs et createurs de contenu preferes dans un tournoi gaming epique qui determinera qui est le meilleur joueur.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/51/CH_VC_CTI_USQT620324A_CHBB3500002Y0_ubiug3000000194_20211010164555963.jpg"/>
-  </programme>
   <programme channel="CHBB3500002Y0" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title>Le combat de Giants - Stories #2 - gTV</title>
     <desc>Suivez le destin des Giants de l'equipe esports de Rainbow Six Siege alors qu'ils se rendent a Tokoname au Japon pour la finale de la Pro League Saison X. Production SoPress</desc>
@@ -1323,15 +1328,15 @@ Und als Moderator immer mit dabei ist naturlich der beste Gunnar der Welt: Gunna
 Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programmeur chez Ubisoft Thibaut Assandri pour discuter de l'IA dans les jeux !</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/73/CH_VC_CTI_USQT620324A_CHBB3500002Y0_ubiug3000000290_20211010164336500.jpg"/>
   </programme>
+  <programme channel="CHBB3500002Y0" start="20211012053000 +0000" stop="20211012054500 +0000">
+    <title>Jeux sur ecoute : les joueurs en Allemagne de l'Est - Stories- gTV</title>
+    <desc>Fin des annees 80, Allemagne de l'Est. Des jeunes passionnes d'informatique decouvrent le jeu video et s'echangent des copies en depit de la surveillance de la Stasi, voici l'histoire des jeux sur ecoute.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/89/CH_VC_CTI_USQT620324A_CHBB3500002Y0_ubiug3000000292_20211010164445931.jpg"/>
+  </programme>
   <channel id="CHAK3504510A">
     <display-name>Comedy Central Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/24/CHAK3504510A_20200923T100508.png"/>
   </channel>
-  <programme channel="CHAK3504510A" start="20211011210200 +0000" stop="20211011212600 +0000">
-    <title>Drawn Together: Unsanfte Schmeicheleien</title>
-    <desc>'Drawn Together' nimmt die typischen 'Roomie-Realityshows' auf die Schippe - und das ohne Rücksicht auf Verluste. Acht verrückte Cartoon-Charaktere werden dazu unter einem Dach zusammengepfercht und müssen miteinander auskommen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/54/CH_VC_CTI_USQU352135A_CHAK3504510A-XWVE1PeLinDBIUxb_20211011183352361.jpg"/>
-  </programme>
   <programme channel="CHAK3504510A" start="20211011212600 +0000" stop="20211011215000 +0000">
     <title>Drawn Together: Reqiuem für eine Realityshow</title>
     <desc>'Drawn Together' nimmt die typischen 'Roomie-Realityshows' auf die Schippe - und das ohne Rücksicht auf Verluste. Acht verrückte Cartoon-Charaktere werden dazu unter einem Dach zusammengepfercht und müssen miteinander auskommen.</desc>
@@ -1432,6 +1437,11 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Hundert Kandidaten stehen bereit, um die Burg von Takeshi zu stürmen. Sie müssen den furchtbaren Felsenkanal überwinden und beweisen, dass sie das Zeug dazu haben, die Leibgarde zu besiegen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/17/CH_VC_CTI_USQU352135A_CHAK3504510A-XWYn_Ofl2XFVOmJu_20211011183353793.jpg"/>
   </programme>
+  <programme channel="CHAK3504510A" start="20211012053700 +0000" stop="20211012060200 +0000">
+    <title>Takeshis Castle Thailand</title>
+    <desc>Hundert Kandidaten stehen bereit, um die Burg von Takeshi zu stürmen. Sie müssen den furchtbaren Felsenkanal überwinden und beweisen, dass sie das Zeug dazu haben, die Leibgarde zu besiegen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/44/CH_VC_CTI_USQU352135A_CHAK3504510A-XWYn-ufl2XFVOmJL_20211011183230859.jpg"/>
+  </programme>
   <channel id="CHAJ0500424A">
     <display-name>Wissen 360°</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/CHAJ0500424A_20210811T021817.png"/>
@@ -1524,10 +1534,15 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>MessiCirque: Die Entstehung von Messi10 durch den Cirque du Soleil", erzählt den Entstehungsprozess der Cirque du Soleil Show, die von Lionel Messi inspiriert wurde. Von den ersten Ideen bis zur Premiere in Barcelona am 10.10.2019. Wir werden an den ersten Entstehungsmomenten, der kreativen und künstlerischen Entwicklung, der Teilnahme von Messi am Projekt, den Trainings, Proben und der "Messi10 Challenge LaLiga" sowie an interaktiven Erfahrungen teilnehmen, die Sie "Messi für einen Tag" sein lassen. Unsere Tour beendet den lang ersehnten Tag: Die Premiere der Show in Barcelona.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/97/CH_VC_CTI_USQU352137A_CH-438-CHAJ3500005EC-13422842_20211011164708514.jpg"/>
   </programme>
-  <programme channel="CHAJ3500005EC" start="20211012042708 +0000" stop="20211012052041 +0000">
+  <programme channel="CHAJ3500005EC" start="20211012042708 +0000" stop="20211012052042 +0000">
     <title>Anything is Possible</title>
     <desc>Serge Ibaka wuchs arm und zeitweise obdachlos in den Straßen von Brazzaville auf. Seine Mutter starb, als er 7 Jahre alt war, sein Vater kam ins Gefängnis, als er 12 Jahre alt war. Trotzdem hat er seinen Traum verwirklicht, ein NBA-Champion zu werden. Dieser Dokumentarfilm begleitet Serge auf seiner Heimreise in die Republik Kongo, wo er die NBA-Meisterschaftstrophäe zeigen und vor allem seine Botschaft vermitteln will: "Anything is Possible" durch harte Arbeit und Entschlossenheit!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/76/CH_VC_CTI_USQU352137A_CH-438-CHAJ3500005EC-13422837_20211011164313612.jpg"/>
+  </programme>
+  <programme channel="CHAJ3500005EC" start="20211012052042 +0000" stop="20211012062130 +0000">
+    <title>Break Point: a Davis Cup Story</title>
+    <desc>Die Nummer Zwei des Teams, Roberto Bautista, musste die Meisterschaft in seiner Heimatstadt verlassen, um in den letzten Lebensstunden seines Vater an dessen Seite zu sein. Nadal und Feliciano López mussten das Team ohne Bautista auf heldenhafte Weise ins Finale bringen. Doch dann erweckte eine Nachricht Erregung unter den Tennis-Fans der ganzen Welt: Bautista kehrt nach der Beerdigung seines Vaters zum Wettkampf zurück. Die Mitglieder des spanischen Tennis-Teams vereinen sich wieder, um für den Sieg im großen Finale zu kämpfen, obwohl es eine sehr viel größere Bedrohung als Tennis gibt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/63/CH_VC_CTI_USQU352137A_CH-438-CHAJ3500005EC-13422838_20211011164708280.jpg"/>
   </programme>
   <channel id="CHAJ0500457A">
     <display-name>Tempora</display-name>
@@ -1552,11 +1567,6 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <display-name>Comedy Central Made in Germany</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/CHAK3504515A_20200923T100855.png"/>
   </channel>
-  <programme channel="CHAK3504515A" start="20211011205500 +0000" stop="20211011212300 +0000">
-    <title>Comedy Central Presents: Andreas Weber</title>
-    <desc>Comedy Central Presents -  1 Comedian, 1 Mikrophon und 1 Publikum, das hungrig auf Punshlines ist.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/98/CH_VC_CTI_USQU352135A_CHAK3504515A-X8302e1O3AAb_qBk_20211011183356209.jpg"/>
-  </programme>
   <programme channel="CHAK3504515A" start="20211011212300 +0000" stop="20211011215000 +0000">
     <title>Comedy Central Presents: Salim Samatou</title>
     <desc>Comedy Central Presents -  1 Comedian, 1 Mikrophon und 1 Publikum, das hungrig auf Punshlines ist.</desc>
@@ -1647,6 +1657,11 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Comedy Central Presents STANDUP 3000 – moderiert von Maxi Gstettenbauer.  3 phantastische Comedians, 1 Thema und ein Host der alle zusammenbringt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/05/CH_VC_CTI_USQU352135A_CHAK3504515A-XWd58Yek9Izb05ih_20211011183356666.jpg"/>
   </programme>
+  <programme channel="CHAK3504515A" start="20211012053400 +0000" stop="20211012060000 +0000">
+    <title>Comedy Central Presents STANDUP 3000: Deutsche Hindernisse</title>
+    <desc>Comedy Central Presents STANDUP 3000 – moderiert von Maxi Gstettenbauer.  3 phantastische Comedians, 1 Thema und ein Host der alle zusammenbringt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/51/CH_VC_CTI_USQU352135A_CHAK3504515A-XWd58Yek9Izb05im_20211011183232673.jpg"/>
+  </programme>
   <channel id="CHAK3504500A">
     <display-name>Pluto TV Animals</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/46/CHAK3504500A_20200923T100402.png"/>
@@ -1701,15 +1716,15 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <desc>Von dichten Wäldern über abgelegene Wüsten, entlang wilder Gebirgszüge bis hin zu farbenfrohen Meeren - der Nahe Osten hat eine spektakuläre, aber praktisch nicht gefilmte Naturgeschichte. Hier trifft Ost auf West und Wälder auf Wüsten</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/74/CH_VC_CTI_USQU352135A_CHAK3504500A-X3WCT5WdvwAahICk_20211011183338495.jpg"/>
   </programme>
+  <programme channel="CHAK3504500A" start="20211012053100 +0000" stop="20211012063100 +0000">
+    <title>Wildest Middle East</title>
+    <desc>Von dichten Wäldern über abgelegene Wüsten, entlang wilder Gebirgszüge bis hin zu farbenfrohen Meeren - der Nahe Osten hat eine spektakuläre, aber praktisch nicht gefilmte Naturgeschichte. Hier trifft Ost auf West und Wälder auf Wüsten</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/55/CH_VC_CTI_USQU352135A_CHAK3504500A-X3WCT5WdvwAahICs_20211011183232455.jpg"/>
+  </programme>
   <channel id="CHBA33000224U">
     <display-name>PBS America</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/13/CHBA33000224U_20210310T011156.png"/>
   </channel>
-  <programme channel="CHBA33000224U" start="20211011203740 +0000" stop="20211011213737 +0000">
-    <title>The War/ Ep 1-A Necessary War</title>
-    <desc>-</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/11/CH_VC_CTI_USQO570425A_5929cbeb-03ad-11ec-b677-0a9c8934df2b_20210823042219752.jpg"/>
-  </programme>
   <programme channel="CHBA33000224U" start="20211011213737 +0000" stop="20211011231616 +0000">
     <title>American Experience (22)/ Ep 2207-Martin Luther King: Roads to Memphis</title>
     <desc>-</desc>
@@ -1793,11 +1808,6 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <display-name>Pluto TV Sitcoms</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/CHAK3504505A_20200923T100653.png"/>
   </channel>
-  <programme channel="CHAK3504505A" start="20211011210300 +0000" stop="20211011212900 +0000">
-    <title>Chaos City: Mit allen Mitteln</title>
-    <desc>Ein stellvertretender Bürgermeister von New York, unterstützt von einem ungewöhnlichen Personal, muss ständig den ahnungslosen Bürgermeister retten.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/28/CH_VC_CTI_USQU352135A_CHAK3504505A-YCJpO4e-BwAaKj2G_20211011183422311.jpg"/>
-  </programme>
   <programme channel="CHAK3504505A" start="20211011212900 +0000" stop="20211011215500 +0000">
     <title>Chaos City: Oh, Baby!</title>
     <desc>Ein stellvertretender Bürgermeister von New York, unterstützt von einem ungewöhnlichen Personal, muss ständig den ahnungslosen Bürgermeister retten.</desc>
@@ -1897,11 +1907,6 @@ Pablo Mira recoit l'auteur et createur de jeux @FibreTigre ainsi que le programm
     <display-name>FailArmy</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/CHAJ32000026J_20210609T004547.png"/>
   </channel>
-  <programme channel="CHAJ32000026J" start="20211011205954 +0000" stop="20211011212954 +0000">
-    <title>FailFactory | Loud AF</title>
-    <desc>Turn up the volume and get ready for some LOUD NOISES that will have you going WTF.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/18/CH_VC_CTI_USQU352137A_CH-151-CHAJ32000026J-44920_20211011164724181.jpg"/>
-  </programme>
   <programme channel="CHAJ32000026J" start="20211011212954 +0000" stop="20211011215953 +0000">
     <title>FailFactory | Redneck Redemption</title>
     <desc>If you're in this episode, you might be a redneck.</desc>
@@ -1984,20 +1989,20 @@ The best of the worst for June 2020.</desc>
     <desc>Other hits on this playlist include "Wrong Way,"  "Hit Me Baby One More Time" and "Speed King."</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/09/CH_VC_CTI_USQU352137A_CH-151-CHAJ32000026J-44986_20211011164435180.jpg"/>
   </programme>
-  <programme channel="CHAJ32000026J" start="20211012050001 +0000" stop="20211012053001 +0000">
+  <programme channel="CHAJ32000026J" start="20211012050001 +0000" stop="20211012053002 +0000">
     <title>FailArmy Playlist | False Start</title>
     <desc>Check out this playlist of some  of the best themed compilations accompanied by music to set the mood.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/05/83/CH_VC_CTI_USQU352137A_CH-151-CHAJ32000026J-44987_20211011164750829.jpg"/>
+  </programme>
+  <programme channel="CHAJ32000026J" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>FailArmy Playlist | Everything Sucks</title>
+    <desc>Other hits on this playlist include "Vacuum,"  "Down for Double" and "Curb Your Enthusiasm."</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/82/CH_VC_CTI_USQU352137A_CH-151-CHAJ32000026J-44988_20211011164707670.jpg"/>
   </programme>
   <channel id="CHBA33000247H">
     <display-name>DUST</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/83/CHBA33000247H_20210414T024507.png"/>
   </channel>
-  <programme channel="CHBA33000247H" start="20211011210005 +0000" stop="20211011213005 +0000">
-    <title>Orbital Redux</title>
-    <desc>Max and Tommie race against the clock as the virus takes over their ship.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/42/CH_VC_CTI_USQO570425A_7ea6b4d0-ec3a-11eb-b3b8-0a9c8934df2b_20210725085955639.jpg"/>
-  </programme>
   <programme channel="CHBA33000247H" start="20211011213005 +0000" stop="20211011220006 +0000">
     <title>Orbital Redux</title>
     <desc>Tommie’s boyfriend busts her for using autoreplies to his love letters.</desc>
@@ -2052,11 +2057,6 @@ The best of the worst for June 2020.</desc>
     <display-name>The Pet Collective</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/11/CHAJ3200003RF_20201208T050227.png"/>
   </channel>
-  <programme channel="CHAJ3200003RF" start="20211011210010 +0000" stop="20211011213010 +0000">
-    <title>Viral WIld | 1.4</title>
-    <desc>Witness the rough and tumble animal world in the raw. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/CH_VC_CTI_USQU352137A_CH-152-CHAJ3200003RF-850185_20211011164611778.jpg"/>
-  </programme>
   <programme channel="CHAJ3200003RF" start="20211011213010 +0000" stop="20211011220000 +0000">
     <title>Viral Wild | 2.8</title>
     <desc>The wild lures us in with its beauty and awe... and then pounces. </desc>
@@ -2141,6 +2141,11 @@ The best of the worst for June 2020.</desc>
     <title>Puppy Love | Ep. 1.1</title>
     <desc>The cutest puppies. Nonstop.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/55/CH_VC_CTI_USQU352137A_CH-152-CHAJ3200003RF-75466_20211011164434271.jpg"/>
+  </programme>
+  <programme channel="CHAJ3200003RF" start="20211012053002 +0000" stop="20211012060002 +0000">
+    <title>Kitten Love | Ep. 1.2</title>
+    <desc>The cutest kittens. Nonstop.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/92/CH_VC_CTI_USQU352137A_CH-152-CHAJ3200003RF-89017_20211011164434727.jpg"/>
   </programme>
   <channel id="CHAJ700007XE">
     <display-name>Pluto TV Serie+</display-name>
@@ -2255,15 +2260,15 @@ The best of the worst for June 2020.</desc>
     <desc>Ein "Catfish" ist jemand, der online vorgibt anders zu sein, als er in Wirklichkeit ist. Nev und Max besuchen Paare, die sich noch nie zuvor in der Realität getroffen haben und überprüfen für sie ob der Partner mit seinem Onlineimage übereinstimmt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/08/CH_VC_CTI_USQU352135A_CHAK3504517A-Xcmz0o1utce06Uaa_20211011183231672.jpg"/>
   </programme>
+  <programme channel="CHAK3504517A" start="20211012053000 +0000" stop="20211012062000 +0000">
+    <title>Catfish: The TV Show: Whitney &amp; Bre</title>
+    <desc>Ein "Catfish" ist jemand, der online vorgibt anders zu sein, als er in Wirklichkeit ist. Nev und Max besuchen Paare, die sich noch nie zuvor in der Realität getroffen haben und überprüfen für sie ob der Partner mit seinem Onlineimage übereinstimmt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/50/CH_VC_CTI_USQU352135A_CHAK3504517A-Xcmz3I1utce06Ubd_20211011183517146.jpg"/>
+  </programme>
   <channel id="CHAJ700002UB">
     <display-name>MTV Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/CHAJ700002UB_20200923T100632.png"/>
   </channel>
-  <programme channel="CHAJ700002UB" start="20211011210400 +0000" stop="20211011212700 +0000">
-    <title>Pimp my Ride: 1967 Ford Mustang</title>
-    <desc>'Pimp My Ride' mit Xzibit ist das Tuning-Format von MTV, das sich größter Beliebtheit erfreut. 'Pimp My Ride' zeigt, wie man alte Hecktürmodelle in hochqualifizierte, voll-präparierte Pimpmobiles inklusive Entertainment-Center umrüstet.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/05/CH_VC_CTI_USQU352135A_CHAJ700002UB-XOZKDCaKCwju35Xm_20211011183229914.jpg"/>
-  </programme>
   <programme channel="CHAJ700002UB" start="20211011212700 +0000" stop="20211011215000 +0000">
     <title>Pimp my Ride: 1985 Ford Ranger</title>
     <desc>'Pimp My Ride' mit Xzibit ist das Tuning-Format von MTV, das sich größter Beliebtheit erfreut. 'Pimp My Ride' zeigt, wie man alte Hecktürmodelle in hochqualifizierte, voll-präparierte Pimpmobiles inklusive Entertainment-Center umrüstet.</desc>
@@ -2402,11 +2407,6 @@ The best of the worst for June 2020.</desc>
     <display-name>People Are Awesome</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/CHBA1000004IU_20201208T050230.png"/>
   </channel>
-  <programme channel="CHBA1000004IU" start="20211011210011 +0000" stop="20211011213011 +0000">
-    <title>Obsesh TV: Adventure Amplified | Ep. 1.9</title>
-    <desc>The holy grail of cliff jumping as told by filmmaker and cliff jumper Nick Coulter. Andrew Muse gets the river rapids challenge of a lifetime from pro kayaker Rafa Ortiz. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/90/CH_VC_CTI_USQU352137A_CH-386-CHBA1000004IU-2051755_20211011164735889.jpg"/>
-  </programme>
   <programme channel="CHBA1000004IU" start="20211011213011 +0000" stop="20211011220000 +0000">
     <title>Obsesh TV: Adventure Amplified | Ep. 1.10</title>
     <desc>We span the globe for an epic road trip and freestyle cliff jumping competition across the Pacific Northwest, followed by an aerial journey of the Maldives from Dimag Ozgum, aka VacationWolf. </desc>
@@ -2482,10 +2482,15 @@ The best of the worst for June 2020.</desc>
     <desc>Practice yields incredible results.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/41/CH_VC_CTI_USQU352137A_CH-386-CHBA1000004IU-743185_20211011164310902.jpg"/>
   </programme>
-  <programme channel="CHBA1000004IU" start="20211012050000 +0000" stop="20211012053000 +0000">
+  <programme channel="CHBA1000004IU" start="20211012050000 +0000" stop="20211012053001 +0000">
     <title>Exhibition Awesome | Walk the Line</title>
     <desc>They aren't afraid to live their life on the edge.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/68/CH_VC_CTI_USQU352137A_CH-386-CHBA1000004IU-735602_20211011164750436.jpg"/>
+  </programme>
+  <programme channel="CHBA1000004IU" start="20211012053001 +0000" stop="20211012060001 +0000">
+    <title>Exhibition Awesome | High Dive</title>
+    <desc>These stunts are making a big splash.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/28/CH_VC_CTI_USQU352137A_CH-386-CHBA1000004IU-735617_20211011164750641.jpg"/>
   </programme>
   <channel id="CHAJ7000084D">
     <display-name>Pluto TV Paranormal</display-name>
@@ -2545,11 +2550,6 @@ The best of the worst for June 2020.</desc>
     <display-name>Ice Pilots</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/CHAJ700009UV_20210414T024238.png"/>
   </channel>
-  <programme channel="CHAJ700009UV" start="20211011203300 +0000" stop="20211011212600 +0000">
-    <title>Ice Pilots: Ein dickes Geschäft</title>
-    <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/33/CH_VC_CTI_USQU352135A_CHAJ700009UV-XShRQtvD4jYD-jut_20211011183343550.jpg"/>
-  </programme>
   <programme channel="CHAJ700009UV" start="20211011212600 +0000" stop="20211011221900 +0000">
     <title>Ice Pilots: Extreme Bedingungen</title>
     <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
@@ -2595,15 +2595,15 @@ The best of the worst for June 2020.</desc>
     <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/37/CH_VC_CTI_USQU352135A_CHAJ700009UV-XUp9zC_-2oednaMA_20211011183158598.jpg"/>
   </programme>
+  <programme channel="CHAJ700009UV" start="20211012052400 +0000" stop="20211012061600 +0000">
+    <title>Ice Pilots: Eingefroren</title>
+    <desc>Ice Pilots ist eine Dokuserie über eine ungewöhnliche Fluggesellschaft in Kanadas Norden. Stationiert in Yellowknife, fliegen die Ice Pilots mit Propellerflugzeugen aus dem zweiten Weltkrieg, um Außenposten mit lebensnotwendigen Vorräten zu versorgen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/61/CH_VC_CTI_USQU352135A_CHAJ700009UV-XShQs9vD4jYD-jqb_20211011183314941.jpg"/>
+  </programme>
   <channel id="CHBA3300026CA">
     <display-name>Craction TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/41/CHBA3300026CA_20210512T003353.png"/>
   </channel>
-  <programme channel="CHBA3300026CA" start="20211011211500 +0000" stop="20211011213000 +0000">
-    <title> 19-2</title>
-    <desc>Bei einem Einsatz des Streifenwagens 19–2 vom 19. Revier in Montreal wird Nick Barrons Kollege Harvey schwer verletzt. Nick wirft sich vor, keine Verstärkung gerufen zu haben. Als er wieder im Dienst erscheint, wird ihm der Neuling Ben Chartier zugeteilt, der zuvor bei der Provinzpolizei war. </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/68/CH_VC_CTI_USQO570425A_f0bb7216-2860-11ec-b6f0-0a9c8934df2b_20211008204817076.jpg"/>
-  </programme>
   <programme channel="CHBA3300026CA" start="20211011213000 +0000" stop="20211011214500 +0000">
     <title> 19-2</title>
     <desc>Bei einem Einsatz des Streifenwagens 19–2 vom 19. Revier in Montreal wird Nick Barrons Kollege Harvey schwer verletzt. Nick wirft sich vor, keine Verstärkung gerufen zu haben. Als er wieder im Dienst erscheint, wird ihm der Neuling Ben Chartier zugeteilt, der zuvor bei der Provinzpolizei war. </desc>
@@ -2767,22 +2767,15 @@ The best of the worst for June 2020.</desc>
     <desc>Der Präsident der Vereinigten Staaten erklärt seine Absicht, Eggman zu besiegen. Unterdessen versucht auch Knuckles, in Eggmans Basis einzudringen. Doch Eggman hat eine wirksame Waffe, gegen die keiner so leicht ankommt: einen riesigen Windroboter!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/82/CH_VC_CTI_USQO570425A_f00e385b-2860-11ec-b6f0-0a9c8934df2b_20211008205021584.jpg"/>
   </programme>
+  <programme channel="CHBA3300026CA" start="20211012053000 +0000" stop="20211012054500 +0000">
+    <title>Sonic X</title>
+    <desc>Chris schmeißt  bei sich zu Hause eine Party und lädt dazu seinen Lehrer Stuart und den Bruder seiner Mutter, Sam Speed, ein.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/00/CH_VC_CTI_USQO570425A_f005d6dd-2860-11ec-b6f0-0a9c8934df2b_20211008204816292.jpg"/>
+  </programme>
   <channel id="CHBA2200007DD">
     <display-name>ADN [FR]</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/34/CHBA2200007DD_20210811T021859.png"/>
   </channel>
-  <programme channel="CHBA2200007DD" start="20211011205438 +0000" stop="20211011212246 +0000">
-    <title>Dagashi Kashi</title>
-    <desc>Kokonotsu Shikada avait un plan de vie tout tracé :Devenir mangaka ! 
-( et accessoirement, ne jamais reprendre la boutique de bonbons de son père pour laquelle il n'a aucun intérêt, au grand désespoir de ce dernier.)
-
-Mais tout cela va se compliquer quand Hotaru Shidare, future héritière de la Shidare Company, débarque dans leur magasin, bien décidée à engager le père de Kokonotsu dans leur entreprise. 
-
-Le problème ? Le père de Kokonotsu s'y refuse tant que son fils n'aura pas pris la relève.
-
-Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temps qu'il faudra..</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/23/CH_VC_CTI_USQO570425A_22407b4c-2039-11ec-af06-0a9c8934df2b_20210928114111171.jpg"/>
-  </programme>
   <programme channel="CHBA2200007DD" start="20211011212246 +0000" stop="20211011215055 +0000">
     <title>Dagashi Kashi</title>
     <desc>Bien décidée à convaincre Kokonotsu, Hotaru revient à la charge pour lui en apprendre plus sur les bonbons et les gâteaux. Elle lui présente un problème insoupçonné avec les Kinako-bô, ainsi qu'une boisson très spéciale…</desc>
@@ -2863,6 +2856,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Après beaucoup de péripécies, Naruto et ses coéquipiers arrivent enfin à la maison de Tazuna. Kakashi perd momentanément sa capacité à bouger – le Sharingan qu’il a utilisé a complètement épuisé son énergie. Naruto, Sasuke et Sakura ont l’air confiant et ils sont soulagés de s’être débarrassés de Zabuza. Cependant, une question trotte dans la tête de Kakashi. Habituellement les chasseurs Ninjas sont chargés de faire disparaître les corps des déserteurs, alors pourquoi Haku a-t-il emporté chez lui le corps de Zabuza? Kakashi ne pouvait en arriver qu’à une seule conclusion: le garçon avait probablement aidé Zabuza. Naruto et son équipe ne peuvent cacher leur étonnement quand ils apprennent que Zabuza est peut être bien encore en vie. Après avoir appris cette nouvelle aux trois jeunes Ninjas, Kakashi décide de mettre sur pied un entraînement qui permettra à Naruto, Sasuke et Sakura de se préparer à un nouvel affrontement.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/37/CH_VC_CTI_USQO570425A_a995f611-1f93-11ec-a365-0a9c8934df2b_20210927134621610.jpg"/>
   </programme>
+  <programme channel="CHBA2200007DD" start="20211012052050 +0000" stop="20211012054746 +0000">
+    <title>Naruto</title>
+    <desc>Sakura s’en va en ville avec Tazuna et découvre à quel point les habitants de Naminokuni (Le Pays des vagues) souffrent sous le joug de Gato. C’est la raison pour laquelle Tazuna met sa vie en péril pour construire un nouveau pont qui traverse l’océan. Il croit qu’en construisant un pont, les habitants n’auront plus à dépendre de Gato qui contrôle le transport maritime. Pendant ce temps, Naruto et Sasuke s’entraînent avec assiduité à grimper à un arbre en utilisant leur Chakra. Mais un enfant nommé Inari leur lance un regard froid et anéantit leurs efforts en disant qu’ils n’ont aucune chance de gagner contre Kaiza. Le père nourricier qu’Inari admirait profondément, a été exécuté par Gato…</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/11/CH_VC_CTI_USQO570425A_a9969886-1f93-11ec-a365-0a9c8934df2b_20210927134736262.jpg"/>
+  </programme>
   <channel id="CHAJ0500454A">
     <display-name>Nanoki</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/CHAJ0500454A_20210310T011206.png"/>
@@ -2905,11 +2903,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Nick Pluto TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/55/CHAJ700003CV_20201029T004141.png"/>
   </channel>
-  <programme channel="CHAJ700003CV" start="20211011205500 +0000" stop="20211011212000 +0000">
-    <title>Hey Arnold: Helgas Verehrer / Verliebt, verlobt, ...</title>
-    <desc>Arnold ist ein normaler Junge außer, dass sein Kopf die Form eines Footballs hat. In einer großen Stadt setzt er sich für Recht und Ordnung ein. Arnold kann heute der Held des Tages sein – morgen schon der Trottel vom Dienst.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/79/CH_VC_CTI_USQU352135A_CHAJ700003CV-X1CkrmHxsQAa_0oh_20211011183422453.jpg"/>
-  </programme>
   <programme channel="CHAJ700003CV" start="20211011212000 +0000" stop="20211011214500 +0000">
     <title>Hey Arnold: Pausenaufsicht / Harolds Bar Mizwa</title>
     <desc>Arnold ist ein normaler Junge außer, dass sein Kopf die Form eines Footballs hat. In einer großen Stadt setzt er sich für Recht und Ordnung ein. Arnold kann heute der Held des Tages sein – morgen schon der Trottel vom Dienst.</desc>
@@ -3014,11 +3007,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Nick Rewind</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/CHAJ700004GX_20201029T004150.png"/>
   </channel>
-  <programme channel="CHAJ700004GX" start="20211011210000 +0000" stop="20211011212500 +0000">
-    <title>True Jackson: Rettet die Knabber-Klause</title>
-    <desc>Eine Schülerin als Vize-Präsidentin der coolsten Modefirma - Hier kommt True Jackson!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/88/CH_VC_CTI_USQU352135A_CHAJ700004GX-Xw1zjgMcHQAaLXZH_20211011183306720.jpg"/>
-  </programme>
   <programme channel="CHAJ700004GX" start="20211011212500 +0000" stop="20211011215000 +0000">
     <title>True Jackson: Königlicher Spaß</title>
     <desc>Eine Schülerin als Vize-Präsidentin der coolsten Modefirma - Hier kommt True Jackson!</desc>
@@ -3123,11 +3111,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>SpongeBob Schwammkopf</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/13/CHAJ7000057P_20201029T004206.png"/>
   </channel>
-  <programme channel="CHAJ7000057P" start="20211011210200 +0000" stop="20211011212700 +0000">
-    <title>SpongeBob Schwammkopf</title>
-    <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/CH_VC_CTI_USQU352135A_CHAJ7000057P-XSdeohUgriUpW3Sa_20211011183519977.jpg"/>
-  </programme>
   <programme channel="CHAJ7000057P" start="20211011212700 +0000" stop="20211011215300 +0000">
     <title>SpongeBob Schwammkopf</title>
     <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
@@ -3223,15 +3206,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/45/CH_VC_CTI_USQU352135A_CHAJ7000057P-XSddfxUgriUpW3Cm_20211011183307345.jpg"/>
   </programme>
+  <programme channel="CHAJ7000057P" start="20211012052300 +0000" stop="20211012054800 +0000">
+    <title>SpongeBob Schwammkopf</title>
+    <desc>SpongeBob Schwammkopf wohnt in der Unterwasserstadt Bikini Bottom. Zusammen mit seinem Freund Patrick dem Seestern erlebt er die tollsten Abenteuer!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/43/CH_VC_CTI_USQU352135A_CHAJ7000057P-XSdd8RUgriUpW3Kh_20211011183425071.jpg"/>
+  </programme>
   <channel id="CHAJ700006QR">
     <display-name>iCarly</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/28/CHAJ700006QR_20201029T004225.png"/>
   </channel>
-  <programme channel="CHAJ700006QR" start="20211011210600 +0000" stop="20211011213300 +0000">
-    <title>iCarly: Ein liebes Lied</title>
-    <desc>Warum wird Entertainment für Kinder bloß immer von Erwachsenen gemacht? Das fragt sich die 13-jährige Carly Shay – und beschließt eines Tages, zusammen mit ihren Freunden "Sam" und "Freddie" eine eigene Internet-Show auf die Beine zu stellen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/11/CH_VC_CTI_USQU352135A_CHAJ700006QR-Xx_j9yJ0IgAHcgvy_20211011183416963.jpg"/>
-  </programme>
   <programme channel="CHAJ700006QR" start="20211011213300 +0000" stop="20211011220000 +0000">
     <title>iCarly: Das Großvaterdebakel</title>
     <desc>Warum wird Entertainment für Kinder bloß immer von Erwachsenen gemacht? Das fragt sich die 13-jährige Carly Shay – und beschließt eines Tages, zusammen mit ihren Freunden "Sam" und "Freddie" eine eigene Internet-Show auf die Beine zu stellen.</desc>
@@ -3326,11 +3309,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Teletubbies</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/14/CHBA3300014AM_20210113T004305.png"/>
   </channel>
-  <programme channel="CHBA3300014AM" start="20211011210027 +0000" stop="20211011213027 +0000">
-    <title>Blumen basteln</title>
-    <desc>Po bekommt von den anderen drei Teletubbies einen Auftrag: Sie soll auf die Lieblingssachen der anderen aufpassen. Das sind Laa-Laas Ball, Tinky Winkys Tasche und Dipsys Hut.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/76/CH_VC_CTI_USQU352137A_CH-669-CHBA3300014AM-10772370_20211011164441731.jpg"/>
-  </programme>
   <programme channel="CHBA3300014AM" start="20211011213027 +0000" stop="20211011220000 +0000">
     <title>Verkleiden</title>
     <desc>Tinky Winky, Dipsy, Laa Laa und Po erfinden ein neues Spiel: Sie wandern jeweils zu zweit über die Hügel, und immer wenn sie sich begegnen, rufen sie sich „Ah-Oh“ zu, was bei den Teletubbies "Hallo!" bedeutet. Aber da: Mitten im Spiel dreht sich plötzlich das Zauberwindrad!</desc>
@@ -3406,10 +3384,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Tinky Winky, Dipsy, Laa Laa und Po tanzen gerade vergnügt auf den Hügeln im Teletubby-Land. Da dreht sich plötzlich das Zauberwindrad. Schnell laufen die vier auf den Hügel und schauen gespannt auf das Teletubby-Bauchbild.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/04/54/CH_VC_CTI_USQU352137A_CH-669-CHBA3300014AM-10772373_20211011164710811.jpg"/>
   </programme>
-  <programme channel="CHBA3300014AM" start="20211012050007 +0000" stop="20211012053007 +0000">
+  <programme channel="CHBA3300014AM" start="20211012050007 +0000" stop="20211012053008 +0000">
     <title>Frau Ulkig: Freche Socke</title>
     <desc>Der Film auf dem Tubby-Bauchbild erzählt die Geschichte von der frechen Wollsocke. Die soll eigentlich ein Schlaflied für den Teddy singen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/85/CH_VC_CTI_USQU352137A_CH-669-CHBA3300014AM-10772374_20211011164657747.jpg"/>
+  </programme>
+  <programme channel="CHBA3300014AM" start="20211012053008 +0000" stop="20211012060008 +0000">
+    <title>Deliah packt eine Reisetasche</title>
+    <desc>Der Film auf dem Teletubby-Bauchbild zeigt uns zwei Mädchen. Delilah und ihre Schwester Cäcilia packen eine große Reisetasche.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/44/CH_VC_CTI_USQU352137A_CH-669-CHBA3300014AM-10772377_20211011164454348.jpg"/>
   </programme>
   <channel id="CHAJ0500411A">
     <display-name>Unterhaltung</display-name>
@@ -3494,6 +3477,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>dpa - Star News</title>
     <desc>Star und Promi News </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/31/CH_VC_CTI_DEQY392104A_f3216fa9-c5cf-4e1a-9327-0fca346649ee_20211011183455217.jpg"/>
+  </programme>
+  <programme channel="CHAJ0500411A" start="20211012052500 +0000" stop="20211012061000 +0000">
+    <title>M4TV</title>
+    <desc>Lifestyle und Sport</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/03/CH_VC_CTI_DEQY392104A_12d033a1-8bce-49f9-9e47-4c2a02341a8c_20211011183355895.jpg"/>
   </programme>
   <channel id="CHAJ0500412A">
     <display-name>art-tv-ch</display-name>
@@ -3583,11 +3571,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Yogamour</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/01/CHAJ0500415A_20200923T100407.png"/>
   </channel>
-  <programme channel="CHAJ0500415A" start="20211011210500 +0000" stop="20211011212500 +0000">
-    <title>Tanzende Krieger</title>
-    <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/15/CH_VC_CTI_DEQY392104A_cee6f154-289a-4873-b667-20d825450e50_20211011203137091.jpg"/>
-  </programme>
   <programme channel="CHAJ0500415A" start="20211011212500 +0000" stop="20211011214500 +0000">
     <title>Ohana Flow 1</title>
     <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
@@ -3698,15 +3681,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/15/CH_VC_CTI_DEQY392104A_ad6aee44-e0d9-4249-ac0d-974dc6b5daf8_20211011203157885.jpg"/>
   </programme>
+  <programme channel="CHAJ0500415A" start="20211012053500 +0000" stop="20211012055500 +0000">
+    <title>Yin-Yoga</title>
+    <desc>Yogamour bietet Yoga Videos für alle Neugierigen, die neben einem bewussten und nachhaltigen Umgang mit dem Leben Lust auf regelmäßiges Üben der Yogahaltungen haben</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/28/CH_VC_CTI_DEQY392104A_bd5061a2-c2e3-4cf0-b9ec-ed93312a67e5_20211011203223917.jpg"/>
+  </programme>
   <channel id="CHBA1000006G2">
     <display-name>Travelxp</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/CHBA1000006G2_20201208T050245.png"/>
   </channel>
-  <programme channel="CHBA1000006G2" start="20211011205921 +0000" stop="20211011212921 +0000">
-    <title>Kissed By The Sea Comino, Malta</title>
-    <desc>Tara visits the Comino island and explores the rugged landscapes of Mdina. Later, she learns about lifestyle of locals in Marsaxlokk and enjoys her time at Popeye Village.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/49/CH_VC_CTI_USQU352137A_CH-556-CHBA1000006G2-2280189_20211011164746853.jpg"/>
-  </programme>
   <programme channel="CHBA1000006G2" start="20211011212921 +0000" stop="20211011215922 +0000">
     <title>City Breaks Frankfurt, Germany</title>
     <desc>Christina is in Frankfurt and receives light shower rains.She decides to beat the rains and head out to one of the smaller towns. She visits Rudesheim, travels over historical sites and mid Rhine valley, home to the famous Riesling.</desc>
@@ -3792,15 +3775,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Indeya unwinds in Sri Lanka at a nature resort. She visits a 2200-year-old Buddhist temple, tries body boarding, explores the Yala National Park, enjoys a massage by the beach and cyles through the villages.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/30/CH_VC_CTI_USQU352137A_CH-556-CHBA1000006G2-2442146_20211011164708155.jpg"/>
   </programme>
+  <programme channel="CHBA1000006G2" start="20211012052935 +0000" stop="20211012055935 +0000">
+    <title>World Heritage Cyprus</title>
+    <desc>In the heritage lanes of the mediterranean island, buried in the depths of time, are the archaeological sites of Cyprus. Be it Khirokitia, one of the most significant Neolithic settlements of Cyprus, Paphos, a mysterious city with Greek influences, or the vibrant splashes in the churches constructed during the Byzantine rule - Cyprus is rich in its heritage.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/60/CH_VC_CTI_USQU352137A_CH-556-CHBA1000006G2-2844836_20211011164747103.jpg"/>
+  </programme>
   <channel id="CHAJ0500417A">
     <display-name>EAT CLUB TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/61/CHAJ0500417A_20200923T100514.png"/>
   </channel>
-  <programme channel="CHAJ0500417A" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>foodpeoplePLACES</title>
-    <desc>Food culture from allover the world</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/CH_VC_CTI_DEQY392104A_3ae7e47a-9042-44f3-906c-72b39e6fc2f3_20211011203137060.jpg"/>
-  </programme>
   <programme channel="CHAJ0500417A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Leckerschmecker Top 15 </title>
     <desc>Die beliebtesten Rezepte des Monats &amp; ein Highlight</desc>
@@ -3879,15 +3862,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Tips &amp; Tricks für die Zubereitung von Früchten</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/CH_VC_CTI_DEQY392104A_f769afa2-a24f-424f-82d5-38eb44802a0c_20211011203235318.jpg"/>
   </programme>
+  <programme channel="CHAJ0500417A" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>foodpeoplePLACES</title>
+    <desc>Food culture from allover the world</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/07/CH_VC_CTI_DEQY392104A_3ae7e47a-9042-44f3-906c-72b39e6fc2f3_20211011203137060.jpg"/>
+  </programme>
   <channel id="CHAJ0500418A">
     <display-name>Itsin TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/CHAJ0500418A_20200923T100534.png"/>
   </channel>
-  <programme channel="CHAJ0500418A" start="20211011203000 +0000" stop="20211011213000 +0000">
-    <title>Prominent</title>
-    <desc>Spannende Inhalte rund um die bekanntesten aber auch beliebtesten Promis und Influencer.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/02/CH_VC_CTI_DEQY392104A_9950e815-9f16-451c-90d6-628ba7f612c8_20211011203158448.jpg"/>
-  </programme>
   <programme channel="CHAJ0500418A" start="20211011213000 +0000" stop="20211011220000 +0000">
     <title>Katy Perry</title>
     <desc>Ihre Karriere startete mit dem Hit „I Kissed A Girl“ und inzwischen ist Katy Perry Mama und glücklich verheiratet. Alle News zu ihr hier!</desc>
@@ -3958,6 +3941,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>News von deinen Disney Stars </desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/69/CH_VC_CTI_DEQY392104A_8b4ed185-537f-44b9-bdac-8da64615fc7a_20211011203159294.jpg"/>
   </programme>
+  <programme channel="CHAJ0500418A" start="20211012052500 +0000" stop="20211012062500 +0000">
+    <title>Prominent</title>
+    <desc>Spannende Inhalte rund um die bekanntesten aber auch beliebtesten Promis und Influencer.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/02/CH_VC_CTI_DEQY392104A_9950e815-9f16-451c-90d6-628ba7f612c8_20211011203158448.jpg"/>
+  </programme>
   <channel id="CHAJ0500449A">
     <display-name>Health TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/14/CHAJ0500449A_20200923T100531.png"/>
@@ -4005,11 +3993,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Tastemade</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/CHBA2200006MT_20201029T004232.png"/>
   </channel>
-  <programme channel="CHBA2200006MT" start="20211011210001 +0000" stop="20211011213001 +0000">
-    <title>Make this Tonight</title>
-    <desc>Die Fülle des Frühlings ist in diesem Menü von Chefköchin Shirley Chung zu sehen. Süße Garnelen werden mit englischen Erbsen kombiniert, Spargel wird mit schwarzer Bohnensauce verfeinert und mit einem Spiegelei belegt, Grünkohl wird in aromatischen Reis mit geräuchertem Forellenrogen geworfen, und zum Abschluss hausgemachtes Mochi mit Frühlingserdbeeren und dekadentem Haselnussaufstrich.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/53/CH_VC_CTI_USQO570425A_9f5cd676-270d-11ec-9ebe-0a9c8934df2b_20211007062906229.jpg"/>
-  </programme>
   <programme channel="CHBA2200006MT" start="20211011213001 +0000" stop="20211011220001 +0000">
     <title>Make this Tonight</title>
     <desc>Als Mutter von vier Jungen hat Chefköchin Christy Vega gemeistert, wie man alle am Tisch zufrieden stellt. In dieser Folge zaubert sie ein familienfreundliches Menü, das sowohl Kinder als auch Erwachsene lieben werden. Guacamole aus süßen Erbsen mit Oaxaca-Quesadillas, Heilbutt mit Papaya-Salsa und einer Beilage aus grünen Bohnen mit Avocado- und Cotija-Käse und zum Nachtisch die ultimative Leckerei, S’mores Riegel.</desc>
@@ -4090,15 +4073,15 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Harry und Bruce ziehen ihre Regenmäntel an und fahren nach Seattle, um fantastisches Essen, Cocktails und eine absurde Menge Kaffee zu genießen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/CH_VC_CTI_USQO570425A_9f56d9ae-270d-11ec-9ebe-0a9c8934df2b_20211007062929382.jpg"/>
   </programme>
+  <programme channel="CHBA2200006MT" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Day of Gluttony</title>
+    <desc>Harry und Bruce beenden die erste Staffel von Day of Gluttony, indem sie 24 fantastische Drinks und Gerichte an Kanadas Westküste verschlingen.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/59/CH_VC_CTI_USQO570425A_9f588796-270d-11ec-9ebe-0a9c8934df2b_20211007062905932.jpg"/>
+  </programme>
   <channel id="CHAK3504503A">
     <display-name>Pluto TV Inside</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/CHAK3504503A_20200923T100646.png"/>
   </channel>
-  <programme channel="CHAK3504503A" start="20211011211301 +0000" stop="20211011213501 +0000">
-    <title>Auction Hunters: Machine Gun Ton</title>
-    <desc>In Amerika werden täglich über zehntausend Lagerräume zur öffentlichen Versteigerung angeboten. Clinton „Ton“ Jones und Allen Haff versuchen, Auktionen zu gewinnen, Schätze zu erwerben und sie mit Gewinn zu verkaufen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/50/CH_VC_CTI_USQU352135A_CHAK3504503A-Xzq4fSqmEAAagT0M_20211011183158676.jpg"/>
-  </programme>
   <programme channel="CHAK3504503A" start="20211011213501 +0000" stop="20211011215701 +0000">
     <title>Auction Hunters: Always Money in Philadelphia</title>
     <desc>In Amerika werden täglich über zehntausend Lagerräume zur öffentlichen Versteigerung angeboten. Clinton „Ton“ Jones und Allen Haff versuchen, Auktionen zu gewinnen, Schätze zu erwerben und sie mit Gewinn zu verkaufen.</desc>
@@ -4213,11 +4196,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Beauty TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/CHAJ0500460A_20200923T100500.png"/>
   </channel>
-  <programme channel="CHAJ0500460A" start="20211011203500 +0000" stop="20211011212000 +0000">
-    <title>Jünger und besser aussehen</title>
-    <desc>Bei Beauty TV dreht sich alles um die individuelle Schönheit. Experten aus allen Bereichen kommen zu Wort: Beauty-Redakteurinnen, Blogger, Influencer, Stylisten und Models verraten den ein oder anderen Geheimtipp für strahlendes Aussehen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/49/CH_VC_CTI_DEQY392104A_52714ddd-6bb1-43b7-b108-8f2225994942_20211011203118984.jpg"/>
-  </programme>
   <programme channel="CHAJ0500460A" start="20211011212000 +0000" stop="20211011214000 +0000">
     <title>Pilates: Energy &amp; Grace</title>
     <desc>Eine aufrechte Haltung strahlt Selbstbewusstsein und Stärke aus. Die „Energy &amp; Grace“ Pilates-Workouts von Beauty TV und My Blossom trainieren eure Balance und verhelfen euch zu einer starken Körpermitte.</desc>
@@ -4308,6 +4286,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Unter dem Motto „Detox &amp; Let Go“ nehmen euch Beauty TV und My Blossom mit auf eine Yoga-Reise. Die ausgewählten Yoga-Sessions entspannen Körper und Geist, befreien den Kopf und helfen euch dabei, Negatives loszulassen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/19/CH_VC_CTI_DEQY392104A_64a59846-c672-4365-863e-c29af5d302c0_20211011203137138.jpg"/>
   </programme>
+  <programme channel="CHAJ0500460A" start="20211012052500 +0000" stop="20211012060500 +0000">
+    <title>Meditation &amp; Yoga: Unwind &amp; Relax</title>
+    <desc>Zum Schluss zeigen Beauty TV und My Blossom drei Meditations-Anleitungen zum Entspannten und Kraft tanken. Ob morgens, zum Einschlafen oder zwischendurch – die Meditationen schaffen kleine Achtsamkeits-Momente im Alltag. Abschalten kann so einfach sein!</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/87/CH_VC_CTI_DEQY392104A_02fb6de6-6826-4f4e-8b19-c5831555e1e3_20211011203134996.jpg"/>
+  </programme>
   <channel id="CHAJ0500464A">
     <display-name>Monarda Arts</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/80/CHAJ0500464A_20210609T004735.png"/>
@@ -4341,11 +4324,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>MTV Teen Mom</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/CHAJ700010NR_20210623T011226.png"/>
   </channel>
-  <programme channel="CHAJ700010NR" start="20211011205100 +0000" stop="20211011213800 +0000">
-    <title>Teen Mom 2: Lean on Me</title>
-    <desc>Teen Mom 2 begleitet vier Mädchen aus der zweiten Staffel von 16 &amp; Pregnant bei ihrem neuen Leben als Teenager-Mütter.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/32/CH_VC_CTI_USQU352135A_CHAJ700010NR-Xxbf2VK8IAAH0aQu_20211011183351734.jpg"/>
-  </programme>
   <programme channel="CHAJ700010NR" start="20211011213800 +0000" stop="20211011222500 +0000">
     <title>Teen Mom 2: Breaking Point</title>
     <desc>Teen Mom 2 begleitet vier Mädchen aus der zweiten Staffel von 16 &amp; Pregnant bei ihrem neuen Leben als Teenager-Mütter.</desc>
@@ -4400,11 +4378,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Museum TV Free [FR]</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/CHBA3300020H2_20210811T021928.png"/>
   </channel>
-  <programme channel="CHBA3300020H2" start="20211011211641 +0000" stop="20211011213139 +0000">
-    <title>Visite Privée E8 Japon japonisme, objets inspirés</title>
-    <desc>Visite privée vous emmène à la découverte de l’exposition « Japon-japonisme, objets inspirés, 1867-2018 » au musée des arts décoratifs. Le japon a commencé à se faire connaître vers les années 1850 et son art fut très vite reconnu. Dans cette exposition vous pourrez observés des objets japonais, mais également des objets d’influence japonaise qui témoignent des relations entre la France et le Japon.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/41/CH_VC_CTI_USQO570425A_075d4f9a-2587-11ec-a40b-0a9c8934df2b_20211005052037886.jpg"/>
-  </programme>
   <programme channel="CHBA3300020H2" start="20211011213139 +0000" stop="20211011222652 +0000">
     <title>Photo Contest E4 Le vieux lyon</title>
     <desc>Aujourd’hui, nous vous donnons rendez vous à Lyon. Les deux candidats du jour, Christophe Boulair et Julien Arnaud, auront une heure pour s’affronter sur le thème du Vieux Lyon. Ils vont pouvoir arpenter la vieille ville à la recherche du meilleur spot pour prendre la plus belle photographie possible.</desc>
@@ -4490,6 +4463,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>Secret treasures vous emmène à la découverte des secrets et trésors insoupçonnés de l’Assemblée nationale en France. Certaines des œuvres les plus délicates y sont conservées dans le plus grand secret. Mais ce lieu, qui est le temple de la démocratie française nous ouvre exceptionnellement ses portes aujourd’hui. Nous allons vous faire découvrir cet univers emblématique, plus connu pour ses épisodes politiques que pour les trésors qu’il abrite.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/83/CH_VC_CTI_USQO570425A_b0786d99-266b-11ec-a34b-0a9c8934df2b_20211006062337786.jpg"/>
   </programme>
+  <programme channel="CHBA3300020H2" start="20211012052549 +0000" stop="20211012055409 +0000">
+    <title>Sketchbook S1 E19 L’arbre</title>
+    <desc>Dans Sketchbook, découvrez l’univers d’Harry, Raphaël, Luca et Marine. Ces 4 artistes passionnés de dessin vous révèlent leurs meilleures techniques pour devenir un véritable pro dans l’art du dessin. Que vous soyez débutant ou confirmé, chaque épisode sera dédié à une technique ou une thématique : le croquis, l’aquarelle, la transparence, l’autoportrait… Soyez prêts à découvrir une nouvelle façon d’aborder le dessin avec Sketchbook !</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/16/CH_VC_CTI_USQO570425A_b0791d0d-266b-11ec-a34b-0a9c8934df2b_20211006062425669.jpg"/>
+  </programme>
   <channel id="CHBA3300021SK">
     <display-name>My Zen TV Free [FR]</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/CHBA3300021SK_20210811T021951.png"/>
@@ -4562,11 +4540,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Bachstiftung</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/CHAJ0500432A_20200923T100452.png"/>
   </channel>
-  <programme channel="CHAJ0500432A" start="20211011205500 +0000" stop="20211011213500 +0000">
-    <title>Kantaten 4</title>
-    <desc> Chor &amp; Orchester der J.S. Bach-Stiftung bringen das gesamte Vokalwerk von Johann Sebastian Bach (1685−1750) zur Aufführung </desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/46/CH_VC_CTI_DEQY392104A_9aab1c2a-43d6-418a-adea-f1345c94ae52_20211011203158573.jpg"/>
-  </programme>
   <programme channel="CHAJ0500432A" start="20211011213500 +0000" stop="20211011220000 +0000">
     <title>Kantaten 1</title>
     <desc>Chor &amp; Orchester der J.S. Bach-Stiftung bringen das gesamte Vokalwerk von Johann Sebastian Bach (1685−1750) zur Aufführung.</desc>
@@ -4630,6 +4603,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>Tanzparty</title>
     <desc>Erleben Sie mit GoldStar TV die Welt des Schlagers und ihre großen Stars hautnah.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/66/CH_VC_CTI_DEQY392104A_0183c154-c0e7-475d-922d-8beaf02c23f1_20211011203258420.jpg"/>
+  </programme>
+  <programme channel="CHAJ0500452A" start="20211012053500 +0000" stop="20211012064000 +0000">
+    <title>Goldies</title>
+    <desc>Erleben Sie mit GoldStar TV die Welt des Schlagers und ihre großen Stars hautnah.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/20/CH_VC_CTI_DEQY392104A_f81d4e46-df3e-4e03-912a-e69809c70727_20211011203136138.jpg"/>
   </programme>
   <channel id="CHBA1000003VJ">
     <display-name>Qello Concerts by Stingray</display-name>
@@ -4718,11 +4696,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Qwest TV Mix</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/CHBA2200003MU_20210209T093442.png"/>
   </channel>
-  <programme channel="CHBA2200003MU" start="20211011205900 +0000" stop="20211011213600 +0000">
-    <title>Carl Cox - Awakenings Festival</title>
-    <desc>In dieser Aufnahme der letzten 30 Minuten von Carl Cox' Set bei Awakenings 2018 in Amsterdam zieht der britische Superstar DJ alle Register. Im Zentrum einer architektonisch eindrucksvollen Bühne mit perfekt synchronisierten Nebel- und Lichtverhältnissen trifft Cox die Menge mit einem Schwall von Techno-Stampfern.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/36/CH_VC_CTI_USQO570425A_dc3e8e3b-1cc3-11ec-a57a-0a9c8934df2b_20210924062709007.jpg"/>
-  </programme>
   <programme channel="CHBA2200003MU" start="20211011213600 +0000" stop="20211012000300 +0000">
     <title>Bambounou - Live at Nuits Sonores</title>
     <desc>Der mit richtigen Namen heißende Jeremy Guindo, französisch-malaysisch-polnischer Herkunft, hat sich eine starke und unabhängige Identität geschaffen, die von seiner Vorliebe für Science-Fiction und Astrophysik beeinflusst wurde, ohne jemals sein Hauptziel dabei zu vergessen: den Tanz. Auf diese Weise zog er auch die Aufmerksamkeit von Modeselektor auf sich. Seitdem ist er ein beliebter Gast in den angesagtesten Clubs und Festivals der Techno-Szene - vom Berghain in Berlin bis zu den Nuits Sonores, wo wir ihn auch zu sehen bekommen.</desc>
@@ -4747,6 +4720,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <title>Gold Panda &amp; Anoushka Shankar</title>
     <desc>Für diese 2018 im Salle Wagram in Paris aufgezeichnete Episode treffen wir Gold Panda, die Offenbarung der britischen Techno-Szene (dessen richtiger Name Derwin Schlecker ist), an der Seite von Anoushka Shankar, einer großartigen Sitaristin, die wie keine andere das Erbe ihres Vaters, des großen Ravi Shankar, wieder aufleben lässt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/08/29/CH_VC_CTI_USQO570425A_94320866-225f-11ec-960e-0a9c8934df2b_20211001071618250.jpg"/>
+  </programme>
+  <programme channel="CHBA2200003MU" start="20211012053700 +0000" stop="20211012063600 +0000">
+    <title>Yasmine Hamdan – Live in Paris</title>
+    <desc>Dieses Pariser Konzert 2014 folgt auf die Veröffentlichung ihres Albums "Ya Nass" (Crammed Discs), aber auch auf die Veröffentlichung des Films "Only Lovers Left Alive" von Jim Jarmush, in dem sie "Hal" singt und sich selbst spielt.</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/35/CH_VC_CTI_USQO570425A_c2f129e6-1752-11ec-bf63-0a9c8934df2b_20210917071518653.jpg"/>
   </programme>
   <channel id="CHBA2200002T9">
     <display-name>Qwest TV Classical</display-name>
@@ -4791,11 +4769,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Qwest TV Jazz and Beyond</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/82/CHBA2200001O3_20210209T093437.png"/>
   </channel>
-  <programme channel="CHBA2200001O3" start="20211011195200 +0000" stop="20211011213300 +0000">
-    <title>Rhoda Scott Lady Quartet - Live</title>
-    <desc>Mit Julie Saury am Schlagzeug, Sophie Alour und Lisa Cat-Berro am Tenor- bzw. Altsaxophon weiß Rhoda Scott, wie sie sich zu umgeben hat. Und um ehrlich zu sein, ist es ein wahres Vergnügen, endlich einmal eine reine Frauenband zu sehen - das Gegenteil ist ja wesentlich häufiger zu sehen.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/29/CH_VC_CTI_USQO570425A_8364a132-1cc3-11ec-a57a-0a9c8934df2b_20210923233051827.jpg"/>
-  </programme>
   <programme channel="CHBA2200001O3" start="20211011213300 +0000" stop="20211011222600 +0000">
     <title>The Latin Beat</title>
     <desc>Rhythmen, Tanz und Performances: Afro-Kubanische Grooves und die totale, vibrierende Energie der Samba und Salsa werden Sie nicht gleichgültig lassen. Erleben Sie bei den Konzerten von Paco De Lucia, Chucho Valdes und Milton Nascimento lateinamerikanische Musik, die Sie auf eine Reise von La Havana bis zur Copacabana entführt.</desc>
@@ -4855,11 +4828,6 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <display-name>Clubbing TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/32/CHBB1900001XL_20210714T000922.png"/>
   </channel>
-  <programme channel="CHBB1900001XL" start="20211011210000 +0000" stop="20211011213000 +0000">
-    <title>From The Studio - Jupiter 6: vintage techno classic</title>
-    <desc>Starsky will be your host/teacher for this From The Studio show. Discover the best electronic music gears and learn how to use them! In this episode : Jupiter 6: vintage techno classic</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/39/CH_VC_CTI_USQT620324A_CHBB1900001XL_7fe67c6dc9ff8799df61a065_20211011053137126.jpg"/>
-  </programme>
   <programme channel="CHBB1900001XL" start="20211011213000 +0000" stop="20211011214000 +0000">
     <title>Clubbing News</title>
     <desc>Your daily dose of fresh Clubbing and Dance music news ! </desc>
@@ -5047,6 +5015,11 @@ Hotaru se met donc en tête de le convaincre, et compte bien rester tout le temp
     <desc>European Originals</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/66/CH_VC_CTI_DEQY392104A_50c0bd35-8f73-4712-9be2-45cc08eb924f_20211011183149020.jpg"/>
   </programme>
+  <programme channel="CHAJ0500435A" start="20211012052500 +0000" stop="20211012070000 +0000">
+    <title>Spielfilm</title>
+    <desc>European Originals</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/07/12/CH_VC_CTI_DEQY392104A_8c045739-7665-40e8-a53a-66cf204d6cfe_20211011183449665.jpg"/>
+  </programme>
   <channel id="CHBA3300023SN">
     <display-name>Watch4 Movies</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/CHBA3300023SN_20210512T003409.png"/>
@@ -5222,11 +5195,6 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <display-name>Fabella</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/CHBA1500012K9_20210623T011212.png"/>
   </channel>
-  <programme channel="CHBA1500012K9" start="20211011170000 +0000" stop="20211011213000 +0000">
-    <title>Romantic Comedy</title>
-    <desc>Fabella ist der deutsche Kanal für Frauenfilme.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/26/CH_VC_CTI_DEQY392104A_fa38c866-a386-4e88-b47b-68903071ffd3_20211011203235708.jpg"/>
-  </programme>
   <programme channel="CHBA1500012K9" start="20211011213000 +0000" stop="20211012023000 +0000">
     <title>Abendunterhaltung</title>
     <desc>Fabella ist der deutsche Kanal für Frauenfilme.</desc>
@@ -5310,6 +5278,11 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <desc>Tico: Ein toller Freund - Episode 16: Tico wird Mutter</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/06/CH_VC_CTI_USQO570425A_5251b9d6-2ab2-11ec-87ac-0a9c8934df2b_20211011183146185.jpg"/>
   </programme>
+  <programme channel="CHBA3300030AJ" start="20211012053000 +0000" stop="20211012060000 +0000">
+    <title>Das Mädchen von der Farm</title>
+    <desc>Das Mädchen von der Farm - Episode 15: Der erste Lohn</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/00/14/CH_VC_CTI_USQO570425A_52545d4c-2ab2-11ec-87ac-0a9c8934df2b_20211011183222640.jpg"/>
+  </programme>
   <channel id="CHBB290000240">
     <display-name>Sofy.tv [FR]</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/CHBB290000240_20210811T022000.png"/>
@@ -5392,11 +5365,6 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <display-name>Dokumentarfilme - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/95/CHBA3300013S2_20210923T010622.png"/>
   </channel>
-  <programme channel="CHBA3300013S2" start="20211011191226 +0000" stop="20211011212932 +0000">
-    <title>Above and Below</title>
-    <desc>Above and Below ist eine raue Achterbahnfahrt mit Überlebenskünstlern in einer Welt voller Herausforderungen und Schönheit. Rick &amp; Cindy in den Flutkanälen tief unter den funkelnden Strassen von Las Vegas, Dave in einem verlassenen Bunker im ausgetrockneten Niemandsland und April in der steinigen Wüste Utahs auf ihrer Marsmission. In unbekannte Welten geschleudert, begegnen wir Seelen, die uns verwandter sind, als wir es vermuten würden.</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/03/12/CH_VC_CTI_USQU352137A_CH-726-CHBA3300013S2-9872565_20211011164316829.jpg"/>
-  </programme>
   <programme channel="CHBA3300013S2" start="20211011212932 +0000" stop="20211011214631 +0000">
     <title>Faszinierende Orte - Staffel 1 - Faszination Anden</title>
     <desc>Mit einer Nord-Süd Ausdehnung von mehr als 7500 km ist die Andenkette das größte Gebirge der Welt. Das riesige Bergmassiv durchzieht den gesamten südamerikanischen Kontinent und formt dabei Landschaften, die unterschiedlicher kaum sein könnten.</desc>
@@ -5531,20 +5499,20 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <desc>Um Marina in die Falle zu locken, organisiert Bernie einen Filmdreh, bei dem Zig und die Meerjungfrau ihre Rollen im echten Leben für die Kamera spielen. Sharko ist sehr wütend: er wird nicht für die Besetzung ausgewählt! Doch Bernie nimmt den Job des Regisseurs zu ernst. | Sharko hat eine Idee für einen romantischen Moment mit Marina: "Lasst uns eine DVD anschauen". Doch Zig und Bernie hängen ein "Movie"-Plakat an das Schloss, und der ruhige Abend entpuppt sich als alles andere als romantisch... | Marina verliert den kleinen Seestern, den sie in ihrem Haar trägt. Bernie verliebt sich unsterblich in das kleine Geschöpf.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/57/CH_VC_CTI_USQU352137A_CH-727-CHBA330001222-10517864_20211011164707544.jpg"/>
   </programme>
-  <programme channel="CHBA330001222" start="20211012050251 +0000" stop="20211012052730 +0000">
+  <programme channel="CHBA330001222" start="20211012050251 +0000" stop="20211012052731 +0000">
     <title>Van Dogh - Staffel 1 - Folgen 86-90</title>
     <desc>Aquarium Baby | Ente mit Brille | Zughaus | Gnom lacht über die Eisnase | Weltraumbanane Mit ihren Rucksäcken fahren Won, Pan und Kit mit ihrem Dreirad durch frühlingshafte Wege mit einem Lächeln im Gesicht, da sie wissen, dass sie Van Dogh auf ihrem Weg finden werden. Dieser brillante Maler hat wie jeden Tag seine Staffelei zwischen die Sonnenblumen gestellt.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/02/14/CH_VC_CTI_USQU352137A_CH-727-CHBA330001222-10516903_20211011164734605.jpg"/>
+  </programme>
+  <programme channel="CHBA330001222" start="20211012052731 +0000" stop="20211012055112 +0000">
+    <title>The Daltons - Staffel 1 - Stürmisches Wetter | Blasenprobleme | Nitroglyzerin-Albtraum</title>
+    <desc>Nach dem Seminar von Fabulous Falcon über den rituellen Regentanz stellt sich heraus, dass Averell eine echte Gabe zur Veränderung des Wetters hat. Die Daltons beschließen, sich in den von ihm verursachten spektakulären Regengüssen zu verstecken, um zu entkommen. Aber der Wetterwechsel spricht sich herum, und der Stamm der Broken Wings ist nicht glücklich mit der Situation...</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/21/CH_VC_CTI_USQU352137A_CH-727-CHBA330001222-13394276_20211011164747119.jpg"/>
   </programme>
   <channel id="CHAJ3500004D1">
     <display-name>Drama Filme - Rakuten TV</display-name>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/89/CHAJ3500004D1_20210923T010635.png"/>
   </channel>
-  <programme channel="CHAJ3500004D1" start="20211011193518 +0000" stop="20211011212715 +0000">
-    <title>Lebe deine Träume - Laiv Sapane</title>
-    <desc>Eine Alleinerziehende Mutter hat nur ein Ziel im Leben: Ihrer Tochter das bestmögliche Leben bieten zu können. Doch diese, in ihrer jugendlichen Rebellion, hat ihren ganz eigenen Plan, wie sie ihre Freizeit gestalten will. Darum schmiedet die Mutter einen genauso einfachen wie funktionalen Plan, um ihre Tochter zu überzeugen, sich für ein Studium ins Zeug zu legen...</desc>
-    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/09/98/CH_VC_CTI_USQU352137A_CH-437-CHAJ3500004D1-14052077_20211011164437470.jpg"/>
-  </programme>
   <programme channel="CHAJ3500004D1" start="20211011212715 +0000" stop="20211011230258 +0000">
     <title>Wo du zu Hause bist</title>
     <desc>Als ihr Mann Luke wegen Verdacht des Betrugs ins Gefängnis muss, bleibt Faith nichts anderes übrig, als nach Jahren in der Großstadt zurück in die Heimat zu gehen. Ihr verwitweter Vater empfängt sie mit offenen Armen, doch ihre Schwester ist nicht begeistert von der Rückkehr. Als beim Vater ein Gehirntumor diagnostiziert wird, muss sich Faith überwinden und den freigelassenen Luke um Hilfe bitten, um einen Arzttermin in New York zu bekommen. Doch Faiths Vater hat einen anderen Plan für sein Leben und das seiner Tochter...</desc>
@@ -5560,10 +5528,15 @@ Die erste Film-Doku der Plattform OMR (Online Marketing Rockstars) zeigt den kom
     <desc>Life of a King ist die wahre Geschichte von Eugene Brown (Cuba Gooding Jr.), der nach zwei Jahrzehnten im Gefängnis versucht wieder im normalen Leben Fuß zu fassen. Als er bei seiner Arbeit in einer Highschool auf eine Gruppe Jugendlicher trifft, die kurz davor sind auf die schiefe Bahn zu geraten, beschließt er ihnen zu helfen. Er nutzt seine jahrelangen Erfahrungen im Schachspielen aus dem Knast und gründet einen Schachclub.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/06/59/CH_VC_CTI_USQU352137A_CH-437-CHAJ3500004D1-1062855_20211011164436656.jpg"/>
   </programme>
-  <programme channel="CHAJ3500004D1" start="20211012034956 +0000" stop="20211012053137 +0000">
+  <programme channel="CHAJ3500004D1" start="20211012034956 +0000" stop="20211012053138 +0000">
     <title>Mata Hari - Tanz mit dem Tod</title>
     <desc>1916 schließen zwei unangepasste Frauen einen ungewöhnlichen Pakt: Eine Offizierin (Nora Waldstätten) vom deutschen Geheimdienst – Freund und Feind nur als "Fräulein Doktor" bekannt – schult die am Karriereende stehende Nackttänzerin "Mata Hari" (Natalia Wörner) zur Geheimagentin. Die eine hat endlich ein Ohr direkt in den einflussreichen Kreisen von Paris, die andere kann ihr mondänes Leben trotz fehlender Engagements weiterführen.</desc>
     <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/40/CH_VC_CTI_USQU352137A_CH-437-CHAJ3500004D1-1720233_20211011164620556.jpg"/>
+  </programme>
+  <programme channel="CHAJ3500004D1" start="20211012053138 +0000" stop="20211012070720 +0000">
+    <title>Wo du zu Hause bist</title>
+    <desc>Als ihr Mann Luke wegen Verdacht des Betrugs ins Gefängnis muss, bleibt Faith nichts anderes übrig, als nach Jahren in der Großstadt zurück in die Heimat zu gehen. Ihr verwitweter Vater empfängt sie mit offenen Armen, doch ihre Schwester ist nicht begeistert von der Rückkehr. Als beim Vater ein Gehirntumor diagnostiziert wird, muss sich Faith überwinden und den freigelassenen Luke um Hilfe bitten, um einen Arzttermin in New York zu bekommen. Doch Faiths Vater hat einen anderen Plan für sein Leben und das seiner Tochter...</desc>
+    <icon src="https://tvpmlogopeu.samsungcloud.tv/platform/image/contents/vc/00/01/33/CH_VC_CTI_USQU352137A_CH-437-CHAJ3500004D1-14790928_20211011164438001.jpg"/>
   </programme>
   <channel id="CHAJ35000021Z">
     <display-name>Actionfilme - Rakuten TV</display-name>

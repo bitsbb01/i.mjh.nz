@@ -30,6 +30,9 @@ pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 
 #EXTINF:-1 tvg-id="radio.ih.8876" tvg-logo="https://i.mjh.nz/.images/radio.ih.8876.png" radio="true",TikTok Trending on iHeartRadio
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.8876 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8876 -f mpegts pipe:1
 
+#EXTINF:-1 tvg-id="radio.ih.9177" tvg-logo="https://i.mjh.nz/.images/radio.ih.9177.png" radio="true",TheLight Worship
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.9177 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9177 -f mpegts pipe:1
+
 #EXTINF:-1 tvg-id="radio.ih.8734" tvg-logo="https://i.mjh.nz/.images/radio.ih.8734.png" radio="true",The Get Up
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.8734 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.8734 -f mpegts pipe:1
 
@@ -176,6 +179,9 @@ pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 
 
 #EXTINF:-1 tvg-id="radio.ih.6328" tvg-logo="https://i.mjh.nz/.images/radio.ih.6328.png" radio="true",96.5 Inner FM Melbourne
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.6328 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6328 -f mpegts pipe:1
+
+#EXTINF:-1 tvg-id="radio.ih.9105" tvg-logo="https://i.mjh.nz/.images/radio.ih.9105.png" radio="true",89.9 TheLight
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.9105 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9105 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-id="radio.ih.6183" tvg-logo="https://i.mjh.nz/.images/radio.ih.6183.png" radio="true",3MBS Fine Music Melbourne
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.6183.mp3 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6183 -f mpegts pipe:1

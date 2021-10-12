@@ -1024,6 +1024,23 @@
         "mjh_master": "https://i.mjh.nz/au/Melbourne/radio.ih.9083",
         "name": "Waiata Anthems"
     },
+    "radio.ih.9105": {
+        "description": "Positive Radio",
+        "genres": [
+            "Christian & Gospel",
+            "Community Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "Seekable": "0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "hls": true,
+        "logo": "https://i.mjh.nz/.images/radio.ih.9105.png",
+        "mjh_master": "https://i.mjh.nz/au/Melbourne/radio.ih.9105",
+        "name": "89.9 TheLight"
+    },
     "radio.ih.9164": {
         "description": "This Song Is For You Oct 15",
         "genres": [
@@ -1040,5 +1057,21 @@
         "logo": "https://i.mjh.nz/.images/radio.ih.9164.png",
         "mjh_master": "https://i.mjh.nz/au/Melbourne/radio.ih.9164",
         "name": "Musicians Making A Difference"
+    },
+    "radio.ih.9177": {
+        "description": "Always Inspiring",
+        "genres": [
+            "Christian & Gospel"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "Seekable": "0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "hls": true,
+        "logo": "https://i.mjh.nz/.images/radio.ih.9177.png",
+        "mjh_master": "https://i.mjh.nz/au/Melbourne/radio.ih.9177",
+        "name": "TheLight Worship"
     }
 }

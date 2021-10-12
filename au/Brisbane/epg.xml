@@ -9116,17 +9116,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211018035900 +0000" stop="20211018051500 +0000">
@@ -9304,17 +9304,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211019035900 +0000" stop="20211019051500 +0000">
@@ -20224,14 +20224,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211016220000 +0000" stop="20211016223000 +0000">
-    <title>Step Outside with Paul Burt</title>
+  <programme channel="tv.101305040543" start="20211016220000 +0000" stop="20211016222900 +0000">
+    <title>Madfin Shark Series</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211016220000 +0000" stop="20211016222900 +0000">
-    <title>Madfin Shark Series</title>
+  <programme channel="tv.101305040543" start="20211016220000 +0000" stop="20211016223000 +0000">
+    <title>Step Outside with Paul Burt</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42407,31 +42407,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211012152032 +0000" stop="20211012154117 +0000">
-    <title>Reel Rock S6E4</title>
-    <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <sub-title>The Nose speed record part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012154117 +0000" stop="20211012160548 +0000">
-    <title>Reel Rock S6E5</title>
-    <desc>Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <sub-title>The Nose speed record part 2</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012160548 +0000" stop="20211012163101 +0000">
-    <title>Reel Rock S6E6</title>
-    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
-    <sub-title>The Nose speed record part 3</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012163101 +0000" stop="20211012181502 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012181502 +0000" stop="20211012182611 +0000">
-    <title>Behind the Bullet S1E4</title>
-    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
-    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211012182611 +0000" stop="20211012183425 +0000">
     <title>Behind the Bullet S1E5</title>
     <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
@@ -42682,6 +42657,46 @@
     <title>Mundo Gustavo S1E1</title>
     <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
     <sub-title>Hometown skating in Lisbon</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013164111 +0000" stop="20211013165250 +0000">
+    <title>Mundo Gustavo S1E2</title>
+    <desc>Join Gustavo Ribeiro as he visits the Basque Country to see his pro board being made.</desc>
+    <sub-title>How a skateboard gets made</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013165250 +0000" stop="20211013170313 +0000">
+    <title>Mundo Gustavo S1E3</title>
+    <desc>Join Gustavo Ribeiro as he shows Leticia Bufoni his private indoor skatepark.</desc>
+    <sub-title>Inside Gustavo Ribeiro's skatepark</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013170313 +0000" stop="20211013174302 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013174302 +0000" stop="20211013185032 +0000">
+    <title>Red Bull Signature Series S2019E8</title>
+    <desc>Red Bull Rampage is the biggest test of courage, skill and creativity in mountain biking.</desc>
+    <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013185032 +0000" stop="20211013185548 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
+    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013185548 +0000" stop="20211013191019 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
+    <sub-title>Dig life at Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013191019 +0000" stop="20211013191949 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013191949 +0000" stop="20211013192813 +0000">
+    <title>Red Bull Rampage 2021</title>
+    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
+    <sub-title>20 iconic moments</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

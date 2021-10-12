@@ -733,14 +733,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18982,15 +18982,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -20273,14 +20273,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20211016210000 +0000" stop="20211016213000 +0000">
-    <title>Step Outside with Paul Burt</title>
+  <programme channel="tv.101305030533" start="20211016210000 +0000" stop="20211016212900 +0000">
+    <title>Madfin Shark Series</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20211016210000 +0000" stop="20211016212900 +0000">
-    <title>Madfin Shark Series</title>
+  <programme channel="tv.101305030533" start="20211016210000 +0000" stop="20211016213000 +0000">
+    <title>Step Outside with Paul Burt</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42490,6 +42490,16 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211012163101 +0000" stop="20211012181502 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012181502 +0000" stop="20211012182611 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211012182611 +0000" stop="20211012183425 +0000">
     <title>Behind the Bullet S1E5</title>
     <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
@@ -42760,26 +42770,6 @@
     <title>Red Bull Signature Series S2019E8</title>
     <desc>Red Bull Rampage is the biggest test of courage, skill and creativity in mountain biking.</desc>
     <sub-title>Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013185032 +0000" stop="20211013185548 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
-    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013185548 +0000" stop="20211013191019 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
-    <sub-title>Dig life at Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013191019 +0000" stop="20211013191949 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
-    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013191949 +0000" stop="20211013192813 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

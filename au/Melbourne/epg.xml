@@ -9130,17 +9130,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211018025900 +0000" stop="20211018041500 +0000">
@@ -9318,17 +9318,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211019025900 +0000" stop="20211019041500 +0000">
@@ -18585,17 +18585,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093100 +0000">
-    <title>Father Brown</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014085900 +0000">
     <title>Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093100 +0000">
+    <title>Father Brown</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211014085900 +0000" stop="20211014092800 +0000">
@@ -18990,15 +18990,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42498,11 +42498,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211012145733 +0000" stop="20211012152032 +0000">
-    <title>Reel Rock S6E3</title>
-    <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
-    <sub-title>United States of Joe's</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211012152032 +0000" stop="20211012154117 +0000">
     <title>Reel Rock S6E4</title>
     <desc>Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
@@ -42768,6 +42763,16 @@
     <title>360 Ascent</title>
     <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
     <sub-title>The world’s longest artificial multi-pitch route</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013161519 +0000" stop="20211013162126 +0000">
+    <title>Cycling Around the World S1E6</title>
+    <desc>Khothalang Leuta discovers the joys of riding from the pump track in her hometown of Roma in Lesotho.</desc>
+    <sub-title>The fastest girl in the village</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013162126 +0000" stop="20211013164111 +0000">
+    <title>Mundo Gustavo S1E1</title>
+    <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
+    <sub-title>Hometown skating in Lisbon</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

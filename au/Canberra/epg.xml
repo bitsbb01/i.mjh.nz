@@ -210,7 +210,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211012130000 +0000" stop="20211012131500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -231,7 +230,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211012140000 +0000" stop="20211012141500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -250,7 +248,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211012150000 +0000" stop="20211012152900 +0000">
+  <programme channel="tv.101002210220" start="20211012150000 +0000" stop="20211012153000 +0000">
     <title>DW News</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -263,7 +261,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211012152900 +0000" stop="20211012162900 +0000">
+  <programme channel="tv.101002210220" start="20211012153000 +0000" stop="20211012162900 +0000">
     <title>The Drum</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -284,7 +282,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211012180000 +0000" stop="20211012181400 +0000">
+  <programme channel="tv.101002210220" start="20211012180000 +0000" stop="20211012181700 +0000">
     <title>DW News</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -297,7 +295,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211012182900 +0000" stop="20211012190000 +0000">
+  <programme channel="tv.101002210220" start="20211012181700 +0000" stop="20211012182600 +0000">
+    <title>Bee Cause</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211012182600 +0000" stop="20211012190000 +0000">
     <title>China Tonight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -427,7 +432,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211013130000 +0000" stop="20211013131500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -439,21 +443,20 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211013133000 +0000" stop="20211013140000 +0000">
+  <programme channel="tv.101002210220" start="20211013133000 +0000" stop="20211013140100 +0000">
     <title>China Tonight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211013140000 +0000" stop="20211013141500 +0000">
+  <programme channel="tv.101002210220" start="20211013140100 +0000" stop="20211013141600 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211013141500 +0000" stop="20211013144500 +0000">
+  <programme channel="tv.101002210220" start="20211013141600 +0000" stop="20211013144900 +0000">
     <title>7.30</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -462,6 +465,13 @@
   </programme>
   <programme channel="tv.101002210220" start="20211013144500 +0000" stop="20211013150000 +0000">
     <title>The Business</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211013144900 +0000" stop="20211013150000 +0000">
+    <title>First Nation Farmers</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -575,8 +585,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211014080000 +0000" stop="20211014090000 +0000">
+  <programme channel="tv.101002210220" start="20211014080000 +0000" stop="20211014084500 +0000">
     <title>ABC National News</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211014084500 +0000" stop="20211014090000 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -629,7 +645,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211014130000 +0000" stop="20211014131500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -650,12 +665,17 @@
   </programme>
   <programme channel="tv.101002210220" start="20211014140000 +0000" stop="20211014141500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211014141500 +0000" stop="20211014144500 +0000">
+  <programme channel="tv.101002210220" start="20211014141500 +0000" stop="20211014143000 +0000">
+    <title>The Ticket</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211014143000 +0000" stop="20211014150000 +0000">
     <title>7.30</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -711,6 +731,12 @@
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
     <title>The Business</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -842,7 +868,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211015130000 +0000" stop="20211015131500 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -855,7 +880,6 @@
   </programme>
   <programme channel="tv.101002210220" start="20211015141200 +0000" stop="20211015143000 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -898,40 +922,46 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211015170100 +0000" stop="20211015180000 +0000">
+  <programme channel="tv.101002210220" start="20211015170100 +0000" stop="20211015175800 +0000">
     <title>The World</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211015180000 +0000" stop="20211015180200 +0000">
+  <programme channel="tv.101002210220" start="20211015175800 +0000" stop="20211015180000 +0000">
     <title>ABC News Update</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211015180200 +0000" stop="20211015190000 +0000">
-    <title>Planet America</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211015180000 +0000" stop="20211015181500 +0000">
+    <title>DW News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211015190000 +0000" stop="20211015190100 +0000">
-    <title>ABC News Update</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20211015190100 +0000" stop="20211015192900 +0000">
+  <programme channel="tv.101002210220" start="20211015181500 +0000" stop="20211015184300 +0000">
     <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211015192900 +0000" stop="20211015200000 +0000">
-    <title>Foreign Correspondent: The Rise of China</title>
+  <programme channel="tv.101002210220" start="20211015184300 +0000" stop="20211015190000 +0000">
+    <title>The Vaccine</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211015190000 +0000" stop="20211015190300 +0000">
+    <title>ABC News Update</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211015190300 +0000" stop="20211015200000 +0000">
+    <title>Planet America</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -992,9 +1022,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016033000 +0000" stop="20211016040000 +0000">
-    <title>Landline</title>
+  <programme channel="tv.101002210220" start="20211016033000 +0000" stop="20211016034500 +0000">
+    <title>The Vaccine</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211016034500 +0000" stop="20211016040000 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1013,13 +1049,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016053000 +0000" stop="20211016060000 +0000">
-    <title>ABC News</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210220" start="20211016060000 +0000" stop="20211016060500 +0000">
+  <programme channel="tv.101002210220" start="20211016053000 +0000" stop="20211016060500 +0000">
     <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -1071,13 +1101,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016100000 +0000" stop="20211016103000 +0000">
+  <programme channel="tv.101002210220" start="20211016100000 +0000" stop="20211016102900 +0000">
     <title>ABC Nightly News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016103000 +0000" stop="20211016110000 +0000">
+  <programme channel="tv.101002210220" start="20211016102900 +0000" stop="20211016110000 +0000">
     <title>Movin' to the Country</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -1117,7 +1147,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016131500 +0000" stop="20211016133100 +0000">
+  <programme channel="tv.101002210220" start="20211016131500 +0000" stop="20211016133200 +0000">
     <title>Media Watch</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -1126,6 +1156,19 @@
   </programme>
   <programme channel="tv.101002210220" start="20211016133100 +0000" stop="20211016140000 +0000">
     <title>The Business: Cryptocurrency Special</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211016133200 +0000" stop="20211016134700 +0000">
+    <title>The Ticket</title>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211016134700 +0000" stop="20211016140000 +0000">
+    <title>Bee Cause</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1187,13 +1230,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016170000 +0000" stop="20211016171600 +0000">
+  <programme channel="tv.101002210220" start="20211016170000 +0000" stop="20211016171500 +0000">
     <title>DW News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016171600 +0000" stop="20211016172000 +0000">
+  <programme channel="tv.101002210220" start="20211016171500 +0000" stop="20211016172000 +0000">
     <title>ABC News Update</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -1349,28 +1392,27 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211017070000 +0000" stop="20211017073000 +0000">
+  <programme channel="tv.101002210220" start="20211017070000 +0000" stop="20211017072900 +0000">
     <title>ABC Evening News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211017073000 +0000" stop="20211017080000 +0000">
+  <programme channel="tv.101002210220" start="20211017072900 +0000" stop="20211017080000 +0000">
     <title>Movin' to the Country</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211017080000 +0000" stop="20211017084500 +0000">
+  <programme channel="tv.101002210220" start="20211017080000 +0000" stop="20211017084200 +0000">
     <title>ABC News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211017084500 +0000" stop="20211017090000 +0000">
-    <title>The Beautiful Bush</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211017084200 +0000" stop="20211017090000 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1467,7 +1509,7 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211017161500 +0000" stop="20211017163100 +0000">
-    <title>ABC Late News</title>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1654,19 +1696,19 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211018150000 +0000" stop="20211018151500 +0000">
+  <programme channel="tv.101002210220" start="20211018150000 +0000" stop="20211018153000 +0000">
     <title>DW News</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211018151500 +0000" stop="20211018153100 +0000">
+  <programme channel="tv.101002210220" start="20211018153000 +0000" stop="20211018154500 +0000">
     <title>ABC News Overnight</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211018153100 +0000" stop="20211018163000 +0000">
+  <programme channel="tv.101002210220" start="20211018154500 +0000" stop="20211018164500 +0000">
     <title>The Drum</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -1680,15 +1722,21 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211018170000 +0000" stop="20211018170100 +0000">
-    <title>ABC News Update</title>
+  <programme channel="tv.101002210220" start="20211018164500 +0000" stop="20211018170000 +0000">
+    <title>ABC News Overnight</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211018170100 +0000" stop="20211018180000 +0000">
+  <programme channel="tv.101002210220" start="20211018170000 +0000" stop="20211018175800 +0000">
     <title>The World</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20211018175800 +0000" stop="20211018180000 +0000">
+    <title>ABC News Update</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1840,21 +1888,21 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211012122900 +0000" stop="20211012133100 +0000">
+  <programme channel="tv.101002210221" start="20211012122900 +0000" stop="20211012133000 +0000">
     <title>Q+A</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211012133100 +0000" stop="20211012140300 +0000">
+  <programme channel="tv.101002210221" start="20211012133000 +0000" stop="20211012140400 +0000">
     <title>China Tonight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211012140300 +0000" stop="20211012153000 +0000">
+  <programme channel="tv.101002210221" start="20211012140400 +0000" stop="20211012153000 +0000">
     <title>Manolo: The Boy Who Made Shoes for Lizards</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -1923,14 +1971,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013013000 +0000" stop="20211013023700 +0000">
+  <programme channel="tv.101002210221" start="20211013013000 +0000" stop="20211013023600 +0000">
     <title>National Press Club Address</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013023700 +0000" stop="20211013030100 +0000">
+  <programme channel="tv.101002210221" start="20211013023600 +0000" stop="20211013030100 +0000">
     <title>Media Watch</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -2014,56 +2062,55 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013111800 +0000" stop="20211013120000 +0000">
+  <programme channel="tv.101002210221" start="20211013111800 +0000" stop="20211013115700 +0000">
     <title>Adam Hills: The Last Leg</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013120000 +0000" stop="20211013121500 +0000">
+  <programme channel="tv.101002210221" start="20211013115700 +0000" stop="20211013121200 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013121500 +0000" stop="20211013123200 +0000">
+  <programme channel="tv.101002210221" start="20211013121200 +0000" stop="20211013122900 +0000">
     <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013123200 +0000" stop="20211013131700 +0000">
+  <programme channel="tv.101002210221" start="20211013122900 +0000" stop="20211013131600 +0000">
     <title>Four Corners</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013131700 +0000" stop="20211013133300 +0000">
+  <programme channel="tv.101002210221" start="20211013131600 +0000" stop="20211013133500 +0000">
     <title>Media Watch</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013133300 +0000" stop="20211013143300 +0000">
+  <programme channel="tv.101002210221" start="20211013133500 +0000" stop="20211013143500 +0000">
     <title>Silent Witness</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013143300 +0000" stop="20211013151800 +0000">
+  <programme channel="tv.101002210221" start="20211013143500 +0000" stop="20211013152100 +0000">
     <title>The Bletchley Circle: San Francisco</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211013151800 +0000" stop="20211013160000 +0000">
+  <programme channel="tv.101002210221" start="20211013152100 +0000" stop="20211013160000 +0000">
     <title>Adam Hills: The Last Leg</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -2232,7 +2279,6 @@
   </programme>
   <programme channel="tv.101002210221" start="20211014114200 +0000" stop="20211014115700 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2413,7 +2459,6 @@
   </programme>
   <programme channel="tv.101002210221" start="20211015114500 +0000" stop="20211015120000 +0000">
     <title>ABC Late News</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2661,14 +2706,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211017043000 +0000" stop="20211017050100 +0000">
+  <programme channel="tv.101002210221" start="20211017043000 +0000" stop="20211017050000 +0000">
     <title>Todd Sampson's Life on the Line</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211017050100 +0000" stop="20211017060100 +0000">
+  <programme channel="tv.101002210221" start="20211017050000 +0000" stop="20211017060100 +0000">
     <title>Secrets of the Museum</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -2678,6 +2723,9 @@
   <programme channel="tv.101002210221" start="20211017060100 +0000" stop="20211017063000 +0000">
     <title>Art Works</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211017063000 +0000" stop="20211017073000 +0000">
     <title>Antiques Roadshow</title>
@@ -2755,14 +2803,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211017165700 +0000" stop="20211017175800 +0000">
+  <programme channel="tv.101002210221" start="20211017165700 +0000" stop="20211017175900 +0000">
     <title>Horror Movie: A Low Budget Nightmare</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211017175800 +0000" stop="20211017190000 +0000">
+  <programme channel="tv.101002210221" start="20211017175900 +0000" stop="20211017190000 +0000">
     <title>Insiders</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -2802,6 +2850,13 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
@@ -2986,6 +3041,13 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -3034,14 +3096,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211019083000 +0000" stop="20211019092000 +0000">
+  <programme channel="tv.101002210221" start="20211019083000 +0000" stop="20211019090500 +0000">
     <title>7.30</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211019092000 +0000" stop="20211019093000 +0000">
+  <programme channel="tv.101002210221" start="20211019090500 +0000" stop="20211019093000 +0000">
     <title>The Greek Islands with Julia Bradbury</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -4723,26 +4785,26 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015080100 +0000" stop="20211015081400 +0000">
+  <programme channel="tv.101002210222" start="20211015080100 +0000" stop="20211015081500 +0000">
     <title>Dino Dana</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015081400 +0000" stop="20211015083200 +0000">
+  <programme channel="tv.101002210222" start="20211015081500 +0000" stop="20211015083200 +0000">
     <title>Odd Squad</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015083200 +0000" stop="20211015090100 +0000">
+  <programme channel="tv.101002210222" start="20211015083200 +0000" stop="20211015090000 +0000">
     <title>Spicks and Specks</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015090100 +0000" stop="20211015093000 +0000">
+  <programme channel="tv.101002210222" start="20211015090000 +0000" stop="20211015093000 +0000">
     <title>Hard Quiz</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -4756,14 +4818,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015113100 +0000" stop="20211015120800 +0000">
+  <programme channel="tv.101002210222" start="20211015113100 +0000" stop="20211015120700 +0000">
     <title>Gruen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211015120800 +0000" stop="20211015125300 +0000">
+  <programme channel="tv.101002210222" start="20211015120700 +0000" stop="20211015125300 +0000">
     <title>Doctor Who</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -5084,27 +5146,27 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016011300 +0000" stop="20211016014200 +0000">
+  <programme channel="tv.101002210222" start="20211016011300 +0000" stop="20211016014100 +0000">
     <title>In the Night Garden</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016014200 +0000" stop="20211016014800 +0000">
+  <programme channel="tv.101002210222" start="20211016014100 +0000" stop="20211016014800 +0000">
     <title>Tik Tak</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016014800 +0000" stop="20211016020500 +0000">
+  <programme channel="tv.101002210222" start="20211016014800 +0000" stop="20211016020400 +0000">
     <title>Guess How Much I Love You</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016020500 +0000" stop="20211016021100 +0000">
+  <programme channel="tv.101002210222" start="20211016020400 +0000" stop="20211016021100 +0000">
     <title>Buddi</title>
     <rating system="Freeview">
       <value>G</value>
@@ -5280,14 +5342,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016073300 +0000" stop="20211016080000 +0000">
+  <programme channel="tv.101002210222" start="20211016073300 +0000" stop="20211016075900 +0000">
     <title>Fireman Sam</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016080000 +0000" stop="20211016081600 +0000">
+  <programme channel="tv.101002210222" start="20211016075900 +0000" stop="20211016081600 +0000">
     <title>Grace's Amazing Machines</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -5385,13 +5447,13 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016150200 +0000" stop="20211016150300 +0000">
+  <programme channel="tv.101002210222" start="20211016150200 +0000" stop="20211016150400 +0000">
     <title>ABC News Update</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211016150300 +0000" stop="20211016180100 +0000">
+  <programme channel="tv.101002210222" start="20211016150400 +0000" stop="20211016180100 +0000">
     <title>Station Close</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -5848,14 +5910,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211017080000 +0000" stop="20211017081600 +0000">
+  <programme channel="tv.101002210222" start="20211017080000 +0000" stop="20211017081500 +0000">
     <title>Grace's Amazing Machines</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211017081600 +0000" stop="20211017083200 +0000">
+  <programme channel="tv.101002210222" start="20211017081500 +0000" stop="20211017083200 +0000">
     <title>Sir Mouse</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -5925,14 +5987,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211017143300 +0000" stop="20211017150200 +0000">
+  <programme channel="tv.101002210222" start="20211017143300 +0000" stop="20211017150100 +0000">
     <title>Review with Myles Barlow</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210222" start="20211017150200 +0000" stop="20211017150300 +0000">
+  <programme channel="tv.101002210222" start="20211017150100 +0000" stop="20211017150300 +0000">
     <title>ABC News Update</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -8246,13 +8308,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016043600 +0000" stop="20211016045900 +0000">
+  <programme channel="tv.101002210224" start="20211016043600 +0000" stop="20211016050000 +0000">
     <title>Voltron: Legendary Defender</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016045900 +0000" stop="20211016053300 +0000">
+  <programme channel="tv.101002210224" start="20211016050000 +0000" stop="20211016053300 +0000">
     <title>The Dengineers</title>
     <rating system="Freeview">
       <value>G</value>
@@ -8264,14 +8326,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016055600 +0000" stop="20211016062700 +0000">
+  <programme channel="tv.101002210224" start="20211016055600 +0000" stop="20211016062600 +0000">
     <title>100 Things to Do Before High School</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016062700 +0000" stop="20211016065000 +0000">
+  <programme channel="tv.101002210224" start="20211016062600 +0000" stop="20211016065000 +0000">
     <title>Miraculous: Tales of Ladybug &amp; Cat Noir</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -8305,13 +8367,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016074300 +0000" stop="20211016080100 +0000">
+  <programme channel="tv.101002210224" start="20211016074300 +0000" stop="20211016080000 +0000">
     <title>What It's Like</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016080100 +0000" stop="20211016083000 +0000">
+  <programme channel="tv.101002210224" start="20211016080000 +0000" stop="20211016083000 +0000">
     <title>Horrible Histories</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -8331,26 +8393,26 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016092300 +0000" stop="20211016094600 +0000">
+  <programme channel="tv.101002210224" start="20211016092300 +0000" stop="20211016094500 +0000">
     <title>Teenage Mutant Ninja Turtles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016094600 +0000" stop="20211016095800 +0000">
+  <programme channel="tv.101002210224" start="20211016094500 +0000" stop="20211016095800 +0000">
     <title>Danger Mouse</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016095800 +0000" stop="20211016102200 +0000">
+  <programme channel="tv.101002210224" start="20211016095800 +0000" stop="20211016102100 +0000">
     <title>The Fairly OddParents</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20211016102200 +0000" stop="20211016104700 +0000">
+  <programme channel="tv.101002210224" start="20211016102100 +0000" stop="20211016104700 +0000">
     <title>Find Me in Paris</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9151,6 +9213,7 @@
   </programme>
   <programme channel="tv.101002210224" start="20211018234500 +0000" stop="20211018235300 +0000">
     <title>Maddie's Do You Know?</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9440,6 +9503,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20211013010000 +0000" stop="20211013020300 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9474,6 +9538,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20211013060200 +0000" stop="20211013065900 +0000">
     <title>Millionaire Hot Seat</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -9610,13 +9675,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014010000 +0000" stop="20211014020000 +0000">
+  <programme channel="tv.101204200421" start="20211014010000 +0000" stop="20211014020300 +0000">
     <title>The Block</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014020000 +0000" stop="20211014030000 +0000">
+  <programme channel="tv.101204200421" start="20211014020300 +0000" stop="20211014030000 +0000">
     <title>Desperate Housewives</title>
     <rating system="Freeview">
       <value>M</value>
@@ -9630,6 +9695,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20211014040000 +0000" stop="20211014050000 +0000">
     <title>Tipping Point</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9641,124 +9707,125 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014060000 +0000" stop="20211014070000 +0000">
+  <programme channel="tv.101204200421" start="20211014060000 +0000" stop="20211014065900 +0000">
     <title>Millionaire Hot Seat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014070000 +0000" stop="20211014080000 +0000">
+  <programme channel="tv.101204200421" start="20211014065900 +0000" stop="20211014080000 +0000">
     <title>Nine News</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014080000 +0000" stop="20211014083000 +0000">
+  <programme channel="tv.101204200421" start="20211014080000 +0000" stop="20211014083200 +0000">
     <title>A Current Affair</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014083000 +0000" stop="20211014093000 +0000">
+  <programme channel="tv.101204200421" start="20211014083200 +0000" stop="20211014093400 +0000">
     <title>Paramedics</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014093000 +0000" stop="20211014103000 +0000">
+  <programme channel="tv.101204200421" start="20211014093400 +0000" stop="20211014104300 +0000">
     <title>Love Island Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014103000 +0000" stop="20211014110000 +0000">
+  <programme channel="tv.101204200421" start="20211014104300 +0000" stop="20211014111400 +0000">
     <title>Love Island Australia Afterparty</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014110000 +0000" stop="20211014113000 +0000">
+  <programme channel="tv.101204200421" start="20211014111400 +0000" stop="20211014114300 +0000">
     <title>Nine News Late</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014113000 +0000" stop="20211014124500 +0000">
+  <programme channel="tv.101204200421" start="20211014114300 +0000" stop="20211014125300 +0000">
     <title>Reported Missing</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014124500 +0000" stop="20211014133500 +0000">
+  <programme channel="tv.101204200421" start="20211014125300 +0000" stop="20211014133600 +0000">
     <title>The Fix</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014133500 +0000" stop="20211014143000 +0000">
+  <programme channel="tv.101204200421" start="20211014133600 +0000" stop="20211014144000 +0000">
     <title>Tipping Point</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014143000 +0000" stop="20211014150000 +0000">
+  <programme channel="tv.101204200421" start="20211014144000 +0000" stop="20211014150900 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014150000 +0000" stop="20211014153000 +0000">
+  <programme channel="tv.101204200421" start="20211014150900 +0000" stop="20211014153700 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014153000 +0000" stop="20211014160000 +0000">
+  <programme channel="tv.101204200421" start="20211014153700 +0000" stop="20211014160600 +0000">
     <title>Global Shop</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014160000 +0000" stop="20211014163000 +0000">
+  <programme channel="tv.101204200421" start="20211014160600 +0000" stop="20211014163400 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014163000 +0000" stop="20211014170000 +0000">
+  <programme channel="tv.101204200421" start="20211014163400 +0000" stop="20211014170300 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014170000 +0000" stop="20211014173000 +0000">
+  <programme channel="tv.101204200421" start="20211014170300 +0000" stop="20211014173100 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014173000 +0000" stop="20211014180000 +0000">
+  <programme channel="tv.101204200421" start="20211014173100 +0000" stop="20211014180000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014180000 +0000" stop="20211014183000 +0000">
+  <programme channel="tv.101204200421" start="20211014180000 +0000" stop="20211014182900 +0000">
     <title>Nine News Early Edition</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20211014183000 +0000" stop="20211014220000 +0000">
+  <programme channel="tv.101204200421" start="20211014182900 +0000" stop="20211014220000 +0000">
     <title>Today</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -9794,12 +9861,14 @@
   </programme>
   <programme channel="tv.101204200421" start="20211015030000 +0000" stop="20211015040000 +0000">
     <title>Pointless</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20211015040000 +0000" stop="20211015050000 +0000">
     <title>Tipping Point</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9924,6 +9993,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20211015190000 +0000" stop="20211015200000 +0000">
     <title>Animal Tales</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -9946,17 +10016,19 @@
     <title>Rivals</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20211016013000 +0000" stop="20211016020000 +0000">
     <title>Surfing Australia TV</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20211016020000 +0000" stop="20211016023000 +0000">
     <title>Good Food Kitchen</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10145,7 +10217,7 @@
     <title>Fishing Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20211017010000 +0000" stop="20211017020000 +0000">
@@ -10163,6 +10235,7 @@
   </programme>
   <programme channel="tv.101204200421" start="20211017040000 +0000" stop="20211017050000 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10352,7 +10425,6 @@
   </programme>
   <programme channel="tv.101204200421" start="20211018060000 +0000" stop="20211018070000 +0000">
     <title>Millionaire Hot Seat</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10537,7 +10609,6 @@
   </programme>
   <programme channel="tv.101204200421" start="20211019060000 +0000" stop="20211019070000 +0000">
     <title>Millionaire Hot Seat</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -10558,7 +10629,6 @@
   </programme>
   <programme channel="tv.101204200421" start="20211019083000 +0000" stop="20211019094500 +0000">
     <title>The Block</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10888,51 +10958,51 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211013213000 +0000" stop="20211013223000 +0000">
+  <programme channel="tv.101204200424" start="20211013213000 +0000" stop="20211013223500 +0000">
     <title>The Block: Fans v Faves</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211013223000 +0000" stop="20211013230000 +0000">
+  <programme channel="tv.101204200424" start="20211013223500 +0000" stop="20211013230400 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211013230000 +0000" stop="20211013233000 +0000">
+  <programme channel="tv.101204200424" start="20211013230400 +0000" stop="20211013233300 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211013233000 +0000" stop="20211014000000 +0000">
+  <programme channel="tv.101204200424" start="20211013233300 +0000" stop="20211014000200 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014000000 +0000" stop="20211014010000 +0000">
+  <programme channel="tv.101204200424" start="20211014000200 +0000" stop="20211014010100 +0000">
     <title>Masters of Flip</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014010000 +0000" stop="20211014020000 +0000">
+  <programme channel="tv.101204200424" start="20211014010100 +0000" stop="20211014020000 +0000">
     <title>Home Town</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014020000 +0000" stop="20211014023000 +0000">
+  <programme channel="tv.101204200424" start="20211014020000 +0000" stop="20211014023100 +0000">
     <title>Good Food Kitchen</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014023000 +0000" stop="20211014030000 +0000">
+  <programme channel="tv.101204200424" start="20211014023100 +0000" stop="20211014030000 +0000">
     <title>Garage Gold</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -10950,68 +11020,68 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014040000 +0000" stop="20211014050000 +0000">
+  <programme channel="tv.101204200424" start="20211014040000 +0000" stop="20211014050400 +0000">
     <title>The Block: Fans v Faves</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014050000 +0000" stop="20211014053000 +0000">
+  <programme channel="tv.101204200424" start="20211014050400 +0000" stop="20211014053400 +0000">
     <title>Log Cabin Living</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014053000 +0000" stop="20211014060000 +0000">
+  <programme channel="tv.101204200424" start="20211014053400 +0000" stop="20211014060300 +0000">
     <title>Garage Gold</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014060000 +0000" stop="20211014070000 +0000">
+  <programme channel="tv.101204200424" start="20211014060300 +0000" stop="20211014070100 +0000">
     <title>Beachfront Bargain Hunt: Renovation</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014070000 +0000" stop="20211014073000 +0000">
+  <programme channel="tv.101204200424" start="20211014070100 +0000" stop="20211014073100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014073000 +0000" stop="20211014080000 +0000">
+  <programme channel="tv.101204200424" start="20211014073100 +0000" stop="20211014080100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014080000 +0000" stop="20211014083000 +0000">
+  <programme channel="tv.101204200424" start="20211014080100 +0000" stop="20211014083100 +0000">
     <title>House Hunters</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014083000 +0000" stop="20211014090000 +0000">
+  <programme channel="tv.101204200424" start="20211014083100 +0000" stop="20211014090100 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014090000 +0000" stop="20211014093000 +0000">
+  <programme channel="tv.101204200424" start="20211014090100 +0000" stop="20211014093000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014093000 +0000" stop="20211014103000 +0000">
+  <programme channel="tv.101204200424" start="20211014093000 +0000" stop="20211014103100 +0000">
     <title>Fixer Upper</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014103000 +0000" stop="20211014113000 +0000">
+  <programme channel="tv.101204200424" start="20211014103100 +0000" stop="20211014113000 +0000">
     <title>Bargain Mansions</title>
     <rating system="Freeview">
       <value>G</value>
@@ -11035,25 +11105,25 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014140000 +0000" stop="20211014150000 +0000">
+  <programme channel="tv.101204200424" start="20211014140000 +0000" stop="20211014150300 +0000">
     <title>Very Cavillari</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014150000 +0000" stop="20211014153000 +0000">
+  <programme channel="tv.101204200424" start="20211014150300 +0000" stop="20211014153100 +0000">
     <title>Bargain Mansions</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014153000 +0000" stop="20211014160000 +0000">
+  <programme channel="tv.101204200424" start="20211014153100 +0000" stop="20211014160100 +0000">
     <title>Bargain Mansions</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014160000 +0000" stop="20211014163000 +0000">
+  <programme channel="tv.101204200424" start="20211014160100 +0000" stop="20211014163000 +0000">
     <title>Flip or Flop</title>
     <rating system="Freeview">
       <value>G</value>
@@ -11077,13 +11147,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014180000 +0000" stop="20211014183000 +0000">
+  <programme channel="tv.101204200424" start="20211014180000 +0000" stop="20211014183100 +0000">
     <title>Log Cabin Living</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20211014183000 +0000" stop="20211014190000 +0000">
+  <programme channel="tv.101204200424" start="20211014183100 +0000" stop="20211014190000 +0000">
     <title>Garage Gold</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -12352,105 +12422,105 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013190000 +0000" stop="20211013193000 +0000">
+  <programme channel="tv.101204200427" start="20211013190000 +0000" stop="20211013192900 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013193000 +0000" stop="20211013200000 +0000">
+  <programme channel="tv.101204200427" start="20211013192900 +0000" stop="20211013195800 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013200000 +0000" stop="20211013203000 +0000">
+  <programme channel="tv.101204200427" start="20211013195800 +0000" stop="20211013202900 +0000">
     <title>Creflo Dollar Ministries</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013203000 +0000" stop="20211013210000 +0000">
+  <programme channel="tv.101204200427" start="20211013202900 +0000" stop="20211013205800 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013210000 +0000" stop="20211013213000 +0000">
+  <programme channel="tv.101204200427" start="20211013205800 +0000" stop="20211013212800 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013213000 +0000" stop="20211013220000 +0000">
+  <programme channel="tv.101204200427" start="20211013212800 +0000" stop="20211013215800 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013220000 +0000" stop="20211013223000 +0000">
+  <programme channel="tv.101204200427" start="20211013215800 +0000" stop="20211013222700 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013223000 +0000" stop="20211013230000 +0000">
+  <programme channel="tv.101204200427" start="20211013222700 +0000" stop="20211013225700 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013230000 +0000" stop="20211013233000 +0000">
+  <programme channel="tv.101204200427" start="20211013225700 +0000" stop="20211013232700 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211013233000 +0000" stop="20211014003000 +0000">
+  <programme channel="tv.101204200427" start="20211013232700 +0000" stop="20211014002700 +0000">
     <title>Pointless</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014003000 +0000" stop="20211014010000 +0000">
+  <programme channel="tv.101204200427" start="20211014002700 +0000" stop="20211014010000 +0000">
     <title>My Favorite Martian</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014010000 +0000" stop="20211014013000 +0000">
+  <programme channel="tv.101204200427" start="20211014010000 +0000" stop="20211014013300 +0000">
     <title>As Time Goes By</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014013000 +0000" stop="20211014021000 +0000">
+  <programme channel="tv.101204200427" start="20211014013300 +0000" stop="20211014021000 +0000">
     <title>As Time Goes By</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014021000 +0000" stop="20211014030500 +0000">
+  <programme channel="tv.101204200427" start="20211014021000 +0000" stop="20211014030300 +0000">
     <title>Days of Our Lives</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014030500 +0000" stop="20211014040000 +0000">
+  <programme channel="tv.101204200427" start="20211014030300 +0000" stop="20211014035600 +0000">
     <title>The Young and the Restless</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014040000 +0000" stop="20211014043000 +0000">
+  <programme channel="tv.101204200427" start="20211014035600 +0000" stop="20211014042800 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014043000 +0000" stop="20211014063000 +0000">
+  <programme channel="tv.101204200427" start="20211014042800 +0000" stop="20211014063000 +0000">
     <title>Against the Wind</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -12477,87 +12547,87 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014094000 +0000" stop="20211014121000 +0000">
+  <programme channel="tv.101204200427" start="20211014094000 +0000" stop="20211014121100 +0000">
     <title>Chocolat</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014121000 +0000" stop="20211014130500 +0000">
+  <programme channel="tv.101204200427" start="20211014121100 +0000" stop="20211014131200 +0000">
     <title>Law &amp; Order</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014130500 +0000" stop="20211014133000 +0000">
+  <programme channel="tv.101204200427" start="20211014131200 +0000" stop="20211014134100 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014133000 +0000" stop="20211014140000 +0000">
+  <programme channel="tv.101204200427" start="20211014134100 +0000" stop="20211014141300 +0000">
     <title>My Favorite Martian</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014140000 +0000" stop="20211014143000 +0000">
+  <programme channel="tv.101204200427" start="20211014141300 +0000" stop="20211014144100 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014143000 +0000" stop="20211014150000 +0000">
+  <programme channel="tv.101204200427" start="20211014144100 +0000" stop="20211014151000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014150000 +0000" stop="20211014153000 +0000">
+  <programme channel="tv.101204200427" start="20211014151000 +0000" stop="20211014153900 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014153000 +0000" stop="20211014160000 +0000">
+  <programme channel="tv.101204200427" start="20211014153900 +0000" stop="20211014160700 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014160000 +0000" stop="20211014163000 +0000">
+  <programme channel="tv.101204200427" start="20211014160700 +0000" stop="20211014163600 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014163000 +0000" stop="20211014170000 +0000">
+  <programme channel="tv.101204200427" start="20211014163600 +0000" stop="20211014170500 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014170000 +0000" stop="20211014173000 +0000">
+  <programme channel="tv.101204200427" start="20211014170500 +0000" stop="20211014173300 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014173000 +0000" stop="20211014180000 +0000">
+  <programme channel="tv.101204200427" start="20211014173300 +0000" stop="20211014180200 +0000">
     <title>Joyce Meyer Enjoying Everyday Life</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014180000 +0000" stop="20211014183000 +0000">
+  <programme channel="tv.101204200427" start="20211014180200 +0000" stop="20211014183100 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211014183000 +0000" stop="20211014190000 +0000">
+  <programme channel="tv.101204200427" start="20211014183100 +0000" stop="20211014190000 +0000">
     <title>TV Shop - Home Shopping</title>
     <rating system="Freeview">
       <value>G</value>
@@ -12855,18 +12925,18 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211016104500 +0000" stop="20211016134500 +0000">
+  <programme channel="tv.101204200427" start="20211016104500 +0000" stop="20211016131000 +0000">
     <title>Ronin</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211016134500 +0000" stop="20211016140000 +0000">
-    <title>The Garden Gurus Moments</title>
+  <programme channel="tv.101204200427" start="20211016131000 +0000" stop="20211016140000 +0000">
+    <title>Embarrassing Bodies</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211016140000 +0000" stop="20211016143000 +0000">
@@ -13401,105 +13471,105 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012190000 +0000" stop="20211012193000 +0000">
+  <programme channel="tv.101204200428" start="20211012190000 +0000" stop="20211012193100 +0000">
     <title>Rainbow Rangers</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012193000 +0000" stop="20211012200000 +0000">
+  <programme channel="tv.101204200428" start="20211012193100 +0000" stop="20211012195900 +0000">
     <title>Barbie Dreamhouse Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012200000 +0000" stop="20211012203000 +0000">
+  <programme channel="tv.101204200428" start="20211012195900 +0000" stop="20211012203100 +0000">
     <title>Bakugan: Geogan Rising</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012203000 +0000" stop="20211012210000 +0000">
+  <programme channel="tv.101204200428" start="20211012203100 +0000" stop="20211012210000 +0000">
     <title>Beyblade Burst Rise</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012210000 +0000" stop="20211012213000 +0000">
+  <programme channel="tv.101204200428" start="20211012210000 +0000" stop="20211012213100 +0000">
     <title>The Gamers 2037</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012213000 +0000" stop="20211012220000 +0000">
+  <programme channel="tv.101204200428" start="20211012213100 +0000" stop="20211012220100 +0000">
     <title>Ricky Zoom</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012220000 +0000" stop="20211012223000 +0000">
+  <programme channel="tv.101204200428" start="20211012220100 +0000" stop="20211012222900 +0000">
     <title>Gigantosaurus</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012223000 +0000" stop="20211012230000 +0000">
+  <programme channel="tv.101204200428" start="20211012222900 +0000" stop="20211012230200 +0000">
     <title>True and the Rainbow Kingdom</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012230000 +0000" stop="20211012233000 +0000">
+  <programme channel="tv.101204200428" start="20211012230200 +0000" stop="20211012233000 +0000">
     <title>Lego Friends: Girls on a Mission</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211012233000 +0000" stop="20211013000000 +0000">
+  <programme channel="tv.101204200428" start="20211012233000 +0000" stop="20211013000200 +0000">
     <title>Pokemon the Series: Sun &amp; Moon - Ultra Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013000000 +0000" stop="20211013003000 +0000">
+  <programme channel="tv.101204200428" start="20211013000200 +0000" stop="20211013003100 +0000">
     <title>The Amazing World of Gumball</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013003000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101204200428" start="20211013003100 +0000" stop="20211013010300 +0000">
     <title>Teen Titans Go!</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013010000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101204200428" start="20211013010300 +0000" stop="20211013020000 +0000">
     <title>Supergirl</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013020000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101204200428" start="20211013020000 +0000" stop="20211013025800 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013030000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101204200428" start="20211013025800 +0000" stop="20211013035800 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013040000 +0000" stop="20211013043000 +0000">
+  <programme channel="tv.101204200428" start="20211013035800 +0000" stop="20211013042900 +0000">
     <title>Malcolm in the Middle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013043000 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101204200428" start="20211013042900 +0000" stop="20211013050000 +0000">
     <title>The Nanny</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -13550,76 +13620,76 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013083000 +0000" stop="20211013104500 +0000">
+  <programme channel="tv.101204200428" start="20211013083000 +0000" stop="20211013105000 +0000">
     <title>War of the Worlds</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013104500 +0000" stop="20211013130000 +0000">
+  <programme channel="tv.101204200428" start="20211013105000 +0000" stop="20211013130900 +0000">
     <title>Super 8</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013130000 +0000" stop="20211013140000 +0000">
+  <programme channel="tv.101204200428" start="20211013130900 +0000" stop="20211013140000 +0000">
     <title>State of Affairs</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013140000 +0000" stop="20211013150000 +0000">
+  <programme channel="tv.101204200428" start="20211013140000 +0000" stop="20211013145500 +0000">
     <title>Westside</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013150000 +0000" stop="20211013155500 +0000">
+  <programme channel="tv.101204200428" start="20211013145500 +0000" stop="20211013154800 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013155500 +0000" stop="20211013165000 +0000">
+  <programme channel="tv.101204200428" start="20211013154800 +0000" stop="20211013163900 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013165000 +0000" stop="20211013170000 +0000">
+  <programme channel="tv.101204200428" start="20211013163900 +0000" stop="20211013165200 +0000">
     <title>Clarence</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013170000 +0000" stop="20211013173000 +0000">
+  <programme channel="tv.101204200428" start="20211013165200 +0000" stop="20211013171800 +0000">
     <title>Pokemon the Series: Sun &amp; Moon - Ultra Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013173000 +0000" stop="20211013175000 +0000">
+  <programme channel="tv.101204200428" start="20211013171800 +0000" stop="20211013174300 +0000">
     <title>Beyblade Burst Turbo</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013175000 +0000" stop="20211013181000 +0000">
+  <programme channel="tv.101204200428" start="20211013174300 +0000" stop="20211013180700 +0000">
     <title>Bakugan: Armored Alliance</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013181000 +0000" stop="20211013183000 +0000">
+  <programme channel="tv.101204200428" start="20211013180700 +0000" stop="20211013183200 +0000">
     <title>Yu-Gi-Oh! ARC-V</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013183000 +0000" stop="20211013190000 +0000">
+  <programme channel="tv.101204200428" start="20211013183200 +0000" stop="20211013190000 +0000">
     <title>Yu-Gi-Oh!</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -13631,13 +13701,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013193000 +0000" stop="20211013200000 +0000">
+  <programme channel="tv.101204200428" start="20211013193000 +0000" stop="20211013195800 +0000">
     <title>Barbie Dreamhouse Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013200000 +0000" stop="20211013203000 +0000">
+  <programme channel="tv.101204200428" start="20211013195800 +0000" stop="20211013203000 +0000">
     <title>Bakugan: Geogan Rising</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -13649,94 +13719,94 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013210000 +0000" stop="20211013213000 +0000">
+  <programme channel="tv.101204200428" start="20211013210000 +0000" stop="20211013213100 +0000">
     <title>The Gamers 2037</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013213000 +0000" stop="20211013220000 +0000">
+  <programme channel="tv.101204200428" start="20211013213100 +0000" stop="20211013220100 +0000">
     <title>Ricky Zoom</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013220000 +0000" stop="20211013223000 +0000">
+  <programme channel="tv.101204200428" start="20211013220100 +0000" stop="20211013222900 +0000">
     <title>Gigantosaurus</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013223000 +0000" stop="20211013230000 +0000">
+  <programme channel="tv.101204200428" start="20211013222900 +0000" stop="20211013230300 +0000">
     <title>True and the Rainbow Kingdom</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013230000 +0000" stop="20211013233000 +0000">
+  <programme channel="tv.101204200428" start="20211013230300 +0000" stop="20211013233000 +0000">
     <title>Lego Friends: Girls on a Mission</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211013233000 +0000" stop="20211014000000 +0000">
+  <programme channel="tv.101204200428" start="20211013233000 +0000" stop="20211014000200 +0000">
     <title>Pokemon the Series: Sun &amp; Moon - Ultra Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014000000 +0000" stop="20211014003000 +0000">
+  <programme channel="tv.101204200428" start="20211014000200 +0000" stop="20211014003000 +0000">
     <title>The Amazing World of Gumball</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014003000 +0000" stop="20211014010000 +0000">
+  <programme channel="tv.101204200428" start="20211014003000 +0000" stop="20211014010300 +0000">
     <title>Teen Titans Go!</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014010000 +0000" stop="20211014020000 +0000">
+  <programme channel="tv.101204200428" start="20211014010300 +0000" stop="20211014020100 +0000">
     <title>Supergirl</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014020000 +0000" stop="20211014030000 +0000">
+  <programme channel="tv.101204200428" start="20211014020100 +0000" stop="20211014025900 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014030000 +0000" stop="20211014040000 +0000">
+  <programme channel="tv.101204200428" start="20211014025900 +0000" stop="20211014035700 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014040000 +0000" stop="20211014043000 +0000">
+  <programme channel="tv.101204200428" start="20211014035700 +0000" stop="20211014042700 +0000">
     <title>Malcolm in the Middle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014043000 +0000" stop="20211014050000 +0000">
+  <programme channel="tv.101204200428" start="20211014042700 +0000" stop="20211014045900 +0000">
     <title>The Nanny</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014050000 +0000" stop="20211014053000 +0000">
+  <programme channel="tv.101204200428" start="20211014045900 +0000" stop="20211014052900 +0000">
     <title>3rd Rock from the Sun</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014053000 +0000" stop="20211014060000 +0000">
+  <programme channel="tv.101204200428" start="20211014052900 +0000" stop="20211014060000 +0000">
     <title>That '70s Show</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -13749,27 +13819,27 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014063000 +0000" stop="20211014070000 +0000">
+  <programme channel="tv.101204200428" start="20211014063000 +0000" stop="20211014065900 +0000">
     <title>Malcolm in the Middle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014070000 +0000" stop="20211014073000 +0000">
+  <programme channel="tv.101204200428" start="20211014065900 +0000" stop="20211014073200 +0000">
     <title>The Nanny</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014073000 +0000" stop="20211014080000 +0000">
+  <programme channel="tv.101204200428" start="20211014073200 +0000" stop="20211014080100 +0000">
     <title>3rd Rock from the Sun</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014080000 +0000" stop="20211014083000 +0000">
+  <programme channel="tv.101204200428" start="20211014080100 +0000" stop="20211014083000 +0000">
     <title>That '70s Show</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -13795,62 +13865,62 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014130000 +0000" stop="20211014140000 +0000">
+  <programme channel="tv.101204200428" start="20211014130000 +0000" stop="20211014135700 +0000">
     <title>State of Affairs</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014140000 +0000" stop="20211014150000 +0000">
+  <programme channel="tv.101204200428" start="20211014135700 +0000" stop="20211014145300 +0000">
     <title>Westside</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014150000 +0000" stop="20211014155500 +0000">
+  <programme channel="tv.101204200428" start="20211014145300 +0000" stop="20211014154500 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014155500 +0000" stop="20211014165000 +0000">
+  <programme channel="tv.101204200428" start="20211014154500 +0000" stop="20211014163800 +0000">
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014165000 +0000" stop="20211014170000 +0000">
+  <programme channel="tv.101204200428" start="20211014163800 +0000" stop="20211014165100 +0000">
     <title>Clarence</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014170000 +0000" stop="20211014173000 +0000">
+  <programme channel="tv.101204200428" start="20211014165100 +0000" stop="20211014171600 +0000">
     <title>Pokemon the Series: Sun &amp; Moon - Ultra Adventures</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014173000 +0000" stop="20211014175000 +0000">
+  <programme channel="tv.101204200428" start="20211014171600 +0000" stop="20211014174200 +0000">
     <title>Beyblade Burst Turbo</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014175000 +0000" stop="20211014181000 +0000">
+  <programme channel="tv.101204200428" start="20211014174200 +0000" stop="20211014180700 +0000">
     <title>Bakugan: Armored Alliance</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014181000 +0000" stop="20211014183000 +0000">
+  <programme channel="tv.101204200428" start="20211014180700 +0000" stop="20211014183200 +0000">
     <title>Yu-Gi-Oh! ARC-V</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20211014183000 +0000" stop="20211014190000 +0000">
+  <programme channel="tv.101204200428" start="20211014183200 +0000" stop="20211014190000 +0000">
     <title>Yu-Gi-Oh!</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -14380,6 +14450,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20211017031500 +0000" stop="20211017034500 +0000">
     <title>Surfing Australia TV</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14440,6 +14511,7 @@
   </programme>
   <programme channel="tv.101204200428" start="20211017144500 +0000" stop="20211017151500 +0000">
     <title>Surfing Australia TV</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15758,46 +15830,34 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200429" start="20211018103000 +0000" stop="20211018113000 +0000">
+  <programme channel="tv.101204200429" start="20211018103000 +0000" stop="20211018123000 +0000">
     <title>Bering Sea Gold</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200429" start="20211018113000 +0000" stop="20211018123000 +0000">
-    <title>Alaskan Bush People</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200429" start="20211018123000 +0000" stop="20211018133000 +0000">
+    <title>Alaskan Bush People</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200429" start="20211018133000 +0000" stop="20211018143000 +0000">
     <title>Ice Cold Gold</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200429" start="20211018133000 +0000" stop="20211018143000 +0000">
+  <programme channel="tv.101204200429" start="20211018143000 +0000" stop="20211018153000 +0000">
     <title>Gold Rush: Dave Turin's Lost Mine</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200429" start="20211018143000 +0000" stop="20211018153000 +0000">
+  <programme channel="tv.101204200429" start="20211018153000 +0000" stop="20211018173000 +0000">
     <title>Bering Sea Gold</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200429" start="20211018153000 +0000" stop="20211018163000 +0000">
-    <title>Salvage Hunters</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200429" start="20211018163000 +0000" stop="20211018173000 +0000">
-    <title>Tanked</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200429" start="20211018173000 +0000" stop="20211018180000 +0000">
@@ -21853,7 +21913,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211012122700 +0000" stop="20211012132700 +0000">
+  <programme channel="tv.101406020621" start="20211012122800 +0000" stop="20211012132700 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -21917,70 +21977,70 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211012200000 +0000" stop="20211012203000 +0000">
+  <programme channel="tv.101406020621" start="20211012200000 +0000" stop="20211012203200 +0000">
     <title>Judge Judy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211012203000 +0000" stop="20211012210000 +0000">
+  <programme channel="tv.101406020621" start="20211012203200 +0000" stop="20211012210300 +0000">
     <title>The Bold and the Beautiful</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211012210000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101406020621" start="20211012210300 +0000" stop="20211013010300 +0000">
     <title>Studio 10</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013010000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101406020621" start="20211013010300 +0000" stop="20211013015900 +0000">
     <title>Dr. Phil</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013020000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101406020621" start="20211013015900 +0000" stop="20211013030100 +0000">
     <title>Making It Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013030000 +0000" stop="20211013033000 +0000">
+  <programme channel="tv.101406020621" start="20211013030100 +0000" stop="20211013032900 +0000">
     <title>Entertainment Tonight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013033000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101406020621" start="20211013032900 +0000" stop="20211013040000 +0000">
     <title>Farm to Fork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013040000 +0000" stop="20211013043000 +0000">
+  <programme channel="tv.101406020621" start="20211013040000 +0000" stop="20211013042900 +0000">
     <title>Judge Judy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013043000 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101406020621" start="20211013042900 +0000" stop="20211013045900 +0000">
     <title>Freshly Picked with Simon Toohey</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013050000 +0000" stop="20211013053000 +0000">
+  <programme channel="tv.101406020621" start="20211013045900 +0000" stop="20211013053000 +0000">
     <title>Everyday Gourmet with Justine Schofield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -22001,92 +22061,92 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013073000 +0000" stop="20211013083000 +0000">
+  <programme channel="tv.101406020621" start="20211013073000 +0000" stop="20211013083100 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013083000 +0000" stop="20211013093000 +0000">
+  <programme channel="tv.101406020621" start="20211013083100 +0000" stop="20211013093900 +0000">
     <title>The Graham Norton Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013093000 +0000" stop="20211013103000 +0000">
+  <programme channel="tv.101406020621" start="20211013093900 +0000" stop="20211013103800 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013103000 +0000" stop="20211013113000 +0000">
+  <programme channel="tv.101406020621" start="20211013103800 +0000" stop="20211013113700 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013113000 +0000" stop="20211013123000 +0000">
+  <programme channel="tv.101406020621" start="20211013113700 +0000" stop="20211013123200 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013123000 +0000" stop="20211013133000 +0000">
+  <programme channel="tv.101406020621" start="20211013123200 +0000" stop="20211013133500 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013133000 +0000" stop="20211013143000 +0000">
+  <programme channel="tv.101406020621" start="20211013133500 +0000" stop="20211013143000 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013143000 +0000" stop="20211013150000 +0000">
+  <programme channel="tv.101406020621" start="20211013143000 +0000" stop="20211013150800 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013150000 +0000" stop="20211013153000 +0000">
+  <programme channel="tv.101406020621" start="20211013150800 +0000" stop="20211013153700 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013153000 +0000" stop="20211013160000 +0000">
+  <programme channel="tv.101406020621" start="20211013153700 +0000" stop="20211013160600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013160000 +0000" stop="20211013163000 +0000">
+  <programme channel="tv.101406020621" start="20211013160600 +0000" stop="20211013163600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013163000 +0000" stop="20211013170000 +0000">
+  <programme channel="tv.101406020621" start="20211013163600 +0000" stop="20211013170500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013170000 +0000" stop="20211013173000 +0000">
+  <programme channel="tv.101406020621" start="20211013170500 +0000" stop="20211013173400 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20211013173000 +0000" stop="20211013190000 +0000">
+  <programme channel="tv.101406020621" start="20211013173400 +0000" stop="20211013190000 +0000">
     <title>CBS This Morning</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -22381,7 +22441,11 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020621" start="20211015103000 +0000" stop="20211015113000 +0000">
-    <title>To Be Advised</title>
+    <title>Have You Been Paying Attention?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406020621" start="20211015113000 +0000" stop="20211015123000 +0000">
     <title>The Montreal Comedy Festival</title>
@@ -23248,13 +23312,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012190000 +0000" stop="20211012193000 +0000">
+  <programme channel="tv.101406020623" start="20211012190000 +0000" stop="20211012193100 +0000">
     <title>Dora the Explorer</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012193000 +0000" stop="20211012200000 +0000">
+  <programme channel="tv.101406020623" start="20211012193100 +0000" stop="20211012200000 +0000">
     <title>Bubble Guppies</title>
     <rating system="Freeview">
       <value>G</value>
@@ -23266,79 +23330,79 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012203000 +0000" stop="20211012205600 +0000">
+  <programme channel="tv.101406020623" start="20211012203000 +0000" stop="20211012205900 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012205600 +0000" stop="20211012210000 +0000">
+  <programme channel="tv.101406020623" start="20211012205900 +0000" stop="20211012210100 +0000">
     <title>Shake Takes</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012210000 +0000" stop="20211012213000 +0000">
+  <programme channel="tv.101406020623" start="20211012210100 +0000" stop="20211012213100 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012213000 +0000" stop="20211012220000 +0000">
+  <programme channel="tv.101406020623" start="20211012213100 +0000" stop="20211012220000 +0000">
     <title>Blue's Clues &amp; You!</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012220000 +0000" stop="20211012222000 +0000">
+  <programme channel="tv.101406020623" start="20211012220000 +0000" stop="20211012222800 +0000">
     <title>Blaze and the Monster Machines</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012222000 +0000" stop="20211012223000 +0000">
+  <programme channel="tv.101406020623" start="20211012222800 +0000" stop="20211012223500 +0000">
     <title>Ready Set Dance</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012223000 +0000" stop="20211012230000 +0000">
+  <programme channel="tv.101406020623" start="20211012223500 +0000" stop="20211012230500 +0000">
     <title>Fresh Beat Band of Spies</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012230000 +0000" stop="20211012233000 +0000">
+  <programme channel="tv.101406020623" start="20211012230500 +0000" stop="20211012233300 +0000">
     <title>Butterbean's Cafe</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211012233000 +0000" stop="20211013000000 +0000">
+  <programme channel="tv.101406020623" start="20211012233300 +0000" stop="20211013000200 +0000">
     <title>Shimmer and Shine</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013000000 +0000" stop="20211013003000 +0000">
+  <programme channel="tv.101406020623" start="20211013000200 +0000" stop="20211013003200 +0000">
     <title>Blaze and the Monster Machines</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013003000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101406020623" start="20211013003200 +0000" stop="20211013010200 +0000">
     <title>Blaze and the Monster Machines</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013010000 +0000" stop="20211013013000 +0000">
+  <programme channel="tv.101406020623" start="20211013010200 +0000" stop="20211013013100 +0000">
     <title>Ryan's Mystery Playdate</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013013000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101406020623" start="20211013013100 +0000" stop="20211013020000 +0000">
     <title>Ryan's Mystery Playdate</title>
     <rating system="Freeview">
       <value>G</value>
@@ -23350,181 +23414,181 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013023000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101406020623" start="20211013023000 +0000" stop="20211013025900 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013030000 +0000" stop="20211013032600 +0000">
+  <programme channel="tv.101406020623" start="20211013025900 +0000" stop="20211013032900 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013032600 +0000" stop="20211013033000 +0000">
+  <programme channel="tv.101406020623" start="20211013032900 +0000" stop="20211013033200 +0000">
     <title>Shake Takes</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013033000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101406020623" start="20211013033200 +0000" stop="20211013040100 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013040000 +0000" stop="20211013043000 +0000">
+  <programme channel="tv.101406020623" start="20211013040100 +0000" stop="20211013043100 +0000">
     <title>Bunsen Is a Beast</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013043000 +0000" stop="20211013045900 +0000">
+  <programme channel="tv.101406020623" start="20211013043100 +0000" stop="20211013045800 +0000">
     <title>The Loud House</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013045900 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101406020623" start="20211013045800 +0000" stop="20211013045900 +0000">
     <title>Shake Takes</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013050000 +0000" stop="20211013053000 +0000">
+  <programme channel="tv.101406020623" start="20211013045900 +0000" stop="20211013052900 +0000">
     <title>SpongeBob SquarePants</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013053000 +0000" stop="20211013055600 +0000">
+  <programme channel="tv.101406020623" start="20211013052900 +0000" stop="20211013055800 +0000">
     <title>The Haunted Hathaways</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013055600 +0000" stop="20211013060000 +0000">
+  <programme channel="tv.101406020623" start="20211013055800 +0000" stop="20211013060400 +0000">
     <title>Shake Takes</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013060000 +0000" stop="20211013063000 +0000">
+  <programme channel="tv.101406020623" start="20211013060400 +0000" stop="20211013063400 +0000">
     <title>Game Shakers</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013063000 +0000" stop="20211013070000 +0000">
+  <programme channel="tv.101406020623" start="20211013063400 +0000" stop="20211013070400 +0000">
     <title>iCarly</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013070000 +0000" stop="20211013073000 +0000">
+  <programme channel="tv.101406020623" start="20211013070400 +0000" stop="20211013073400 +0000">
     <title>The Middle</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013073000 +0000" stop="20211013080000 +0000">
+  <programme channel="tv.101406020623" start="20211013073400 +0000" stop="20211013080400 +0000">
     <title>The Middle</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013080000 +0000" stop="20211013083000 +0000">
+  <programme channel="tv.101406020623" start="20211013080400 +0000" stop="20211013083400 +0000">
     <title>The Middle</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013083000 +0000" stop="20211013090000 +0000">
+  <programme channel="tv.101406020623" start="20211013083400 +0000" stop="20211013090300 +0000">
     <title>The Office</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013090000 +0000" stop="20211013093000 +0000">
+  <programme channel="tv.101406020623" start="20211013090300 +0000" stop="20211013094000 +0000">
     <title>The Office</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013093000 +0000" stop="20211013103000 +0000">
+  <programme channel="tv.101406020623" start="20211013094000 +0000" stop="20211013104200 +0000">
     <title>To Be Advised</title>
   </programme>
-  <programme channel="tv.101406020623" start="20211013103000 +0000" stop="20211013113000 +0000">
+  <programme channel="tv.101406020623" start="20211013104200 +0000" stop="20211013113700 +0000">
     <title>Catfish: The TV Show</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013113000 +0000" stop="20211013123000 +0000">
+  <programme channel="tv.101406020623" start="20211013113700 +0000" stop="20211013123300 +0000">
     <title>Catfish: The TV Show</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013123000 +0000" stop="20211013133000 +0000">
+  <programme channel="tv.101406020623" start="20211013123300 +0000" stop="20211013133100 +0000">
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013133000 +0000" stop="20211013140000 +0000">
+  <programme channel="tv.101406020623" start="20211013133100 +0000" stop="20211013140200 +0000">
     <title>Dating: No Filter</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013140000 +0000" stop="20211013143000 +0000">
+  <programme channel="tv.101406020623" start="20211013140200 +0000" stop="20211013143400 +0000">
     <title>Dating: No Filter</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013143000 +0000" stop="20211013150000 +0000">
+  <programme channel="tv.101406020623" start="20211013143400 +0000" stop="20211013150200 +0000">
     <title>Just Tattoo Of Us USA</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013150000 +0000" stop="20211013153000 +0000">
+  <programme channel="tv.101406020623" start="20211013150200 +0000" stop="20211013153100 +0000">
     <title>Just Tattoo Of Us USA</title>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013153000 +0000" stop="20211013160000 +0000">
+  <programme channel="tv.101406020623" start="20211013153100 +0000" stop="20211013160100 +0000">
     <title>The Office</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013160000 +0000" stop="20211013170000 +0000">
+  <programme channel="tv.101406020623" start="20211013160100 +0000" stop="20211013165900 +0000">
     <title>Teen Mom</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013170000 +0000" stop="20211013180000 +0000">
+  <programme channel="tv.101406020623" start="20211013165900 +0000" stop="20211013175800 +0000">
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013180000 +0000" stop="20211013183000 +0000">
+  <programme channel="tv.101406020623" start="20211013175800 +0000" stop="20211013182900 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020623" start="20211013183000 +0000" stop="20211013190000 +0000">
+  <programme channel="tv.101406020623" start="20211013182900 +0000" stop="20211013190000 +0000">
     <title>Paw Patrol</title>
     <rating system="Freeview">
       <value>G</value>
@@ -25158,7 +25222,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211012122700 +0000" stop="20211012132700 +0000">
+  <programme channel="tv.101406020625" start="20211012122800 +0000" stop="20211012132700 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25222,70 +25286,70 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211012200000 +0000" stop="20211012203000 +0000">
+  <programme channel="tv.101406020625" start="20211012200000 +0000" stop="20211012203200 +0000">
     <title>Judge Judy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211012203000 +0000" stop="20211012210000 +0000">
+  <programme channel="tv.101406020625" start="20211012203200 +0000" stop="20211012210300 +0000">
     <title>The Bold and the Beautiful</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211012210000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101406020625" start="20211012210300 +0000" stop="20211013010300 +0000">
     <title>Studio 10</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013010000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101406020625" start="20211013010300 +0000" stop="20211013015900 +0000">
     <title>Dr. Phil</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013020000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101406020625" start="20211013015900 +0000" stop="20211013030100 +0000">
     <title>Making It Australia</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013030000 +0000" stop="20211013033000 +0000">
+  <programme channel="tv.101406020625" start="20211013030100 +0000" stop="20211013032900 +0000">
     <title>Entertainment Tonight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013033000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101406020625" start="20211013032900 +0000" stop="20211013040000 +0000">
     <title>Farm to Fork</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013040000 +0000" stop="20211013043000 +0000">
+  <programme channel="tv.101406020625" start="20211013040000 +0000" stop="20211013042900 +0000">
     <title>Judge Judy</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013043000 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101406020625" start="20211013042900 +0000" stop="20211013045900 +0000">
     <title>Freshly Picked with Simon Toohey</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013050000 +0000" stop="20211013053000 +0000">
+  <programme channel="tv.101406020625" start="20211013045900 +0000" stop="20211013053000 +0000">
     <title>Everyday Gourmet with Justine Schofield</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25306,92 +25370,92 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013073000 +0000" stop="20211013083000 +0000">
+  <programme channel="tv.101406020625" start="20211013073000 +0000" stop="20211013083100 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013083000 +0000" stop="20211013093000 +0000">
+  <programme channel="tv.101406020625" start="20211013083100 +0000" stop="20211013093900 +0000">
     <title>The Graham Norton Show</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013093000 +0000" stop="20211013103000 +0000">
+  <programme channel="tv.101406020625" start="20211013093900 +0000" stop="20211013103800 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013103000 +0000" stop="20211013113000 +0000">
+  <programme channel="tv.101406020625" start="20211013103800 +0000" stop="20211013113700 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013113000 +0000" stop="20211013123000 +0000">
+  <programme channel="tv.101406020625" start="20211013113700 +0000" stop="20211013123200 +0000">
     <title>Bull</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013123000 +0000" stop="20211013133000 +0000">
+  <programme channel="tv.101406020625" start="20211013123200 +0000" stop="20211013133500 +0000">
     <title>The Project</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013133000 +0000" stop="20211013143000 +0000">
+  <programme channel="tv.101406020625" start="20211013133500 +0000" stop="20211013143000 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013143000 +0000" stop="20211013150000 +0000">
+  <programme channel="tv.101406020625" start="20211013143000 +0000" stop="20211013150800 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013150000 +0000" stop="20211013153000 +0000">
+  <programme channel="tv.101406020625" start="20211013150800 +0000" stop="20211013153700 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013153000 +0000" stop="20211013160000 +0000">
+  <programme channel="tv.101406020625" start="20211013153700 +0000" stop="20211013160600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013160000 +0000" stop="20211013163000 +0000">
+  <programme channel="tv.101406020625" start="20211013160600 +0000" stop="20211013163600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013163000 +0000" stop="20211013170000 +0000">
+  <programme channel="tv.101406020625" start="20211013163600 +0000" stop="20211013170500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013170000 +0000" stop="20211013173000 +0000">
+  <programme channel="tv.101406020625" start="20211013170500 +0000" stop="20211013173400 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211013173000 +0000" stop="20211013190000 +0000">
+  <programme channel="tv.101406020625" start="20211013173400 +0000" stop="20211013190000 +0000">
     <title>CBS This Morning</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -25686,7 +25750,11 @@
     <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101406020625" start="20211015103000 +0000" stop="20211015113000 +0000">
-    <title>To Be Advised</title>
+    <title>Have You Been Paying Attention?</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406020625" start="20211015113000 +0000" stop="20211015123000 +0000">
     <title>The Montreal Comedy Festival</title>
@@ -26487,55 +26555,63 @@
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012123000 +0000" stop="20211012133000 +0000">
-    <title>Maestro Air Purifier</title>
+    <title>Django &amp; Juliette Footwear</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012133000 +0000" stop="20211012143000 +0000">
-    <title>Carla Oates The Beauty Chef</title>
+    <title>Gallery of Gold</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012143000 +0000" stop="20211012153000 +0000">
-    <title>Hammock And Vine Fashion</title>
+    <title>Carla Oates The Beauty Chef</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012153000 +0000" stop="20211012163000 +0000">
-    <title>HairDo Hair Styles</title>
+    <title>Hammock And Vine Fashion</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012163000 +0000" stop="20211012173000 +0000">
-    <title>Marcasite Jewellery</title>
+    <title>SKIMGUARD Secure Protection</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012173000 +0000" stop="20211012183000 +0000">
-    <title>Protect-A-Bed Total Bed Care</title>
+    <title>TANZANITE Gems</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012183000 +0000" stop="20211012193000 +0000">
-    <title>ASUS Laptops - Conquer Tomorrow</title>
+    <title>Pinkcredible Spray Wipe Done!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012193000 +0000" stop="20211012203000 +0000">
-    <title>NordicTrack Treadmills</title>
+    <title>Carla Oates The Beauty Chef</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012203000 +0000" stop="20211012213000 +0000">
-    <title>Pinkcredible Spray Wipe Done!</title>
+    <title>HairDo Hair Styles</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26548,60 +26624,66 @@
   </programme>
   <programme channel="tv.101406020626" start="20211012223000 +0000" stop="20211012233000 +0000">
     <title>Canadian Ammolite Gems</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211012233000 +0000" stop="20211013003000 +0000">
     <title>Elizabeth Grant Beauty</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211013003000 +0000" stop="20211013013000 +0000">
     <title>Gems En Vogue is Back!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211013013000 +0000" stop="20211013023000 +0000">
     <title>Gabby Isabella Fashion</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211013023000 +0000" stop="20211013033000 +0000">
     <title>Canadian Diamonds</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211013033000 +0000" stop="20211013043000 +0000">
-    <title>NEW Footlogix</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20211013043000 +0000" stop="20211013053000 +0000">
     <title>Picadilly Canadian Fashion</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020626" start="20211013053000 +0000" stop="20211013063000 +0000">
-    <title>Gems En Vogue is Back!</title>
+  <programme channel="tv.101406020626" start="20211013043000 +0000" stop="20211013053000 +0000">
+    <title>Ammolite Gems</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020626" start="20211013063000 +0000" stop="20211013073000 +0000">
+  <programme channel="tv.101406020626" start="20211013053000 +0000" stop="20211013063000 +0000">
     <title>Elizabeth Grant Beauty</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020626" start="20211013063000 +0000" stop="20211013073000 +0000">
+    <title>Gems En Vogue is Back!</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020626" start="20211013073000 +0000" stop="20211013083000 +0000">
-    <title>Canadian Ammolite Gems</title>
+    <title>Gems En Vogue is Back!</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -27555,178 +27637,178 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012193000 +0000" stop="20211012200000 +0000">
+  <programme channel="tv.101406020627" start="20211012193000 +0000" stop="20211012195900 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012200000 +0000" stop="20211012203000 +0000">
+  <programme channel="tv.101406020627" start="20211012195900 +0000" stop="20211012202900 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012203000 +0000" stop="20211012210000 +0000">
+  <programme channel="tv.101406020627" start="20211012202900 +0000" stop="20211012205900 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012210000 +0000" stop="20211012213000 +0000">
+  <programme channel="tv.101406020627" start="20211012205900 +0000" stop="20211012213100 +0000">
     <title>Destination Dessert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012213000 +0000" stop="20211012220000 +0000">
+  <programme channel="tv.101406020627" start="20211012213100 +0000" stop="20211012220100 +0000">
     <title>Snap Happy</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012220000 +0000" stop="20211012230000 +0000">
+  <programme channel="tv.101406020627" start="20211012220100 +0000" stop="20211012230300 +0000">
     <title>One Strange Rock</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211012230000 +0000" stop="20211013000000 +0000">
+  <programme channel="tv.101406020627" start="20211012230300 +0000" stop="20211013000200 +0000">
     <title>JAG</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013000000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101406020627" start="20211013000200 +0000" stop="20211013010200 +0000">
     <title>JAG</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013010000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101406020627" start="20211013010200 +0000" stop="20211013020000 +0000">
     <title>Walker, Texas Ranger</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013020000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101406020627" start="20211013020000 +0000" stop="20211013025900 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013030000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101406020627" start="20211013025900 +0000" stop="20211013040000 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013040000 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101406020627" start="20211013040000 +0000" stop="20211013045900 +0000">
     <title>Diagnosis Murder</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013050000 +0000" stop="20211013060000 +0000">
+  <programme channel="tv.101406020627" start="20211013045900 +0000" stop="20211013060300 +0000">
     <title>Diagnosis Murder</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013060000 +0000" stop="20211013070000 +0000">
+  <programme channel="tv.101406020627" start="20211013060300 +0000" stop="20211013070200 +0000">
     <title>JAG</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013070000 +0000" stop="20211013080000 +0000">
+  <programme channel="tv.101406020627" start="20211013070200 +0000" stop="20211013080100 +0000">
     <title>JAG</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013080000 +0000" stop="20211013083000 +0000">
+  <programme channel="tv.101406020627" start="20211013080100 +0000" stop="20211013083200 +0000">
     <title>Bondi Rescue</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013083000 +0000" stop="20211013093000 +0000">
+  <programme channel="tv.101406020627" start="20211013083200 +0000" stop="20211013093100 +0000">
     <title>NCIS</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013093000 +0000" stop="20211013102500 +0000">
+  <programme channel="tv.101406020627" start="20211013093100 +0000" stop="20211013102800 +0000">
     <title>NCIS: Los Angeles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013102500 +0000" stop="20211013112000 +0000">
+  <programme channel="tv.101406020627" start="20211013102800 +0000" stop="20211013112300 +0000">
     <title>NCIS: Los Angeles</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013112000 +0000" stop="20211013130500 +0000">
+  <programme channel="tv.101406020627" start="20211013112300 +0000" stop="20211013130500 +0000">
     <title>Star Trek: Discovery</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013130500 +0000" stop="20211013133500 +0000">
+  <programme channel="tv.101406020627" start="20211013130500 +0000" stop="20211013133600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013133500 +0000" stop="20211013140500 +0000">
+  <programme channel="tv.101406020627" start="20211013133600 +0000" stop="20211013140600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013140500 +0000" stop="20211013143500 +0000">
+  <programme channel="tv.101406020627" start="20211013140600 +0000" stop="20211013143700 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013143500 +0000" stop="20211013150500 +0000">
+  <programme channel="tv.101406020627" start="20211013143700 +0000" stop="20211013150800 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013150500 +0000" stop="20211013160500 +0000">
+  <programme channel="tv.101406020627" start="20211013150800 +0000" stop="20211013160500 +0000">
     <title>Formula One: Turkish Grand Prix</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013160500 +0000" stop="20211013170500 +0000">
+  <programme channel="tv.101406020627" start="20211013160500 +0000" stop="20211013170200 +0000">
     <title>48 Hours</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013170500 +0000" stop="20211013180500 +0000">
+  <programme channel="tv.101406020627" start="20211013170200 +0000" stop="20211013180400 +0000">
     <title>Hawaii Five-0</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020627" start="20211013180500 +0000" stop="20211013190000 +0000">
+  <programme channel="tv.101406020627" start="20211013180400 +0000" stop="20211013190000 +0000">
     <title>The Doctors</title>
     <rating system="Freeview">
       <value>M</value>
@@ -28862,14 +28944,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012190000 +0000" stop="20211012200000 +0000">
+  <programme channel="tv.101406020628" start="20211012190000 +0000" stop="20211012195900 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012200000 +0000" stop="20211012203000 +0000">
+  <programme channel="tv.101406020628" start="20211012195900 +0000" stop="20211012203000 +0000">
     <title>The King of Queens</title>
     <rating system="Freeview">
       <value>PG</value>
@@ -28881,252 +28963,252 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012210000 +0000" stop="20211012213000 +0000">
+  <programme channel="tv.101406020628" start="20211012210000 +0000" stop="20211012213100 +0000">
     <title>Becker</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012213000 +0000" stop="20211012220000 +0000">
+  <programme channel="tv.101406020628" start="20211012213100 +0000" stop="20211012220100 +0000">
     <title>Becker</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012220000 +0000" stop="20211012223000 +0000">
+  <programme channel="tv.101406020628" start="20211012220100 +0000" stop="20211012223200 +0000">
     <title>The Middle</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012223000 +0000" stop="20211012230000 +0000">
+  <programme channel="tv.101406020628" start="20211012223200 +0000" stop="20211012230200 +0000">
     <title>The Middle</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012230000 +0000" stop="20211012233000 +0000">
+  <programme channel="tv.101406020628" start="20211012230200 +0000" stop="20211012233200 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211012233000 +0000" stop="20211013000000 +0000">
+  <programme channel="tv.101406020628" start="20211012233200 +0000" stop="20211013000300 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013000000 +0000" stop="20211013003000 +0000">
+  <programme channel="tv.101406020628" start="20211013000300 +0000" stop="20211013003300 +0000">
     <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013003000 +0000" stop="20211013010000 +0000">
+  <programme channel="tv.101406020628" start="20211013003300 +0000" stop="20211013010400 +0000">
     <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013010000 +0000" stop="20211013020000 +0000">
+  <programme channel="tv.101406020628" start="20211013010400 +0000" stop="20211013020300 +0000">
     <title>A Million Little Things</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013020000 +0000" stop="20211013023000 +0000">
+  <programme channel="tv.101406020628" start="20211013020300 +0000" stop="20211013023300 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013023000 +0000" stop="20211013030000 +0000">
+  <programme channel="tv.101406020628" start="20211013023300 +0000" stop="20211013030400 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013030000 +0000" stop="20211013033000 +0000">
+  <programme channel="tv.101406020628" start="20211013030400 +0000" stop="20211013033100 +0000">
     <title>Mom</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013033000 +0000" stop="20211013040000 +0000">
+  <programme channel="tv.101406020628" start="20211013033100 +0000" stop="20211013040100 +0000">
     <title>Mom</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013040000 +0000" stop="20211013043000 +0000">
+  <programme channel="tv.101406020628" start="20211013040100 +0000" stop="20211013043100 +0000">
     <title>The King of Queens</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013043000 +0000" stop="20211013050000 +0000">
+  <programme channel="tv.101406020628" start="20211013043100 +0000" stop="20211013050100 +0000">
     <title>The King of Queens</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013050000 +0000" stop="20211013053000 +0000">
+  <programme channel="tv.101406020628" start="20211013050100 +0000" stop="20211013053200 +0000">
     <title>Becker</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013053000 +0000" stop="20211013060000 +0000">
+  <programme channel="tv.101406020628" start="20211013053200 +0000" stop="20211013060300 +0000">
     <title>Becker</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013060000 +0000" stop="20211013063000 +0000">
+  <programme channel="tv.101406020628" start="20211013060300 +0000" stop="20211013063300 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013063000 +0000" stop="20211013070000 +0000">
+  <programme channel="tv.101406020628" start="20211013063300 +0000" stop="20211013070300 +0000">
     <title>Frasier</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013070000 +0000" stop="20211013073000 +0000">
+  <programme channel="tv.101406020628" start="20211013070300 +0000" stop="20211013073100 +0000">
     <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013073000 +0000" stop="20211013080000 +0000">
+  <programme channel="tv.101406020628" start="20211013073100 +0000" stop="20211013080200 +0000">
     <title>Neighbours</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013080000 +0000" stop="20211013083000 +0000">
+  <programme channel="tv.101406020628" start="20211013080200 +0000" stop="20211013083200 +0000">
     <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013083000 +0000" stop="20211013090000 +0000">
+  <programme channel="tv.101406020628" start="20211013083200 +0000" stop="20211013090100 +0000">
     <title>Friends</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013090000 +0000" stop="20211013093000 +0000">
+  <programme channel="tv.101406020628" start="20211013090100 +0000" stop="20211013093000 +0000">
     <title>The Big Bang Theory</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013093000 +0000" stop="20211013095500 +0000">
+  <programme channel="tv.101406020628" start="20211013093000 +0000" stop="20211013095800 +0000">
     <title>The Big Bang Theory</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013095500 +0000" stop="20211013102000 +0000">
+  <programme channel="tv.101406020628" start="20211013095800 +0000" stop="20211013102500 +0000">
     <title>The Big Bang Theory</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013102000 +0000" stop="20211013104500 +0000">
+  <programme channel="tv.101406020628" start="20211013102500 +0000" stop="20211013105300 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013104500 +0000" stop="20211013111000 +0000">
+  <programme channel="tv.101406020628" start="20211013105300 +0000" stop="20211013112100 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013111000 +0000" stop="20211013113500 +0000">
+  <programme channel="tv.101406020628" start="20211013112100 +0000" stop="20211013114900 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013113500 +0000" stop="20211013120500 +0000">
+  <programme channel="tv.101406020628" start="20211013114900 +0000" stop="20211013121700 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013120500 +0000" stop="20211013123500 +0000">
+  <programme channel="tv.101406020628" start="20211013121700 +0000" stop="20211013124700 +0000">
     <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013123500 +0000" stop="20211013130000 +0000">
+  <programme channel="tv.101406020628" start="20211013124700 +0000" stop="20211013131600 +0000">
     <title>The King of Queens</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013130000 +0000" stop="20211013133000 +0000">
+  <programme channel="tv.101406020628" start="20211013131600 +0000" stop="20211013134600 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013133000 +0000" stop="20211013140000 +0000">
+  <programme channel="tv.101406020628" start="20211013134600 +0000" stop="20211013141500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013140000 +0000" stop="20211013143000 +0000">
+  <programme channel="tv.101406020628" start="20211013141500 +0000" stop="20211013144500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013143000 +0000" stop="20211013153000 +0000">
+  <programme channel="tv.101406020628" start="20211013144500 +0000" stop="20211013154100 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013153000 +0000" stop="20211013163000 +0000">
+  <programme channel="tv.101406020628" start="20211013154100 +0000" stop="20211013163600 +0000">
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013163000 +0000" stop="20211013173000 +0000">
+  <programme channel="tv.101406020628" start="20211013163600 +0000" stop="20211013173200 +0000">
     <title>A Million Little Things</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013173000 +0000" stop="20211013180000 +0000">
+  <programme channel="tv.101406020628" start="20211013173200 +0000" stop="20211013180100 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20211013180000 +0000" stop="20211013183000 +0000">
+  <programme channel="tv.101406020628" start="20211013180100 +0000" stop="20211013183000 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -35726,6 +35808,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20211018050500 +0000" stop="20211018060500 +0000">
     <title>The Supervet</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -35760,6 +35843,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20211018083000 +0000" stop="20211018093000 +0000">
     <title>The Queen at War</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -35773,6 +35857,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20211018103500 +0000" stop="20211018113000 +0000">
     <title>24 Hours in Emergency</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -37457,7 +37542,6 @@
   </programme>
   <programme channel="tv.320203000303" start="20211018122000 +0000" stop="20211018132000 +0000">
     <title>New Gold Mountain</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -37685,7 +37769,7 @@
     <title>Stacey Dooley: Back on the Psych Ward</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000303" start="20211019115000 +0000" stop="20211019124000 +0000">
@@ -39088,11 +39172,12 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211017083000 +0000" stop="20211017093500 +0000">
     <title>Exploring China: A Culinary Adventure</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -39127,11 +39212,12 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211017133000 +0000" stop="20211017143500 +0000">
     <title>Exploring China: A Culinary Adventure</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -39207,11 +39293,12 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211017213000 +0000" stop="20211017223500 +0000">
     <title>Exploring China: A Culinary Adventure</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -39246,7 +39333,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211018023000 +0000" stop="20211018030000 +0000">
@@ -41889,6 +41976,68 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211012030654 +0000" stop="20211012041757 +0000">
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012041757 +0000" stop="20211012051148 +0000">
+    <title>Toby Price: Ridin’ Shotgun</title>
+    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <sub-title>Finke Desert Race 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012051148 +0000" stop="20211012055852 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012055852 +0000" stop="20211012060833 +0000">
+    <title>The Red Bulletin Stories in Motion S4E7</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa – Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012060833 +0000" stop="20211012065616 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012065616 +0000" stop="20211012070417 +0000">
+    <title>Reckless Isolation – extra</title>
+    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
+    <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012070417 +0000" stop="20211012071207 +0000">
+    <title>Enjoy the Ride S1E1</title>
+    <desc>To Pedro Barros, skateboarding is a sport that unites people – it's what he’s learned from skating friends.</desc>
+    <sub-title>How it all started</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012071207 +0000" stop="20211012072007 +0000">
+    <title>Enjoy the Ride S1E2</title>
+    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
+    <sub-title>The first sessions</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012072007 +0000" stop="20211012072855 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012072855 +0000" stop="20211012080424 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012080424 +0000" stop="20211012082600 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012082600 +0000" stop="20211012084758 +0000">
+    <title>Driving DTM S1E5</title>
+    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
+    <sub-title>Spielberg</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012084758 +0000" stop="20211012090948 +0000">
+    <title>Driving DTM S1E6</title>
+    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
+    <sub-title>Assen</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211012090948 +0000" stop="20211012093247 +0000">
     <title>Driving DTM S1E7</title>
     <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
@@ -42053,9 +42202,9 @@
     <sub-title>Now or never</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211013010721 +0000" stop="20211013021824 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211013021824 +0000" stop="20211013031047 +0000">
     <title>Red Bull Cliff Diving World Series 2021</title>
@@ -42079,80 +42228,6 @@
     <title>Driving DTM S1E5</title>
     <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
     <sub-title>Spielberg</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013051654 +0000" stop="20211013053844 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013053844 +0000" stop="20211013060143 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013060141 +0000" stop="20211013060658 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
-    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013060658 +0000" stop="20211013062128 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
-    <sub-title>Dig life at Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013062128 +0000" stop="20211013063139 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
-    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013063139 +0000" stop="20211013064003 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013064003 +0000" stop="20211013065017 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Get ready to celebrate as we reflect on 20 epic years of freeride mountain biking at Red Bull Rampage.</desc>
-    <sub-title>20 years of iconic freeriding</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013065017 +0000" stop="20211013070747 +0000">
-    <title>Watch Semenuk ride reimagined slopestyle features</title>
-    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
-    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013070747 +0000" stop="20211013072511 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013072511 +0000" stop="20211013073305 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013073305 +0000" stop="20211013080249 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013080249 +0000" stop="20211013085217 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013085217 +0000" stop="20211013101304 +0000">
-    <title>Against the Odds</title>
-    <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
-    <sub-title>The story of a new team coming together</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013101304 +0000" stop="20211013101606 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013101606 +0000" stop="20211013102648 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

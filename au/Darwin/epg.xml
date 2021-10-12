@@ -19171,15 +19171,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016100000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016100000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -20461,14 +20461,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211016213000 +0000" stop="20211016215900 +0000">
-    <title>Madfin Shark Series</title>
+  <programme channel="tv.101305050553" start="20211016213000 +0000" stop="20211016220000 +0000">
+    <title>Step Outside with Paul Burt</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211016213000 +0000" stop="20211016220000 +0000">
-    <title>Step Outside with Paul Burt</title>
+  <programme channel="tv.101305050553" start="20211016213000 +0000" stop="20211016215900 +0000">
+    <title>Madfin Shark Series</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -36264,58 +36264,64 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015093000 +0000" stop="20211015113000 +0000">
+  <programme channel="tv.320203000301" start="20211015093000 +0000" stop="20211015110000 +0000">
     <title>Expedition Bermuda Triangle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015113000 +0000" stop="20211015120000 +0000">
+  <programme channel="tv.320203000301" start="20211015110000 +0000" stop="20211015113000 +0000">
     <title>SBS World News Late</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015120000 +0000" stop="20211015125500 +0000">
+  <programme channel="tv.320203000301" start="20211015113000 +0000" stop="20211015122500 +0000">
     <title>8 Out of 10 Cats Does Countdown</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015125500 +0000" stop="20211015140000 +0000">
+  <programme channel="tv.320203000301" start="20211015122500 +0000" stop="20211015133000 +0000">
     <title>The Eagle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015140000 +0000" stop="20211015151000 +0000">
+  <programme channel="tv.320203000301" start="20211015133000 +0000" stop="20211015144000 +0000">
     <title>The Eagle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015151000 +0000" stop="20211015161000 +0000">
+  <programme channel="tv.320203000301" start="20211015144000 +0000" stop="20211015154000 +0000">
     <title>The Eagle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015161000 +0000" stop="20211015171000 +0000">
+  <programme channel="tv.320203000301" start="20211015154000 +0000" stop="20211015164000 +0000">
     <title>The Eagle</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20211015171000 +0000" stop="20211015180000 +0000">
+  <programme channel="tv.320203000301" start="20211015164000 +0000" stop="20211015173000 +0000">
     <title>Huang's World</title>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20211015173000 +0000" stop="20211015180000 +0000">
+    <title>The VICE Guide to Film</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -39384,7 +39390,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211014093000 +0000" stop="20211014100000 +0000">
@@ -39450,7 +39456,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211014143000 +0000" stop="20211014150000 +0000">
@@ -39552,7 +39558,7 @@
     <title>India Unplated</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20211014223000 +0000" stop="20211014230000 +0000">
@@ -40912,9 +40918,9 @@
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20211013023000 +0000" stop="20211013030000 +0000">
-    <title>The Dream of Love Interview</title>
+    <title>Dance Rite</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20211013030000 +0000" stop="20211013040000 +0000">
@@ -41536,7 +41542,7 @@
   <programme channel="tv.320203000305" start="20211015083000 +0000" stop="20211015083500 +0000">
     <title>The Land We're On with Penelope Towney</title>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20211015083500 +0000" stop="20211015101000 +0000">
@@ -42449,7 +42455,6 @@
   </programme>
   <programme channel="tv.320203000307" start="20211014103000 +0000" stop="20211014133500 +0000">
     <title>Gangs of New York</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -42960,7 +42965,6 @@
   </programme>
   <programme channel="tv.320203600367" start="20211014120000 +0000" stop="20211014150500 +0000">
     <title>Gangs of New York</title>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -43259,6 +43263,50 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211011214506 +0000" stop="20211011215432 +0000">
+    <title>Freerunning Around the World – behind the scenes</title>
+    <desc>Here’s what went down on the set of freerunner Archie Aroyan's film at the KAMAZ-master factory in Russia.</desc>
+    <sub-title>The making of Employee of the Month</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011215432 +0000" stop="20211011223836 +0000">
+    <title>Red Bull Signature Series S2018E3</title>
+    <desc>This slopestyle course in the hills of Olympiapark in Munich, Germany features 12 unique skateboard obstacles.</desc>
+    <sub-title>Red Bull Roller Coaster</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011223836 +0000" stop="20211011232716 +0000">
+    <title>360 Ascent</title>
+    <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
+    <sub-title>The world’s longest artificial multi-pitch route</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011232716 +0000" stop="20211011233324 +0000">
+    <title>Cycling Around the World S1E6</title>
+    <desc>Khothalang Leuta discovers the joys of riding from the pump track in her hometown of Roma in Lesotho.</desc>
+    <sub-title>The fastest girl in the village</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011233324 +0000" stop="20211011235229 +0000">
+    <title>Mundo Gustavo S1E1</title>
+    <desc>Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal.</desc>
+    <sub-title>Hometown skating in Lisbon</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211011235229 +0000" stop="20211012000448 +0000">
+    <title>Mundo Gustavo S1E2</title>
+    <desc>Join Gustavo Ribeiro as he visits the Basque Country to see his pro board being made.</desc>
+    <sub-title>How a skateboard gets made</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012000448 +0000" stop="20211012001510 +0000">
+    <title>Mundo Gustavo S1E3</title>
+    <desc>Join Gustavo Ribeiro as he shows Leticia Bufoni his private indoor skatepark.</desc>
+    <sub-title>Inside Gustavo Ribeiro's skatepark</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012001510 +0000" stop="20211012005419 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211012005419 +0000" stop="20211012010243 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211012010243 +0000" stop="20211012023131 +0000">
     <title>Red Bull Soapbox Race S6E4</title>
     <desc>South Africa's most innovative and witty teams race each other down the twists and turns of Sandton Drive.</desc>
@@ -43479,35 +43527,6 @@
     <title>RISS</title>
     <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
     <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012225446 +0000" stop="20211012230310 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012230310 +0000" stop="20211013003158 +0000">
-    <title>Red Bull Soapbox Race S6E4</title>
-    <desc>South Africa's most innovative and witty teams race each other down the twists and turns of Sandton Drive.</desc>
-    <sub-title>Johannesburg, South Africa</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013003158 +0000" stop="20211013004632 +0000">
-    <title>Fast Life S4E1</title>
-    <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
-    <sub-title>Starting again</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013004632 +0000" stop="20211013010721 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013010721 +0000" stop="20211013021824 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013021824 +0000" stop="20211013031047 +0000">
-    <title>Red Bull Cliff Diving World Series 2021</title>
-    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
-    <sub-title>Mostar recap</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

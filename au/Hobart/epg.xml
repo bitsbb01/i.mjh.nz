@@ -733,14 +733,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9122,17 +9122,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211018025900 +0000" stop="20211018041500 +0000">
@@ -9310,17 +9310,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211019025900 +0000" stop="20211019041500 +0000">
@@ -18577,17 +18577,17 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093100 +0000">
+    <title>Father Brown</title>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014085900 +0000">
     <title>Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093100 +0000">
-    <title>Father Brown</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211014085900 +0000" stop="20211014092800 +0000">
@@ -42490,36 +42490,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211012115249 +0000" stop="20211012124217 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012124217 +0000" stop="20211012140304 +0000">
-    <title>Against the Odds</title>
-    <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
-    <sub-title>The story of a new team coming together</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012140304 +0000" stop="20211012140606 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012140606 +0000" stop="20211012141608 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012141608 +0000" stop="20211012143832 +0000">
-    <title>Reel Rock S6E1</title>
-    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
-    <sub-title>The high road part 1</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012143832 +0000" stop="20211012145733 +0000">
-    <title>Reel Rock S6E2</title>
-    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
-    <sub-title>The high road part 2</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211012145733 +0000" stop="20211012152032 +0000">
     <title>Reel Rock S6E3</title>
     <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
@@ -42755,6 +42725,41 @@
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
     <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013135909 +0000" stop="20211013141018 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013141018 +0000" stop="20211013141832 +0000">
+    <title>Behind the Bullet S1E5</title>
+    <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
+    <sub-title>Racing with an injury in Belgium</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013141832 +0000" stop="20211013142959 +0000">
+    <title>Behind the Bullet S1E6</title>
+    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
+    <sub-title>Beyond expectations in Latvia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013142959 +0000" stop="20211013143349 +0000">
+    <title>Freerunning Around the World – extra</title>
+    <desc>Can Russian freerunner Archie Aroyan make it to his work station before his boss notices that he’s missing?</desc>
+    <sub-title>Employee of the Month</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013143349 +0000" stop="20211013144314 +0000">
+    <title>Freerunning Around the World – behind the scenes</title>
+    <desc>Here’s what went down on the set of freerunner Archie Aroyan's film at the KAMAZ-master factory in Russia.</desc>
+    <sub-title>The making of Employee of the Month</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013144314 +0000" stop="20211013152719 +0000">
+    <title>Red Bull Signature Series S2018E3</title>
+    <desc>This slopestyle course in the hills of Olympiapark in Munich, Germany features 12 unique skateboard obstacles.</desc>
+    <sub-title>Red Bull Roller Coaster</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013152719 +0000" stop="20211013161519 +0000">
+    <title>360 Ascent</title>
+    <desc>Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
+    <sub-title>The world’s longest artificial multi-pitch route</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -713,14 +713,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9116,17 +9116,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20211018030000 +0000" stop="20211018035900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211018035900 +0000" stop="20211018051500 +0000">
@@ -9406,13 +9406,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000401" start="20211012132300 +0000" stop="20211012140900 +0000">
-    <title>Reverie</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204000401" start="20211012140900 +0000" stop="20211012150700 +0000">
@@ -10653,12 +10646,6 @@
     <title>Reverie</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204000407" start="20211012133000 +0000" stop="20211012140000 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204000407" start="20211012140000 +0000" stop="20211012150000 +0000">
@@ -12147,13 +12134,6 @@
     <title>Vanderpump Rules</title>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040A" start="20211012133500 +0000" stop="20211012143200 +0000">
-    <title>Chicago Justice</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040A" start="20211012143200 +0000" stop="20211012150200 +0000">
@@ -14956,12 +14936,6 @@
     <title>State of Affairs</title>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040C" start="20211012133000 +0000" stop="20211012143200 +0000">
-    <title>Kings Of Pain</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.10120400040C" start="20211012143200 +0000" stop="20211012153300 +0000">
@@ -18945,15 +18919,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016103000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016103000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -21865,13 +21839,6 @@
     <title>Sucker Punch</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040641" start="20211012132800 +0000" stop="20211012142700 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406040641" start="20211012142700 +0000" stop="20211012153400 +0000">
@@ -26508,12 +26475,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040646" start="20211012133000 +0000" stop="20211012143000 +0000">
-    <title>Gallery of Gold</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040646" start="20211012143000 +0000" stop="20211012153000 +0000">
     <title>Carla Oates The Beauty Chef</title>
     <subtitles type="teletext"/>
@@ -27533,12 +27494,6 @@
     <title>Turmeric Active</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040647" start="20211012132800 +0000" stop="20211012143700 +0000">
-    <title>NCIS: New Orleans</title>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406040647" start="20211012143700 +0000" stop="20211012150700 +0000">
@@ -28834,12 +28789,6 @@
     <title>NCIS: New Orleans</title>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040648" start="20211012134000 +0000" stop="20211012140900 +0000">
-    <title>Frasier</title>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040648" start="20211012140900 +0000" stop="20211012143800 +0000">
@@ -30719,12 +30668,6 @@
   </programme>
   <programme channel="tv.101406040648" start="20211019140000 +0000" stop="20211019143000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040649" start="20211012135900 +0000" stop="20211012140000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -41891,12 +41834,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203300337" start="20211012133500 +0000" stop="20211012153500 +0000">
-    <title>White Tiger</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203300337" start="20211012153500 +0000" stop="20211012173500 +0000">
     <title>The Big Boss</title>
     <rating system="Freeview">
@@ -42407,16 +42344,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211012163101 +0000" stop="20211012181502 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211012181502 +0000" stop="20211012182611 +0000">
-    <title>Behind the Bullet S1E4</title>
-    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
-    <sub-title>Coming home for MXGP of the Netherlands</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211012182611 +0000" stop="20211012183425 +0000">
     <title>Behind the Bullet S1E5</title>
     <desc>Even a broken bone in his shoulder can't stop Jeffrey Herlings as he looks to win crucial points in Belgium.</desc>
@@ -42687,6 +42614,26 @@
     <title>Red Bull Signature Series S2019E8</title>
     <desc>Red Bull Rampage is the biggest test of courage, skill and creativity in mountain biking.</desc>
     <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013185032 +0000" stop="20211013185548 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
+    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013185548 +0000" stop="20211013191019 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
+    <sub-title>Dig life at Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013191019 +0000" stop="20211013191949 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211013191949 +0000" stop="20211013192813 +0000">
+    <title>Red Bull Rampage 2021</title>
+    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
+    <sub-title>20 iconic moments</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

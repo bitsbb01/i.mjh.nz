@@ -89,7 +89,7 @@
   </programme>
   <programme channel="60" start="20211013073000 +0000" stop="20211013080000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211013080000 +0000" stop="20211013100000 +0000">
@@ -286,10 +286,20 @@
     <desc>Home Nations Series: Northern Ireland Open 2021: Day 3, evening session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20211012120000 +0000" stop="20211012163000 +0000">
+  <programme channel="63" start="20211012120000 +0000" stop="20211012153500 +0000">
     <title>LIVE: Snooker: Norther Ireland Open (G)</title>
     <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 4, afternoon session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="63" start="20211012153500 +0000" stop="20211012160000 +0000">
+    <title>NRL 2021: Warriors Wins (G)</title>
+    <desc>Highlights from Round 21 of the 2021 NRL Premiership as the New Zealand Warriors take on the Cronulla Sharks from Cbus Super Stadium, Gold Coast.</desc>
+    <category>League</category>
+  </programme>
+  <programme channel="63" start="20211012160000 +0000" stop="20211012163000 +0000">
+    <title>NRL 2021: Warriors Wins (G)</title>
+    <desc>Highlights of the Round 11 match of the NRL Premiership between our own New Zealand Warriors and the Wests Tigers from Central Coast Stadium on the Central Coast.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211012163000 +0000" stop="20211012170000 +0000">
     <title>NRL 2021: Warriors Wins (G)</title>
@@ -306,27 +316,17 @@
     <desc>Highlights of Round 20 of the 2021 NRL Premiership as the West Tigers take on the New Zealand Warriors at Suncorp Stadium.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211012180000 +0000" stop="20211012210000 +0000">
+  <programme channel="63" start="20211012180000 +0000" stop="20211012223000 +0000">
     <title>LIVE: Snooker: Northern Ireland Open (G)</title>
     <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 4, evening session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20211012210000 +0000" stop="20211012213000 +0000">
-    <title>NRL 2021: Warriors Wins (G)</title>
-    <desc>Highlights from Round 21 of the 2021 NRL Premiership as the New Zealand Warriors take on the Cronulla Sharks from Cbus Super Stadium, Gold Coast.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211012213000 +0000" stop="20211012220000 +0000">
-    <title>Super League Million Pound Game Hls (G)</title>
-    <desc>Join Sky Sport for highlights coverage of the 2021 Super League Million Pound Game as Toulouse take on Featherstone Rovers.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211012220000 +0000" stop="20211013000000 +0000">
+  <programme channel="63" start="20211012223000 +0000" stop="20211013001500 +0000">
     <title>Gallagher Premiership: SAR v NEW (G)</title>
     <desc>Replay coverage of the Gallagher Premiership season as Saracens host Newcastle Falcons at StoneX Stadium, London.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="63" start="20211013000000 +0000" stop="20211013020000 +0000">
+  <programme channel="63" start="20211013001500 +0000" stop="20211013020000 +0000">
     <title>NZRL Men's National Competition (G)</title>
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Southland Rams at Ngā Puna Wai, Christchurch.</desc>
     <category>League</category>
@@ -1135,20 +1135,10 @@
     <desc>Greatest Postseason Home Runs: The swing. The roar of the crowd. The glory.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211012180000 +0000" stop="20211012210000 +0000">
+  <programme channel="82" start="20211012180000 +0000" stop="20211012220000 +0000">
     <title>Live: MLB (G)</title>
     <desc>White Sox v Astros Game 4.</desc>
     <category>US Sports</category>
-  </programme>
-  <programme channel="82" start="20211012210000 +0000" stop="20211012213000 +0000">
-    <title>Around the Horn (G)</title>
-    <desc>Host Tony Reali and journalists banter about sports stories of the day in a competitive game format.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="82" start="20211012213000 +0000" stop="20211012220000 +0000">
-    <title>Pardon the Interruption (G)</title>
-    <desc>Sportswriters Tony Kornheiser and Mike Wilbon debate and discuss the hot topics, issues and events in the world of sports in a format that combines candid opinions, insights and humour.</desc>
-    <category>Sports</category>
   </programme>
   <programme channel="82" start="20211012220000 +0000" stop="20211012230000 +0000">
     <title>Live: SportsCenter (G)</title>
@@ -1208,17 +1198,22 @@
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 4 Session 1.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211012113000 +0000" stop="20211012163000 +0000">
+  <programme channel="93" start="20211012113000 +0000" stop="20211012152000 +0000">
     <title>LIVE: Bwf Thomas &amp; Uber Cup D4 S2 (G)</title>
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 4 Session 2.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="93" start="20211012163000 +0000" stop="20211012220000 +0000">
+  <programme channel="93" start="20211012152000 +0000" stop="20211012170000 +0000">
+    <title>Coming Up: Badminton (G)</title>
+    <desc>Tune in next for LIVE coverage of the BWF Thomas and Uber Cup.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20211012170000 +0000" stop="20211012222500 +0000">
     <title>LIVE: Bwf Thomas &amp; Uber Cup D4 S3 (G)</title>
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 4 Session 3.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211012220000 +0000" stop="20211013063000 +0000">
+  <programme channel="93" start="20211012222500 +0000" stop="20211013063000 +0000">
     <title>Coming Up: Badminton (G)</title>
     <desc>Tune in next for LIVE coverage of the BWF Thomas and Uber Cup.</desc>
     <category>Sports</category>
@@ -1243,7 +1238,7 @@
   </programme>
   <programme channel="60" start="20211013140000 +0000" stop="20211013143000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211013143000 +0000" stop="20211013163000 +0000">
@@ -1472,12 +1467,12 @@
     <desc>Highlights of the Indian Premier League Qualifier 2 as Delhi Capitals take on Kolkata Knight Riders at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211014053000 +0000" stop="20211014083000 +0000">
+  <programme channel="62" start="20211014053000 +0000" stop="20211014083500 +0000">
     <title>2020/21: WBBL: Final (G)</title>
     <desc>Replay coverage of the 2020/21 Women's Big Bash League Final between the Melbourne Stars and Sydney Thunder at North Sydney Oval, Sydney.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211014083000 +0000" stop="20211014110000 +0000">
+  <programme channel="62" start="20211014083500 +0000" stop="20211014110000 +0000">
     <title>LIVE: WBBL: SS v MS (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between Women's Big Bash League between the Sydney Sixers and Melbourne Stars at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
@@ -1658,15 +1653,10 @@
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211014073000 +0000" stop="20211014083000 +0000">
-    <title>FIA ERC: Hls (G)</title>
-    <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211014083000 +0000" stop="20211014093000 +0000">
-    <title>IMSA: Michelin GT Challenge Hls (G)</title>
-    <desc>Highlights of the IMSA Weathertech Sportscar Championship, Michelin GT Challenge at VIR, from, VIRginia International Raceway, Alton, Virginia.</desc>
-    <category>Motorsport</category>
+  <programme channel="83" start="20211014073000 +0000" stop="20211014093000 +0000">
+    <title>BNP Paribas Open: D7 (NZL) (G)</title>
+    <desc>Replay coverage of the ATP 1000: BNP Paribas Open. Watch, as Kiwi Olympic bronze medalist M. Venus &amp; his partner T. Puetz take on H. Tecau &amp; K. Krawietz in the Quarter-Finals from Indian Wells, CA, USA.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="83" start="20211014093000 +0000" stop="20211014103000 +0000">
     <title>FIM EWC: 6 Hours of Most Hls (G)</title>
@@ -1927,9 +1917,19 @@
     <desc>Women's Combined Finals  - Climbing | Tokyo 2020 Replays - This event took place on 06/08/2021 at the Aomi Urban Sports Park, Tokyo. It includes the Women's Combined - Speed, Bouldering and Lead Finals and the Victory Ceremony. Garnbret (SLO) claimed Gold</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211014055000 +0000" stop="20211014110000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211014055000 +0000" stop="20211014060000 +0000">
+    <title>Sport Climbing Athletes... (G)</title>
+    <desc>Sport Climbing Athletes - Watch the amazing performances of some of the world's best climbers in the sport's first Olympic appearance in Tokyo!</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014060000 +0000" stop="20211014093000 +0000">
+    <title>FRA v ROC - Men's Gold Medal ... (G)</title>
+    <desc>FRA v ROC - Men's Gold Medal Match - Volleyball | Tokyo 2020 Replays - The Men's Gold Medal Match between FRA v ROC took place on 07/08/2021 at the Ariake Arena, Tokyo.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014093000 +0000" stop="20211014110000 +0000">
+    <title>Women's Marathon - Athletics ... (G)</title>
+    <desc>Women's Marathon - Athletics | Tokyo 2020 Replays - This event took place on 07/08/2021 around the Sapporo Odori Park. Jepchirchir (KEN) claimed Gold, Kosgei (KEN) Silver and Seidel (USA) completed the podium</desc>
     <category>Sports</category>
   </programme>
   <channel id="87">
@@ -2010,10 +2010,15 @@
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Fayetteville.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211014090000 +0000" stop="20211014110000 +0000">
+  <programme channel="87" start="20211014090000 +0000" stop="20211014100000 +0000">
+    <title>UEFA Euro 2020 Official Film (G)</title>
+    <desc>The official film reflecting on a truly memorable tournament, culminating in an England v Italy finale in London. A unique tournament in so many ways.</desc>
+    <category>Soccer</category>
+  </programme>
+  <programme channel="87" start="20211014100000 +0000" stop="20211014110000 +0000">
     <title>Bahrain v All Whites (G)</title>
     <desc>Intl Football Friendly: Bahrain v All Whites from the Al Muharraq Stadium in Bahrain.</desc>
-    <category>Soccer</category>
+    <category>Sports</category>
   </programme>
   <channel id="88">
     <display-name>sky-sport-news</display-name>
@@ -2075,7 +2080,7 @@
   </programme>
   <programme channel="88" start="20211013183000 +0000" stop="20211013190000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211013190000 +0000" stop="20211013200000 +0000">
@@ -2110,7 +2115,7 @@
   </programme>
   <programme channel="88" start="20211013230000 +0000" stop="20211013233000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211013233000 +0000" stop="20211014000000 +0000">
@@ -2145,12 +2150,12 @@
   </programme>
   <programme channel="88" start="20211014043000 +0000" stop="20211014050000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211014050000 +0000" stop="20211014053000 +0000">
     <title>Sky Speed (G)</title>
-    <desc>Latest news and talk surrounding motorsport locally and internationally.</desc>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211014053000 +0000" stop="20211014060000 +0000">
@@ -2175,7 +2180,7 @@
   </programme>
   <programme channel="88" start="20211014073000 +0000" stop="20211014080000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211014080000 +0000" stop="20211014090000 +0000">
@@ -2287,7 +2292,7 @@
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211014103000 +0000" stop="20211014110000 +0000">
-    <title>FIFA WC 2022 Qual: USA v JAM (G)</title>
+    <title>USA Soccer (G)</title>
     <desc>United States vs. Costa Rica (FIFA World Cup Qualifier): USA and Costa Rica National teams clash in a FIFA World Cup qualifier.</desc>
     <category>Soccer</category>
   </programme>
@@ -2340,7 +2345,7 @@
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211014030000 +0000" stop="20211014050000 +0000">
-    <title>FIFA WC 2022 Qual: USA v JAM (G)</title>
+    <title>USA Soccer (G)</title>
     <desc>United States vs. Costa Rica (FIFA World Cup Qualifier): USA and Costa Rica National teams clash in a FIFA World Cup qualifier.</desc>
     <category>Soccer</category>
   </programme>
@@ -2397,7 +2402,17 @@
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 5 Session 3.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211013220000 +0000" stop="20211014063000 +0000">
+  <programme channel="93" start="20211013220000 +0000" stop="20211014010000 +0000">
+    <title>Coming Up: Tennis (G)</title>
+    <desc>Tune in next for LIVE coverage of the ATP 1000: BNP Paribas Open. Watch, as Kiwi Olympic bronze medalist M. Venus &amp; his partner T. Puetz take on H. Tecau &amp; K. Krawietz in the Quarter-Finals from Indian Wells, CA, USA.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20211014010000 +0000" stop="20211014030000 +0000">
+    <title>LIVE: BNP Paribas Open: D7 (NZL) (G)</title>
+    <desc>LIVE coverage of the ATP 1000: BNP Paribas Open. Watch, as Kiwi Olympic bronze medalist M. Venus &amp; his partner T. Puetz take on H. Tecau &amp; K. Krawietz in the Quarter-Finals from Indian Wells, CA, USA.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="93" start="20211014030000 +0000" stop="20211014063000 +0000">
     <title>Coming Up: Badminton (G)</title>
     <desc>Tune in next for LIVE coverage of the BWF Thomas and Uber Cup.</desc>
     <category>Sports</category>
@@ -2437,7 +2452,7 @@
   </programme>
   <programme channel="60" start="20211014163000 +0000" stop="20211014170000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211014170000 +0000" stop="20211014190000 +0000">
@@ -3116,17 +3131,52 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211014110000 +0000" stop="20211014170000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211014110000 +0000" stop="20211014131500 +0000">
+    <title>Women's Marathon - Athletics ... (G)</title>
+    <desc>Women's Marathon - Athletics | Tokyo 2020 Replays - This event took place on 07/08/2021 around the Sapporo Odori Park. Jepchirchir (KEN) claimed Gold, Kosgei (KEN) Silver and Seidel (USA) completed the podium</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014131500 +0000" stop="20211014132500 +0000">
+    <title>Volleyball Athletes... (G)</title>
+    <desc>Volleyball Athletes - Enjoy the amazing performances of these Volleyball players at the Tokyo 2020 Olympic Games!</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014132500 +0000" stop="20211014161000 +0000">
+    <title>FRA v DEN - Men's Gold Medal ... (G)</title>
+    <desc>FRA v DEN - Men's Gold Medal Match  - Handball | Tokyo 2020 Replays - The Men's Gold Medal Match took place on 07/08/2021 at the Yoyogi National Stadium, Tokyo. France claimed Gold with a 25:23 victory over Denmark</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014161000 +0000" stop="20211014164000 +0000">
+    <title>Xterra Adventures (G)</title>
+    <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014164000 +0000" stop="20211014170000 +0000">
+    <title>Pure As: Monica Falkner (G)</title>
+    <desc>Every time Monica Falkner steps out on court she carries her biggest supporter along in spirit as motivation to keep living out her netball dream.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="86" start="20211014170000 +0000" stop="20211014213000 +0000">
     <title>LIVE: Weber Cup: Day 1 (G)</title>
     <desc>LIVE: Tenpin Bowling: The Weber Cup 2021: Europe and the USA collide again. After 15 years of the Weber Cup the score stands at 11-10 to the United States. Europe will want to level things at Morningside Arena in Leicester, England.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="86" start="20211014213000 +0000" stop="20211015110000 +0000">
+  <programme channel="86" start="20211014213000 +0000" stop="20211014233000 +0000">
+    <title>Bahrain v All Whites (G)</title>
+    <desc>Intl Football Friendly: Bahrain v All Whites from the Al Muharraq Stadium in Bahrain.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211014233000 +0000" stop="20211015000500 +0000">
+    <title>Xterra Adventures (G)</title>
+    <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211015000500 +0000" stop="20211015031500 +0000">
+    <title>Men's Bronze &amp; Gold Medal ... (G)</title>
+    <desc>Men's Bronze &amp; Gold Medal Matches - Beach Volleyball | Tokyo 2020 Replays - This event took place on 06/08/2021 at the Shiokaze Park, Tokyo. Mol/Sorum (NOR) claimed the Gold, Krasilnikov/Stoyanovsky (ROC) Silver and Cherif/Ahmed (QAT) Bronze with a 2:0 vi</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211015031500 +0000" stop="20211015110000 +0000">
     <title>Olympic Channel (G)</title>
     <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
     <category>Sports</category>
@@ -3134,22 +3184,27 @@
   <channel id="87">
     <display-name>sky-sport-9</display-name>
   </channel>
-  <programme channel="87" start="20211014110000 +0000" stop="20211014113000 +0000">
+  <programme channel="87" start="20211014110000 +0000" stop="20211014120000 +0000">
+    <title>Bahrain v All Whites (G)</title>
+    <desc>Intl Football Friendly: Bahrain v All Whites from the Al Muharraq Stadium in Bahrain.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211014120000 +0000" stop="20211014123000 +0000">
     <title>Kite Masters (G)</title>
     <desc>We travel to Montpellier, Southern France, to enjoy some more exciting action in the spiritual home of kiteboarding. France is a country that has dominated kiteboarding over the last few years and has produced many World &amp; European champions.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211014113000 +0000" stop="20211014125500 +0000">
-    <title>Sail GP Spain Day 1 (G)</title>
-    <desc>Replay of Spain Sail GP Day 1. The teams head to Cádiz as the European leg of Season 2 comes to a close in Andalucía.</desc>
-    <category>Watersports</category>
+  <programme channel="87" start="20211014123000 +0000" stop="20211014130000 +0000">
+    <title>ATP Uncovered (G)</title>
+    <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
+    <category>Tennis</category>
   </programme>
-  <programme channel="87" start="20211014125500 +0000" stop="20211014143000 +0000">
+  <programme channel="87" start="20211014130000 +0000" stop="20211014143500 +0000">
     <title>Sail GP Spain Day 2 (G)</title>
     <desc>Replay of Spain Sail GP Day 2. The teams head to Cádiz as the European leg of Season 2 comes to a close in Andalucía.</desc>
     <category>Watersports</category>
   </programme>
-  <programme channel="87" start="20211014143000 +0000" stop="20211014150000 +0000">
+  <programme channel="87" start="20211014143500 +0000" stop="20211014150000 +0000">
     <title>Xterra Adventures (G)</title>
     <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
     <category>Sports</category>
@@ -3252,17 +3307,7 @@
     <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="88" start="20211014140000 +0000" stop="20211014143000 +0000">
-    <title>The Crowd Goes Wild (PG)</title>
-    <desc>Join the team for an alternative dose of sports news, delivering the best (and worst) sporting moments the only way they know how, with a little cheek!</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211014143000 +0000" stop="20211014150000 +0000">
-    <title>Gran Piemonte Hls (G)</title>
-    <desc>Cycling: Gran Piemonte. Gran Piemonte with a route suitable for sprinters that starts from Rocca Canavese to reach Borgosesoa after 168 kilometres of racing.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="88" start="20211014150000 +0000" stop="20211014170000 +0000">
+  <programme channel="88" start="20211014140000 +0000" stop="20211014170000 +0000">
     <title>Boston Marathon 2021 (G)</title>
     <desc>The Marathon is New England's most widely viewed sporting event, and has been taking place in Boston for over 100 years. Runners particularly dread "Heartbreak Hill" located between Mile 20 and 21 in Newton.</desc>
     <category>Sports</category>
@@ -3279,7 +3324,7 @@
   </programme>
   <programme channel="88" start="20211014190000 +0000" stop="20211014193000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211014193000 +0000" stop="20211014200000 +0000">
@@ -3401,7 +3446,7 @@
     <display-name>espn</display-name>
   </channel>
   <programme channel="81" start="20211014110000 +0000" stop="20211014123000 +0000">
-    <title>FIFA WC 2022 Qual: USA v JAM (G)</title>
+    <title>USA Soccer (G)</title>
     <desc>United States vs. Costa Rica (FIFA World Cup Qualifier): USA and Costa Rica National teams clash in a FIFA World Cup qualifier.</desc>
     <category>Soccer</category>
   </programme>
@@ -3492,7 +3537,7 @@
   </programme>
   <programme channel="81" start="20211015060000 +0000" stop="20211015080000 +0000">
     <title>College Football (G)</title>
-    <desc>Navy vs. Memphis</desc>
+    <desc>Navy vs. Memphis (Football).</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211015080000 +0000" stop="20211015083000 +0000">
@@ -3915,12 +3960,12 @@
     <desc>Highlights of the Indian Premier League Final at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211016040000 +0000" stop="20211016043000 +0000">
+  <programme channel="62" start="20211016040000 +0000" stop="20211016043500 +0000">
     <title>WBBL: SS v MS Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Sydney Sixers and Melbourne Stars at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211016043000 +0000" stop="20211016080000 +0000">
+  <programme channel="62" start="20211016043500 +0000" stop="20211016080000 +0000">
     <title>LIVE: WBBL: MR v HH (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between the Melbourne Renegades amd Hobart Hurricanes at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
@@ -4036,24 +4081,34 @@
     <desc>Highlights of the Superbike World Championship, Portuguse round, Race 1.  from Algarve International Circuit, Portimao, Portugal.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015123000 +0000" stop="20211015131500 +0000">
+  <programme channel="83" start="20211015123000 +0000" stop="20211015130000 +0000">
     <title>World Superbikes: Race 2 Hls (G)</title>
     <desc>Highlights of the Superbike World Championship, Portuguse round, Race 2.  from Algarve International Circuit, Portimao, Portugal.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015131500 +0000" stop="20211015143000 +0000">
-    <title>LIVE World Superbike: Practice 1 (G)</title>
-    <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Practice 1, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
+  <programme channel="83" start="20211015130000 +0000" stop="20211015140000 +0000">
+    <title>FIA WTCR: Czech Republic Hls (G)</title>
+    <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015143000 +0000" stop="20211015174500 +0000">
+  <programme channel="83" start="20211015140000 +0000" stop="20211015143000 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211015143000 +0000" stop="20211015173000 +0000">
     <title>IMSA: Michelin GT Challenge (G)</title>
     <desc>Replay of the IMSA Weathertech Sportscar Championship, Michelin GT Challenge at VIR, from, VIRginia International Raceway, Alton, Virginia.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015174500 +0000" stop="20211015190000 +0000">
-    <title>LIVE World Superbike: Practice 2 (G)</title>
-    <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Practice 2, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
+  <programme channel="83" start="20211015173000 +0000" stop="20211015180000 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211015180000 +0000" stop="20211015190000 +0000">
+    <title>NASCAR: ROVAL 400 Hls (G)</title>
+    <desc>Highlights of the 2021 NASCAR Bank of America ROVAL 400 from Charlotte Motor speedway road course.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211015190000 +0000" stop="20211015200000 +0000">
@@ -4402,7 +4457,7 @@
   </programme>
   <programme channel="86" start="20211015213000 +0000" stop="20211015220000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="86" start="20211015220000 +0000" stop="20211016000000 +0000">
@@ -4553,7 +4608,7 @@
   </programme>
   <programme channel="88" start="20211015130000 +0000" stop="20211015133000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211015133000 +0000" stop="20211015140000 +0000">
@@ -4588,7 +4643,7 @@
   </programme>
   <programme channel="88" start="20211015183000 +0000" stop="20211015190000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211015190000 +0000" stop="20211015200000 +0000">
@@ -4598,7 +4653,7 @@
   </programme>
   <programme channel="88" start="20211015200000 +0000" stop="20211015203000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211015203000 +0000" stop="20211015210000 +0000">
@@ -4638,7 +4693,7 @@
   </programme>
   <programme channel="88" start="20211016003000 +0000" stop="20211016010000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211016010000 +0000" stop="20211016020000 +0000">
@@ -4653,7 +4708,7 @@
   </programme>
   <programme channel="88" start="20211016023000 +0000" stop="20211016030000 +0000">
     <title>Sky Speed (G)</title>
-    <desc>Latest news and talk surrounding motorsport locally and internationally.</desc>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211016030000 +0000" stop="20211016040000 +0000">
@@ -4668,7 +4723,7 @@
   </programme>
   <programme channel="88" start="20211016043000 +0000" stop="20211016050000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211016050000 +0000" stop="20211016060000 +0000">
@@ -5031,15 +5086,15 @@
     <desc>Quarter-Final 4 from Day 9 of the ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211016170000 +0000" stop="20211016180000 +0000">
-    <title>BNP Paribas Open: Day 9 Hls (G)</title>
-    <desc>Highlights from Day 9 of the ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211016180000 +0000" stop="20211016200000 +0000">
-    <title>Boston Marathon 2021 (G)</title>
-    <desc>The Marathon is New England's most widely viewed sporting event, and has been taking place in Boston for over 100 years. Runners particularly dread "Heartbreak Hill" located between Mile 20 and 21 in Newton.</desc>
+  <programme channel="61" start="20211016170000 +0000" stop="20211016175000 +0000">
+    <title>Playmakers: Rugby Stories (G)</title>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="61" start="20211016175000 +0000" stop="20211016200000 +0000">
+    <title>LIVE: AFC Champions League Quarterfinal (G)</title>
+    <desc>Afc Champions League Live: Quarter-Final: Persepolis V Al Hilal</desc>
+    <category>Soccer</category>
   </programme>
   <programme channel="61" start="20211016200000 +0000" stop="20211016203000 +0000">
     <title>ATP Uncovered (G)</title>
@@ -5057,13 +5112,13 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211017023000 +0000" stop="20211017030000 +0000">
-    <title>Bunnings NPC: CAN v BAY (G)</title>
+    <title>Bunnings NPC Mini: CAN v BAY (G)</title>
     <desc>Bunnings NPC 2021: Canterbury host Hawke's Bay at Orangetheory Stadium in Christchurch.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="61" start="20211017030000 +0000" stop="20211017033000 +0000">
-    <title>Bunnings NPC: NOR v TAR Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland welcome Taranaki to the Semenoff Stadium in Whangarei.</desc>
+    <title>Bunnings NPC: WAI v TAR Hls (G)</title>
+    <desc>Bunnings NPC 2021: Waikato welcome Taranaki to FMG Stadium Waikato in Hamilton.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="61" start="20211017033000 +0000" stop="20211017053000 +0000">
@@ -5149,17 +5204,17 @@
     <desc>Highlights of the Women's Big Bash League match between the Melbourne Renegades amd Hobart Hurricanes at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211016223000 +0000" stop="20211016230000 +0000">
+  <programme channel="62" start="20211016223000 +0000" stop="20211016231000 +0000">
     <title>WBBL: ST v AS (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Sydney Thunder and Adelaide Strikers at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211016230000 +0000" stop="20211017023000 +0000">
+  <programme channel="62" start="20211016231000 +0000" stop="20211017024000 +0000">
     <title>LIVE: WBBL: PS v BH (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between the Perth Scorchers and Brisbane Heat at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211017023000 +0000" stop="20211017060000 +0000">
+  <programme channel="62" start="20211017024000 +0000" stop="20211017060000 +0000">
     <title>LIVE: WBBL: HH v SS (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between the Hobart Hurricanes and Sydney Sixers at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
@@ -5271,8 +5326,8 @@
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211016124500 +0000" stop="20211016134500 +0000">
-    <title>LIVE World Superbike: Practice 3 (G)</title>
-    <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Practice 3, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
+    <title>FIA WTCR: Czech Republic Hls (G)</title>
+    <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211016134500 +0000" stop="20211016141500 +0000">
@@ -5280,12 +5335,12 @@
     <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="83" start="20211016141500 +0000" stop="20211016153500 +0000">
+  <programme channel="83" start="20211016141500 +0000" stop="20211016154000 +0000">
     <title>LIVE World Superbike: Superpole (G)</title>
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Superpole, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016153500 +0000" stop="20211016161500 +0000">
+  <programme channel="83" start="20211016154000 +0000" stop="20211016161500 +0000">
     <title>FIA Pure Motorsport (G)</title>
     <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
     <category>Motorsport</category>
@@ -5295,10 +5350,15 @@
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, WolrdSSP Race 1, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016173000 +0000" stop="20211016193000 +0000">
+  <programme channel="83" start="20211016173000 +0000" stop="20211016190000 +0000">
     <title>LIVE World Superbike: Race 1 (G)</title>
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Race 1, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211016190000 +0000" stop="20211016193000 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="83" start="20211016193000 +0000" stop="20211016200000 +0000">
     <title>FIA ERC: All Access (G)</title>
@@ -5629,10 +5689,15 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211016110000 +0000" stop="20211016160000 +0000">
-    <title>LIVE British Superbikes (G)</title>
-    <desc>LIVE Coverage of the British Superbikes Championship, Round 11, From Brands Hatch Circuit.</desc>
-    <category>Sports</category>
+  <programme channel="86" start="20211016110000 +0000" stop="20211016123000 +0000">
+    <title>LIVE British Superbikes: Qualifying (G)</title>
+    <desc>LIVE coverage of the British Superbikes Championship, Round 11, Qualifing, from Brands Hatch Circuit, Kent, United Kingdom.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="86" start="20211016123000 +0000" stop="20211016160000 +0000">
+    <title>LIVE British Superbikes: Race 1 (G)</title>
+    <desc>LIVE coverage of the British Superbikes Championship, Round 11, Race 1, from Brands Hatch Circuit, Kent, United Kingdom.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="86" start="20211016160000 +0000" stop="20211016163000 +0000">
     <title>IPL Qualifier 2 DC v KKR Hls (G)</title>
@@ -5727,17 +5792,7 @@
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Women's Elite held in Fayetteville.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211017014000 +0000" stop="20211017021000 +0000">
-    <title>Xterra Adventures (G)</title>
-    <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20211017021000 +0000" stop="20211017023000 +0000">
-    <title>Pure As: Kruze Tangira (G)</title>
-    <desc>New Zealand Men’s captain Kruze Tangira gives a brave account of the challenges he’s endured to make it to the pinnacle of men’s netball.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="87" start="20211017023000 +0000" stop="20211017043000 +0000">
+  <programme channel="87" start="20211017014000 +0000" stop="20211017043000 +0000">
     <title>Boston Marathon 2021 (G)</title>
     <desc>The Marathon is New England's most widely viewed sporting event, and has been taking place in Boston for over 100 years. Runners particularly dread "Heartbreak Hill" located between Mile 20 and 21 in Newton.</desc>
     <category>Sports</category>
@@ -5758,8 +5813,8 @@
     <category>Tennis</category>
   </programme>
   <programme channel="87" start="20211017083000 +0000" stop="20211017110000 +0000">
-    <title>Bellator 268: Nemkov v Johnson (M)</title>
-    <desc>Light heavyweight kingpin Vadim Nemkov (14-2) defends his world championship against No. 4 ranked Anthony “Rumble” Johnson (23-6), while current Bellator Heavyweight Champion Ryan Bader (28-6) faces No. 2-ranked light heavyweight Corey Anderson (15-5).</desc>
+    <title>Bellator 268: Nemkov v Anglickas (M)</title>
+    <desc>Light heavyweight kingpin Vadim Nemkov (14-2) defends his world championship against Lithuanian Julius Anglickas (10-1), while current Bellator Heavyweight Champion Ryan Bader (28-6) faces No. 2-ranked light heavyweight Corey Anderson (15-5).</desc>
     <category>Fight Sport</category>
   </programme>
   <channel id="88">
@@ -5812,7 +5867,7 @@
   </programme>
   <programme channel="88" start="20211016210500 +0000" stop="20211016213000 +0000">
     <title>Sky Speed (G)</title>
-    <desc>Latest news and talk surrounding motorsport locally and internationally.</desc>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211016213000 +0000" stop="20211016220000 +0000">
@@ -5915,12 +5970,12 @@
   </programme>
   <programme channel="81" start="20211016130000 +0000" stop="20211016160000 +0000">
     <title>Live: College GameDay (G)</title>
-    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college gridiron with previews, exclusive interviews, analysis &amp; discussion</desc>
+    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college football with previews, exclusive interviews, analysis, and discus...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211016160000 +0000" stop="20211016190000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>#20 Florida vs. LSU</desc>
+    <desc>#20 Florida vs. LSU (Football).</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211016190000 +0000" stop="20211016193000 +0000">
@@ -5998,7 +6053,7 @@
   </programme>
   <programme channel="82" start="20211016160000 +0000" stop="20211016190000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>UCF vs. #5 Cincinnati</desc>
+    <desc>UCF vs. #5 Cincinnati (Football).</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211016190000 +0000" stop="20211016193000 +0000">
@@ -6191,8 +6246,8 @@
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211017114500 +0000" stop="20211017160000 +0000">
-    <title>LIVE: Darts: European Championship (G)</title>
-    <desc>LIVE: Darts: European Championship 2021: We bring you all the darts drama from Salzburgarena in Austria.</desc>
+    <title>LIVE: Darts: European Championship</title>
+    <desc>LIVE: Darts: European Championship: Day 4: Action from the afternoon session at the Salzburgarena in Austria as the players compete in the latter stages of the tournament.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="61" start="20211017160000 +0000" stop="20211017170000 +0000">
@@ -6449,9 +6504,14 @@
     <desc>Replay of the Superbike World Championship, Argentinean round, Race 1, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017144500 +0000" stop="20211017161500 +0000">
+  <programme channel="83" start="20211017144500 +0000" stop="20211017154500 +0000">
     <title>LIVE World Superbike: Superpole (G)</title>
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Superpole, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017154500 +0000" stop="20211017161500 +0000">
+    <title>FIA Pure Motorsport (G)</title>
+    <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211017161500 +0000" stop="20211017173000 +0000">
@@ -6459,9 +6519,14 @@
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, WolrdSSP Race 2, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017173000 +0000" stop="20211017193000 +0000">
+  <programme channel="83" start="20211017173000 +0000" stop="20211017190000 +0000">
     <title>LIVE World Superbike: Race 2 (G)</title>
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Race 2, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017190000 +0000" stop="20211017193000 +0000">
+    <title>FIA ERC: All Access (G)</title>
+    <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211017193000 +0000" stop="20211017203000 +0000">
@@ -6489,29 +6554,19 @@
     <desc>Replay of the 2021 NASCAR Autotrade EchoPark Automotive 500, from Texas Motor Speedway.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211018033000 +0000" stop="20211018040000 +0000">
+  <programme channel="83" start="20211018033000 +0000" stop="20211018050500 +0000">
+    <title>Uci Cyclo-Cross World Cup Iowa Mens Elit (G)</title>
+    <desc>No Description Available</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="83" start="20211018050500 +0000" stop="20211018063000 +0000">
+    <title>Uci Cyclo-Cross World Cup Iowa Wmns Elit (G)</title>
+    <desc>No Description Available</desc>
+    <category>Cycling</category>
+  </programme>
+  <programme channel="83" start="20211018063000 +0000" stop="20211018070000 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211018040000 +0000" stop="20211018050000 +0000">
-    <title>FIA ERC: Hls (G)</title>
-    <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211018050000 +0000" stop="20211018053000 +0000">
-    <title>Mobil 1 The Grid (G)</title>
-    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211018053000 +0000" stop="20211018060000 +0000">
-    <title>FIA Pure Motorsport (G)</title>
-    <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
-    <category>Motorsport</category>
-  </programme>
-  <programme channel="83" start="20211018060000 +0000" stop="20211018070000 +0000">
-    <title>FIA WTCR: Czech Republic Hls (G)</title>
-    <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211018070000 +0000" stop="20211018073000 +0000">
@@ -6783,10 +6838,15 @@
   <channel id="86">
     <display-name>sky-sport-8</display-name>
   </channel>
-  <programme channel="86" start="20211017110000 +0000" stop="20211017160000 +0000">
-    <title>LIVE British Superbikes (G)</title>
-    <desc>LIVE Coverage of the British Superbikes Championship, Round 11, From Brands Hatch Circuit.</desc>
-    <category>Sports</category>
+  <programme channel="86" start="20211017110000 +0000" stop="20211017133000 +0000">
+    <title>LIVE British Superbikes: Race 2 (G)</title>
+    <desc>LIVE coverage of the British Superbikes Championship, Round 11, Race 2, from Brands Hatch Circuit, Kent, United Kingdom.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="86" start="20211017133000 +0000" stop="20211017160000 +0000">
+    <title>LIVE British Superbikes: Race 3 (G)</title>
+    <desc>LIVE coverage of the British Superbikes Championship, Round 11, Race 3, from Brands Hatch Circuit, Kent, United Kingdom.</desc>
+    <category>Motorsport</category>
   </programme>
   <programme channel="86" start="20211017160000 +0000" stop="20211017163000 +0000">
     <title>Rainbow Desert Enduro Event HLs (G)</title>
@@ -6798,9 +6858,14 @@
     <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="86" start="20211017170000 +0000" stop="20211017180000 +0000">
-    <title>Olympic Channel (G)</title>
-    <desc>Revisit some of the best Summer &amp; Winter Olympic moments in history, go behind-the-scenes, discover, engage and share in the power of sport and the excitement of the Olympic Games.</desc>
+  <programme channel="86" start="20211017170000 +0000" stop="20211017173000 +0000">
+    <title>Gearing Up (G)</title>
+    <desc>Our journey starts in Spain! For the eighth consecutive year in the province of Teruel, the Baja Espana Aragon Trofeo AVATEL explores the roads of the Jiloca region and the Community of Teruel.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="86" start="20211017173000 +0000" stop="20211017180000 +0000">
+    <title>Xterra Adventures (G)</title>
+    <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="86" start="20211017180000 +0000" stop="20211017220000 +0000">
@@ -6831,14 +6896,14 @@
   <channel id="87">
     <display-name>sky-sport-9</display-name>
   </channel>
-  <programme channel="87" start="20211017110000 +0000" stop="20211017120000 +0000">
+  <programme channel="87" start="20211017110000 +0000" stop="20211017113000 +0000">
+    <title>Bellator 268: Nemkov v Anglickas (M)</title>
+    <desc>Light heavyweight kingpin Vadim Nemkov (14-2) defends his world championship against Lithuanian Julius Anglickas (10-1), while current Bellator Heavyweight Champion Ryan Bader (28-6) faces No. 2-ranked light heavyweight Corey Anderson (15-5).</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="87" start="20211017113000 +0000" stop="20211017123000 +0000">
     <title>Paris-Roubaix Event Hls (G)</title>
     <desc>Event Highlights - Paris-Roubaix 2021. Tune in for all the action held in France.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20211017120000 +0000" stop="20211017123000 +0000">
-    <title>Milan Torino Hls (G)</title>
-    <desc>Highlights from the Milan Torino Cycling race as riders travel 199km from Milan to Turin in the oldest classic Italian race.</desc>
     <category>Cycling</category>
   </programme>
   <programme channel="87" start="20211017123000 +0000" stop="20211017140000 +0000">
@@ -6941,7 +7006,7 @@
   </programme>
   <programme channel="88" start="20211017150000 +0000" stop="20211017170000 +0000">
     <title>Bunnings NPC: NOR v OTA (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211017170000 +0000" stop="20211017180000 +0000">
@@ -6956,7 +7021,7 @@
   </programme>
   <programme channel="88" start="20211017183000 +0000" stop="20211017190000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211017190000 +0000" stop="20211017200000 +0000">
@@ -6979,24 +7044,24 @@
     <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="88" start="20211017220000 +0000" stop="20211018003000 +0000">
-    <title>Bellator 268: Nemkov v Anglickas (M)</title>
-    <desc>Light heavyweight kingpin Vadim Nemkov (14-2) defends his world championship against Lithuanian Julius Anglickas (10-1), while current Bellator Heavyweight Champion Ryan Bader (28-6) faces No. 2-ranked light heavyweight Corey Anderson (15-5).</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="88" start="20211018003000 +0000" stop="20211018013000 +0000">
-    <title>Fox Sports News (G)</title>
-    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211018013000 +0000" stop="20211018023000 +0000">
+  <programme channel="88" start="20211017220000 +0000" stop="20211017230000 +0000">
     <title>Bwf Thomas &amp; Uber Cup Hl's: Day 8 (G)</title>
     <desc>Highlights of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 8.</desc>
     <category>Sports</category>
   </programme>
+  <programme channel="88" start="20211017230000 +0000" stop="20211018013000 +0000">
+    <title>Bellator 268: Nemkov v Anglickas (M)</title>
+    <desc>Light heavyweight kingpin Vadim Nemkov (14-2) defends his world championship against Lithuanian Julius Anglickas (10-1), while current Bellator Heavyweight Champion Ryan Bader (28-6) faces No. 2-ranked light heavyweight Corey Anderson (15-5).</desc>
+    <category>Fight Sport</category>
+  </programme>
+  <programme channel="88" start="20211018013000 +0000" stop="20211018023000 +0000">
+    <title>Fox Sports News (G)</title>
+    <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
+    <category>Sports</category>
+  </programme>
   <programme channel="88" start="20211018023000 +0000" stop="20211018030000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211018030000 +0000" stop="20211018033000 +0000">
@@ -7386,11 +7451,11 @@
   </programme>
   <programme channel="61" start="20211019073000 +0000" stop="20211019080000 +0000">
     <title>Bunnings NPC: NOR v OTA Hls (G)</title>
-    <desc>Bunnings NPC 2021: Northland host Otago at the Semenoff Stadium in Whangarei.</desc>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="61" start="20211019080000 +0000" stop="20211019083000 +0000">
-    <title>Bunnings NPC: CAN v BAY (G)</title>
+    <title>Bunnings NPC Mini: CAN v BAY (G)</title>
     <desc>Bunnings NPC 2021: Canterbury host Hawke's Bay at Orangetheory Stadium in Christchurch.</desc>
     <category>Rugby</category>
   </programme>
@@ -7437,17 +7502,17 @@
     <desc>Replay coverage of the ICC T20 World Cup First Round match between Ireland and the Netherlands at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211018223000 +0000" stop="20211019021500 +0000">
+  <programme channel="62" start="20211018223000 +0000" stop="20211019022000 +0000">
     <title>ICC T20 WC: SRI v NED (G)</title>
     <desc>Replay coverage of the ICC T20 World Cup First Round match between Sri Lanka and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211019021500 +0000" stop="20211019054500 +0000">
+  <programme channel="62" start="20211019022000 +0000" stop="20211019055000 +0000">
     <title>LIVE: WBBL: MS v HH (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between the Melbourne Stars and Hobart Hurricanes at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211019054500 +0000" stop="20211019093000 +0000">
+  <programme channel="62" start="20211019055000 +0000" stop="20211019093000 +0000">
     <title>LIVE: WBBL: BH v PS (G)</title>
     <desc>LIVE coverage of the Women's Big Bash League match between the Brisbane Heat and Perth Scorchers at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>

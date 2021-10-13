@@ -737,14 +737,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -19013,15 +19013,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016093000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42539,16 +42539,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211013073305 +0000" stop="20211013080249 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211013080249 +0000" stop="20211013085217 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211013085217 +0000" stop="20211013101304 +0000">
     <title>Against the Odds</title>
     <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
@@ -42822,6 +42812,46 @@
   <programme channel="tv.redbull.tv" start="20211014082930 +0000" stop="20211014090500 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014090500 +0000" stop="20211014095244 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014095244 +0000" stop="20211014100044 +0000">
+    <title>Reckless Isolation – extra</title>
+    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
+    <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014100044 +0000" stop="20211014100641 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
+    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014100641 +0000" stop="20211014102151 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
+    <sub-title>Dig life at Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014102151 +0000" stop="20211014103121 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014103121 +0000" stop="20211014104026 +0000">
+    <title>Red Bull Rampage 2021</title>
+    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
+    <sub-title>20 iconic moments</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014104026 +0000" stop="20211014105120 +0000">
+    <title>Red Bull Rampage 2021</title>
+    <desc>Get ready to celebrate as we reflect on 20 epic years of freeride mountain biking at Red Bull Rampage.</desc>
+    <sub-title>20 years of iconic freeriding</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014105120 +0000" stop="20211014123441 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

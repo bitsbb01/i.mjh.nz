@@ -737,14 +737,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9131,17 +9131,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211018025900 +0000" stop="20211018041500 +0000">
@@ -9319,17 +9319,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002710271" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002710271" start="20211019025900 +0000" stop="20211019041500 +0000">
@@ -17314,14 +17314,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211013010000 +0000" stop="20211013025600 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305030530" start="20211013010000 +0000" stop="20211013025700 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211013010000 +0000" stop="20211013025700 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305030530" start="20211013010000 +0000" stop="20211013025600 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18608,17 +18608,17 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093300 +0000">
-    <title>Father Brown</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014085900 +0000">
     <title>Home and Away</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20211014083000 +0000" stop="20211014093300 +0000">
+    <title>Father Brown</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211014085900 +0000" stop="20211014092800 +0000">
@@ -42539,11 +42539,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211013021824 +0000" stop="20211013031047 +0000">
-    <title>Red Bull Cliff Diving World Series 2021</title>
-    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
-    <sub-title>Mostar recap</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211013031047 +0000" stop="20211013035751 +0000">
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
@@ -42776,9 +42771,9 @@
     <sub-title>Starting again</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211013215143 +0000" stop="20211013230206 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211013230206 +0000" stop="20211013230955 +0000">
     <title>Enjoy the Ride S1E1</title>
@@ -42845,6 +42840,11 @@
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
     <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211014044046 +0000" stop="20211014060053 +0000">
+    <title>Against the Odds</title>
+    <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
+    <sub-title>The story of a new team coming together</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

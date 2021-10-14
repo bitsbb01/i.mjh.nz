@@ -2462,18 +2462,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -16830,14 +16830,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20211020010100 +0000" stop="20211020025900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305020520" start="20211020010100 +0000" stop="20211020025800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20211020010100 +0000" stop="20211020025800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305020520" start="20211020010100 +0000" stop="20211020025900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -17452,15 +17452,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016093000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016093000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -40339,36 +40339,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211014095244 +0000" stop="20211014100044 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014100044 +0000" stop="20211014100641 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
-    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014100641 +0000" stop="20211014102151 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
-    <sub-title>Dig life at Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014102151 +0000" stop="20211014103121 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
-    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014103121 +0000" stop="20211014104026 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014104026 +0000" stop="20211014105120 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Get ready to celebrate as we reflect on 20 epic years of freeride mountain biking at Red Bull Rampage.</desc>
-    <sub-title>20 years of iconic freeriding</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211014105120 +0000" stop="20211014123441 +0000">
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
@@ -40609,24 +40579,33 @@
     <desc>Find out from MTB rider Carson Storch what goes into making your own line for Red Bull Rampage.</desc>
     <sub-title>Carson Storch</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015085538 +0000" stop="20211015090559 +0000">
+  <programme channel="tv.redbull.tv" start="20211015085538 +0000" stop="20211015090548 +0000">
     <title>Red Bull Rampage 2019</title>
     <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
     <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015090559 +0000" stop="20211015092110 +0000">
+  <programme channel="tv.redbull.tv" start="20211015090548 +0000" stop="20211015092110 +0000">
     <title>Red Bull Rampage 2019</title>
     <desc>Dig Days are upon us and the crews have been relentlessly scoping, digging and building some insane lines.</desc>
     <sub-title>Dig life at Red Bull Rampage</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015092110 +0000" stop="20211015101401 +0000">
+  <programme channel="tv.redbull.tv" start="20211015092110 +0000" stop="20211015101350 +0000">
     <title>Red Bull Signature Series S2014E14</title>
     <desc>The great equaliser of mountain bike events unites slopestylers, downhill and natural-terrain freeriders.</desc>
     <sub-title>Red Bull Rampage</sub-title>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015101401 +0000" stop="20211015110444 +0000">
+  <programme channel="tv.redbull.tv" start="20211015101350 +0000" stop="20211015110444 +0000">
     <title>Red Bull Signature Series S2015E13</title>
     <desc>The world's best big mountain riders meet outside Zion National Park for the 10th edition of Red Bull Rampage.</desc>
+    <sub-title>Red Bull Rampage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015110444 +0000" stop="20211015120934 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015120934 +0000" stop="20211015131727 +0000">
+    <title>Red Bull Signature Series S2017E7</title>
+    <desc>Red Bull Rampage is known around the world as the proving ground for the best riders on two wheels.</desc>
     <sub-title>Red Bull Rampage</sub-title>
   </programme>
   <channel id="tv.46">

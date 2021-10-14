@@ -308,14 +308,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18904,15 +18904,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -40871,6 +40871,11 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211014183029 +0000" stop="20211014194132 +0000">
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211014194132 +0000" stop="20211014200431 +0000">
     <title>Reel Rock S6E3</title>
     <desc>A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
@@ -41085,11 +41090,6 @@
     <title>Red Bull Rampage 2021</title>
     <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
     <sub-title>Red Bull Rampage 20-year anniversary</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015205657 +0000" stop="20211015210305 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>Take a look back at some of the gnarliest clips from Red Bull Rampage history.</desc>
-    <sub-title>Wildest moments in Red Bull Rampage history</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

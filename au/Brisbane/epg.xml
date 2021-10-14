@@ -494,14 +494,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18192,14 +18192,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18968,16 +18968,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211017020000 +0000" stop="20211017025800 +0000">
-    <title>The Yorkshire Vet</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040542" start="20211017020000 +0000" stop="20211017025900 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20211017020000 +0000" stop="20211017025800 +0000">
+    <title>The Yorkshire Vet</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20211017025900 +0000" stop="20211017032800 +0000">
@@ -19059,15 +19059,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211017140000 +0000" stop="20211017173900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305040542" start="20211017140000 +0000" stop="20211017150000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211017140000 +0000" stop="20211017150000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305040542" start="20211017140000 +0000" stop="20211017173900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41561,25 +41561,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014023806 +0000" stop="20211014025536 +0000">
-    <title>Watch Semenuk ride reimagined slopestyle features</title>
-    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
-    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014025536 +0000" stop="20211014031219 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014031219 +0000" stop="20211014032053 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014032053 +0000" stop="20211014035037 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211014035037 +0000" stop="20211014044046 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>

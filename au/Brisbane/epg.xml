@@ -9084,17 +9084,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20211019030000 +0000" stop="20211019035900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211019035900 +0000" stop="20211019051500 +0000">
@@ -18066,14 +18066,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305040540" start="20211020020100 +0000" stop="20211020035900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18697,15 +18697,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016103000 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016103000 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41421,19 +41421,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211013232643 +0000" stop="20211014000213 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014000213 +0000" stop="20211014002309 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211014002309 +0000" stop="20211014004507 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211014004507 +0000" stop="20211014010736 +0000">
     <title>Driving DTM S1E6</title>
     <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
@@ -41712,6 +41699,16 @@
     <title>Red Bull Signature Series S2020E1</title>
     <desc>Held on the North Shore of Oahu, Volcom Pipe Pro brings together 144 of the world’s best surfers.</desc>
     <sub-title>Volcom Pipe Pro</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015013620 +0000" stop="20211015015350 +0000">
+    <title>Watch Semenuk ride reimagined slopestyle features</title>
+    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
+    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015015350 +0000" stop="20211015021034 +0000">
+    <title>Cycling Around the World S1E5</title>
+    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
+    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

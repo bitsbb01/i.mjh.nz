@@ -18797,16 +18797,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
-    <title>The Yorkshire Vet</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022900 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
+    <title>The Yorkshire Vet</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211017022900 +0000" stop="20211017025800 +0000">
@@ -44839,6 +44839,11 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211014204907 +0000" stop="20211014211500 +0000">
+    <title>Reel Rock S6E6</title>
+    <desc>After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
+    <sub-title>The Nose speed record part 3</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211014211500 +0000" stop="20211014215900 +0000">
     <title>Red Bull Signature Series S2020E4</title>
     <desc>Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
@@ -45043,16 +45048,6 @@
     <title>The Moment</title>
     <desc>In the backwoods of Canada, three crews of adventure seekers changed the world of cycling.</desc>
     <sub-title>The origin of freeride mountain biking</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015221518 +0000" stop="20211015225347 +0000">
-    <title>Return to Earth</title>
-    <desc>Experience a cinematic journey that'll transport you to the feeling of total immersion you get on a bike ride.</desc>
-    <sub-title>Seize the moment... on a bike</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015225347 +0000" stop="20211015235236 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

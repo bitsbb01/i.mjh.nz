@@ -296,14 +296,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -611,15 +611,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -12309,14 +12309,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -44324,6 +44324,26 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211014234321 +0000" stop="20211015000511 +0000">
+    <title>Driving DTM S1E6</title>
+    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
+    <sub-title>Assen</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015000511 +0000" stop="20211015002810 +0000">
+    <title>Driving DTM S1E7</title>
+    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
+    <sub-title>Hockenheim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015002810 +0000" stop="20211015013620 +0000">
+    <title>Red Bull Signature Series S2020E1</title>
+    <desc>Held on the North Shore of Oahu, Volcom Pipe Pro brings together 144 of the world’s best surfers.</desc>
+    <sub-title>Volcom Pipe Pro</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015013620 +0000" stop="20211015015350 +0000">
+    <title>Watch Semenuk ride reimagined slopestyle features</title>
+    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
+    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211015015350 +0000" stop="20211015021034 +0000">
     <title>Cycling Around the World S1E5</title>
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
@@ -44496,11 +44516,6 @@
     <title>FIA World Rally Championship 2021</title>
     <desc>Watch Friday's highlights from Spain where the mixed surfaces demand every ounce of focus drivers can muster.</desc>
     <sub-title>Friday highlights – Spain</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016010331 +0000" stop="20211016050331 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
-    <sub-title>Red Bull Rampage 20-year anniversary</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

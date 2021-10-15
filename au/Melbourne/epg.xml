@@ -8500,18 +8500,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018030000 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -8688,18 +8688,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019030000 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019030000 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211019030000 +0000" stop="20211019041500 +0000">
@@ -18683,15 +18683,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25271,14 +25271,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20211015193000 +0000" stop="20211015200000 +0000">
+  <programme channel="tv.101406030635" start="20211015193000 +0000" stop="20211015195900 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20211015193000 +0000" stop="20211015195900 +0000">
+  <programme channel="tv.101406030635" start="20211015193000 +0000" stop="20211015200000 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44822,26 +44822,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015153358 +0000" stop="20211015161838 +0000">
-    <title>Red Bull Signature Series S2020E4</title>
-    <desc>Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
-    <sub-title>Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015161838 +0000" stop="20211015163659 +0000">
-    <title>Watch Semenuk ride reimagined slopestyle features</title>
-    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
-    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015163659 +0000" stop="20211015164603 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015164603 +0000" stop="20211015165657 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Get ready to celebrate as we reflect on 20 epic years of freeride mountain biking at Red Bull Rampage.</desc>
-    <sub-title>20 years of iconic freeriding</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211015165657 +0000" stop="20211015205657 +0000">
     <title>Red Bull Rampage 2021</title>
     <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
@@ -45020,6 +45000,11 @@
     <title>Racing Together</title>
     <desc>The history of motorcycle racing is charted through its best riders, from former legends to today’s stars.</desc>
     <sub-title>Motorcycle racing's journey</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016173357 +0000" stop="20211016181759 +0000">
+    <title>Red Bull Signature Series S2020E5</title>
+    <desc>Held at Ryan Sheckler’s private skate park, Red Bull Solus featured 13 of the world's leading skateboarders.</desc>
+    <sub-title>Red Bull Solus</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -8909,18 +8909,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019030000 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211019030000 +0000" stop="20211019041500 +0000">
@@ -12332,14 +12332,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18920,15 +18920,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017140000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305030532" start="20211017130000 +0000" stop="20211017163900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

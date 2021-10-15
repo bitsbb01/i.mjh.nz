@@ -8500,18 +8500,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018030000 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -44822,20 +44822,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015092110 +0000" stop="20211015101350 +0000">
-    <title>Red Bull Signature Series S2014E14</title>
-    <desc>The great equaliser of mountain bike events unites slopestylers, downhill and natural-terrain freeriders.</desc>
-    <sub-title>Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015101350 +0000" stop="20211015110444 +0000">
-    <title>Red Bull Signature Series S2015E13</title>
-    <desc>The world's best big mountain riders meet outside Zion National Park for the 10th edition of Red Bull Rampage.</desc>
-    <sub-title>Red Bull Rampage</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015110444 +0000" stop="20211015120934 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211015120934 +0000" stop="20211015131727 +0000">
     <title>Red Bull Signature Series S2017E7</title>
     <desc>Red Bull Rampage is known around the world as the proving ground for the best riders on two wheels.</desc>
@@ -44985,6 +44971,35 @@
     <title>The LA Boys</title>
     <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
     <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016114036 +0000" stop="20211016114841 +0000">
+    <title>Esports Unfold S3E6</title>
+    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
+    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016114841 +0000" stop="20211016115635 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016115635 +0000" stop="20211016122619 +0000">
+    <title>Human Pinball</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016122619 +0000" stop="20211016131022 +0000">
+    <title>Red Bull Soapbox Race S7E2</title>
+    <desc>Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
+    <sub-title>Helsinki, Finland</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016131022 +0000" stop="20211016135951 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211016135951 +0000" stop="20211016141156 +0000">
+    <title>MX World S3E1</title>
+    <desc>Look back at the highlights of the 2020 season and hear from Tony Cairoli, Jeffrey Herlings and Jorge Prado.</desc>
+    <sub-title>Revisit the intense 2020 season</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

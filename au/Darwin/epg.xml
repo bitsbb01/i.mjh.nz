@@ -8497,18 +8497,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018043000 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018042900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018043000 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20211018043000 +0000" stop="20211018054500 +0000">
@@ -17894,14 +17894,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18429,15 +18429,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016095800 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016095800 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44837,6 +44837,61 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211015034605 +0000" stop="20211015050612 +0000">
+    <title>Against the Odds</title>
+    <desc>This is the story of Team OG’s incredible journey from underdogs to contenders for gaming’s biggest prize.</desc>
+    <sub-title>The story of a new team coming together</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015050612 +0000" stop="20211015050914 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
+    <sub-title>Preparing the mind and body</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015050914 +0000" stop="20211015051916 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
+    <sub-title>Behind the scenes with Dario Costa</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015051916 +0000" stop="20211015054139 +0000">
+    <title>Reel Rock S6E1</title>
+    <desc>Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
+    <sub-title>The high road part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015054139 +0000" stop="20211015060041 +0000">
+    <title>Reel Rock S6E2</title>
+    <desc>Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
+    <sub-title>The high road part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015060049 +0000" stop="20211015062756 +0000">
+    <title>Motive</title>
+    <desc>Enjoy the effortless style and progressive riding of six MTB pros combined with cutting edge film-making.</desc>
+    <sub-title>A passion for mountain biking</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015062756 +0000" stop="20211015070619 +0000">
+    <title>UnReal</title>
+    <desc>Break free from the confines of everyday life and venture into a limitless world of mountain biking potential.</desc>
+    <sub-title>Reality is what you make it</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015070619 +0000" stop="20211015074359 +0000">
+    <title>From the Inside Out</title>
+    <desc>On a trip to British Columbia, freeriding friends, The Coastal Crew, document their joy of mountain biking.</desc>
+    <sub-title>This is freeride mountain biking</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015074359 +0000" stop="20211015081129 +0000">
+    <title>Red Bull Formation 2021</title>
+    <desc>Learn more about the female riders who are changing the face of freeride mountain biking for the better.</desc>
+    <sub-title>The female freeriders changing MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015081129 +0000" stop="20211015081824 +0000">
+    <title>Red Bull Formation 2021</title>
+    <desc>These innovative women, creators of Red Bull Formation, have transformed the freeride mountain biking scene.</desc>
+    <sub-title>Taking the leap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211015081824 +0000" stop="20211015085538 +0000">
+    <title>Peaking S1E1</title>
+    <desc>Find out from MTB rider Carson Storch what goes into making your own line for Red Bull Rampage.</desc>
+    <sub-title>Carson Storch</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211015085538 +0000" stop="20211015090548 +0000">
     <title>Red Bull Rampage 2019</title>
     <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
@@ -44935,71 +44990,6 @@
     <title>Red Bull Rampage 2021</title>
     <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
     <sub-title>Red Bull Rampage 20-year anniversary</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016050331 +0000" stop="20211016060220 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016060220 +0000" stop="20211016061139 +0000">
-    <title>Dual Focus S1E1</title>
-    <desc>Swedish freeskier Jesper Tjäder shares how skateboarding makes him a sharper, more agile ski competitor.</desc>
-    <sub-title>Jesper Tjäder</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016061139 +0000" stop="20211016061948 +0000">
-    <title>Dual Focus S1E2</title>
-    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
-    <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016061948 +0000" stop="20211016062502 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016062502 +0000" stop="20211016070427 +0000">
-    <title>Saturdays</title>
-    <desc>Check out some of the most progressive skateboarding ever captured on film.</desc>
-    <sub-title>Birdhouse Skateboards' new film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016070427 +0000" stop="20211016072449 +0000">
-    <title>Driving DTM S1E3</title>
-    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
-    <sub-title>Zolder</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016072449 +0000" stop="20211016073039 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016073039 +0000" stop="20211016083814 +0000">
-    <title>Red Bull Signature Series S2020E7</title>
-    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
-    <sub-title>Kenda Tennessee Knockout</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016083814 +0000" stop="20211016090016 +0000">
-    <title>That’s Caroline</title>
-    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
-    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016090016 +0000" stop="20211016091600 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
-    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
-    <sub-title>The path to Portugal</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016091600 +0000" stop="20211016092609 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
-    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
-    <sub-title>Motorbikes and bicycles</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016092609 +0000" stop="20211016094232 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
-    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
-    <sub-title>Taking on a brand new race</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016094232 +0000" stop="20211016100524 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
-    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
-    <sub-title>Ripping it up in Romania</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -580,15 +580,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -8887,18 +8887,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20211019033000 +0000" stop="20211019043000 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002810281" start="20211019033000 +0000" stop="20211019042900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002810281" start="20211019033000 +0000" stop="20211019043000 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20211019043000 +0000" stop="20211019054500 +0000">
@@ -12292,14 +12292,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18036,14 +18036,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18905,15 +18905,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44859,11 +44859,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015025636 +0000" stop="20211015034605 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211015034605 +0000" stop="20211015050612 +0000">
     <title>Against the Odds</title>

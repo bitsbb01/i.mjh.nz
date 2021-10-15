@@ -304,14 +304,14 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20211014181500 +0000" stop="20211014183000 +0000">
-    <title>The Ticket</title>
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2657,18 +2657,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019030000 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019025900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019030000 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211019030000 +0000" stop="20211019041500 +0000">
@@ -12329,14 +12329,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -44343,11 +44343,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015025636 +0000" stop="20211015034605 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211015034605 +0000" stop="20211015050612 +0000">
     <title>Against the Odds</title>

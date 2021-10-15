@@ -8698,18 +8698,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20211018023000 +0000" stop="20211018033000 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20211018023000 +0000" stop="20211018032900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20211018023000 +0000" stop="20211018033000 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20211018033000 +0000" stop="20211018044500 +0000">
@@ -8886,18 +8886,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019033000 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019032900 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019033000 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20211019033000 +0000" stop="20211019044500 +0000">
@@ -12295,14 +12295,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211015090000 +0000" stop="20211015100000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211015090000 +0000" stop="20211015100000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -43275,25 +43275,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015015350 +0000" stop="20211015021034 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015021034 +0000" stop="20211015021858 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015021858 +0000" stop="20211015022652 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015022652 +0000" stop="20211015025636 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211015025636 +0000" stop="20211015034605 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>

@@ -619,15 +619,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2462,18 +2462,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -12317,14 +12317,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Secrets Of The National Trust</title>
+    <title>Attenborough and the Giant Dinosaur</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211015083000 +0000" stop="20211015093000 +0000">
-    <title>Attenborough and the Giant Dinosaur</title>
-    <subtitles type="teletext"/>
+    <title>Secrets Of The National Trust</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17457,15 +17457,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016092800 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016092800 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44331,25 +44331,6 @@
     <rating system="Freeview">
       <value>M</value>
     </rating>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015015350 +0000" stop="20211015021034 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015021034 +0000" stop="20211015021858 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015021858 +0000" stop="20211015022652 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211015022652 +0000" stop="20211015025636 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211015025636 +0000" stop="20211015034605 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>

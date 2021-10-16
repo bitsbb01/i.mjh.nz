@@ -18429,15 +18429,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016095800 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016095800 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211016080100 +0000" stop="20211016090400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18677,15 +18677,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -45091,6 +45091,11 @@
   <programme channel="tv.redbull.tv" start="20211017024357 +0000" stop="20211017031927 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017031927 +0000" stop="20211017040631 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

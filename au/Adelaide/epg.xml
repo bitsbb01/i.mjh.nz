@@ -380,15 +380,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -8682,18 +8682,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019032900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019033000 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20211019023000 +0000" stop="20211019032900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20211019033000 +0000" stop="20211019044500 +0000">
@@ -17867,14 +17867,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305050550" start="20211020013100 +0000" stop="20211020032800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18656,15 +18656,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017143000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305050552" start="20211017133000 +0000" stop="20211017170900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25237,14 +25237,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20211015200000 +0000" stop="20211015202900 +0000">
+  <programme channel="tv.101406050655" start="20211015200000 +0000" stop="20211015203000 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050655" start="20211015200000 +0000" stop="20211015203000 +0000">
+  <programme channel="tv.101406050655" start="20211015200000 +0000" stop="20211015202900 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -45016,16 +45016,6 @@
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
     <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211017040631 +0000" stop="20211017050520 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211017050520 +0000" stop="20211017053504 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

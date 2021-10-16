@@ -8497,18 +8497,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018042900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018043000 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002810281" start="20211018033000 +0000" stop="20211018042900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002810281" start="20211018043000 +0000" stop="20211018054500 +0000">
@@ -18586,16 +18586,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022900 +0000">
-    <title>Escape to the Country</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
     <title>The Yorkshire Vet</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022900 +0000">
+    <title>Escape to the Country</title>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211017022900 +0000" stop="20211017025800 +0000">
@@ -45084,16 +45084,6 @@
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
     <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211017040631 +0000" stop="20211017050520 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211017050520 +0000" stop="20211017053504 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

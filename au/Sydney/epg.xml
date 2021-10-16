@@ -2266,18 +2266,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -17461,15 +17461,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017163900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017140000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017140000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017163900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25260,14 +25260,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015200000 +0000">
+  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015195900 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015195900 +0000">
+  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015200000 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -26664,12 +26664,14 @@
   </programme>
   <programme channel="tv.101406020626" start="20211016103000 +0000" stop="20211016113000 +0000">
     <title>NEW Australian Emerald</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211016113000 +0000" stop="20211016123000 +0000">
     <title>TANZANITE Gems</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26687,7 +26689,8 @@
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211016143000 +0000" stop="20211016153000 +0000">
-    <title>Indian Alexandrite Gems</title>
+    <title>NEW Australian Emerald</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26705,25 +26708,28 @@
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211016173000 +0000" stop="20211016183000 +0000">
-    <title>NEW Australian Emerald</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20211016183000 +0000" stop="20211016193000 +0000">
-    <title>TANZANITE Gems</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020626" start="20211016193000 +0000" stop="20211016203000 +0000">
     <title>Pearls of Tahiti</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020626" start="20211016183000 +0000" stop="20211016193000 +0000">
+    <title>Bolivian Ametrine</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020626" start="20211016193000 +0000" stop="20211016203000 +0000">
+    <title>NEW Australian Emerald</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020626" start="20211016203000 +0000" stop="20211016213000 +0000">
-    <title>Kunar River Premium Kunzite</title>
+    <title>TANZANITE Gems</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -26736,36 +26742,42 @@
   </programme>
   <programme channel="tv.101406020626" start="20211016223000 +0000" stop="20211016233000 +0000">
     <title>Mozambique Morganite</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211016233000 +0000" stop="20211017003000 +0000">
     <title>Nepalese Kyanite Gems is Back!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211017003000 +0000" stop="20211017013000 +0000">
     <title>Madagascan Natural Coloured Sapphires</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211017013000 +0000" stop="20211017023000 +0000">
     <title>NEW Pilbara Tigers Iron</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211017023000 +0000" stop="20211017033000 +0000">
     <title>Kunar Valley Hiddenite Gems</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020626" start="20211017033000 +0000" stop="20211017043000 +0000">
     <title>Mozambique Morganite</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -44277,11 +44289,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211016010331 +0000" stop="20211016050331 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
-    <sub-title>Red Bull Rampage 20-year anniversary</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211016050331 +0000" stop="20211016060220 +0000">
     <title>North of Nightfall</title>
     <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
@@ -44524,6 +44531,30 @@
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
     <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017040631 +0000" stop="20211017050520 +0000">
+    <title>North of Nightfall</title>
+    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
+    <sub-title>An expedition to the top of the world</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017050520 +0000" stop="20211017053504 +0000">
+    <title>Human Pinball</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017053504 +0000" stop="20211017054258 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017054258 +0000" stop="20211017055941 +0000">
+    <title>Cycling Around the World S1E5</title>
+    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
+    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017055941 +0000" stop="20211017062153 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

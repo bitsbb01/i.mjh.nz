@@ -394,15 +394,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2454,18 +2454,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019030000 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211019030000 +0000" stop="20211019041500 +0000">
@@ -17213,15 +17213,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016092800 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016092800 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211016073100 +0000" stop="20211016083400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -17461,15 +17461,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017140000 +0000">
-    <title>Chris Tarrant: Extreme Railways</title>
+  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017163900 +0000">
+    <title>Grand Prix</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017163900 +0000">
-    <title>Grand Prix</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020522" start="20211017130000 +0000" stop="20211017140000 +0000">
+    <title>Chris Tarrant: Extreme Railways</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25260,14 +25260,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015200000 +0000">
+  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015195900 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015195900 +0000">
+  <programme channel="tv.101406020625" start="20211015193000 +0000" stop="20211015200000 +0000">
     <title>Leading the Way</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -44277,16 +44277,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015235236 +0000" stop="20211016003831 +0000">
-    <title>Builder</title>
-    <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
-    <sub-title>The art and science of trail building</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016003831 +0000" stop="20211016010331 +0000">
-    <title>FIA World Rally Championship 2021</title>
-    <desc>Watch Friday's highlights from Spain where the mixed surfaces demand every ounce of focus drivers can muster.</desc>
-    <sub-title>Friday highlights – Spain</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211016010331 +0000" stop="20211016050331 +0000">
     <title>Red Bull Rampage 2021</title>
     <desc>Watch the 20th-anniversary event as riders chase the most coveted title in freeride mountain biking.</desc>
@@ -44505,6 +44495,30 @@
     <title>That’s Caroline</title>
     <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
     <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017011133 +0000" stop="20211017012717 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017012717 +0000" stop="20211017013725 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017013725 +0000" stop="20211017015349 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017015349 +0000" stop="20211017024357 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017024357 +0000" stop="20211017031927 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -130,20 +130,10 @@
     <desc>Highlights from Day 8 of the ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211015180000 +0000" stop="20211015220000 +0000">
+  <programme channel="61" start="20211015180000 +0000" stop="20211015233000 +0000">
     <title>LIVE: BNP Paribas Open: Day 9 (G)</title>
     <desc>LIVE – ATP 1000: BNP Paribas Open (a.k.a. Indian Wells Masters). Tune in for all the action from Day 9 as the world's top tennis players go head to head in Indian Wells, CA, USA.</desc>
     <category>Tennis</category>
-  </programme>
-  <programme channel="61" start="20211015220000 +0000" stop="20211015230000 +0000">
-    <title>Golf Central (G)</title>
-    <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
-    <category>Golf</category>
-  </programme>
-  <programme channel="61" start="20211015230000 +0000" stop="20211015233000 +0000">
-    <title>Sail GP Spain Day 1 Hls (G)</title>
-    <desc>Highlights of Spain Sail GP Day 1. The teams head to Cádiz as the European leg of Season 2 comes to a close in Andalucía.</desc>
-    <category>Watersports</category>
   </programme>
   <programme channel="61" start="20211015233000 +0000" stop="20211016000000 +0000">
     <title>Sail GP Spain Day 2 Hls (G)</title>
@@ -187,7 +177,7 @@
   </programme>
   <programme channel="61" start="20211016100000 +0000" stop="20211016103000 +0000">
     <title>IPL Final CSK v KKR Hls (G)</title>
-    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings tske on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
+    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="61" start="20211016103000 +0000" stop="20211016110000 +0000">
@@ -218,22 +208,17 @@
     <desc>Highlights of the Indian Premier League Qualifier 2 as Delhi Capitals take on Kolkata Knight Riders at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211015135000 +0000" stop="20211015182000 +0000">
+  <programme channel="62" start="20211015135000 +0000" stop="20211015191000 +0000">
     <title>LIVE: IPL Final CSK v KKR (G)</title>
     <desc>LIVE coverage of the Indian Premier League Final. Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211015182000 +0000" stop="20211015185000 +0000">
-    <title>IPL Qualifier 2 DC v KKR Hls (G)</title>
-    <desc>Highlights of the Indian Premier League Qualifier 2 as Delhi Capitals take on Kolkata Knight Riders at Sharjah Cricket Stadium, Sharjah.</desc>
+  <programme channel="62" start="20211015191000 +0000" stop="20211015230500 +0000">
+    <title>IPL Final 2021 CSK v KKR (G)</title>
+    <desc>Replay coverage of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211015185000 +0000" stop="20211015230000 +0000">
-    <title>IPL: Final (G)</title>
-    <desc>Replay coverage of the Indian Premier League Final at Dubai International Cricket Stadium, Dubai.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211015230000 +0000" stop="20211015233000 +0000">
+  <programme channel="62" start="20211015230500 +0000" stop="20211015233000 +0000">
     <title>2016 ICC WT20: AUS v NZ Hls (G)</title>
     <desc>The 2016 ICC Twenty20 World Cup has swung in and SKY Sport's bringing you the action. 16 teams compete across 35 matches, all aiming to win the biggest prize in T20 cricket. Join us for highlights as the BLACKCAPS meet old rivals Australia.</desc>
     <category>Cricket</category>
@@ -264,8 +249,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211016033000 +0000" stop="20211016040000 +0000">
-    <title>IPL: Final Hls (G)</title>
-    <desc>Highlights of the Indian Premier League Final at Dubai International Cricket Stadium, Dubai.</desc>
+    <title>IPL Final CSK v KKR Hls (G)</title>
+    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211016040000 +0000" stop="20211016043500 +0000">
@@ -286,57 +271,47 @@
   <channel id="63">
     <display-name>sky-sport-4</display-name>
   </channel>
-  <programme channel="63" start="20211015110000 +0000" stop="20211015153000 +0000">
+  <programme channel="63" start="20211015110000 +0000" stop="20211015180000 +0000">
     <title>LIVE: Snooker: Northern Ireland Open (G)</title>
     <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 7, afternoon session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20211015153000 +0000" stop="20211015173000 +0000">
-    <title>NZRL Men's National Competition (G)</title>
-    <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Southland Rams at Ngā Puna Wai, Christchurch.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211015173000 +0000" stop="20211015180000 +0000">
-    <title>NRL 2021: Warriors Wins (G)</title>
-    <desc>Highlights of the Round 6 match of the NRL Premiership between the St George Illawarra Dragons and our own New Zealand Warriors from Netstrata Jubilee Stadium in Sydney.</desc>
-    <category>League</category>
-  </programme>
-  <programme channel="63" start="20211015180000 +0000" stop="20211015210000 +0000">
+  <programme channel="63" start="20211015180000 +0000" stop="20211015213000 +0000">
     <title>LIVE: Snooker: Northern Ireland Open (G)</title>
     <desc>LIVE: Home Nations Series: Northern Ireland Open 2021: Day 7, evening session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="63" start="20211015210000 +0000" stop="20211015213000 +0000">
+  <programme channel="63" start="20211015213000 +0000" stop="20211015215500 +0000">
     <title>Super League: Road to Glory (G)</title>
     <desc>Highlights from one of the trophy winners defining matches on the road to glory. St Helens had lost in the previous meeting against their eventual fellow finalists back in May. Catalans Dragons came to visit St Helens for the return fixture on 7th August.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="63" start="20211015213000 +0000" stop="20211015220000 +0000">
+  <programme channel="63" start="20211015215500 +0000" stop="20211015222000 +0000">
     <title>NRL 2021: Warriors Wins (G)</title>
     <desc>Highlights of the Round 8 match of the NRL Premiership between our own New Zealand Warriors and the North Queensland Cowboys from Central Coast Stadium on the Central Coast.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211015220000 +0000" stop="20211015223000 +0000">
+  <programme channel="63" start="20211015222000 +0000" stop="20211015225000 +0000">
     <title>Women's Super League Final Hls (G)</title>
     <desc>Join Sky Sport for highlight coverage of the Grand Final of the 2021 Women's Super League as St Helens take on the Leeds Rhinos from Emerald Headingley Stadium, Leeds.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211015223000 +0000" stop="20211015230000 +0000">
+  <programme channel="63" start="20211015225000 +0000" stop="20211015232000 +0000">
     <title>NRL 2021: Warriors Wins (G)</title>
     <desc>Highlights from Round 21 of the 2021 NRL Premiership as the New Zealand Warriors take on the Cronulla Sharks from Cbus Super Stadium, Gold Coast.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211015230000 +0000" stop="20211016013000 +0000">
+  <programme channel="63" start="20211015232000 +0000" stop="20211016014500 +0000">
     <title>Women's Super League Final (G)</title>
     <desc>Join Sky Sport for Replay coverage of the Grand Final of the 2021 Women's Super League as St Helens take on the Leeds Rhinos from Emerald Headingley Stadium, Leeds.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211016013000 +0000" stop="20211016040000 +0000">
+  <programme channel="63" start="20211016014500 +0000" stop="20211016040500 +0000">
     <title>Super League Final: CAT v STH (G)</title>
     <desc>Join Sky Sport for Replay coverage of the Grand Final of the 2021 Super League as the Catalans Dragons take on St Helens from Old Trafford, Manchester. .</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211016040000 +0000" stop="20211016060000 +0000">
+  <programme channel="63" start="20211016040500 +0000" stop="20211016060000 +0000">
     <title>NZRL Men's National Competition (G)</title>
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as the Canterbury Bulls take on the Southland Rams at Ngā Puna Wai, Christchurch.</desc>
     <category>League</category>
@@ -352,9 +327,9 @@
     <category>League</category>
   </programme>
   <programme channel="63" start="20211016070000 +0000" stop="20211016073000 +0000">
-    <title>Super League: Road to Glory (G)</title>
-    <desc>Highlights from one of the trophy winners defining matches on the road to glory. St Helens had lost in the previous meeting against their eventual fellow finalists back in May. Catalans Dragons came to visit St Helens for the return fixture on 7th August.</desc>
-    <category>Rugby</category>
+    <title>League Insider (G)</title>
+    <desc>Sky Sport’s Ravinder Hunia sits down with Kiwi Legend #341, Ray Cranch, our longest surviving Rugby League player in New Zealand. He shares his stories of survival, determination and patriotism on and off the field.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211016073000 +0000" stop="20211016080000 +0000">
     <title>NRL 2021: Warriors Wins (G)</title>
@@ -439,55 +414,65 @@
     <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="83" start="20211015210000 +0000" stop="20211015220000 +0000">
+  <programme channel="83" start="20211015210000 +0000" stop="20211015215500 +0000">
     <title>FIA WTCR: Race 1 (G)</title>
     <desc>Replay of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, Race 1, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015220000 +0000" stop="20211015230000 +0000">
+  <programme channel="83" start="20211015215500 +0000" stop="20211015225000 +0000">
     <title>FIA WTCR: Race 2 (G)</title>
     <desc>Replay of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, Race 2, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211015230000 +0000" stop="20211016020000 +0000">
+  <programme channel="83" start="20211015225000 +0000" stop="20211016014500 +0000">
     <title>IMSA: Michelin GT Challenge (G)</title>
     <desc>Replay of the IMSA Weathertech Sportscar Championship, Michelin GT Challenge at VIR, from, VIRginia International Raceway, Alton, Virginia.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016020000 +0000" stop="20211016040000 +0000">
+  <programme channel="83" start="20211016014500 +0000" stop="20211016021000 +0000">
+    <title>Mobil 1 The Grid (G)</title>
+    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211016021000 +0000" stop="20211016041000 +0000">
     <title>FIM EWC: 6 Hours of Most (G)</title>
     <desc>FIM Endurance World Championship from the 6 Hours of Most, last 2 hours, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016040000 +0000" stop="20211016043000 +0000">
+  <programme channel="83" start="20211016041000 +0000" stop="20211016043500 +0000">
     <title>Sky Speed (G)</title>
     <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="83" start="20211016043000 +0000" stop="20211016050000 +0000">
+  <programme channel="83" start="20211016043500 +0000" stop="20211016050500 +0000">
     <title>FIA Pure Motorsport (G)</title>
     <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016050000 +0000" stop="20211016053000 +0000">
+  <programme channel="83" start="20211016050500 +0000" stop="20211016053000 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016053000 +0000" stop="20211016063000 +0000">
+  <programme channel="83" start="20211016053000 +0000" stop="20211016061500 +0000">
     <title>FIA ERC: Hls (G)</title>
     <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016063000 +0000" stop="20211016073000 +0000">
+  <programme channel="83" start="20211016061500 +0000" stop="20211016071000 +0000">
     <title>NASCAR: ROVAL 400 Hls (G)</title>
     <desc>Highlights of the 2021 NASCAR Bank of America ROVAL 400 from Charlotte Motor speedway road course.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016073000 +0000" stop="20211016083000 +0000">
+  <programme channel="83" start="20211016071000 +0000" stop="20211016080200 +0000">
     <title>NASCAR Xfinity: Cure 250 Hls (G)</title>
     <desc>Highlights of the NASCAR Xfinity Series, Drive for the Cure 250, from Charlotte Motor Speedway Road Course.</desc>
     <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211016080200 +0000" stop="20211016083000 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="83" start="20211016083000 +0000" stop="20211016090000 +0000">
     <title>Mobil 1 The Grid (G)</title>
@@ -522,12 +507,12 @@
     <desc>Highlights European Tour: Round 1. Estrella Damm N.A Andalucia Masters held at Real Club Valderrama, Sotogrande in Spain.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211015120000 +0000" stop="20211015170000 +0000">
+  <programme channel="84" start="20211015120000 +0000" stop="20211015170500 +0000">
     <title>LIVE: European Tour: Round 2 (G)</title>
     <desc>LIVE: European Tour: Round 2. Estrella Damm N.A Andalucia Masters held at Real Club Valderrama, Sotogrande in Spain.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211015170000 +0000" stop="20211015173000 +0000">
+  <programme channel="84" start="20211015170500 +0000" stop="20211015173000 +0000">
     <title>Golf Central (G)</title>
     <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
     <category>Golf</category>
@@ -552,17 +537,17 @@
     <desc>Highlights PGA Tour. The CJ Cup Round 1 held at The Summit Club in Las Vegas, Nevada.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211015210000 +0000" stop="20211016000000 +0000">
+  <programme channel="84" start="20211015210000 +0000" stop="20211016001000 +0000">
     <title>LIVE: PGA Tour: Round 2 (G)</title>
     <desc>LIVE PGA Tour. The CJ Cup Round 2 held at The Summit Club in Las Vegas, Nevada.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211016000000 +0000" stop="20211016020000 +0000">
+  <programme channel="84" start="20211016001000 +0000" stop="20211016020500 +0000">
     <title>European Tour: Round 2 (G)</title>
     <desc>European Tour: Round 2. Estrella Damm N.A Andalucia Masters held at Real Club Valderrama, Sotogrande in Spain.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211016020000 +0000" stop="20211016023000 +0000">
+  <programme channel="84" start="20211016020500 +0000" stop="20211016023000 +0000">
     <title>PGA Tour: Round 2 Hls (G)</title>
     <desc>Highlights PGA Tour. The CJ Cup Round 2 held at The Summit Club in Las Vegas, Nevada.</desc>
     <category>Golf</category>
@@ -809,14 +794,19 @@
     <category>Cricket</category>
   </programme>
   <programme channel="86" start="20211016003000 +0000" stop="20211016010000 +0000">
-    <title>IPL: Final Hls (G)</title>
-    <desc>Highlights of the Indian Premier League Final at Dubai International Cricket Stadium, Dubai.</desc>
+    <title>IPL Final CSK v KKR Hls (G)</title>
+    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="86" start="20211016010000 +0000" stop="20211016053000 +0000">
+  <programme channel="86" start="20211016010000 +0000" stop="20211016050000 +0000">
     <title>Weber Cup: Day 2 (G)</title>
     <desc>Tenpin Bowling: The Weber Cup 2021: Europe and the USA collide again. After 15 years of the Weber Cup the score stands at 11-10 to the United States. Europe will want to level things at Morningside Arena in Leicester, England.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="86" start="20211016050000 +0000" stop="20211016053000 +0000">
+    <title>IPL Final CSK v KKR Hls (G)</title>
+    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
   </programme>
   <programme channel="86" start="20211016053000 +0000" stop="20211016110000 +0000">
     <title>Bwf Thomas &amp; Uber Cup SF1 (G)</title>
@@ -881,37 +871,32 @@
     <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211015180000 +0000" stop="20211015220000 +0000">
+  <programme channel="87" start="20211015180000 +0000" stop="20211015223500 +0000">
     <title>LIVE: Darts: European Championship (G)</title>
     <desc>LIVE: Darts: European Championship: Day 2: More first round action from the Salzburgarena in Austria as darts heavyweights from around the continent compete for the title.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211015220000 +0000" stop="20211015230000 +0000">
+  <programme channel="87" start="20211015223500 +0000" stop="20211015233000 +0000">
     <title>Paris-Roubaix Event Hls (G)</title>
     <desc>Event Highlights - Paris-Roubaix 2021. Tune in for all the action held in France.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211015230000 +0000" stop="20211016033000 +0000">
+  <programme channel="87" start="20211015233000 +0000" stop="20211016040500 +0000">
     <title>Snooker: Northern Ireland Open (G)</title>
     <desc>Home Nations Series: Northern Ireland Open 2021: Day 7, afternoon session from Waterfront Hall in Belfast.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211016033000 +0000" stop="20211016045500 +0000">
+  <programme channel="87" start="20211016040500 +0000" stop="20211016053000 +0000">
     <title>UCI Cyclo-Cross WC Men's Elite (G)</title>
     <desc>Replay - UCI Cyclo-Cross World Cup 2021. Tune in for Men's Elite held in Fayetteville.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211016045500 +0000" stop="20211016052000 +0000">
-    <title>Xterra Adventures (G)</title>
-    <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20211016052000 +0000" stop="20211016055000 +0000">
+  <programme channel="87" start="20211016053000 +0000" stop="20211016055500 +0000">
     <title>Gran Piemonte Hls (G)</title>
     <desc>Cycling: Gran Piemonte. Gran Piemonte with a route suitable for sprinters that starts from Rocca Canavese to reach Borgosesoa after 168 kilometres of racing.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211016055000 +0000" stop="20211016062000 +0000">
+  <programme channel="87" start="20211016055500 +0000" stop="20211016062000 +0000">
     <title>IPL Final CSK v KKR Hls (G)</title>
     <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
@@ -1079,15 +1064,10 @@
     <desc>Tune in for a complete wrap of the day's sporting headlines to date, together with extensive highlights and previews of the sporting action still to come.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="88" start="20211016060000 +0000" stop="20211016093000 +0000">
+  <programme channel="88" start="20211016060000 +0000" stop="20211016100000 +0000">
     <title>IPL Final 2021 CSK v KKR (G)</title>
     <desc>Replay coverage of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
-  </programme>
-  <programme channel="88" start="20211016093000 +0000" stop="20211016100000 +0000">
-    <title>European Tour: Round 2 Hls (G)</title>
-    <desc>Highlights European Tour: Round 2. Estrella Damm N.A Andalucia Masters held at Real Club Valderrama, Sotogrande in Spain.</desc>
-    <category>Golf</category>
   </programme>
   <programme channel="88" start="20211016100000 +0000" stop="20211016110000 +0000">
     <title>Bwf Thomas &amp; Uber Cup Hl's: Day 7 (G)</title>
@@ -1132,12 +1112,12 @@
     <desc>Buccaneers v Eagles: The Buccs have had the strongest passing game in the league, behind Tom Brady. Will this be too much for the Eagles top 10 defence?</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211015180000 +0000" stop="20211015190000 +0000">
+  <programme channel="81" start="20211015180000 +0000" stop="20211015190500 +0000">
     <title>Live: This Just In (G)</title>
     <desc>Hosted by Max Kellerman, this one-hour show will provide all the latest news, opinion, and analysis on the day?</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20211015190000 +0000" stop="20211015200000 +0000">
+  <programme channel="81" start="20211015190500 +0000" stop="20211015200000 +0000">
     <title>Live: The Point (G)</title>
     <desc>ESPN's flagship hockey show featuring highlights, news, analysis, speed, skill and access to the biggest stars, stories and personalities of the game. Hosted by John Buccigross.</desc>
     <category>US Sports</category>
@@ -1313,17 +1293,22 @@
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 7 Quarterfinals.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211015113000 +0000" stop="20211015163000 +0000">
+  <programme channel="93" start="20211015113000 +0000" stop="20211015155000 +0000">
     <title>LIVE: Bwf Thomas &amp; Uber Cup QF4 (G)</title>
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 7 Quarterfinals.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211015163000 +0000" stop="20211015220000 +0000">
+  <programme channel="93" start="20211015155000 +0000" stop="20211015170000 +0000">
+    <title>Coming Up: Badminton (G)</title>
+    <desc>Tune in next for LIVE coverage of the BWF Thomas and Uber Cup.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="93" start="20211015170000 +0000" stop="20211015214000 +0000">
     <title>LIVE: Bwf Thomas &amp; Uber Cup SF1 (G)</title>
     <desc>Live coverage of the BWF Thomas and Uber Cup 2020, the men's and women's team badminton championship from Aarhus, Denmark. Day 7 Semifinals.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211015220000 +0000" stop="20211016010000 +0000">
+  <programme channel="93" start="20211015214000 +0000" stop="20211016010000 +0000">
     <title>Coming Up: Tennis (G)</title>
     <desc>Tune in next for LIVE coverage of the ATP 1000: BNP Paribas: Doubles Semi-Finals. Watch, as Kiwi Olympic bronze medalist M. Venus &amp; his partner T. Puetz take on A. Karatsev &amp; A. Rubley from Indian Wells, CA, USA.</desc>
     <category>Sports</category>
@@ -1380,11 +1365,16 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211016173000 +0000" stop="20211016180000 +0000">
+    <title>Bunnings NPC: NOR v OTA Hls (G)</title>
+    <desc>Bunnings NPC 2021: Northland take on Otago from Rotorua International Stadium, Rotorua.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="60" start="20211016180000 +0000" stop="20211016183000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
     <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff Wilson catches up with All Blacks Captain Sam Cane, as he makes his return to rugby from a six month injury absence.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="60" start="20211016180000 +0000" stop="20211016220000 +0000">
+  <programme channel="60" start="20211016183000 +0000" stop="20211016220000 +0000">
     <title>LIVE: Boxxer: Marshall v Muzeya (M)</title>
     <desc>It's the Newcastle Takeover as the "Silent Assassin" Savannah Marshall defends her WBO Middleweight title against fellow undefeated Zambian pro boxer Lolita Muzeya. Also on the card, Ritson v Lundy, Eubank Jr. v Awdijan and Hughie Fury v Christian Hammer.</desc>
     <category>Fight Sport</category>
@@ -1634,9 +1624,9 @@
     <category>League</category>
   </programme>
   <programme channel="63" start="20211016220000 +0000" stop="20211016223000 +0000">
-    <title>Super League: Road to Glory (G)</title>
-    <desc>Highlights from one of the trophy winners defining matches on the road to victory. After narrowly losing to Catalans Dragons 30-31 a week prior, St Helens hosted Leeds Rhinos at Totally Wicked Stadium on 10th September.</desc>
-    <category>Rugby</category>
+    <title>League Insider (G)</title>
+    <desc>Sky Sport’s Ravinder Hunia sits down with Kiwi Legend #341, Ray Cranch, our longest surviving Rugby League player in New Zealand. He shares his stories of survival, determination and patriotism on and off the field.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211016223000 +0000" stop="20211016230000 +0000">
     <title>NRL 2021: Warriors Wins (G)</title>
@@ -1668,10 +1658,15 @@
     <desc>Join Sky Sport for Replay coverage of the 2021 NZRL Men's National Competition. Catch the action as Waikato take on the Mid Central Men from Davies Park, Huntly.</desc>
     <category>League</category>
   </programme>
-  <programme channel="63" start="20211017090000 +0000" stop="20211017095000 +0000">
+  <programme channel="63" start="20211017090000 +0000" stop="20211017092500 +0000">
     <title>Super League: Road to Glory (G)</title>
     <desc>Highlights from one of the trophy winners defining matches on the road to victory. After narrowly losing to Catalans Dragons 30-31 a week prior, St Helens hosted Leeds Rhinos at Totally Wicked Stadium on 10th September.</desc>
     <category>Rugby</category>
+  </programme>
+  <programme channel="63" start="20211017092500 +0000" stop="20211017095000 +0000">
+    <title>League Insider (G)</title>
+    <desc>Sky Sport’s Ravinder Hunia sits down with Kiwi Legend #341, Ray Cranch, our longest surviving Rugby League player in New Zealand. He shares his stories of survival, determination and patriotism on and off the field.</desc>
+    <category>League</category>
   </programme>
   <programme channel="63" start="20211017095000 +0000" stop="20211017110000 +0000">
     <title>LIVE: AFC Champions League Quarterfinal (G)</title>
@@ -1721,39 +1716,49 @@
     <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="83" start="20211016193000 +0000" stop="20211016200000 +0000">
+  <programme channel="83" start="20211016193000 +0000" stop="20211016195500 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016200000 +0000" stop="20211016210000 +0000">
+  <programme channel="83" start="20211016195500 +0000" stop="20211016204000 +0000">
     <title>FIA ERC: Hls (G)</title>
     <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211016210000 +0000" stop="20211017003000 +0000">
+  <programme channel="83" start="20211016204000 +0000" stop="20211017000600 +0000">
     <title>NASCAR: ROVAL 400 (G)</title>
     <desc>Replay of the 2021 NASCAR Bank of America ROVAL 400 from Charlotte Motor speedway road course.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017003000 +0000" stop="20211017013000 +0000">
+  <programme channel="83" start="20211017000600 +0000" stop="20211017003200 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211017003200 +0000" stop="20211017013000 +0000">
     <title>IMSA: Michelin GT Challenge Hls (G)</title>
     <desc>Highlights of the IMSA Weathertech Sportscar Championship, Michelin GT Challenge at VIR, from, VIRginia International Raceway, Alton, Virginia.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017013000 +0000" stop="20211017023000 +0000">
+  <programme channel="83" start="20211017013000 +0000" stop="20211017022500 +0000">
     <title>NASCAR: ROVAL 400 Hls (G)</title>
     <desc>Highlights of the 2021 NASCAR Bank of America ROVAL 400 from Charlotte Motor speedway road course.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017023000 +0000" stop="20211017033000 +0000">
+  <programme channel="83" start="20211017022500 +0000" stop="20211017031500 +0000">
     <title>FIM Speedway: Rd10 Hls (G)</title>
     <desc>Highlights of the FIM Speedway Grand Prix, Round 10, Grand Prix of Poland, From MotoArena Torun, Torun, Poland.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017033000 +0000" stop="20211017043000 +0000">
+  <programme channel="83" start="20211017031500 +0000" stop="20211017040500 +0000">
     <title>FIM Speedway: Rd11 Hls (G)</title>
     <desc>Highlights of the FIM Speedway Grand Prix, Round 11, Grand Prix of Poland, From MotoArena Torun, Torun, Poland.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017040500 +0000" stop="20211017043000 +0000">
+    <title>Mobil 1 The Grid (G)</title>
+    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
     <category>Motorsport</category>
   </programme>
   <programme channel="83" start="20211017043000 +0000" stop="20211017063000 +0000">
@@ -1761,30 +1766,40 @@
     <desc>FIM Endurance World Championship from the 6 Hours of Most, last 2 hours, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017063000 +0000" stop="20211017070000 +0000">
+  <programme channel="83" start="20211017063000 +0000" stop="20211017065500 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017070000 +0000" stop="20211017080000 +0000">
+  <programme channel="83" start="20211017065500 +0000" stop="20211017074000 +0000">
     <title>FIA ERC: Hls (G)</title>
     <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017080000 +0000" stop="20211017090000 +0000">
+  <programme channel="83" start="20211017074000 +0000" stop="20211017080600 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211017080600 +0000" stop="20211017085000 +0000">
     <title>FIA WTCR: Czech Republic Hls (G)</title>
     <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017090000 +0000" stop="20211017100000 +0000">
+  <programme channel="83" start="20211017085000 +0000" stop="20211017094500 +0000">
     <title>NASCAR: ROVAL 400 Hls (G)</title>
     <desc>Highlights of the 2021 NASCAR Bank of America ROVAL 400 from Charlotte Motor speedway road course.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017100000 +0000" stop="20211017110000 +0000">
+  <programme channel="83" start="20211017094500 +0000" stop="20211017103800 +0000">
     <title>NASCAR Xfinity: Cure 250 Hls (G)</title>
     <desc>Highlights of the NASCAR Xfinity Series, Drive for the Cure 250, from Charlotte Motor Speedway Road Course.</desc>
     <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017103800 +0000" stop="20211017110000 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
   </programme>
   <channel id="84">
     <display-name>sky-sport-6</display-name>
@@ -2066,8 +2081,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="86" start="20211016163000 +0000" stop="20211016170000 +0000">
-    <title>IPL: Final Hls (G)</title>
-    <desc>Highlights of the Indian Premier League Final at Dubai International Cricket Stadium, Dubai.</desc>
+    <title>IPL Final CSK v KKR Hls (G)</title>
+    <desc>Highlights of the Indian Premier League Final as Chennai Super Kings take on Kolkata Knight Riders at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="86" start="20211016170000 +0000" stop="20211016213000 +0000">
@@ -2326,7 +2341,7 @@
   </programme>
   <programme channel="81" start="20211016130000 +0000" stop="20211016160000 +0000">
     <title>Live: College GameDay (G)</title>
-    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college football with previews, exclusive interviews, analysis, and discus...</desc>
+    <desc>Host Rece Davis and analysts Lee Corso, Kirk Herbstreit, Desmond Howard, David Pollack and company cover all the angles in college gridiron with previews, exclusive interviews, analysis &amp; discussion</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211016160000 +0000" stop="20211016190000 +0000">
@@ -2835,7 +2850,12 @@
   <channel id="83">
     <display-name>sky-sport-5</display-name>
   </channel>
-  <programme channel="83" start="20211017110000 +0000" stop="20211017113000 +0000">
+  <programme channel="83" start="20211017110000 +0000" stop="20211017110500 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="83" start="20211017110500 +0000" stop="20211017113000 +0000">
     <title>Mobil 1 The Grid (G)</title>
     <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
     <category>Motorsport</category>
@@ -2845,10 +2865,15 @@
     <desc>FIA Pure Motorsport brings you an in-depth look into the FIAs most unique championships.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017120000 +0000" stop="20211017131500 +0000">
+  <programme channel="83" start="20211017120000 +0000" stop="20211017124500 +0000">
     <title>FIA WTCR: Czech Republic Hls (G)</title>
     <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017124500 +0000" stop="20211017131500 +0000">
+    <title>Sky Speed (G)</title>
+    <desc>We talk to Courtney Duncan as she prepares for WMX Spain and we relive the enthralling title battle brewing in World Superbikes.</desc>
+    <category>Sports</category>
   </programme>
   <programme channel="83" start="20211017131500 +0000" stop="20211017144500 +0000">
     <title>World Superbike: Race 1 (G)</title>
@@ -2875,47 +2900,57 @@
     <desc>LIVE coverage of the Superbike World Championship, Argentinean round, Race 2, From Circuito San Juan Villicum, San Juan, Argentina.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017190000 +0000" stop="20211017193000 +0000">
+  <programme channel="83" start="20211017190000 +0000" stop="20211017192500 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017193000 +0000" stop="20211017203000 +0000">
+  <programme channel="83" start="20211017192500 +0000" stop="20211017201000 +0000">
     <title>FIA WTCR: Czech Republic Hls (G)</title>
     <desc>Highlights of the FIA World Touring Car Cup, Round 5, Race Of Czech Republic, from Autodrom Most, Most, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017203000 +0000" stop="20211017223000 +0000">
+  <programme channel="83" start="20211017201000 +0000" stop="20211017203500 +0000">
+    <title>Mobil 1 The Grid (G)</title>
+    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211017203500 +0000" stop="20211017223500 +0000">
     <title>FIM EWC: 6 Hours of Most (G)</title>
     <desc>FIM Endurance World Championship from the 6 Hours of Most, last 2 hours, Czech Republic.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017223000 +0000" stop="20211017230000 +0000">
+  <programme channel="83" start="20211017223500 +0000" stop="20211017230000 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211017230000 +0000" stop="20211018000000 +0000">
+  <programme channel="83" start="20211017230000 +0000" stop="20211017234500 +0000">
     <title>FIA ERC: Hls (G)</title>
     <desc>Highlights from the FIA European Rally Championship, Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211018000000 +0000" stop="20211018033000 +0000">
+  <programme channel="83" start="20211017234500 +0000" stop="20211018001000 +0000">
+    <title>Mobil 1 The Grid (G)</title>
+    <desc>This feature-led programme covers the world's greatest motorsport championships from NASCAR and IndyCar to World Rally, DTM and the Porsche Super Cup.</desc>
+    <category>Motorsport</category>
+  </programme>
+  <programme channel="83" start="20211018001000 +0000" stop="20211018034000 +0000">
     <title>NASCAR: EchoPark 500 (G)</title>
     <desc>Replay of the 2021 NASCAR Autotrade EchoPark Automotive 500, from Texas Motor Speedway.</desc>
     <category>Motorsport</category>
   </programme>
-  <programme channel="83" start="20211018033000 +0000" stop="20211018050500 +0000">
-    <title>Uci Cyclo-Cross World Cup Iowa Mens Elit (G)</title>
-    <desc>No Description Available</desc>
+  <programme channel="83" start="20211018034000 +0000" stop="20211018051000 +0000">
+    <title>UCI Cyclo-Cross World Cup (G)</title>
+    <desc>UCI Cyclo-Cross World Cup 2021: Iowa. Tune in for Men's Elite held in Iowa City.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="83" start="20211018050500 +0000" stop="20211018063000 +0000">
-    <title>Uci Cyclo-Cross World Cup Iowa Wmns Elit (G)</title>
-    <desc>No Description Available</desc>
+  <programme channel="83" start="20211018051000 +0000" stop="20211018063500 +0000">
+    <title>UCI Cyclo-Cross World Cup (G)</title>
+    <desc>UCI Cyclo-Cross World Cup 2021: Iowa. Tune in for Women's Elite held in Iowa City.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="83" start="20211018063000 +0000" stop="20211018070000 +0000">
+  <programme channel="83" start="20211018063500 +0000" stop="20211018070000 +0000">
     <title>FIA ERC: All Access (G)</title>
     <desc>All Access gives you a indepth and behind the scenes look at all the action from the Rally Serras De Fafe E Felgueiras.</desc>
     <category>Motorsport</category>

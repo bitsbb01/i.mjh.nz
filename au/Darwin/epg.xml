@@ -18586,16 +18586,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
-    <title>The Yorkshire Vet</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022900 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
+    <title>The Yorkshire Vet</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211017022900 +0000" stop="20211017025800 +0000">
@@ -44837,11 +44837,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015225347 +0000" stop="20211015235236 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211015235236 +0000" stop="20211016003831 +0000">
     <title>Builder</title>
     <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
@@ -45065,6 +45060,11 @@
     <title>Red Bull Signature Series S2020E7</title>
     <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
     <sub-title>Kenda Tennessee Knockout</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017004930 +0000" stop="20211017011133 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

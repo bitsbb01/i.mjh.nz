@@ -376,15 +376,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
-    <title>Close Of Business</title>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
+    <title>National Press Club Address</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016053000 +0000">
-    <title>National Press Club Address</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211016043000 +0000" stop="20211016050000 +0000">
+    <title>Close Of Business</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18391,15 +18391,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016102800 +0000">
-    <title>Hey Hey We're 50!</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
+    <title>Crufts Dog Show</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016093400 +0000">
-    <title>Crufts Dog Show</title>
+  <programme channel="tv.101305040542" start="20211016083100 +0000" stop="20211016102800 +0000">
+    <title>Hey Hey We're 50!</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44736,11 +44736,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211015225347 +0000" stop="20211015235236 +0000">
-    <title>North of Nightfall</title>
-    <desc>A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <sub-title>An expedition to the top of the world</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211015235236 +0000" stop="20211016003831 +0000">
     <title>Builder</title>
     <desc>Explore the craft of trail building through the eyes of some of MTB's best riders and most respected builders.</desc>
@@ -44964,6 +44959,11 @@
     <title>Red Bull Signature Series S2020E7</title>
     <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
     <sub-title>Kenda Tennessee Knockout</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017004930 +0000" stop="20211017011133 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

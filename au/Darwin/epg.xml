@@ -18323,15 +18323,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
-    <title>The Yorkshire Vet</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211017013000 +0000" stop="20211017022800 +0000">
+    <title>The Yorkshire Vet</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211017022800 +0000" stop="20211017025700 +0000">
@@ -44650,6 +44650,21 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211017011133 +0000" stop="20211017012717 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017012717 +0000" stop="20211017013725 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017013725 +0000" stop="20211017015349 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211017015349 +0000" stop="20211017024357 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -44891,11 +44906,6 @@
     <title>The LA Boys</title>
     <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
     <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018031946 +0000" stop="20211018032751 +0000">
-    <title>Esports Unfold S3E6</title>
-    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
-    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

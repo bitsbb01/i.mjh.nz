@@ -1899,18 +1899,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
-    <title>Grantchester</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018030000 +0000">
     <title>Shetland</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211018020000 +0000" stop="20211018025900 +0000">
+    <title>Grantchester</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211018030000 +0000" stop="20211018041500 +0000">
@@ -43559,11 +43559,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211017141029 +0000" stop="20211017145957 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211017145957 +0000" stop="20211017154439 +0000">
     <title>Red Bull Signature Series S2020E5</title>
     <desc>Held at Ryan Sheckler’s private skate park, Red Bull Solus featured 13 of the world's leading skateboarders.</desc>
@@ -43787,6 +43782,21 @@
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018153231 +0000" stop="20211018154923 +0000">
+    <title>Driving DTM S1E1</title>
+    <desc>It's the start of the 2021 DTM season and the Red Bull AlphaTauri AF Corse team aim for success in Monza.</desc>
+    <sub-title>Monza</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018154923 +0000" stop="20211018161021 +0000">
+    <title>Driving DTM S1E2</title>
+    <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
+    <sub-title>Lausitzring</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018161021 +0000" stop="20211018163122 +0000">
+    <title>Driving DTM S1E3</title>
+    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
+    <sub-title>Zolder</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

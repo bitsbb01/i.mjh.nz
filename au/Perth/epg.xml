@@ -16401,14 +16401,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20211020040100 +0000" stop="20211020055900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305060560" start="20211020040100 +0000" stop="20211020055800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060560" start="20211020040100 +0000" stop="20211020055800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305060560" start="20211020040100 +0000" stop="20211020055900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -17018,15 +17018,15 @@
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211017040000 +0000" stop="20211017045800 +0000">
-    <title>The Yorkshire Vet</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305060562" start="20211017040000 +0000" stop="20211017045800 +0000">
     <title>Escape to the Country</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211017040000 +0000" stop="20211017045800 +0000">
+    <title>The Yorkshire Vet</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211017045800 +0000" stop="20211017052700 +0000">
@@ -35467,18 +35467,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20211018050000 +0000" stop="20211018060000 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.3201026102E1" start="20211018050000 +0000" stop="20211018055900 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20211018050000 +0000" stop="20211018060000 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20211018060000 +0000" stop="20211018071500 +0000">
@@ -44517,56 +44517,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211016195901 +0000" stop="20211016202501 +0000">
-    <title>FIA World Rally Championship 2021</title>
-    <desc>Watch Saturday's highlights from Spain where mixed surfaces demand every ounce of focus drivers can muster.</desc>
-    <sub-title>Saturday highlights – Spain</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016202501 +0000" stop="20211016202803 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
-    <sub-title>Preparing the mind and body</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016202803 +0000" stop="20211016203805 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016203805 +0000" stop="20211016215608 +0000">
-    <title>Shaka</title>
-    <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
-    <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016215608 +0000" stop="20211016221300 +0000">
-    <title>Driving DTM S1E1</title>
-    <desc>It's the start of the 2021 DTM season and the Red Bull AlphaTauri AF Corse team aim for success in Monza.</desc>
-    <sub-title>Monza</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016221300 +0000" stop="20211016223358 +0000">
-    <title>Driving DTM S1E2</title>
-    <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
-    <sub-title>Lausitzring</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016223358 +0000" stop="20211016224317 +0000">
-    <title>Dual Focus S1E1</title>
-    <desc>Swedish freeskier Jesper Tjäder shares how skateboarding makes him a sharper, more agile ski competitor.</desc>
-    <sub-title>Jesper Tjäder</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016224317 +0000" stop="20211016225126 +0000">
-    <title>Dual Focus S1E2</title>
-    <desc>Canadian snowboarder Sébastien Toutant shares his love of golf, and how it helps develop focus and precision.</desc>
-    <sub-title>Sébastien Toutant</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016225126 +0000" stop="20211016225640 +0000">
-    <title>Dual Focus S1E3</title>
-    <desc>Norwegian snowboarder Marcus Kleveland shares how driving cars fast helps to sharpen his mind and manage risk.</desc>
-    <sub-title>Marcus Kleveland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211016225640 +0000" stop="20211016230230 +0000">
-    <title>Dual Focus S1E4</title>
-    <desc>Freeskier Michelle Parker shares how she loves mountain biking around Lake Tahoe, USA, during the off-season.</desc>
-    <sub-title>Michelle Parker</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211016230230 +0000" stop="20211016234155 +0000">
     <title>Saturdays</title>
     <desc>Check out some of the most progressive skateboarding ever captured on film.</desc>
@@ -44798,6 +44748,16 @@
     <title>Saturdays</title>
     <desc>Check out some of the most progressive skateboarding ever captured on film.</desc>
     <sub-title>Birdhouse Skateboards' new film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017213031 +0000" stop="20211017233111 +0000">
+    <title>Red Bull UCI Pump Track World Championships 2021</title>
+    <desc>Parque das Nações in Lisbon, Portugal, hosts the World Final where the 2021 World Champion will be crowned.</desc>
+    <sub-title>World Final</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017233111 +0000" stop="20211018003846 +0000">
+    <title>Red Bull Signature Series S2020E7</title>
+    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
+    <sub-title>Kenda Tennessee Knockout</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

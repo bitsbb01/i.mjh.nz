@@ -8351,18 +8351,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019030000 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211019020000 +0000" stop="20211019025900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211019030000 +0000" stop="20211019041500 +0000">
@@ -17646,14 +17646,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211020010100 +0000" stop="20211020025800 +0000">
-    <title>Fatal Flatline</title>
+  <programme channel="tv.101305030530" start="20211020010100 +0000" stop="20211020025900 +0000">
+    <title>Wicked Mom's Club</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20211020010100 +0000" stop="20211020025900 +0000">
-    <title>Wicked Mom's Club</title>
+  <programme channel="tv.101305030530" start="20211020010100 +0000" stop="20211020025800 +0000">
+    <title>Fatal Flatline</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -44130,6 +44130,41 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211017213031 +0000" stop="20211017233111 +0000">
+    <title>Red Bull UCI Pump Track World Championships 2021</title>
+    <desc>Parque das Nações in Lisbon, Portugal, hosts the World Final where the 2021 World Champion will be crowned.</desc>
+    <sub-title>World Final</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211017233111 +0000" stop="20211018003846 +0000">
+    <title>Red Bull Signature Series S2020E7</title>
+    <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
+    <sub-title>Kenda Tennessee Knockout</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018003846 +0000" stop="20211018005430 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018005430 +0000" stop="20211018010439 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018010439 +0000" stop="20211018012142 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018012142 +0000" stop="20211018014354 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211018014354 +0000" stop="20211018020728 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
+    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
+    <sub-title>Tackling Red Bull TKO</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211018020728 +0000" stop="20211018031946 +0000">
     <title>The LA Boys</title>
     <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
@@ -44367,46 +44402,6 @@
     <title>Human Pinball</title>
     <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
     <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019004149 +0000" stop="20211019012512 +0000">
-    <title>Red Bull Soapbox Race S7E2</title>
-    <desc>Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
-    <sub-title>Helsinki, Finland</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019012512 +0000" stop="20211019021441 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019021441 +0000" stop="20211019022645 +0000">
-    <title>MX World S3E1</title>
-    <desc>Look back at the highlights of the 2020 season and hear from Tony Cairoli, Jeffrey Herlings and Jorge Prado.</desc>
-    <sub-title>Revisit the intense 2020 season</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019022645 +0000" stop="20211019023916 +0000">
-    <title>MX World S3E2</title>
-    <desc>Tony Cairoli is the most successful rider in the championship. Can he still compete at the top?</desc>
-    <sub-title>The view from the top</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019023916 +0000" stop="20211019025104 +0000">
-    <title>MX World S3E3</title>
-    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
-    <sub-title>Making a comeback</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019025104 +0000" stop="20211019030604 +0000">
-    <title>MX World S3E4</title>
-    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
-    <sub-title>The rookie steps up</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019030604 +0000" stop="20211019031909 +0000">
-    <title>MX World S3E5</title>
-    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
-    <sub-title>Making a mark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019031909 +0000" stop="20211019033407 +0000">
-    <title>MX World S3E6</title>
-    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
-    <sub-title>Whoever flinches, finishes second</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

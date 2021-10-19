@@ -877,14 +877,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
-    <title>The Ticket</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
+    <title>Friday Briefing</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
-    <title>Friday Briefing</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -9067,17 +9067,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
-    <title>Running Wild: Australia's Camels</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
     <title>Keeping Australia Safe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
+    <title>Running Wild: Australia's Camels</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024175900 +0000" stop="20211024190000 +0000">
@@ -42415,11 +42415,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211019140536 +0000" stop="20211019144250 +0000">
-    <title>Peaking S1E1</title>
-    <desc>Find out from MTB rider Carson Storch what goes into making your own line for Red Bull Rampage.</desc>
-    <sub-title>Carson Storch</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211019144250 +0000" stop="20211019155025 +0000">
     <title>Red Bull Signature Series S2020E7</title>
     <desc>Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine.</desc>
@@ -42708,6 +42703,16 @@
     <title>Red Bull Cliff Diving World Series 2021</title>
     <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
     <sub-title>Mostar recap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020160749 +0000" stop="20211020163041 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
+    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
+    <sub-title>Ripping it up in Romania</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020163041 +0000" stop="20211020165415 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
+    <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
+    <sub-title>Tackling Red Bull TKO</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

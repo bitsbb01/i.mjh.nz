@@ -9067,17 +9067,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
-    <title>Keeping Australia Safe</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
     <title>Running Wild: Australia's Camels</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
+    <title>Keeping Australia Safe</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024175900 +0000" stop="20211024190000 +0000">
@@ -19411,18 +19411,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211025200100 +0000" stop="20211025210100 +0000">
@@ -42415,20 +42415,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211019185956 +0000" stop="20211019201134 +0000">
-    <title>The LA Boys</title>
-    <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
-    <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019201134 +0000" stop="20211019201940 +0000">
-    <title>Esports Unfold S3E6</title>
-    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
-    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211019201940 +0000" stop="20211019202733 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211019202733 +0000" stop="20211019205757 +0000">
     <title>Human Pinball</title>
     <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
@@ -42687,6 +42673,26 @@
     <title>MX World S3E2</title>
     <desc>Tony Cairoli is the most successful rider in the championship. Can he still compete at the top?</desc>
     <sub-title>The view from the top</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020205023 +0000" stop="20211020210211 +0000">
+    <title>MX World S3E3</title>
+    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
+    <sub-title>Making a comeback</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020210211 +0000" stop="20211020211711 +0000">
+    <title>MX World S3E4</title>
+    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
+    <sub-title>The rookie steps up</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020211711 +0000" stop="20211020214258 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020214258 +0000" stop="20211020220028 +0000">
+    <title>Watch Semenuk ride reimagined slopestyle features</title>
+    <desc>With Red Bull Joyride on hold for another year, Brandon Semenuk builds never-before-seen features for 2022.</desc>
+    <sub-title>The making of Realm featuring Brandon Semenuk</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

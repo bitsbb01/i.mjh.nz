@@ -33817,18 +33817,18 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20211019050000 +0000" stop="20211019055900 +0000">
-    <title>Shetland</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.3201026102E1" start="20211019050000 +0000" stop="20211019060000 +0000">
     <title>Grantchester</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20211019050000 +0000" stop="20211019055900 +0000">
+    <title>Shetland</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20211019060000 +0000" stop="20211019071500 +0000">
@@ -43005,36 +43005,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211018212403 +0000" stop="20211018223620 +0000">
-    <title>The LA Boys</title>
-    <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
-    <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018223620 +0000" stop="20211018224220 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Watch Brandon Semenuk, Jaxson Riddle and more as the riders build and practice their lines for the 2021 event.</desc>
-    <sub-title>First practice session</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018224220 +0000" stop="20211018224439 +0000">
-    <title>FIM Hard Enduro World Championship 2021</title>
-    <desc>Enjoy a montage of the best of the action from the three-day Hixpania Hard Enduro.</desc>
-    <sub-title>Best of Hixpania</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018224439 +0000" stop="20211018225039 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>Szymon Godziek, Thomas Genon, Jaxson Riddle and more get busy constructing the perfect lines in Virgin, Utah.</desc>
-    <sub-title>Constructing lines in Utah</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018225039 +0000" stop="20211018230019 +0000">
-    <title>The Red Bulletin Stories in Motion S4E7</title>
-    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
-    <sub-title>Dario Costa: Tunnel Vision</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211018230019 +0000" stop="20211018230844 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211018230844 +0000" stop="20211018235606 +0000">
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
@@ -43189,8 +43159,9 @@
     <sub-title>Birdhouse Skateboards' new film</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211019140536 +0000" stop="20211019144250 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
+    <title>Peaking S1E1</title>
+    <desc>Find out from MTB rider Carson Storch what goes into making your own line for Red Bull Rampage.</desc>
+    <sub-title>Carson Storch</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211019144250 +0000" stop="20211019155025 +0000">
     <title>Red Bull Signature Series S2020E7</title>
@@ -43300,6 +43271,26 @@
     <title>MX World S3E2</title>
     <desc>Tony Cairoli is the most successful rider in the championship. Can he still compete at the top?</desc>
     <sub-title>The view from the top</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211019234326 +0000" stop="20211019235514 +0000">
+    <title>MX World S3E3</title>
+    <desc>Jeffrey Herlings is one of the greatest riders in the world, but injuries have robbed him of victories.</desc>
+    <sub-title>Making a comeback</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211019235514 +0000" stop="20211020001055 +0000">
+    <title>MX World S3E4</title>
+    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
+    <sub-title>The rookie steps up</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020001055 +0000" stop="20211020002319 +0000">
+    <title>MX World S3E5</title>
+    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
+    <sub-title>Making a mark</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211020002319 +0000" stop="20211020003818 +0000">
+    <title>MX World S3E6</title>
+    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
+    <sub-title>Whoever flinches, finishes second</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

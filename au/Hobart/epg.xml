@@ -29437,15 +29437,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211023075000 +0000" stop="20211023081500 +0000">
-    <title>The Big Bang Theory</title>
+  <programme channel="tv.101406030638" start="20211023075000 +0000" stop="20211023090500 +0000">
+    <title>The Dog House Australia</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211023075000 +0000" stop="20211023090500 +0000">
-    <title>The Dog House Australia</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406030638" start="20211023075000 +0000" stop="20211023081500 +0000">
+    <title>The Big Bang Theory</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41585,16 +41585,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211020151447 +0000" stop="20211020160749 +0000">
-    <title>Red Bull Cliff Diving World Series 2021</title>
-    <desc>Catch up on all of the action from the Mostar stop of the Red Bull Cliff Diving World Series 2021.</desc>
-    <sub-title>Mostar recap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211020160749 +0000" stop="20211020163041 +0000">
-    <title>Hard Lines – with Mani &amp; Bolts S1E4</title>
-    <desc>Mani Lettenbichler and Paul Bolton get prepped to face the beast that is Red Bull Romaniacs.</desc>
-    <sub-title>Ripping it up in Romania</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211020163041 +0000" stop="20211020165415 +0000">
     <title>Hard Lines – with Mani &amp; Bolts S1E5</title>
     <desc>Mani and Paul are in the USA for Red Bull TKO, chatting with drivers, scouting trails and checking out trucks.</desc>
@@ -41857,6 +41847,16 @@
   <programme channel="tv.redbull.tv" start="20211021164424 +0000" stop="20211021165217 +0000">
     <title></title>
     <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211021165217 +0000" stop="20211021172202 +0000">
+    <title>Human Pinball</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211021172202 +0000" stop="20211021180525 +0000">
+    <title>Red Bull Soapbox Race S7E2</title>
+    <desc>Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
+    <sub-title>Helsinki, Finland</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

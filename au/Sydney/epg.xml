@@ -20434,16 +20434,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025090000 +0000">
-    <title>Family Guy</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025093100 +0000">
     <title>The Voice USA</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025090000 +0000">
+    <title>Family Guy</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20211025090000 +0000" stop="20211025093000 +0000">
@@ -30025,13 +30025,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20211024123000 +0000" stop="20211024130000 +0000">
-    <title>2 Broke Girls</title>
+    <title>Mom</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20211024123000 +0000" stop="20211024130000 +0000">
-    <title>Mom</title>
+    <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -44650,6 +44650,16 @@
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211022022431 +0000" stop="20211022024123 +0000">
+    <title>Driving DTM S1E1</title>
+    <desc>It's the start of the 2021 DTM season and the Red Bull AlphaTauri AF Corse team aim for success in Monza.</desc>
+    <sub-title>Monza</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211022024123 +0000" stop="20211022030220 +0000">
+    <title>Driving DTM S1E2</title>
+    <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
+    <sub-title>Lausitzring</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

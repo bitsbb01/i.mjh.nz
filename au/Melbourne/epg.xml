@@ -510,15 +510,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021183000 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021183000 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -668,14 +668,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
-    <title>Friday Briefing</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
-    <title>The Ticket</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
+    <title>Friday Briefing</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -8881,17 +8881,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
-    <title>Keeping Australia Safe</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
     <title>Running Wild: Australia's Camels</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002310231" start="20211024165900 +0000" stop="20211024175900 +0000">
+    <title>Keeping Australia Safe</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002310231" start="20211024175900 +0000" stop="20211024190000 +0000">
@@ -19338,18 +19338,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211025200100 +0000" stop="20211025210100 +0000">
@@ -21633,16 +21633,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20211025083000 +0000" stop="20211025093100 +0000">
-    <title>The Voice USA</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030535" start="20211025083000 +0000" stop="20211025090000 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030535" start="20211025083000 +0000" stop="20211025093100 +0000">
+    <title>The Voice USA</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030535" start="20211025090000 +0000" stop="20211025093000 +0000">
@@ -44947,11 +44947,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211021000108 +0000" stop="20211021015905 +0000">
-    <title>Racing Together</title>
-    <desc>The history of motorcycle racing is charted through its best riders, from former legends to today’s stars.</desc>
-    <sub-title>Motorcycle racing's journey</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211021015905 +0000" stop="20211021024609 +0000">
     <title>Reckless Isolation</title>
     <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
@@ -45190,6 +45185,16 @@
     <title>Driving DTM S1E2</title>
     <desc>The Red Bull AlphaTauri AF Corse team are in Germany for race two and there's a surprise awaiting Liam Lawson.</desc>
     <sub-title>Lausitzring</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211022030220 +0000" stop="20211022032322 +0000">
+    <title>Driving DTM S1E3</title>
+    <desc>It's been a great start to the season for the Red Bull AlphaTauri AF Corse team. Will that continue in Zolder?</desc>
+    <sub-title>Zolder</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211022032322 +0000" stop="20211022034938 +0000">
+    <title>FIM Hard Enduro World Championship 2021</title>
+    <desc>Take a look back as Dąbrowa Górnicza in Poland hosted a tough race that provided a true test for all riders.</desc>
+    <sub-title>HERO Challenge recap</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

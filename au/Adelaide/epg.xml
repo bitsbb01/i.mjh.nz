@@ -13494,13 +13494,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500458" start="20211022132100 +0000" stop="20211022141700 +0000">
-    <title>URBEX: Enter at Your Own Risk</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500458" start="20211022141700 +0000" stop="20211022151300 +0000">
     <title>The Horn</title>
     <subtitles type="teletext"/>
@@ -22093,13 +22086,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050651" start="20211022130800 +0000" stop="20211022140800 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050651" start="20211022140800 +0000" stop="20211022150800 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
@@ -22701,7 +22687,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406050651" start="20211025121000 +0000" stop="20211025131000 +0000">
-    <title>To Be Advised</title>
+    <title>The Graham Norton Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406050651" start="20211025131000 +0000" stop="20211025141000 +0000">
     <title>The Project</title>
@@ -26015,7 +26005,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211025121000 +0000" stop="20211025131000 +0000">
-    <title>To Be Advised</title>
+    <title>The Graham Norton Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406050655" start="20211025131000 +0000" stop="20211025141000 +0000">
     <title>The Project</title>
@@ -29604,13 +29598,13 @@
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20211024130000 +0000" stop="20211024133000 +0000">
-    <title>Mom</title>
+    <title>2 Broke Girls</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20211024130000 +0000" stop="20211024133000 +0000">
-    <title>2 Broke Girls</title>
+    <title>Mom</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -30967,12 +30961,6 @@
   </programme>
   <programme channel="tv.101406050658" start="20211029133000 +0000" stop="20211029140000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050659" start="20211022132900 +0000" stop="20211022133000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -45025,31 +45013,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211022155217 +0000" stop="20211022160718 +0000">
-    <title>MX World S3E4</title>
-    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
-    <sub-title>The rookie steps up</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022160718 +0000" stop="20211022161942 +0000">
-    <title>MX World S3E5</title>
-    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
-    <sub-title>Making a mark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022161942 +0000" stop="20211022163441 +0000">
-    <title>MX World S3E6</title>
-    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
-    <sub-title>Whoever flinches, finishes second</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022163441 +0000" stop="20211022172144 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022172144 +0000" stop="20211022173828 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211022173828 +0000" stop="20211022193624 +0000">
     <title>Racing Together</title>
     <desc>The history of motorcycle racing is charted through its best riders, from former legends to today’s stars.</desc>
@@ -45262,6 +45225,11 @@
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
     <sub-title>Burton US Open</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023174109 +0000" stop="20211023192510 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

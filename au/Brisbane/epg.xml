@@ -219,14 +219,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
-    <title>Friday Briefing</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
-    <title>The Ticket</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
+    <title>Friday Briefing</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -12110,13 +12110,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.10120400040A" start="20211022130600 +0000" stop="20211022140400 +0000">
-    <title>Heartbeat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.10120400040A" start="20211022140400 +0000" stop="20211022143600 +0000">
     <title>Antiques Roadshow</title>
     <subtitles type="teletext"/>
@@ -13500,13 +13493,6 @@
   </programme>
   <programme channel="tv.10120400040A" start="20211029131000 +0000" stop="20211029140500 +0000">
     <title>Heartbeat</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10120400040B" start="20211022135100 +0000" stop="20211022144700 +0000">
-    <title>URBEX: Enter at Your Own Risk</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -18729,18 +18715,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20211024210100 +0000" stop="20211024220100 +0000">
@@ -21311,16 +21297,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025103100 +0000">
-    <title>The Voice USA</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025100000 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025103100 +0000">
+    <title>The Voice USA</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040545" start="20211025100000 +0000" stop="20211025103000 +0000">
@@ -22122,13 +22108,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040641" start="20211022133800 +0000" stop="20211022143800 +0000">
-    <title>The Project</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406040641" start="20211022143800 +0000" stop="20211022153800 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
@@ -22724,7 +22703,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406040641" start="20211025124000 +0000" stop="20211025134000 +0000">
-    <title>To Be Advised</title>
+    <title>The Graham Norton Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406040641" start="20211025134000 +0000" stop="20211025144000 +0000">
     <title>The Project</title>
@@ -26032,7 +26015,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20211025124000 +0000" stop="20211025134000 +0000">
-    <title>To Be Advised</title>
+    <title>The Graham Norton Show</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101406040645" start="20211025134000 +0000" stop="20211025144000 +0000">
     <title>The Project</title>
@@ -26765,12 +26752,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040646" start="20211022133000 +0000" stop="20211022143000 +0000">
-    <title>Sony 4K Ultra TV Experience</title>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040646" start="20211022143000 +0000" stop="20211022153000 +0000">
@@ -27790,12 +27771,6 @@
     <title>Dyson Airwrap Styler</title>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040647" start="20211022130000 +0000" stop="20211022140000 +0000">
-    <title>CSI: Crime Scene Investigation</title>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101406040647" start="20211022140000 +0000" stop="20211022143000 +0000">
@@ -30981,12 +30956,6 @@
   </programme>
   <programme channel="tv.101406040648" start="20211029140000 +0000" stop="20211029143000 +0000">
     <title>Home Shopping</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406040649" start="20211022135900 +0000" stop="20211022140000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44511,12 +44480,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203300337" start="20211022131000 +0000" stop="20211022152000 +0000">
-    <title>Yuli: The Carlos Acosta Story</title>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203300337" start="20211022152000 +0000" stop="20211022172000 +0000">
     <title>League of Gods</title>
     <rating system="Freeview">
@@ -45037,31 +45000,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211022155217 +0000" stop="20211022160718 +0000">
-    <title>MX World S3E4</title>
-    <desc>Keep up with Jorge Prado as he takes on the best MX riders in the world for his debut season in MXGP.</desc>
-    <sub-title>The rookie steps up</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022160718 +0000" stop="20211022161942 +0000">
-    <title>MX World S3E5</title>
-    <desc>Rene Hofer is the first Austrian this century to represent the most successful team in the MX World Champs.</desc>
-    <sub-title>Making a mark</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022161942 +0000" stop="20211022163441 +0000">
-    <title>MX World S3E6</title>
-    <desc>Can Tom Vialle rise to the challenge and become KTM’s lead rider in MX2?</desc>
-    <sub-title>Whoever flinches, finishes second</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022163441 +0000" stop="20211022172144 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022172144 +0000" stop="20211022173828 +0000">
-    <title>Cycling Around the World S1E5</title>
-    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
-    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211022173828 +0000" stop="20211022193624 +0000">
     <title>Racing Together</title>
     <desc>The history of motorcycle racing is charted through its best riders, from former legends to today’s stars.</desc>
@@ -45274,6 +45212,11 @@
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
     <sub-title>Burton US Open</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023174109 +0000" stop="20211023192510 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

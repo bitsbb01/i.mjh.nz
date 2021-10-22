@@ -219,14 +219,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
-    <title>Friday Briefing</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
-    <title>The Ticket</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
+    <title>Friday Briefing</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -18587,15 +18587,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211024020000 +0000" stop="20211024025800 +0000">
-    <title>The Yorkshire Vet</title>
+  <programme channel="tv.101305040542" start="20211024020000 +0000" stop="20211024030100 +0000">
+    <title>House of Wellness</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211024020000 +0000" stop="20211024030100 +0000">
-    <title>House of Wellness</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305040542" start="20211024020000 +0000" stop="20211024025800 +0000">
+    <title>The Yorkshire Vet</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -45037,35 +45037,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211022105619 +0000" stop="20211022120837 +0000">
-    <title>The LA Boys</title>
-    <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
-    <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022120837 +0000" stop="20211022121643 +0000">
-    <title>Esports Unfold S3E6</title>
-    <desc>Hear from 19-year-old FIFA player Thabo ‘Yvng Savage’ Moloi as he talks about his journey to turning pro.</desc>
-    <sub-title>Thabo 'Yvng Savage' Moloi</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022121643 +0000" stop="20211022122436 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022122436 +0000" stop="20211022125420 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022125420 +0000" stop="20211022134223 +0000">
-    <title>Long Days</title>
-    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
-    <sub-title>There are no short film days when you're making a ski film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022134223 +0000" stop="20211022142546 +0000">
-    <title>Red Bull Soapbox Race S7E2</title>
-    <desc>Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
-    <sub-title>Helsinki, Finland</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211022142546 +0000" stop="20211022151554 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -45284,6 +45255,35 @@
     <title>Valley Uprising</title>
     <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
     <sub-title>Pushing the limits of climbing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023134128 +0000" stop="20211023140303 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023140303 +0000" stop="20211023142501 +0000">
+    <title>Driving DTM S1E5</title>
+    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
+    <sub-title>Spielberg</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023142501 +0000" stop="20211023144651 +0000">
+    <title>Driving DTM S1E6</title>
+    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
+    <sub-title>Assen</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023144651 +0000" stop="20211023150950 +0000">
+    <title>Driving DTM S1E7</title>
+    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
+    <sub-title>Hockenheim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023150950 +0000" stop="20211023155919 +0000">
+    <title>The Curious Tales of Ítalo Ferreira</title>
+    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
+    <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023155919 +0000" stop="20211023161353 +0000">
+    <title>Fast Life S4E1</title>
+    <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
+    <sub-title>Starting again</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

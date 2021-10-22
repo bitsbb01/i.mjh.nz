@@ -294,15 +294,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021183000 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211021181500 +0000" stop="20211021183000 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -452,14 +452,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
-    <title>Friday Briefing</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
+    <title>The Ticket</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022144500 +0000">
-    <title>The Ticket</title>
+  <programme channel="tv.101002210220" start="20211022143000 +0000" stop="20211022150000 +0000">
+    <title>Friday Briefing</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -2366,17 +2366,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
-    <title>Running Wild: Australia's Camels</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
     <title>Keeping Australia Safe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
+    <title>Running Wild: Australia's Camels</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211024175900 +0000" stop="20211024190000 +0000">
@@ -44390,6 +44390,11 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211021172202 +0000" stop="20211021180525 +0000">
+    <title>Red Bull Soapbox Race S7E2</title>
+    <desc>Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
+    <sub-title>Helsinki, Finland</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211021180525 +0000" stop="20211021185533 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -44648,11 +44653,6 @@
     <title>Racing Together</title>
     <desc>The history of motorcycle racing is charted through its best riders, from former legends to today’s stars.</desc>
     <sub-title>Motorcycle racing's journey</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211022193624 +0000" stop="20211022202027 +0000">
-    <title>Red Bull Signature Series S2020E5</title>
-    <desc>Held at Ryan Sheckler’s private skate park, Red Bull Solus featured 13 of the world's leading skateboarders.</desc>
-    <sub-title>Red Bull Solus</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

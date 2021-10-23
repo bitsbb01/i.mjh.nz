@@ -18776,18 +18776,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211025203100 +0000" stop="20211025213100 +0000">
@@ -20798,14 +20798,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
+    <title>Dipper's Backyard BBQ Wars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
-    <title>Dipper's Backyard BBQ Wars</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -21171,16 +21171,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211025090000 +0000" stop="20211025100100 +0000">
-    <title>The Voice USA</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050555" start="20211025090000 +0000" stop="20211025093000 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20211025090000 +0000" stop="20211025100100 +0000">
+    <title>The Voice USA</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20211025093000 +0000" stop="20211025100000 +0000">
@@ -44939,6 +44939,46 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211023014338 +0000" stop="20211023023140 +0000">
+    <title>Long Days</title>
+    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
+    <sub-title>There are no short film days when you're making a ski film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023023140 +0000" stop="20211023024150 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023024150 +0000" stop="20211023040536 +0000">
+    <title>One Extraordinary Year</title>
+    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
+    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023040536 +0000" stop="20211023042518 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023042518 +0000" stop="20211023060352 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023060352 +0000" stop="20211023061141 +0000">
+    <title>Enjoy the Ride S1E1</title>
+    <desc>To Pedro Barros, skateboarding is a sport that unites people – it's what he’s learned from skating friends.</desc>
+    <sub-title>How it all started</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023061141 +0000" stop="20211023061942 +0000">
+    <title>Enjoy the Ride S1E2</title>
+    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
+    <sub-title>The first sessions</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211023061942 +0000" stop="20211023062829 +0000">
+    <title>Enjoy the Ride S1E3</title>
+    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
+    <sub-title>First time in California</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211023062829 +0000" stop="20211023072641 +0000">
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
@@ -45145,51 +45185,6 @@
     <title>Crankworx World Tour 2021</title>
     <desc>Watch all the action from Sun Peaks Mountain Resort as competitors race each other in side-by-side battles.</desc>
     <sub-title>Dual Slalom final heats – British Columbia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024030627 +0000" stop="20211024044648 +0000">
-    <title>And Two If By Sea</title>
-    <desc>Watch the iconic story of sibling rivalry between pro surfers and identical twins CJ and Damien Hobgood.</desc>
-    <sub-title>A tale of adventure, destiny and family</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024044648 +0000" stop="20211024051236 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024051236 +0000" stop="20211024055958 +0000">
-    <title>Long Days</title>
-    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
-    <sub-title>There are no short film days when you're making a ski film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024055958 +0000" stop="20211024061512 +0000">
-    <title>Behind the Bullet S1E1</title>
-    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
-    <sub-title>Ready for a comeback in 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024061512 +0000" stop="20211024062541 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024062541 +0000" stop="20211024063412 +0000">
-    <title>Behind the Bullet S1E3</title>
-    <desc>Ride along with MXGP rider Jeffrey Herlings as he prepares for the MXGP of Italy in Maggiora.</desc>
-    <sub-title>Getting competitive for Maggiora</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024063412 +0000" stop="20211024071754 +0000">
-    <title>Red Bull Soapbox Race S7E1</title>
-    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <sub-title>São Paulo, Brazil</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024071754 +0000" stop="20211024073737 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024073737 +0000" stop="20211024091650 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

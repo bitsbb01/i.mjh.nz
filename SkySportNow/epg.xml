@@ -59,7 +59,7 @@
   </programme>
   <programme channel="60" start="20211022233000 +0000" stop="20211023000000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
+    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Jeff McTainsh catches up with Crusaders half back Bryn Hall, to hear all about his experiences in rugby thus far.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211023000000 +0000" stop="20211023003000 +0000">
@@ -72,15 +72,15 @@
     <desc>James Parsons, Bryn Hall and Ross Karl give the players’ view on the biggest talking points in rugby every week.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211023010000 +0000" stop="20211023030000 +0000">
+  <programme channel="60" start="20211023010000 +0000" stop="20211023030500 +0000">
     <title>LIVE: Bunnings NPC: TAR v MAN (G)</title>
     <desc>Bunnings NPC 2021: Taranaki host Manawatu at the TET Stadium in Inglewood.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211023030000 +0000" stop="20211023033000 +0000">
-    <title>Playmakers: Rugby Stories (G)</title>
-    <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the game great.</desc>
-    <category>Sports</category>
+  <programme channel="60" start="20211023030500 +0000" stop="20211023033000 +0000">
+    <title>Bunnings NPC: OTA v CAN Hls (G)</title>
+    <desc>Bunnings NPC 2021: Otago welcome Canterbury to Forsyth Barr Stadium in Dunedin.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211023033000 +0000" stop="20211023053000 +0000">
     <title>LIVE: Bunnings NPC: WEL v SOU (G)</title>
@@ -120,9 +120,14 @@
     <desc>Match of the day from Day 4 of the ATP 250: European Open. Tune in as the world's top tennis players go head to head in Antwerp, Belgium.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211022130000 +0000" stop="20211022210000 +0000">
+  <programme channel="61" start="20211022130000 +0000" stop="20211022203000 +0000">
     <title>LIVE: European Open: Day 5 (G)</title>
     <desc>LIVE – ATP 250: European Open. Tune in for all the action from Day 5 of the tournament as the world's top tennis players go head to head in Antwerp, Belgium.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20211022203000 +0000" stop="20211022210000 +0000">
+    <title>ATP Uncovered (G)</title>
+    <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211022210000 +0000" stop="20211022213000 +0000">
@@ -135,9 +140,19 @@
     <desc>Highlights of the ICC T20 World Cup First Round match between Namibia and Ireland at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="61" start="20211022220000 +0000" stop="20211023013000 +0000">
+  <programme channel="61" start="20211022220000 +0000" stop="20211023003000 +0000">
     <title>ICC T20 WC: SRI v NED (G)</title>
     <desc>Replay coverage of the ICC T20 World Cup First Round match between Sri Lanka and the Netherlands at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211023003000 +0000" stop="20211023010000 +0000">
+    <title>ICC T20 WC: OMN v SCT Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup First Round match between Oman and Scotland at Oman Cricket Academy Ground, Muscat.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="61" start="20211023010000 +0000" stop="20211023013000 +0000">
+    <title>ICC T20 WC: NAM v IRE Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup First Round match between Namibia and Ireland at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="61" start="20211023013000 +0000" stop="20211023020000 +0000">
@@ -183,14 +198,24 @@
     <desc>LIVE coverage of the ICC T20 World Cup First Round match between Namibia and Ireland at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211022133500 +0000" stop="20211022134500 +0000">
-    <title>Programme information unavailable</title>
-    <desc>Programme information unavailable</desc>
-    <category>sport</category>
-  </programme>
-  <programme channel="62" start="20211022134500 +0000" stop="20211022180000 +0000">
+  <programme channel="62" start="20211022133500 +0000" stop="20211022163000 +0000">
     <title>LIVE: ICC T20 WC: SRI v NED (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup First Round match between Sri Lanka and the Netherlands at Sharjah Cricket Stadium, Sharjah.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211022163000 +0000" stop="20211022170000 +0000">
+    <title>ICC T20 WC: OMN v SCT Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup First Round match between Oman and Scotland at Oman Cricket Academy Ground, Muscat.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211022170000 +0000" stop="20211022173000 +0000">
+    <title>WBBL: BH v PS Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Brisbane Heat and Perth Scorchers at Blundstone Arena, Hobart.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211022173000 +0000" stop="20211022180000 +0000">
+    <title>WBBL: MR v AS Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Melbourne Renegades and Adelaide Strikers at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211022180000 +0000" stop="20211022183000 +0000">
@@ -209,13 +234,18 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211022223000 +0000" stop="20211022231000 +0000">
-    <title>WBBL: MS v SS Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Melbourne Stars and Sydney Sixers at Blundstone Arena, Hobart.</desc>
+    <title>Smith &amp; Hesson (G)</title>
+    <desc>Laura McGoldrick, Ian Smith and Mike Hesson look back at another title for the Chennai Super Kings in the IPL, and provide an in-depth preview for the upcoming T20 World Cup.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="62" start="20211022231000 +0000" stop="20211023020000 +0000">
+    <title>LIVE: WBBL: AS v HH (G)</title>
+    <desc>MATCH ABANDONED DUE TO RAIN. LIVE coverage of the Women's Big Bash League match between the Adelaide Strikers and Hobart Hurricanes at Invermay Park, Launceston.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211022231000 +0000" stop="20211023023000 +0000">
-    <title>LIVE: WBBL: AS v HH (G)</title>
-    <desc>LIVE coverage of the Women's Big Bash League match between the Adelaide Strikers and Hobart Hurricanes at Invermay Park, Launceston.</desc>
+  <programme channel="62" start="20211023020000 +0000" stop="20211023023000 +0000">
+    <title>WBBL: MS v HH Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Melbourne Stars and Hobart Hurricanes at Blundstone Arena, Hobart.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211023023000 +0000" stop="20211023030000 +0000">
@@ -472,10 +502,15 @@
     <desc>LIVE: European Tour: Round 2 Mallorca Golf Open held at Golf Santa Ponsa, Spain.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211022163000 +0000" stop="20211022173000 +0000">
+  <programme channel="84" start="20211022163000 +0000" stop="20211022170000 +0000">
     <title>European Challenge Tour Hls (G)</title>
     <desc>European Challenge Tour Highlights. Emporda Challenge held at Emporda Golf, Girona, Spain.</desc>
     <category>Golf</category>
+  </programme>
+  <programme channel="84" start="20211022170000 +0000" stop="20211022173000 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
   </programme>
   <programme channel="84" start="20211022173000 +0000" stop="20211022193000 +0000">
     <title>LPGA: Round 2 (G)</title>
@@ -711,35 +746,30 @@
   <channel id="87">
     <display-name>sky-sport-9</display-name>
   </channel>
-  <programme channel="87" start="20211022110000 +0000" stop="20211022170000 +0000">
+  <programme channel="87" start="20211022110000 +0000" stop="20211022200000 +0000">
     <title>LIVE Badminton: Victor Denmark Open D4 (G)</title>
     <desc>Badminton: Live coverage of the Victor Denmark Open 2021: Day 4</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211022170000 +0000" stop="20211022200000 +0000">
-    <title>Programme information unavailable</title>
-    <desc>Programme information unavailable</desc>
-    <category>sport</category>
-  </programme>
-  <programme channel="87" start="20211022200000 +0000" stop="20211022203000 +0000">
-    <title>Hellas Rally Raid 2021 1 (G)</title>
-    <desc>No Description Available</desc>
+  <programme channel="87" start="20211022201000 +0000" stop="20211022204000 +0000">
+    <title>Hellas Rally Raid (G)</title>
+    <desc>Tune into episode 1 documentary of Hellas Rally Raid 2021.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211022203000 +0000" stop="20211022210000 +0000">
+  <programme channel="87" start="20211022204000 +0000" stop="20211022210500 +0000">
     <title>Cape Epic S4 Hls (G)</title>
     <desc>Highlights- Cape Epic 2021. Tune in for stage 4 action held in Western Cape, South Africa.</desc>
     <category>Cycling</category>
   </programme>
-  <programme channel="87" start="20211022210000 +0000" stop="20211022213000 +0000">
-    <title>Cape Epic S5 Hls (G)</title>
-    <desc>Highlights- Cape Epic 2021. Tune in for stage 5 action held in Western Cape, South Africa.</desc>
-    <category>Cycling</category>
-  </programme>
-  <programme channel="87" start="20211022213000 +0000" stop="20211022215500 +0000">
+  <programme channel="87" start="20211022210500 +0000" stop="20211022213000 +0000">
     <title>Xterra Adventures (G)</title>
     <desc>XTERRA races have long been known to be held in some of the most beautiful places on the planet. With origins in Maui, Hawaii, stunning environments are part of the legacy. When one thinks of China, cities like Shanghai and Beijing often come to mind.</desc>
     <category>Sports</category>
+  </programme>
+  <programme channel="87" start="20211022213000 +0000" stop="20211022215500 +0000">
+    <title>ATP Uncovered (G)</title>
+    <desc>Unrivalled behind-the-scenes access to the most exciting tennis players and tournaments on earth. Delivering personality-driven player profiles, in-depth tournament features, off-court stories, tactical analysis, and much more.</desc>
+    <category>Tennis</category>
   </programme>
   <programme channel="87" start="20211022215500 +0000" stop="20211022235500 +0000">
     <title>FINA Swimming World Cup (G)</title>
@@ -979,7 +1009,7 @@
   </programme>
   <programme channel="81" start="20211022190000 +0000" stop="20211022200000 +0000">
     <title>Live: NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211022200000 +0000" stop="20211022210000 +0000">
@@ -1012,12 +1042,12 @@
     <desc>A preview of upcoming NBA action, spotlighting players to watch and the latest team news.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211022234500 +0000" stop="20211023020500 +0000">
+  <programme channel="81" start="20211022234500 +0000" stop="20211023021000 +0000">
     <title>Live: NBA (G)</title>
-    <desc>76ers v Nets.</desc>
+    <desc>76ers v Nets: With both the 76ers and Nets being without their star guards due to off the court issues, the remaining talent will need to step up in their absence.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="81" start="20211023020500 +0000" stop="20211023043500 +0000">
+  <programme channel="81" start="20211023021000 +0000" stop="20211023043500 +0000">
     <title>Live: NBA (G)</title>
     <desc>Lakers v Suns: After the Suns knocked out the Lakers in the 1st round of the postseason last season, they will be looking for revenge in this match up.</desc>
     <category>US Sports</category>
@@ -1044,17 +1074,17 @@
   </programme>
   <programme channel="81" start="20211023070000 +0000" stop="20211023073000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>76ers v Nets: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>76ers v Nets: With both the 76ers and Nets being without their star guards, the remaining talent will need to step up in their absence NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211023073000 +0000" stop="20211023080000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Lakers v Suns: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>Lakers v Suns: The Suns knocked out the Lakers in the 1st round of the postseason last season, they will be looking for revenge NBA Minis are shortened version of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211023080000 +0000" stop="20211023100000 +0000">
     <title>NBA (G)</title>
-    <desc>76ers v Nets.</desc>
+    <desc>76ers v Nets: With both the 76ers and Nets being without their star guards due to off the court issues, the remaining talent will need to step up in their absence.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211023100000 +0000" stop="20211023110000 +0000">
@@ -1091,8 +1121,8 @@
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211022170000 +0000" stop="20211022173000 +0000">
-    <title>NBA Minis (G)</title>
-    <desc>Atlanta Hawks v Dallas Mavericks: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <title>NBA Mini (G)</title>
+    <desc>Hawks v Mavericks: Mavericks face the Hawks who are looking to recreate their success from last season NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211022173000 +0000" stop="20211022190000 +0000">
@@ -1101,8 +1131,8 @@
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20211022190000 +0000" stop="20211022210000 +0000">
-    <title>D. Wade Life Unexpected (G)</title>
-    <desc>For a decade, Dwayne Wade intimately documented his life and career with a film crew. The result is a remarkably candid portrait of one of the greatest NBA players of all time.</desc>
+    <title>ESPN Films (G)</title>
+    <desc>D. Wade: Life Unexpected. For a decade, Dwyane Wade intimately documented his life and career with a film crew.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="82" start="20211022210000 +0000" stop="20211022213000 +0000">
@@ -1112,12 +1142,12 @@
   </programme>
   <programme channel="82" start="20211022213000 +0000" stop="20211022220000 +0000">
     <title>Live: UFC Live (M)</title>
-    <desc>Costa vs. Vettori: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
+    <desc>Costa v Vettori: UFC Live presents fans with exclusive takes on the biggest news, stars, and stories tailored to each and every UFC Fight Nights and UFC PPV throughout the UFC season.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="82" start="20211022220000 +0000" stop="20211022230000 +0000">
     <title>NBA Today (G)</title>
-    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide in-depth dail...</desc>
+    <desc>Malika Andrews and analysts, including Richard Jefferson, Kendrick Perkins, Chiney Ogwumike and Vince Carter, as well as reporters, including Zach Lowe and Adrian Wojnarowski, provide daily coverag...</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211022230000 +0000" stop="20211023000000 +0000">
@@ -1125,19 +1155,19 @@
     <desc>50 Most Incredible Collisions in MLB History: MLB Network counts down baseball's most-memorable collisions.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211023000000 +0000" stop="20211023030000 +0000">
+  <programme channel="82" start="20211023000000 +0000" stop="20211023033000 +0000">
     <title>Live: MLB (G)</title>
-    <desc>Astros v Red Sox ALCS Game 6.</desc>
+    <desc>Astros v Red Sox ALCS Game 6: The Astros have been able easily handle the Red Sox in both game 4 and 5 and now hold a 3-2 series lead. Another win will see the Astros heading to the World Series.</desc>
     <category>US Sports</category>
   </programme>
-  <programme channel="82" start="20211023030000 +0000" stop="20211023053000 +0000">
+  <programme channel="82" start="20211023033000 +0000" stop="20211023053000 +0000">
     <title>Live: College Football (G)</title>
-    <desc>Washington v Arizona.</desc>
+    <desc>Arizona v Washington: Arizona is searching for their first win of the season as they face Washington who are also trying to find some traction after dropping their last two games.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211023053000 +0000" stop="20211023073000 +0000">
     <title>MLB (G)</title>
-    <desc>Astros v Red Sox ALCS Game 6.</desc>
+    <desc>Astros v Red Sox ALCS Game 6: The Astros have been able easily handle the Red Sox in both game 4 and 5 and now hold a 3-2 series lead. Another win will see the Astros heading to the World Series.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211023073000 +0000" stop="20211023093000 +0000">
@@ -1152,7 +1182,7 @@
   </programme>
   <programme channel="82" start="20211023100000 +0000" stop="20211023110000 +0000">
     <title>MLB (G)</title>
-    <desc>Astros v Red Sox ALCS Game 6.</desc>
+    <desc>Astros v Red Sox ALCS Game 6: The Astros have been able easily handle the Red Sox in both game 4 and 5 and now hold a 3-2 series lead. Another win will see the Astros heading to the World Series.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="93">
@@ -1173,12 +1203,12 @@
     <desc>Tune in next for LIVE coverage of the ATP 250 VTB Kremlin Cup</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="93" start="20211022153000 +0000" stop="20211022193000 +0000">
+  <programme channel="93" start="20211022153000 +0000" stop="20211022200000 +0000">
     <title>LIVE: VTB Kremlin Cup: QF3+4 (G)</title>
     <desc>LIVE – ATP 250: VTB Kremlin Cup. Tune in for all the action from the Quarter-Final 3 &amp; 4 as the world's top tennis players go head to head in Moscow, Russia.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="93" start="20211022193000 +0000" stop="20211023110000 +0000">
+  <programme channel="93" start="20211022200000 +0000" stop="20211023110000 +0000">
     <title>Coming Up: Tennis (G)</title>
     <desc>Tune in next for LIVE coverage of the ATP 250 VTB Kremlin Cup</desc>
     <category>Sports</category>
@@ -1202,8 +1232,8 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211023160500 +0000" stop="20211023183000 +0000">
-    <title>LIVE: 2023 W WC Qual: ENG v NIR</title>
-    <desc>LIVE: FIFA Women's World Cup Qualifing match between England and Northern Ireland from Wembley Stadium.</desc>
+    <title>LIVE: 2023 W WC Qual: ENG v NIR (G)</title>
+    <desc>LIVE: FIFA Women's World Cup Qualifying match between England and Northern Ireland from Wembley Stadium.</desc>
     <category>Soccer</category>
   </programme>
   <programme channel="60" start="20211023183000 +0000" stop="20211023190000 +0000">
@@ -2153,12 +2183,12 @@
   </programme>
   <programme channel="81" start="20211023120000 +0000" stop="20211023123000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>76ers v Nets: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>76ers v Nets: With both the 76ers and Nets being without their star guards, the remaining talent will need to step up in their absence NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211023123000 +0000" stop="20211023130000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>Lakers v Suns: NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>Lakers v Suns: The Suns knocked out the Lakers in the 1st round of the postseason last season, they will be looking for revenge NBA Minis are shortened version of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211023130000 +0000" stop="20211023133000 +0000">
@@ -2192,13 +2222,13 @@
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211023170000 +0000" stop="20211023200000 +0000">
-    <title>Live: UFC Fight Night (M)</title>
-    <desc>Costa vs. Vettori (Prelims).</desc>
+    <title>Live: UFC Fight Night: Costa v Vettori (M)</title>
+    <desc>Prelims: The Preliminary bouts of UFC Fight Night Costa v Vettori, headlined by a Middleweight bout between Jun Yong Park and Gregory Rodrigues.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211023200000 +0000" stop="20211023230000 +0000">
-    <title>Live: UFC Fight Night (M)</title>
-    <desc>Costa vs. Vettori (Main Card).</desc>
+    <title>Live: UFC Fight Night: Costa v Vettori (M)</title>
+    <desc>Main Card: The Main Card bouts of UFC Fight Night, headlined by #2 Paulo Costa v #5 Marvin Vettori who are both coming off failed bids for the Middleweight belt.</desc>
     <category>Fight Sport</category>
   </programme>
   <programme channel="81" start="20211023230000 +0000" stop="20211023233000 +0000">
@@ -2208,32 +2238,32 @@
   </programme>
   <programme channel="81" start="20211023233000 +0000" stop="20211024020000 +0000">
     <title>Live: NBA (G)</title>
-    <desc>Mavericks v Raptors.</desc>
+    <desc>Raptors v Mavericks: The Luka Doncic led Mavericks head to the Great White North to face the Toronto Raptors who are without their star Pascal Siakam.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024020000 +0000" stop="20211024043000 +0000">
     <title>Live: NHL (G)</title>
-    <desc>Canucks v Kraken.</desc>
+    <desc>Kraken v Canucks: The start of the inaugural season has been less than ideal for the Kraken who have had a 3 game losing streak and now face the Canucks who have lost 2 straight.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024043000 +0000" stop="20211024063000 +0000">
     <title>NHL (G)</title>
-    <desc>Rangers v Senators.</desc>
+    <desc>Senators v Rangers: After dropping their first 2 games, the Rangers have bounced back with winning their last 2 and now face the Senators who are coming off a 3-2 victory.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024063000 +0000" stop="20211024083000 +0000">
     <title>MLB (G)</title>
-    <desc>2021 ALCS, Game 7.</desc>
+    <desc>Astros v Red Sox ALCS Game 7.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024083000 +0000" stop="20211024090000 +0000">
-    <title>NBA Minis (G)</title>
-    <desc>Dallas Mavericks v Toronto Raptors: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <title>NBA Mini (G)</title>
+    <desc>Raptors v Mavericks: The Mavericks head to the Great White North to face the Raptors who are without their star Pascal Siakam NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024090000 +0000" stop="20211024110000 +0000">
     <title>NBA (G)</title>
-    <desc>Mavericks v Raptors.</desc>
+    <desc>Raptors v Mavericks: The Luka Doncic led Mavericks head to the Great White North to face the Toronto Raptors who are without their star Pascal Siakam.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -2241,12 +2271,12 @@
   </channel>
   <programme channel="82" start="20211023110000 +0000" stop="20211023120000 +0000">
     <title>MLB (G)</title>
-    <desc>Astros v Red Sox ALCS Game 6.</desc>
+    <desc>Astros v Red Sox ALCS Game 6: The Astros have been able easily handle the Red Sox in both game 4 and 5 and now hold a 3-2 series lead. Another win will see the Astros heading to the World Series.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211023120000 +0000" stop="20211023140000 +0000">
     <title>College Football (G)</title>
-    <desc>Washington v Arizona.</desc>
+    <desc>Arizona v Washington: Arizona is searching for their first win of the season as they face Washington who are also trying to find some traction after dropping their last two games.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="82" start="20211023140000 +0000" stop="20211023150000 +0000">
@@ -3327,12 +3357,12 @@
   </channel>
   <programme channel="81" start="20211024110000 +0000" stop="20211024130000 +0000">
     <title>College Football (G)</title>
-    <desc>College Football</desc>
+    <desc>Indiana v Ohio State: #5 Ohio State is riding on a big 4 game win streak behind their blistering offensive game and now face Indiana who have dropped their last 2 contests.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024130000 +0000" stop="20211024133000 +0000">
-    <title>NBA Minis (G)</title>
-    <desc>Dallas Mavericks v Toronto Raptors: NBA Minis present the NBA in a fast paced, highligh driven version of every game.</desc>
+    <title>NBA Mini (G)</title>
+    <desc>Raptors v Mavericks: The Mavericks head to the Great White North to face the Raptors who are without their star Pascal Siakam NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211024133000 +0000" stop="20211024140000 +0000">

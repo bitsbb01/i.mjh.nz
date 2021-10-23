@@ -18562,18 +18562,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20211024210100 +0000" stop="20211024220100 +0000">
@@ -44921,25 +44921,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211023120214 +0000" stop="20211023134128 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023134128 +0000" stop="20211023140303 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023140303 +0000" stop="20211023142501 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023142501 +0000" stop="20211023144651 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211023144651 +0000" stop="20211023150950 +0000">
     <title>Driving DTM S1E7</title>
     <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
@@ -45147,6 +45128,11 @@
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
     <sub-title>There are no short film days when you're making a ski film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024142941 +0000" stop="20211024161342 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -17509,18 +17509,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211025230100 +0000" stop="20211026000100 +0000">
@@ -44874,16 +44874,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211023144651 +0000" stop="20211023150950 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023150950 +0000" stop="20211023155919 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211023155919 +0000" stop="20211023161353 +0000">
     <title>Fast Life S4E1</title>
     <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
@@ -45086,6 +45076,16 @@
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
     <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024161342 +0000" stop="20211024163852 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024163852 +0000" stop="20211024172725 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

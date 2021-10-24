@@ -8144,17 +8144,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211024175900 +0000" stop="20211024185900 +0000">
-    <title>Running Wild: Australia's Camels</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002410241" start="20211024175900 +0000" stop="20211024185900 +0000">
     <title>Keeping Australia Safe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002410241" start="20211024175900 +0000" stop="20211024185900 +0000">
+    <title>Running Wild: Australia's Camels</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101002410241" start="20211024185900 +0000" stop="20211024200000 +0000">
@@ -18324,18 +18324,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040542" start="20211024203000 +0000" stop="20211024210100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305040542" start="20211024210100 +0000" stop="20211024220100 +0000">
@@ -20580,14 +20580,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030035900 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
+    <title>Blokesworld</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
-    <title>Blokesworld</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030035900 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44286,16 +44286,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211024142941 +0000" stop="20211024161342 +0000">
-    <title>The Longest Wave</title>
-    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
-    <sub-title>Legends take a lifetime</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024161342 +0000" stop="20211024163852 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211024163852 +0000" stop="20211024172725 +0000">
     <title>Shaping Jordy</title>
     <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
@@ -44533,6 +44523,11 @@
     <title>Red Bull Signature Series S2020E6</title>
     <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
     <sub-title>Red Bull Drift Masters</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025171800 +0000" stop="20211025181000 +0000">
+    <title>Crankworx World Tour 2021</title>
+    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
+    <sub-title>Highlights from British Columbia</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

@@ -20580,14 +20580,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030035900 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
+    <title>Blokesworld</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
-    <title>Blokesworld</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030035900 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -20937,16 +20937,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025103100 +0000">
-    <title>The Voice USA</title>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025095800 +0000">
     <title>Family Guy</title>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040545" start="20211025093000 +0000" stop="20211025103100 +0000">
+    <title>The Voice USA</title>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305040545" start="20211025095800 +0000" stop="20211025102800 +0000">
@@ -44286,11 +44286,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211024114916 +0000" stop="20211024121005 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211024121005 +0000" stop="20211024131632 +0000">
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
@@ -44503,6 +44498,16 @@
     <title>Shaping Jordy</title>
     <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
     <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025130209 +0000" stop="20211025132409 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025132409 +0000" stop="20211025140652 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

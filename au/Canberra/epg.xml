@@ -1844,17 +1844,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
-    <title>Keeping Australia Safe</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
     <title>Running Wild: Australia's Camels</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210221" start="20211024165900 +0000" stop="20211024175900 +0000">
+    <title>Keeping Australia Safe</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20211024175900 +0000" stop="20211024190000 +0000">
@@ -17383,18 +17383,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020522" start="20211025193000 +0000" stop="20211025200000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020522" start="20211025193000 +0000" stop="20211025200100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020522" start="20211025193000 +0000" stop="20211025200000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20211025200100 +0000" stop="20211025210100 +0000">
@@ -19766,16 +19766,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025085800 +0000">
-    <title>Family Guy</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025093100 +0000">
     <title>The Voice USA</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020525" start="20211025083000 +0000" stop="20211025085800 +0000">
+    <title>Family Guy</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020525" start="20211025085800 +0000" stop="20211025092800 +0000">
@@ -43773,11 +43773,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211024114916 +0000" stop="20211024121005 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211024121005 +0000" stop="20211024131632 +0000">
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
@@ -43990,6 +43985,16 @@
     <title>Shaping Jordy</title>
     <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
     <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025130209 +0000" stop="20211025132409 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025132409 +0000" stop="20211025140652 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

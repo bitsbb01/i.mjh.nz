@@ -19364,14 +19364,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -34911,17 +34911,17 @@
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20211024195900 +0000" stop="20211024205900 +0000">
-    <title>Running Wild: Australia's Camels</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.3201026102E1" start="20211024195900 +0000" stop="20211024205900 +0000">
     <title>Keeping Australia Safe</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20211024195900 +0000" stop="20211024205900 +0000">
+    <title>Running Wild: Australia's Camels</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20211024205900 +0000" stop="20211024220000 +0000">
@@ -44193,6 +44193,26 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211024142941 +0000" stop="20211024161342 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024161342 +0000" stop="20211024163852 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024163852 +0000" stop="20211024172725 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024172725 +0000" stop="20211024174846 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211024174846 +0000" stop="20211024183128 +0000">
     <title>Wreck or Get Rekt</title>
     <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
@@ -44415,25 +44435,6 @@
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
     <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211025163355 +0000" stop="20211025171800 +0000">
-    <title>Red Bull Signature Series S2020E6</title>
-    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
-    <sub-title>Red Bull Drift Masters</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211025171800 +0000" stop="20211025181000 +0000">
-    <title>Crankworx World Tour 2021</title>
-    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
-    <sub-title>Highlights from British Columbia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211025181000 +0000" stop="20211025181824 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211025181824 +0000" stop="20211025194249 +0000">
-    <title>One Extraordinary Year</title>
-    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
-    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

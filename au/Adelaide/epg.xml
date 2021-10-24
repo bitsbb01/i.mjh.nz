@@ -18536,18 +18536,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211025203100 +0000" stop="20211025213100 +0000">
@@ -44516,6 +44516,11 @@
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
     <sub-title>How Mark Mathews came back from the brink</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025163355 +0000" stop="20211025171800 +0000">
+    <title>Red Bull Signature Series S2020E6</title>
+    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
+    <sub-title>Red Bull Drift Masters</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

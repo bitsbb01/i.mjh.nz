@@ -8141,17 +8141,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20211024172900 +0000" stop="20211024182900 +0000">
-    <title>Keeping Australia Safe</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002510251" start="20211024172900 +0000" stop="20211024182900 +0000">
     <title>Running Wild: Australia's Camels</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002510251" start="20211024172900 +0000" stop="20211024182900 +0000">
+    <title>Keeping Australia Safe</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101002510251" start="20211024182900 +0000" stop="20211024193000 +0000">
@@ -18536,18 +18536,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211025203100 +0000" stop="20211025213100 +0000">
@@ -20562,14 +20562,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
-    <title>Dipper's Backyard BBQ Wars</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
+    <title>Dipper's Backyard BBQ Wars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44274,25 +44274,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211024195210 +0000" stop="20211024200058 +0000">
-    <title>Enjoy the Ride S1E3</title>
-    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
-    <sub-title>First time in California</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024200058 +0000" stop="20211024205830 +0000">
-    <title>The Other Side of Fear</title>
-    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024205830 +0000" stop="20211024214314 +0000">
-    <title>Red Bull Signature Series S2020E6</title>
-    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
-    <sub-title>Red Bull Drift Masters</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211024214314 +0000" stop="20211024215138 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211024215138 +0000" stop="20211024231524 +0000">
     <title>One Extraordinary Year</title>
     <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
@@ -44505,6 +44486,16 @@
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
     <sub-title>São Paulo, Brazil</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025210046 +0000" stop="20211025212028 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025212028 +0000" stop="20211025230001 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

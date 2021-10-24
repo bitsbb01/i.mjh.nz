@@ -18737,18 +18737,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211025203100 +0000" stop="20211025213100 +0000">
@@ -44896,36 +44896,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211023195057 +0000" stop="20211023201706 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023201706 +0000" stop="20211023202647 +0000">
-    <title>The Red Bulletin Stories in Motion S4E7</title>
-    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
-    <sub-title>Dario Costa: Tunnel Vision</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023202647 +0000" stop="20211023203638 +0000">
-    <title>The Red Bulletin Stories in Motion S4E8</title>
-    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
-    <sub-title>GrabbZ: League of Lohmann</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023203638 +0000" stop="20211023204940 +0000">
-    <title>The Red Bulletin Stories in Motion S4E5</title>
-    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
-    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023204940 +0000" stop="20211023213813 +0000">
-    <title>Shaping Jordy</title>
-    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
-    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211023213813 +0000" stop="20211023215933 +0000">
-    <title>Red Bull Skateboarding Presents: You Good?</title>
-    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
-    <sub-title>A globe-trotting skate adventure</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211023215933 +0000" stop="20211023224216 +0000">
     <title>Wreck or Get Rekt</title>
     <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
@@ -45133,6 +45103,15 @@
     <title>Red Bull Signature Series S2020E6</title>
     <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
     <sub-title>Red Bull Drift Masters</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024214314 +0000" stop="20211024215138 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211024215138 +0000" stop="20211024231524 +0000">
+    <title>One Extraordinary Year</title>
+    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
+    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

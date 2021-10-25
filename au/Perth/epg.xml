@@ -16930,18 +16930,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211025230100 +0000" stop="20211026000100 +0000">
@@ -42885,6 +42885,35 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211025153543 +0000" stop="20211025163355 +0000">
+    <title>The Other Side of Fear</title>
+    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
+    <sub-title>How Mark Mathews came back from the brink</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025163355 +0000" stop="20211025171800 +0000">
+    <title>Red Bull Signature Series S2020E6</title>
+    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
+    <sub-title>Red Bull Drift Masters</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025171800 +0000" stop="20211025181000 +0000">
+    <title>Crankworx World Tour 2021</title>
+    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
+    <sub-title>Highlights from British Columbia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025181000 +0000" stop="20211025181824 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025181824 +0000" stop="20211025194249 +0000">
+    <title>One Extraordinary Year</title>
+    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
+    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025194249 +0000" stop="20211025195724 +0000">
+    <title>Behind the Bullet S1E1</title>
+    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
+    <sub-title>Ready for a comeback in 2021</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211025195724 +0000" stop="20211025200753 +0000">
     <title>Behind the Bullet S1E2</title>
     <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
@@ -43126,40 +43155,6 @@
     <title>Enjoy the Ride S1E3</title>
     <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
     <sub-title>First time in California</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026171052 +0000" stop="20211026180824 +0000">
-    <title>The Other Side of Fear</title>
-    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026180824 +0000" stop="20211026185228 +0000">
-    <title>Red Bull Signature Series S2020E6</title>
-    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
-    <sub-title>Red Bull Drift Masters</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026185228 +0000" stop="20211026190052 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026190052 +0000" stop="20211026202518 +0000">
-    <title>One Extraordinary Year</title>
-    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
-    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026202518 +0000" stop="20211026203547 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026203547 +0000" stop="20211026204418 +0000">
-    <title>Behind the Bullet S1E3</title>
-    <desc>Ride along with MXGP rider Jeffrey Herlings as he prepares for the MXGP of Italy in Maggiora.</desc>
-    <sub-title>Getting competitive for Maggiora</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026204418 +0000" stop="20211026212800 +0000">
-    <title>Red Bull Soapbox Race S7E1</title>
-    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <sub-title>São Paulo, Brazil</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

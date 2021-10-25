@@ -10351,6 +10351,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20211030023000 +0000" stop="20211030030000 +0000">
     <title>My Way</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10482,6 +10483,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20211030183000 +0000" stop="20211030190000 +0000">
     <title>Wesley Impact with Stu Cameron</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10537,6 +10539,7 @@
   </programme>
   <programme channel="tv.101204300430" start="20211031023000 +0000" stop="20211031034000 +0000">
     <title>The Block</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11828,6 +11831,7 @@
   </programme>
   <programme channel="tv.101204300433" start="20211030003000 +0000" stop="20211030010000 +0000">
     <title>Postcards</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18202,7 +18206,7 @@
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20211031013000 +0000" stop="20211031033000 +0000">
-    <title>Supercars: Sydney SuperNight - Pre</title>
+    <title>Supercars: Sydney SuperNight</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -18552,18 +18556,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305030532" start="20211025193000 +0000" stop="20211025200000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20211025200100 +0000" stop="20211025210100 +0000">
@@ -22153,7 +22157,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20211025015500 +0000" stop="20211025033400 +0000">
-    <title>To Be Advised</title>
+    <title>Celebrity MasterChef Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101406030631" start="20211025033400 +0000" stop="20211025035600 +0000">
     <title>Entertainment Tonight</title>
@@ -25432,7 +25440,11 @@
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20211025015500 +0000" stop="20211025033400 +0000">
-    <title>To Be Advised</title>
+    <title>Celebrity MasterChef Australia</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="tv.101406030635" start="20211025033400 +0000" stop="20211025035600 +0000">
     <title>Entertainment Tonight</title>
@@ -29176,32 +29188,32 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025133300 +0000" stop="20211025140300 +0000">
+  <programme channel="tv.101406030638" start="20211025133300 +0000" stop="20211025140400 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025140300 +0000" stop="20211025143400 +0000">
+  <programme channel="tv.101406030638" start="20211025140400 +0000" stop="20211025143500 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025143400 +0000" stop="20211025153300 +0000">
+  <programme channel="tv.101406030638" start="20211025143500 +0000" stop="20211025153300 +0000">
     <title>The Late Show with Stephen Colbert</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025153300 +0000" stop="20211025163100 +0000">
+  <programme channel="tv.101406030638" start="20211025153300 +0000" stop="20211025163000 +0000">
     <title>The Late Late Show with James Corden</title>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025163100 +0000" stop="20211025172900 +0000">
+  <programme channel="tv.101406030638" start="20211025163000 +0000" stop="20211025172900 +0000">
     <title>A Million Little Things</title>
     <rating system="Freeview">
       <value>M</value>
@@ -29213,13 +29225,13 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025175900 +0000" stop="20211025183000 +0000">
+  <programme channel="tv.101406030638" start="20211025175900 +0000" stop="20211025182900 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030638" start="20211025183000 +0000" stop="20211025190000 +0000">
+  <programme channel="tv.101406030638" start="20211025182900 +0000" stop="20211025190000 +0000">
     <title>Home Shopping</title>
     <rating system="Freeview">
       <value>NC</value>
@@ -37218,6 +37230,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20211028102500 +0000" stop="20211028112000 +0000">
     <title>Red Election</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -37239,7 +37252,7 @@
     <title>Mr. Mercedes</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20211028135000 +0000" stop="20211028145500 +0000">
@@ -44316,16 +44329,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211025005303 +0000" stop="20211025023136 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211025023136 +0000" stop="20211025025724 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211025025724 +0000" stop="20211025034446 +0000">
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
@@ -44552,6 +44555,31 @@
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
     <sub-title>Profile of a Brazilian surf star</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026015956 +0000" stop="20211026021939 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026021939 +0000" stop="20211026030701 +0000">
+    <title>Long Days</title>
+    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
+    <sub-title>There are no short film days when you're making a ski film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026030701 +0000" stop="20211026033248 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026033248 +0000" stop="20211026034840 +0000">
+    <title>Race Week S1E12</title>
+    <desc>At Circuit of the Americas, Jack Miller is aiming to go better than the third place he claimed back in 2019.</desc>
+    <sub-title>Jack Miller won't settle for third</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026034840 +0000" stop="20211026040048 +0000">
+    <title>Behind the Bullet S1E7</title>
+    <desc>After a four-week break, Jeffrey Herlings has two races in just four days at the MXGP of Turkey double-header.</desc>
+    <sub-title>A Turkish double-header</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

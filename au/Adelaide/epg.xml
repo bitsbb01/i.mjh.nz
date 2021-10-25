@@ -18164,18 +18164,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20211025200000 +0000" stop="20211025203000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20211025203100 +0000" stop="20211025213100 +0000">
@@ -20264,14 +20264,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
-    <title>Dipper's Backyard BBQ Wars</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
+    <title>Dipper's Backyard BBQ Wars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43044,6 +43044,66 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211025085838 +0000" stop="20211025100505 +0000">
+    <title>Red Bull Signature Series S2020E2</title>
+    <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
+    <sub-title>Burton US Open</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025100505 +0000" stop="20211025114905 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025114905 +0000" stop="20211025121416 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025121416 +0000" stop="20211025130209 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025130209 +0000" stop="20211025132409 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025132409 +0000" stop="20211025140652 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025140652 +0000" stop="20211025144641 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025144641 +0000" stop="20211025145621 +0000">
+    <title>The Red Bulletin Stories in Motion S4E7</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa: Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025145621 +0000" stop="20211025150613 +0000">
+    <title>The Red Bulletin Stories in Motion S4E8</title>
+    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
+    <sub-title>GrabbZ: League of Lohmann</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025150613 +0000" stop="20211025151856 +0000">
+    <title>The Red Bulletin Stories in Motion S4E5</title>
+    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
+    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025151856 +0000" stop="20211025152656 +0000">
+    <title>Enjoy the Ride S1E2</title>
+    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
+    <sub-title>The first sessions</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211025152656 +0000" stop="20211025153543 +0000">
+    <title>Enjoy the Ride S1E3</title>
+    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
+    <sub-title>First time in California</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211025153543 +0000" stop="20211025163355 +0000">
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
@@ -43230,90 +43290,6 @@
     <title>Red Bull Skateboarding Presents: You Good?</title>
     <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
     <sub-title>A globe-trotting skate adventure</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026111522 +0000" stop="20211026115845 +0000">
-    <title>Wreck or Get Rekt</title>
-    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
-    <sub-title>A battle between video game rivals</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026115845 +0000" stop="20211026123754 +0000">
-    <title>RISS</title>
-    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
-    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026123754 +0000" stop="20211026125849 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026125849 +0000" stop="20211026132437 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026132437 +0000" stop="20211026133645 +0000">
-    <title>Behind the Bullet S1E7</title>
-    <desc>After a four-week break, Jeffrey Herlings has two races in just four days at the MXGP of Turkey double-header.</desc>
-    <sub-title>A Turkish double-header</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026133645 +0000" stop="20211026135843 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026135843 +0000" stop="20211026141515 +0000">
-    <title>Race Week S1E12</title>
-    <desc>At Circuit of the Americas, Jack Miller is aiming to go better than the third place he claimed back in 2019.</desc>
-    <sub-title>Jack Miller won't settle for third</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026141515 +0000" stop="20211026143704 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026143704 +0000" stop="20211026150004 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026150004 +0000" stop="20211026155031 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026155031 +0000" stop="20211026160012 +0000">
-    <title>The Red Bulletin Stories in Motion S4E7</title>
-    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
-    <sub-title>Dario Costa: Tunnel Vision</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026160012 +0000" stop="20211026161003 +0000">
-    <title>The Red Bulletin Stories in Motion S4E8</title>
-    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
-    <sub-title>GrabbZ: League of Lohmann</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026161003 +0000" stop="20211026162305 +0000">
-    <title>The Red Bulletin Stories in Motion S4E5</title>
-    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
-    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026162305 +0000" stop="20211026163235 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
-    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026163235 +0000" stop="20211026165404 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026165404 +0000" stop="20211026170205 +0000">
-    <title>Enjoy the Ride S1E2</title>
-    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
-    <sub-title>The first sessions</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026170205 +0000" stop="20211026171052 +0000">
-    <title>Enjoy the Ride S1E3</title>
-    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
-    <sub-title>First time in California</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

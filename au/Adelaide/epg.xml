@@ -12814,14 +12814,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211030004500 +0000" stop="20211030014500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211030004500 +0000" stop="20211030014500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -42059,21 +42059,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211026190052 +0000" stop="20211026202518 +0000">
-    <title>One Extraordinary Year</title>
-    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
-    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026202518 +0000" stop="20211026203547 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026203547 +0000" stop="20211026204418 +0000">
-    <title>Behind the Bullet S1E3</title>
-    <desc>Ride along with MXGP rider Jeffrey Herlings as he prepares for the MXGP of Italy in Maggiora.</desc>
-    <sub-title>Getting competitive for Maggiora</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211026204418 +0000" stop="20211026212800 +0000">
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -42321,6 +42306,11 @@
     <title>Fast Life S4E2</title>
     <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
     <sub-title>Now or never</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027211258 +0000" stop="20211027222024 +0000">
+    <title>Red Bull Signature Series S2020E2</title>
+    <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
+    <sub-title>Burton US Open</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

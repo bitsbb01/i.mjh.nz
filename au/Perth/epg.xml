@@ -16954,18 +16954,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
-    <title>The Real Seachange</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
     <title>Under the Hammer</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
+    <title>The Real Seachange</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211025230100 +0000" stop="20211026000100 +0000">
@@ -42990,40 +42990,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211026045248 +0000" stop="20211026054032 +0000">
-    <title>Reckless Isolation</title>
-    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
-    <sub-title>A new surf film from Stagnant Ambition</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026054032 +0000" stop="20211026054833 +0000">
-    <title>Reckless Isolation – extra</title>
-    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
-    <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026054833 +0000" stop="20211026055657 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026055657 +0000" stop="20211026060627 +0000">
-    <title>Red Bull Rampage 2019</title>
-    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
-    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026060627 +0000" stop="20211026062101 +0000">
-    <title>Fast Life S4E1</title>
-    <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
-    <sub-title>Starting again</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026062101 +0000" stop="20211026064150 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211026064150 +0000" stop="20211026074857 +0000">
-    <title>Red Bull Signature Series S2020E2</title>
-    <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
-    <sub-title>Burton US Open</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211026074857 +0000" stop="20211026093218 +0000">
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
@@ -43231,6 +43197,71 @@
     <title>Reckless Isolation – extra</title>
     <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
     <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027060028 +0000" stop="20211027062538 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027062538 +0000" stop="20211027071411 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027071411 +0000" stop="20211027073532 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027073532 +0000" stop="20211027081815 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027075234 +0000" stop="20211027080214 +0000">
+    <title>The Red Bulletin Stories in Motion S4E7</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa: Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027080214 +0000" stop="20211027081205 +0000">
+    <title>The Red Bulletin Stories in Motion S4E8</title>
+    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
+    <sub-title>GrabbZ: League of Lohmann</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027081205 +0000" stop="20211027082408 +0000">
+    <title>The Red Bulletin Stories in Motion S4E5</title>
+    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
+    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027081815 +0000" stop="20211027085822 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027085822 +0000" stop="20211027090803 +0000">
+    <title>The Red Bulletin Stories in Motion S4E7</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa: Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027090803 +0000" stop="20211027091754 +0000">
+    <title>The Red Bulletin Stories in Motion S4E8</title>
+    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
+    <sub-title>GrabbZ: League of Lohmann</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027091754 +0000" stop="20211027093056 +0000">
+    <title>The Red Bulletin Stories in Motion S4E5</title>
+    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
+    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027093056 +0000" stop="20211027094026 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027094026 +0000" stop="20211027100115 +0000">
+    <title>Fast Life S4E2</title>
+    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
+    <sub-title>Now or never</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

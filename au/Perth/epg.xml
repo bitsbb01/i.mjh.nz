@@ -16954,18 +16954,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211025230100 +0000" stop="20211026000100 +0000">
@@ -42990,6 +42990,20 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211026045248 +0000" stop="20211026054032 +0000">
+    <title>Reckless Isolation</title>
+    <desc>Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <sub-title>A new surf film from Stagnant Ambition</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026054032 +0000" stop="20211026054833 +0000">
+    <title>Reckless Isolation – extra</title>
+    <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
+    <sub-title>Homegrown with Kolohe Andino</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026054833 +0000" stop="20211026055657 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211026055657 +0000" stop="20211026060627 +0000">
     <title>Red Bull Rampage 2019</title>
     <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
@@ -43217,16 +43231,6 @@
     <title>Reckless Isolation – extra</title>
     <desc>A dream surf trip, an injury, a baby due and competing in Tokyo. It's been quite a year for Kolohe Andino.</desc>
     <sub-title>Homegrown with Kolohe Andino</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211027060028 +0000" stop="20211027062538 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211027062538 +0000" stop="20211027071411 +0000">
-    <title>Shaping Jordy</title>
-    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
-    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

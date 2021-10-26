@@ -16930,18 +16930,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
-    <title>Under the Hammer</title>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230100 +0000">
     <title>The Real Seachange</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060562" start="20211025223000 +0000" stop="20211025230000 +0000">
+    <title>Under the Hammer</title>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060562" start="20211025230100 +0000" stop="20211026000100 +0000">
@@ -19014,14 +19014,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42885,11 +42885,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211025210046 +0000" stop="20211025212028 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211025212028 +0000" stop="20211025230001 +0000">
     <title>Valley Uprising</title>
     <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -43150,6 +43145,16 @@
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
     <sub-title>There are no short film days when you're making a ski film</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026221522 +0000" stop="20211026223505 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211026223505 +0000" stop="20211027001338 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

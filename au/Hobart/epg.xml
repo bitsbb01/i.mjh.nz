@@ -12594,14 +12594,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -21306,14 +21306,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>To Be Advised</title>
-  </programme>
   <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102042800 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305030535" start="20211102042800 +0000" stop="20211102045700 +0000">
     <title>How I Met Your Mother</title>
@@ -44233,6 +44233,26 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211027120844 +0000" stop="20211027133229 +0000">
+    <title>One Extraordinary Year</title>
+    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
+    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027133229 +0000" stop="20211027134744 +0000">
+    <title>Behind the Bullet S1E1</title>
+    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
+    <sub-title>Ready for a comeback in 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027134744 +0000" stop="20211027135812 +0000">
+    <title>Behind the Bullet S1E2</title>
+    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
+    <sub-title>Back up to speed at Matterley Basin</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027135812 +0000" stop="20211027140643 +0000">
+    <title>Behind the Bullet S1E3</title>
+    <desc>Ride along with MXGP rider Jeffrey Herlings as he prepares for the MXGP of Italy in Maggiora.</desc>
+    <sub-title>Getting competitive for Maggiora</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211027140643 +0000" stop="20211027145026 +0000">
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -44454,30 +44474,6 @@
     <title>Valley Uprising</title>
     <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
     <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028133810 +0000" stop="20211028135905 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028135905 +0000" stop="20211028142104 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028142104 +0000" stop="20211028144253 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028144253 +0000" stop="20211028150633 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028150633 +0000" stop="20211028155355 +0000">
-    <title>Long Days</title>
-    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
-    <sub-title>There are no short film days when you're making a ski film</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

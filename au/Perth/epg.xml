@@ -18300,14 +18300,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035700 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
+    <title>Big Easy Motors</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
-    <title>Big Easy Motors</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035700 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18327,14 +18327,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44267,6 +44267,25 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211027100916 +0000" stop="20211027101803 +0000">
+    <title>Enjoy the Ride S1E3</title>
+    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
+    <sub-title>First time in California</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027101803 +0000" stop="20211027111615 +0000">
+    <title>The Other Side of Fear</title>
+    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
+    <sub-title>How Mark Mathews came back from the brink</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027111615 +0000" stop="20211027120020 +0000">
+    <title>Red Bull Signature Series S2020E6</title>
+    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
+    <sub-title>Red Bull Drift Masters</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027120020 +0000" stop="20211027120844 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211027120844 +0000" stop="20211027133229 +0000">
     <title>One Extraordinary Year</title>
     <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
@@ -44498,16 +44517,6 @@
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
     <sub-title>São Paulo, Brazil</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028113914 +0000" stop="20211028115856 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028115856 +0000" stop="20211028133810 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

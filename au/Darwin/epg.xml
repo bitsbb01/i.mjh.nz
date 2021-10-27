@@ -12815,14 +12815,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19895,14 +19895,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
+    <title>Dipper's Backyard BBQ Wars</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030032900 +0000">
-    <title>Dipper's Backyard BBQ Wars</title>
+  <programme channel="tv.101305050553" start="20211030030000 +0000" stop="20211030040000 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -42065,11 +42065,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211026204418 +0000" stop="20211026212800 +0000">
-    <title>Red Bull Soapbox Race S7E1</title>
-    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <sub-title>São Paulo, Brazil</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211026212800 +0000" stop="20211026221522 +0000">
     <title>Long Days</title>
     <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
@@ -42317,6 +42312,31 @@
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
     <sub-title>Burton US Open</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027222024 +0000" stop="20211027223005 +0000">
+    <title>The Red Bulletin Stories in Motion S4E7</title>
+    <desc>Find out how Dario Costa defied all the odds to become one of the best aerobatic pilots in the world.</desc>
+    <sub-title>Dario Costa: Tunnel Vision</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027223005 +0000" stop="20211027223956 +0000">
+    <title>The Red Bulletin Stories in Motion S4E8</title>
+    <desc>Fabian 'GrabbZ' Lohmann reflects on his huge success coaching the G2 Esports League of Legends team.</desc>
+    <sub-title>GrabbZ: League of Lohmann</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027223956 +0000" stop="20211027225258 +0000">
+    <title>The Red Bulletin Stories in Motion S4E5</title>
+    <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
+    <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027225258 +0000" stop="20211027230308 +0000">
+    <title>Red Bull Rampage 2019</title>
+    <desc>See which riders conquered the infamous Red Bull Rampage course in 2019 by watching these five intense runs.</desc>
+    <sub-title>Top 5 runs of Red Bull Rampage 2019</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211027230308 +0000" stop="20211028004629 +0000">
+    <title>The Longest Wave</title>
+    <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
+    <sub-title>Legends take a lifetime</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

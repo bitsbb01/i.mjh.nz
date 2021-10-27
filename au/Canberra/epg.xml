@@ -707,15 +707,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -12829,14 +12829,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211030001500 +0000" stop="20211030011500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -20637,14 +20637,14 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>To Be Advised</title>
+  </programme>
   <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102042800 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020525" start="20211102042800 +0000" stop="20211102045700 +0000">
     <title>How I Met Your Mother</title>
@@ -41651,6 +41651,11 @@
       <value>MA</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211027060028 +0000" stop="20211027062538 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211027062538 +0000" stop="20211027071411 +0000">
     <title>Shaping Jordy</title>
     <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
@@ -41927,16 +41932,6 @@
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
     <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028071535 +0000" stop="20211028080503 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028080503 +0000" stop="20211028084908 +0000">
-    <title>Red Bull Signature Series S2020E6</title>
-    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
-    <sub-title>Red Bull Drift Masters</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

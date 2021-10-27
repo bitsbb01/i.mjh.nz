@@ -10549,12 +10549,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500454" start="20211027130000 +0000" stop="20211027133000 +0000">
-    <title>House Hunters International</title>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500454" start="20211027133000 +0000" stop="20211027140000 +0000">
     <title>House Hunters International</title>
     <rating system="Freeview">
@@ -12604,14 +12598,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211030004500 +0000" stop="20211030014500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20211030004500 +0000" stop="20211030014500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -30192,12 +30186,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050659" start="20211027132900 +0000" stop="20211027133000 +0000">
-    <title>Thin Lizzy Liquid Foundation Flawless Complexion Kit</title>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050659" start="20211027133000 +0000" stop="20211027135800 +0000">
     <title>iTread</title>
     <rating system="Freeview">
@@ -43743,12 +43731,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203400347" start="20211027130000 +0000" stop="20211027145000 +0000">
-    <title>One Thousand Ropes</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203400347" start="20211027145000 +0000" stop="20211027162500 +0000">
     <title>Incarnation</title>
     <rating system="Freeview">
@@ -44254,20 +44236,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211027164030 +0000" stop="20211027181944 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211027181944 +0000" stop="20211027184039 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211027184039 +0000" stop="20211027190237 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211027190237 +0000" stop="20211027192427 +0000">
     <title>Driving DTM S1E6</title>
     <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
@@ -44509,6 +44477,16 @@
     <title>The Red Bulletin Stories in Motion S4E5</title>
     <desc>B-Girl Sina explores her Moroccan and Austrian roots as she trains with some of the top breakers in the world.</desc>
     <sub-title>B-Girl Sina: a wonderful transformation</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211028192301 +0000" stop="20211028194421 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211028194421 +0000" stop="20211028203621 +0000">
+    <title>Crankworx World Tour 2021</title>
+    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
+    <sub-title>Highlights from British Columbia</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

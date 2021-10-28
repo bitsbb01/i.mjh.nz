@@ -1623,15 +1623,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11325,14 +11325,14 @@
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20211030031500 +0000" stop="20211030041500 +0000">
-    <title>World's Greatest Animal Encounters</title>
-    <subtitles type="teletext"/>
+    <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204600467" start="20211030031500 +0000" stop="20211030041500 +0000">
-    <title>Saved and Remade</title>
+    <title>World's Greatest Animal Encounters</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18534,14 +18534,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035800 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
+    <title>Big Easy Motors</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
-    <title>Big Easy Motors</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035800 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18561,14 +18561,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44490,36 +44490,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211028040919 +0000" stop="20211028042901 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028042901 +0000" stop="20211028045216 +0000">
-    <title>Get to know the world of street dance</title>
-    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
-    <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028045216 +0000" stop="20211028050835 +0000">
-    <title>Red Bull Recharged 2021</title>
-    <desc>The world’s best snowboarders put it down on a one-of-a-kind course. Watch highlights from Mammoth Mountain.</desc>
-    <sub-title>Top snowboarding action</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028050835 +0000" stop="20211028060035 +0000">
-    <title>Crankworx World Tour 2021</title>
-    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
-    <sub-title>Highlights from British Columbia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028060035 +0000" stop="20211028060835 +0000">
-    <title>Enjoy the Ride S1E2</title>
-    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
-    <sub-title>The first sessions</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028060835 +0000" stop="20211028061723 +0000">
-    <title>Enjoy the Ride S1E3</title>
-    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
-    <sub-title>First time in California</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211028061723 +0000" stop="20211028071535 +0000">
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
@@ -44722,6 +44692,40 @@
     <title>The Filer Creek Expedition</title>
     <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
     <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029052150 +0000" stop="20211029054806 +0000">
+    <title>FIM Hard Enduro World Championship 2021</title>
+    <desc>Take a look back as Dąbrowa Górnicza in Poland hosted a tough race that provided a true test for all riders.</desc>
+    <sub-title>HERO Challenge recap</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029054806 +0000" stop="20211029055406 +0000">
+    <title>Pasha Petkuns freeruns through a gigantic pinball machine</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Human Pinball</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029055426 +0000" stop="20211029061821 +0000">
+    <title>Get to know the world of street dance</title>
+    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
+    <sub-title>The evolution of the unique dance style</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029061821 +0000" stop="20211029062621 +0000">
+    <title>Enjoy the Ride S1E2</title>
+    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
+    <sub-title>The first sessions</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029062621 +0000" stop="20211029063508 +0000">
+    <title>Enjoy the Ride S1E3</title>
+    <desc>Pedro Barros remembers the first time he went to California, and the people who took him under their wings.</desc>
+    <sub-title>First time in California</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029063508 +0000" stop="20211029063911 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029063911 +0000" stop="20211029073643 +0000">
+    <title>The Other Side of Fear</title>
+    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
+    <sub-title>How Mark Mathews came back from the brink</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

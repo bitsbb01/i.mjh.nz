@@ -12460,15 +12460,15 @@
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211029083000 +0000" stop="20211029093000 +0000">
-    <title>Being James Bond: The Daniel Craig Story</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300436" start="20211029083000 +0000" stop="20211029093000 +0000">
     <title>Saved and Remade</title>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204300436" start="20211029083000 +0000" stop="20211029093000 +0000">
+    <title>Being James Bond: The Daniel Craig Story</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20211029093000 +0000" stop="20211029121000 +0000">
@@ -21586,14 +21586,14 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>To Be Advised</title>
+  </programme>
   <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102042800 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305030535" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305030535" start="20211102042800 +0000" stop="20211102045700 +0000">
     <title>How I Met Your Mother</title>
@@ -44527,6 +44527,21 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211028040919 +0000" stop="20211028042901 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211028042901 +0000" stop="20211028045216 +0000">
+    <title>Get to know the world of street dance</title>
+    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
+    <sub-title>The evolution of the unique dance style</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211028045216 +0000" stop="20211028050835 +0000">
+    <title>Red Bull Recharged 2021</title>
+    <desc>The world’s best snowboarders put it down on a one-of-a-kind course. Watch highlights from Mammoth Mountain.</desc>
+    <sub-title>Top snowboarding action</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211028050835 +0000" stop="20211028060035 +0000">
     <title>Crankworx World Tour 2021</title>
     <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
@@ -44744,26 +44759,6 @@
     <title>The Filer Creek Expedition</title>
     <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
     <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029052150 +0000" stop="20211029054806 +0000">
-    <title>FIM Hard Enduro World Championship 2021</title>
-    <desc>Take a look back as Dąbrowa Górnicza in Poland hosted a tough race that provided a true test for all riders.</desc>
-    <sub-title>HERO Challenge recap</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029054806 +0000" stop="20211029055406 +0000">
-    <title>Pasha Petkuns freeruns through a gigantic pinball machine</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Human Pinball</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029055426 +0000" stop="20211029061821 +0000">
-    <title>Get to know the world of street dance</title>
-    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
-    <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029061821 +0000" stop="20211029062621 +0000">
-    <title>Enjoy the Ride S1E2</title>
-    <desc>See where skate legend Pedro Barros grew up, meet his friends and check out the bowl he learned his craft in.</desc>
-    <sub-title>The first sessions</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

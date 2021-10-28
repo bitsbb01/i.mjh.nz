@@ -24,6 +24,9 @@ pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 
 #EXTINF:-1 tvg-id="radio.ih.7050" tvg-logo="https://i.mjh.nz/.images/radio.ih.7050.png" radio="true",iHeartAustralia
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.7050 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7050 -f mpegts pipe:1
 
+#EXTINF:-1 tvg-id="radio.ih.9195" tvg-logo="https://i.mjh.nz/.images/radio.ih.9195.png" radio="true",Woolworths Radio
+pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.9195 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9195 -f mpegts pipe:1
+
 #EXTINF:-1 tvg-id="radio.ih.9083" tvg-logo="https://i.mjh.nz/.images/radio.ih.9083.png" radio="true",Waiata Anthems
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ Mozilla/5.0\ (Windows\ NT\ 10.0;\ Win64;\ x64)\ AppleWebKit/537.36\ (KHTML,\ like\ Gecko)\ Chrome/84.0.4147.105\ Safari/537.36\r\n -i https://i.mjh.nz/au/Melbourne/radio.ih.9083 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.9083 -f mpegts pipe:1
 

@@ -1468,15 +1468,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -20341,14 +20341,14 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>To Be Advised</title>
+  </programme>
   <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102042800 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305020525" start="20211102042800 +0000" stop="20211102045700 +0000">
     <title>How I Met Your Mother</title>
@@ -43908,26 +43908,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211028142104 +0000" stop="20211028144253 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028144253 +0000" stop="20211028150633 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028150633 +0000" stop="20211028155355 +0000">
-    <title>Long Days</title>
-    <desc>From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film.</desc>
-    <sub-title>There are no short film days when you're making a ski film</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028155355 +0000" stop="20211028160829 +0000">
-    <title>Fast Life S4E1</title>
-    <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
-    <sub-title>Starting again</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211028160829 +0000" stop="20211028162958 +0000">
     <title>Fast Life S4E2</title>
     <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
@@ -44145,6 +44125,26 @@
     <title>Peaking S1E12</title>
     <desc>Surfer Peter Mel prepares to try to defend his title in the days leading up to the Mavericks Invitational.</desc>
     <sub-title>Peter Mel</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029153847 +0000" stop="20211029155321 +0000">
+    <title>Fast Life S4E1</title>
+    <desc>Join Kate Courtney, Loïc Bruni and Finn Iles as they take on the challenges of a very different 2020 season.</desc>
+    <sub-title>Starting again</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029155321 +0000" stop="20211029161410 +0000">
+    <title>Fast Life S4E2</title>
+    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
+    <sub-title>Now or never</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029161410 +0000" stop="20211029172117 +0000">
+    <title>Red Bull Signature Series S2020E2</title>
+    <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
+    <sub-title>Burton US Open</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029172117 +0000" stop="20211029174627 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

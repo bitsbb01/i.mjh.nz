@@ -22,27 +22,27 @@
     <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Rikki catches up with Black Ferns Olympic Gold Medallist Kelly Brazier as she reflects on her past, talks about her present and future.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="60" start="20211027163000 +0000" stop="20211027183500 +0000">
+  <programme channel="60" start="20211027163000 +0000" stop="20211027184000 +0000">
     <title>French Top 14: LAR v TOU (G)</title>
     <desc>Replay coverage of the French Top 14 season as La Rochelle host Toulon at Stade Marcel-Deflandre, La Rochelle.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211027183500 +0000" stop="20211027204500 +0000">
+  <programme channel="60" start="20211027184000 +0000" stop="20211027205000 +0000">
     <title>LIVE Carabao Cup: West Ham v Man City (G)</title>
     <desc>LIVE Carabao Cup Fourth Round: West Ham vs Manchester City from the Olympic Stadium in London.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="60" start="20211027204500 +0000" stop="20211027211500 +0000">
+  <programme channel="60" start="20211027205000 +0000" stop="20211027212000 +0000">
     <title>Rugby Nation (G)</title>
     <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="60" start="20211027211500 +0000" stop="20211027214500 +0000">
+  <programme channel="60" start="20211027212000 +0000" stop="20211027215000 +0000">
     <title>Playmakers: Rugby Stories (G)</title>
     <desc>Sky Sport delves into some of rugby’s best stories from the characters that have made the great game. This week, Rikki catches up with Black Ferns Olympic Gold Medallist Kelly Brazier as she reflects on her past, talks about her present and future.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="60" start="20211027214500 +0000" stop="20211027234500 +0000">
+  <programme channel="60" start="20211027215000 +0000" stop="20211027234500 +0000">
     <title>Bunnings NPC: OTA v CAN (G)</title>
     <desc>Bunnings NPC 2021: Otago welcome Canterbury to Forsyth Barr Stadium in Dunedin.</desc>
     <category>Rugby</category>
@@ -105,9 +105,14 @@
   <channel id="61">
     <display-name>sky-sport-2</display-name>
   </channel>
-  <programme channel="61" start="20211027110000 +0000" stop="20211027200000 +0000">
+  <programme channel="61" start="20211027110000 +0000" stop="20211027190000 +0000">
     <title>LIVE: St. Petersburg Open: D3 (G)</title>
     <desc>LIVE – ATP 250: St. Petersburg Open. Tune in for all the action from Day 3 as the world's top tennis players go head to head in St. Petersburg, Russia.</desc>
+    <category>Tennis</category>
+  </programme>
+  <programme channel="61" start="20211027190000 +0000" stop="20211027200000 +0000">
+    <title>Erste Bank Open: Day 2 Hls (G)</title>
+    <desc>Highlights from Day 2 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
   <programme channel="61" start="20211027200000 +0000" stop="20211027203000 +0000">
@@ -183,12 +188,12 @@
   <channel id="62">
     <display-name>sky-sport-3</display-name>
   </channel>
-  <programme channel="62" start="20211027110000 +0000" stop="20211027134500 +0000">
+  <programme channel="62" start="20211027110000 +0000" stop="20211027133000 +0000">
     <title>LIVE: ICC T20 WC: ENG v BAN (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup match between England and Bangladesh at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211027134500 +0000" stop="20211027180000 +0000">
+  <programme channel="62" start="20211027133000 +0000" stop="20211027180000 +0000">
     <title>LIVE: ICC T20 WC: SCO v NAM (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup match between Scotland and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
@@ -200,12 +205,17 @@
   </programme>
   <programme channel="62" start="20211027183000 +0000" stop="20211027190000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE. England play Bangladesh and Scotland against Namibia.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211027190000 +0000" stop="20211027224500 +0000">
+  <programme channel="62" start="20211027190000 +0000" stop="20211027221500 +0000">
     <title>ICC T20 WC: ENG v BAN (G)</title>
     <desc>Replay coverage of the ICC T20 World Cup match between England and Bangladesh at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211027221500 +0000" stop="20211027224500 +0000">
+    <title>T20 World Cup Wrap (G)</title>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE. England play Bangladesh and Scotland against Namibia.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211027224500 +0000" stop="20211028023000 +0000">
@@ -260,7 +270,7 @@
   </programme>
   <programme channel="62" start="20211028093000 +0000" stop="20211028100000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE. England play Bangladesh and Scotland against Namibia.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211028100000 +0000" stop="20211028110000 +0000">
@@ -276,25 +286,20 @@
     <desc>Highlights from Day 2 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="63" start="20211027120000 +0000" stop="20211027200000 +0000">
+  <programme channel="63" start="20211027120000 +0000" stop="20211027202000 +0000">
     <title>LIVE: Erste Bank Open: Day 3 (G)</title>
     <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action from Day 3 as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="63" start="20211027200000 +0000" stop="20211027230000 +0000">
+  <programme channel="63" start="20211027202000 +0000" stop="20211027231500 +0000">
     <title>WBBL: ST v MR (G)</title>
     <desc>Replay coverage of the Women's Big Bash League match between the Sydney Thunder and Melbourne Renegades at the University of Tasmania Stadium, Launceston.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="63" start="20211027230000 +0000" stop="20211028020000 +0000">
+  <programme channel="63" start="20211027231500 +0000" stop="20211028023000 +0000">
     <title>WBBL: HH v MS (G)</title>
     <desc>Replay coverage of the Women's Big Bash League match between the Hobart Hurricanes and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
     <category>Cricket</category>
-  </programme>
-  <programme channel="63" start="20211028020000 +0000" stop="20211028023000 +0000">
-    <title>2016 Jillaroos v Kiwi Ferns Hls (G)</title>
-    <desc>We bring you highlights of this Women's International from 2016 as Australia's Jillaroos hosted New Zealand's Kiwi Ferns at Hunter Stadium in Newcastle, NSW.</desc>
-    <category>League</category>
   </programme>
   <programme channel="63" start="20211028023000 +0000" stop="20211028030000 +0000">
     <title>NRL Nines: 2014: Day 1 Hls (G)</title>
@@ -924,15 +929,10 @@
     <desc>Highlights of the All Blacks clash with the USA from Washington DC.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="88" start="20211027184000 +0000" stop="20211027204500 +0000">
+  <programme channel="88" start="20211027184000 +0000" stop="20211027210000 +0000">
     <title>LIVE Carabao Cup: Leicester v BHA (G)</title>
     <desc>LIVE Carabao Cup Fourth Round: Leicester City vs Brighton from the King Power Stadium.</desc>
     <category>Sports</category>
-  </programme>
-  <programme channel="88" start="20211027204500 +0000" stop="20211027210000 +0000">
-    <title>Bunnings NPC Mini: TAR v MAN (G)</title>
-    <desc>Bunnings NPC 2021: Taranaki host Manawatu at the TET Stadium in Inglewood.</desc>
-    <category>Rugby</category>
   </programme>
   <programme channel="88" start="20211027210000 +0000" stop="20211027213000 +0000">
     <title>T20 World Cup Wrap (G)</title>
@@ -4823,25 +4823,25 @@
     <desc>British Fast5 All-Stars Championship Replay</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211030233000 +0000" stop="20211031004500 +0000">
-    <title>LIVE: NZ Squash Classic Women's Final (G)</title>
-    <desc>LIVE: NZ Squash Classic Women's final 2021 held at Fraser Park Sportsville, Hutt City Squash Club.</desc>
-    <category>Sports</category>
+  <programme channel="87" start="20211030233000 +0000" stop="20211031003000 +0000">
+    <title>UFC 267 Weigh-In (M)</title>
+    <desc>Join us for the ceremonial weigh-ins leading up to the big event. UFC 267, LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <category>Fight Sport</category>
   </programme>
-  <programme channel="87" start="20211031004500 +0000" stop="20211031023000 +0000">
-    <title>LIVE: NZ Squash Classic Mens's Final (G)</title>
-    <desc>LIVE: NZ Squash Classic Mens's final 2021 held at Fraser Park Sportsville, Hutt City Squash Club.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme channel="87" start="20211031023000 +0000" stop="20211031030000 +0000">
+  <programme channel="87" start="20211031003000 +0000" stop="20211031010000 +0000">
     <title>Outdoor Sports Show (G)</title>
     <desc>XTERRA. Short Track is a short race concept for elite athletes and to qualify to compete they must achieve a good result in either a full distance event or in a preliminary short track race. We travel to Germany and to the majestic Zittau.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211031030000 +0000" stop="20211031033000 +0000">
+  <programme channel="87" start="20211031010000 +0000" stop="20211031013000 +0000">
     <title>Sailing To Tokyo (G)</title>
     <desc>In this episode, we will watch how nicely the road to Paris Olympics 2024 began for the iQFOiL windsurfing class, and travel to Switzerland for the 2021 Vanora ENGADINWIND by Dakine and the first ever World Championship for the class in Lake Silvaplana.</desc>
     <category>Watersports</category>
+  </programme>
+  <programme channel="87" start="20211031013000 +0000" stop="20211031033000 +0000">
+    <title>FINA Swimming World Cup (G)</title>
+    <desc>Sky Sport is proud to bring you the final leg of the FINA Swimming World Cup 2021 from Kazan, Russia. Join us for replay coverage of Day 2.</desc>
+    <category>Athletics</category>
   </programme>
   <programme channel="87" start="20211031033000 +0000" stop="20211031053000 +0000">
     <title>FINA Swimming World Cup (G)</title>
@@ -4911,15 +4911,10 @@
     <desc>Replay of international rugby as Tonga visit Murrayfield to take on Scotland.</desc>
     <category>Rugby</category>
   </programme>
-  <programme channel="88" start="20211031020000 +0000" stop="20211031033000 +0000">
-    <title>Erste Bank Open: SF1 (G)</title>
-    <desc>Semi-Final 1 from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
-  </programme>
-  <programme channel="88" start="20211031033000 +0000" stop="20211031050000 +0000">
-    <title>Erste Bank Open: SF2 (G)</title>
-    <desc>Semi-Final 2 from Day 6 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
-    <category>Tennis</category>
+  <programme channel="88" start="20211031020000 +0000" stop="20211031050000 +0000">
+    <title>LIVE: PBC Boxing: James v Butaev (M)</title>
+    <desc>WBA Welterweight Champion Jamal “Shango” James (27, 1) will defend his title against unbeaten contender Radzhab Butaev (13, 0) in a 12-round duel that headlines a night of action.</desc>
+    <category>Fight Sport</category>
   </programme>
   <programme channel="88" start="20211031050000 +0000" stop="20211031060000 +0000">
     <title>LIVE: Fox Sports News (G)</title>
@@ -5932,19 +5927,19 @@
     <desc>Six World Title Fights with Six Million Dollars on the Line. Kayla Harrison and Taylor Guardado headline the PFL World Championship Main Card plus Olympic Gold Medallist boxer Claressa Shields returns to the SmartCage against Abigail Montes.</desc>
     <category>Fight Sport</category>
   </programme>
-  <programme channel="87" start="20211031135500 +0000" stop="20211031160000 +0000">
-    <title>LIVE: Gallagher Premiership: HAR v SAR (G)</title>
-    <desc>LIVE coverage of the Gallagher Premiership season as Harlequins host Saracens at Twickenham Stoop, London.</desc>
-    <category>Rugby</category>
-  </programme>
-  <programme channel="87" start="20211031160000 +0000" stop="20211031163000 +0000">
+  <programme channel="87" start="20211031135500 +0000" stop="20211031142500 +0000">
     <title>Hellas Rally Raid (G)</title>
     <desc>Tune into episode 1 documentary of Hellas Rally Raid 2021.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="87" start="20211031163000 +0000" stop="20211031170000 +0000">
+  <programme channel="87" start="20211031142500 +0000" stop="20211031145500 +0000">
     <title>Rugby Nation (G)</title>
     <desc>Join your host Karl Te Nana for the best highlights from the weekend’s rugby.</desc>
+    <category>Rugby</category>
+  </programme>
+  <programme channel="87" start="20211031145500 +0000" stop="20211031170000 +0000">
+    <title>LIVE: Gallagher Premiership: HAR v SAR (G)</title>
+    <desc>LIVE coverage of the Gallagher Premiership season as Harlequins host Saracens at Twickenham Stoop, London.</desc>
     <category>Rugby</category>
   </programme>
   <programme channel="87" start="20211031170000 +0000" stop="20211031210000 +0000">

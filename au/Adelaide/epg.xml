@@ -499,15 +499,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -44523,25 +44523,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211028061723 +0000" stop="20211028071535 +0000">
-    <title>The Other Side of Fear</title>
-    <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <sub-title>How Mark Mathews came back from the brink</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028071535 +0000" stop="20211028080503 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028080503 +0000" stop="20211028084908 +0000">
-    <title>Red Bull Signature Series S2020E6</title>
-    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
-    <sub-title>Red Bull Drift Masters</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211028084908 +0000" stop="20211028085732 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211028085732 +0000" stop="20211028102157 +0000">
     <title>One Extraordinary Year</title>
     <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
@@ -44759,6 +44740,20 @@
     <title>The Other Side of Fear</title>
     <desc>The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
     <sub-title>How Mark Mathews came back from the brink</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029073643 +0000" stop="20211029082047 +0000">
+    <title>Red Bull Signature Series S2020E6</title>
+    <desc>Strap in for some full-throttle action as we look back on the world's most infamous drifting event.</desc>
+    <sub-title>Red Bull Drift Masters</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029082047 +0000" stop="20211029100001 +0000">
+    <title>Valley Uprising</title>
+    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <sub-title>Pushing the limits of climbing</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029100001 +0000" stop="20211029102056 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

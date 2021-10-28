@@ -12167,16 +12167,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029021100 +0000">
-    <title>Death in Paradise</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029015500 +0000">
     <title>Days of Our Lives</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029021100 +0000">
+    <title>Death in Paradise</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211029015500 +0000" stop="20211029024800 +0000">
@@ -43900,11 +43900,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211028160829 +0000" stop="20211028162958 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211028162958 +0000" stop="20211028173625 +0000">
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
@@ -44137,6 +44132,16 @@
     <title>Kriss Kyle: Out of Season</title>
     <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
     <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029174627 +0000" stop="20211029180159 +0000">
+    <title>Levels S2E1</title>
+    <desc>Take a peek behind the scenes of Ubisoft's latest extreme sports thriller, Riders Republic.</desc>
+    <sub-title>How they made Riders Republic</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029180159 +0000" stop="20211029182514 +0000">
+    <title>Get to know the world of street dance</title>
+    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
+    <sub-title>The evolution of the unique dance style</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

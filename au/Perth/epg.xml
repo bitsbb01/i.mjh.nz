@@ -237,15 +237,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1411,15 +1411,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44429,11 +44429,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211028160829 +0000" stop="20211028162958 +0000">
-    <title>Fast Life S4E2</title>
-    <desc>With the 2020 season consisting of very few races, the pressure to peak at the right time is immense.</desc>
-    <sub-title>Now or never</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211028162958 +0000" stop="20211028173625 +0000">
     <title>Red Bull Signature Series S2020E2</title>
     <desc>For snowboarders, the Burton US Open is the contest that matters most.</desc>
@@ -44666,6 +44661,16 @@
     <title>Kriss Kyle: Out of Season</title>
     <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
     <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029174627 +0000" stop="20211029180159 +0000">
+    <title>Levels S2E1</title>
+    <desc>Take a peek behind the scenes of Ubisoft's latest extreme sports thriller, Riders Republic.</desc>
+    <sub-title>How they made Riders Republic</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029180159 +0000" stop="20211029182514 +0000">
+    <title>Get to know the world of street dance</title>
+    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
+    <sub-title>The evolution of the unique dance style</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

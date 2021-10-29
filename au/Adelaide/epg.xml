@@ -287,15 +287,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1461,15 +1461,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -21343,14 +21343,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
-    <title>To Be Advised</title>
-  </programme>
   <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102045800 +0000">
     <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
+    <title>To Be Advised</title>
   </programme>
   <programme channel="tv.101305050555" start="20211102045800 +0000" stop="20211102052700 +0000">
     <title>How I Met Your Mother</title>
@@ -44391,6 +44391,16 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211028194421 +0000" stop="20211028203621 +0000">
+    <title>Crankworx World Tour 2021</title>
+    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
+    <sub-title>Highlights from British Columbia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211028203621 +0000" stop="20211028211944 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211028211944 +0000" stop="20211028215853 +0000">
     <title>RISS</title>
     <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
@@ -44623,16 +44633,6 @@
     <title>Peaking S1E13</title>
     <desc>Ian Walsh and friends travel to Miyazaki, Japan chasing a typhoon swell to the legendary break Curren's Point.</desc>
     <sub-title>Ian Walsh</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029212840 +0000" stop="20211029215801 +0000">
-    <title>Peaking S1E12</title>
-    <desc>Surfer Peter Mel prepares to try to defend his title in the days leading up to the Mavericks Invitational.</desc>
-    <sub-title>Peter Mel</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029215801 +0000" stop="20211029230841 +0000">
-    <title>Red Bull Big Wave Awards 2021</title>
-    <desc>Watch the show live on October 29, and discover in real-time who delivered the wildest rides this year.</desc>
-    <sub-title>Live show</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

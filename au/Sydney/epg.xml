@@ -294,15 +294,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1468,15 +1468,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -43908,6 +43908,11 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211028211944 +0000" stop="20211028215853 +0000">
+    <title>RISS</title>
+    <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
+    <sub-title>A film about more love with Carissa Kainani Moore</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211028215853 +0000" stop="20211028234214 +0000">
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
@@ -44145,24 +44150,6 @@
     <title>Red Bull Big Wave Awards 2021</title>
     <desc>Watch the show live on October 29, and discover in real-time who delivered the wildest rides this year.</desc>
     <sub-title>Live show</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029230841 +0000" stop="20211029231059 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029231059 +0000" stop="20211029231318 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029231318 +0000" stop="20211029232027 +0000">
-    <title>Surf Sessions S11E1</title>
-    <desc>Conor Maguire and fellow surfers in Ireland share memories of swells at Riley's on the coast of County Clare.</desc>
-    <sub-title>Memories of Riley's</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029232027 +0000" stop="20211029232832 +0000">
-    <title>Made In S4E2</title>
-    <desc>Irish surfers know the risks involved in heavy-wave surfing, but they absolutely love going out together.</desc>
-    <sub-title>Nutjobs</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

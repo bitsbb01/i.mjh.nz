@@ -1235,15 +1235,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -21145,15 +21145,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102045800 +0000">
-    <title>How I Met Your Mother</title>
+  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
+    <title>Big Brother VIP</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
-    <title>Big Brother VIP</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102045800 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44359,21 +44359,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029122910 +0000" stop="20211029125209 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029125209 +0000" stop="20211029130644 +0000">
-    <title>Behind the Bullet S1E1</title>
-    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
-    <sub-title>Ready for a comeback in 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029130644 +0000" stop="20211029131712 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029131712 +0000" stop="20211029140055 +0000">
     <title>Red Bull Soapbox Race S7E1</title>
     <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -44688,6 +44673,20 @@
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
     <sub-title>Remy Morton: Seven Days and $7K</sub-title>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211030134801 +0000" stop="20211030140924 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030140924 +0000" stop="20211030141718 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030141718 +0000" stop="20211030144702 +0000">
+    <title>Human Pinball</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
+  </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
     <display-name>16 Al Jazeera</display-name>
@@ -44695,1454 +44694,6 @@
     <lcn>16</lcn>
     <icon src="https://i.mjh.nz/.images/tv.46.png"/>
   </channel>
-  <programme start="20211028100000 +0000" stop="20211028110000 +0000" channel="tv.46">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>In-depth global news is presented.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532679</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ffc5a6fe-e853-41c8-9962-40aaf7042414</episode-num>
-    <episode-num system="original-air-date">2021-10-28 23:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20211028110000 +0000" stop="20211028113000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532680</episode-num>
-    <episode-num system="freeviewnz.tv">episode/cf297876-d42b-4863-b56e-09187e6a1a72</episode-num>
-    <episode-num system="original-air-date">2021-10-29 00:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028113000 +0000" stop="20211028120000 +0000" channel="tv.46">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <credits>
-      <actor>Charles Barkley</actor>
-      <actor>Ernie Johnson</actor>
-      <actor>Shaquille O'Neal</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <category>Sport</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416089</episode-num>
-    <episode-num system="freeviewnz.tv">episode/852050de-f9d7-456e-ab13-2bf8a0cd4306</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2021-10-28 06:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="imdb.com">title/tt14182328</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <star-rating system="imdb.com">
-      <value>9/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20211028120000 +0000" stop="20211028130000 +0000" channel="tv.46">
-    <title>Witness</title>
-    <sub-title>Radio Silence</sub-title>
-    <desc>Carmen Aristegui is a well-known Mexican journalist who refuses to be intimidated by powerful and corrupt forces.</desc>
-    <credits>
-      <actor>Derek Redmond</actor>
-      <actor>Jim Redmond</actor>
-      <actor>Izidor Ruckel</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://image.tmdb.org/t/p/original/15OhthfCEbCBSjcWAGykyxM2vYM.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">46488856</episode-num>
-    <episode-num system="freeviewnz.tv">episode/fdfbe0ff-f78d-48bc-8a6c-fcaae0a9507a</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2021-10-28 09:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2750</episode-num>
-    <episode-num system="imdb.com">title/tt5616618</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Silent Witness is a British crime thriller series focusing on a team of forensic pathology experts and their investigations into various crimes.</series-desc>
-  </programme>
-  <programme start="20211028130000 +0000" stop="20211028140000 +0000" channel="tv.46">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>In-depth global news is presented.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532683</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ccf78aae-3182-4fcb-aecf-c1fc88d1d9ea</episode-num>
-    <episode-num system="original-air-date">2021-10-29 02:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20211028140000 +0000" stop="20211028143000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532684</episode-num>
-    <episode-num system="freeviewnz.tv">episode/c2f1690e-b2c8-4e35-a444-61080354bb17</episode-num>
-    <episode-num system="original-air-date">2021-10-29 03:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028143000 +0000" stop="20211028150000 +0000" channel="tv.46">
-    <title>The Stream</title>
-    <sub-title>The Stream</sub-title>
-    <desc>The Stream is where Al Jazeera's audience becomes a global community. Viewers join us live on YouTube and Twitter to interact with Femi Oke and guests.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/5c2f07c918a3b.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416090</episode-num>
-    <episode-num system="freeviewnz.tv">episode/3e6bb780-3da2-4be4-8da2-81ac6b31469a</episode-num>
-    <episode-num system="dd_seriesid">19302971</episode-num>
-    <episode-num system="freeviewnz.tv">season/cdb79035-0bd1-4201-9d60-3cf6a98a59ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/dda3df77-4170-4805-bb5f-00ddb86a379e</episode-num>
-    <episode-num system="original-air-date">2021-10-28 08:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/39162</episode-num>
-    <episode-num system="thetvdb.com">series/280050</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The Stream is a daily television programme on Al Jazeera English. It is branded as a “Web community With a Global TV show”. On television and online The Stream taps into the extraordinary potential of social media to disseminate news. The Stream is an aggregator of online sources and discussion, seeking out unheard voices, new perspectives from people on the ground and untold angles related to the most compelling stories of the day.
-
-Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher replaced them as the new presenter. On June 25, 2012, the Stream was relaunched with a new studio and opening graphics. Femi Oke replaced Fletcher when Fletcher was picked to host a version of The Stream on Al Jazeera America.</series-desc>
-  </programme>
-  <programme start="20211028150000 +0000" stop="20211028160000 +0000" channel="tv.46">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>In-depth global news is presented.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532686</episode-num>
-    <episode-num system="freeviewnz.tv">episode/d3e930d4-5fb1-4977-b9c9-219668ef9a4a</episode-num>
-    <episode-num system="original-air-date">2021-10-29 04:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20211028160000 +0000" stop="20211028163000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532687</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4e5d2d00-9ed4-48b8-8927-fb4b37d0159f</episode-num>
-    <episode-num system="original-air-date">2021-10-29 05:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028163000 +0000" stop="20211028170000 +0000" channel="tv.46">
-    <title>Planet SOS</title>
-    <sub-title>Frontline Europe</sub-title>
-    <desc>Our team travels across Europe from fire-devastated Evia in Greece, to the plundered forests of the Carpathian Mountains and the coalfields of Poland.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Education, Science</category>
-    <category>Nature, Animals, Environment</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/planet-sos.png"/>
-    <episode-num system="dd_progid">46545149</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0a50afb8-f42c-482d-9f85-672f5b94ef4b</episode-num>
-    <episode-num system="dd_seriesid">38810865</episode-num>
-    <episode-num system="freeviewnz.tv">season/94b870a6-673b-4ef6-8f24-7302ef3a1149</episode-num>
-    <episode-num system="freeviewnz.tv">show/13e14e04-3737-476e-ba64-f47a5f702a00</episode-num>
-    <episode-num system="original-air-date">2021-10-26 00:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20211028170000 +0000" stop="20211028173000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532689</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7a4920a7-0bc1-4bf8-851f-6434c060a669</episode-num>
-    <episode-num system="original-air-date">2021-10-29 06:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028173000 +0000" stop="20211028180000 +0000" channel="tv.46">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <credits>
-      <actor>Charles Barkley</actor>
-      <actor>Ernie Johnson</actor>
-      <actor>Shaquille O'Neal</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <category>Sport</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416091</episode-num>
-    <episode-num system="freeviewnz.tv">episode/776ba2ed-1f23-4665-9aaf-373e9ac8f657</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2021-10-29 13:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="imdb.com">title/tt14182328</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <star-rating system="imdb.com">
-      <value>9/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20211028180000 +0000" stop="20211028190000 +0000" channel="tv.46">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>In-depth global news is presented.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532691</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ac4d38fb-9a6d-4865-9b81-31c7cd424805</episode-num>
-    <episode-num system="original-air-date">2021-10-29 07:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20211028190000 +0000" stop="20211028193000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532692</episode-num>
-    <episode-num system="freeviewnz.tv">episode/8b68024f-833f-4917-b24c-aa7d7a29705b</episode-num>
-    <episode-num system="original-air-date">2021-10-29 08:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028193000 +0000" stop="20211028200000 +0000" channel="tv.46">
-    <title>The Stream</title>
-    <sub-title>The Stream</sub-title>
-    <desc>The Stream is where Al Jazeera's audience becomes a global community. Viewers join us live on YouTube and Twitter to interact with Femi Oke and guests.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/5c2f07c918a3b.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416092</episode-num>
-    <episode-num system="freeviewnz.tv">episode/21c2818f-9c75-416b-89a8-a7922fce1c9e</episode-num>
-    <episode-num system="dd_seriesid">19302971</episode-num>
-    <episode-num system="freeviewnz.tv">season/cdb79035-0bd1-4201-9d60-3cf6a98a59ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/dda3df77-4170-4805-bb5f-00ddb86a379e</episode-num>
-    <episode-num system="original-air-date">2021-10-29 17:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/39162</episode-num>
-    <episode-num system="thetvdb.com">series/280050</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The Stream is a daily television programme on Al Jazeera English. It is branded as a “Web community With a Global TV show”. On television and online The Stream taps into the extraordinary potential of social media to disseminate news. The Stream is an aggregator of online sources and discussion, seeking out unheard voices, new perspectives from people on the ground and untold angles related to the most compelling stories of the day.
-
-Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher replaced them as the new presenter. On June 25, 2012, the Stream was relaunched with a new studio and opening graphics. Femi Oke replaced Fletcher when Fletcher was picked to host a version of The Stream on Al Jazeera America.</series-desc>
-  </programme>
-  <programme start="20211028200000 +0000" stop="20211028210000 +0000" channel="tv.46">
-    <title>The Campaign Against The Climate</title>
-    <sub-title>The Campaign Against The Climate</sub-title>
-    <desc>The shocking exposure of the million dollar, 30-year climate change denial campaign that undermined science and cast doubt on the dangers of climate change.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Education, Science</category>
-    <category>Nature, Animals, Environment</category>
-    <keyword>event</keyword>
-    <icon src="https://nzxmltv.com/images/the-campaign-against-the-climate.png"/>
-    <episode-num system="dd_progid">44680864</episode-num>
-    <episode-num system="freeviewnz.tv">episode/14c3fbef-499a-41e6-b818-cbd8e5c8d8e6</episode-num>
-    <episode-num system="original-air-date">2021-04-17 08:00:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20211028210000 +0000" stop="20211028220000 +0000" channel="tv.46">
-    <title>Newshour</title>
-    <sub-title>Newshour</sub-title>
-    <desc>In-depth global news is presented.</desc>
-    <date>1975</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532695</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0333408b-8d3f-422f-aee3-ab650188d245</episode-num>
-    <episode-num system="original-air-date">2021-10-29 10:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/1655</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>6/10</value>
-    </star-rating>
-    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
-  </programme>
-  <programme start="20211028220000 +0000" stop="20211028223000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532696</episode-num>
-    <episode-num system="freeviewnz.tv">episode/d724dd65-e924-4f9b-8e47-dacdc45706cc</episode-num>
-    <episode-num system="original-air-date">2021-10-29 11:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028223000 +0000" stop="20211028230000 +0000" channel="tv.46">
-    <title>101 East</title>
-    <sub-title>South Korea: Dead On Arrival</sub-title>
-    <desc>101 East investigates the deadly price Korean delivery workers are paying for online shopping convenience.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/qmC6iTVqNuuASaQpTSJS0q2N7TO.jpg"/>
-    <country>Malaysia</country>
-    <episode-num system="dd_progid">46416093</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a10d91bb-f089-452b-b05e-73c4c463c4d2</episode-num>
-    <episode-num system="dd_seriesid">15085136</episode-num>
-    <episode-num system="freeviewnz.tv">season/dcd804af-d48a-49c1-b6d3-9038eb0fddf3</episode-num>
-    <episode-num system="freeviewnz.tv">show/f287db0e-eabf-4932-9b4e-384041361a16</episode-num>
-    <episode-num system="original-air-date">2021-10-29 11:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/42203</episode-num>
-    <episode-num system="thetvdb.com">series/251101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Bold, untold stories from across Asia and the Pacific. Al Jazeera's in-depth, weekly current affairs programme from the world's most populated region.</series-desc>
-  </programme>
-  <programme start="20211028230000 +0000" stop="20211028233000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532698</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e8168c52-2d5b-4325-8566-2e14849716f5</episode-num>
-    <episode-num system="original-air-date">2021-10-29 12:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211028233000 +0000" stop="20211029000000 +0000" channel="tv.46">
-    <title>Earthrise</title>
-    <sub-title>Feeding The Billions</sub-title>
-    <desc>Earthrise explores the sustainable alternative foods that that may be the cuisine of the future.</desc>
-    <date>2019</date>
-    <category>Documentary</category>
-    <category>Education, Science</category>
-    <category>Nature, Animals, Environment</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/4Pk6C7YJl1ffh3MwGFYr2cAPAvg.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">38089305</episode-num>
-    <episode-num system="freeviewnz.tv">episode/97eec28c-ed9b-4ab3-8018-5381a9f3f381</episode-num>
-    <episode-num system="xmltv_ns">2.12.0</episode-num>
-    <episode-num system="dd_seriesid">19757203</episode-num>
-    <episode-num system="freeviewnz.tv">season/6a5e4c6f-def0-4f49-8965-d8580358433d</episode-num>
-    <episode-num system="freeviewnz.tv">show/51ad4112-980b-4a98-a84b-6366b3145ec4</episode-num>
-    <episode-num system="original-air-date">2021-10-24 22:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/117682</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>8/10</value>
-    </star-rating>
-    <series-desc>While Megatron takes drastic measures to save the Decepticons, the Autobots fight to save all of Cybertron from both on the planet and aboard the Ark.</series-desc>
-  </programme>
-  <programme start="20211029000000 +0000" stop="20211029003000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532700</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e54e42da-e08c-4dcb-858b-27e2fd6a3be0</episode-num>
-    <episode-num system="original-air-date">2021-10-29 13:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029003000 +0000" stop="20211029010000 +0000" channel="tv.46">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <credits>
-      <actor>Charles Barkley</actor>
-      <actor>Ernie Johnson</actor>
-      <actor>Shaquille O'Neal</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <category>Sport</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416091</episode-num>
-    <episode-num system="freeviewnz.tv">episode/776ba2ed-1f23-4665-9aaf-373e9ac8f657</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2021-10-29 13:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="imdb.com">title/tt14182328</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <star-rating system="imdb.com">
-      <value>9/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20211029010000 +0000" stop="20211029020000 +0000" channel="tv.46">
-    <title>Witness</title>
-    <sub-title>Radio Silence</sub-title>
-    <desc>Carmen Aristegui is a well-known Mexican journalist who refuses to be intimidated by powerful and corrupt forces.</desc>
-    <credits>
-      <actor>Derek Redmond</actor>
-      <actor>Jim Redmond</actor>
-      <actor>Izidor Ruckel</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://image.tmdb.org/t/p/original/15OhthfCEbCBSjcWAGykyxM2vYM.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">46488856</episode-num>
-    <episode-num system="freeviewnz.tv">episode/fdfbe0ff-f78d-48bc-8a6c-fcaae0a9507a</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2021-10-28 09:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2750</episode-num>
-    <episode-num system="imdb.com">title/tt5616618</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Silent Witness is a British crime thriller series focusing on a team of forensic pathology experts and their investigations into various crimes.</series-desc>
-  </programme>
-  <programme start="20211029020000 +0000" stop="20211029023000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532703</episode-num>
-    <episode-num system="freeviewnz.tv">episode/afcb0f26-1de3-4bda-955e-d5c9e71dda55</episode-num>
-    <episode-num system="original-air-date">2021-10-29 15:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029023000 +0000" stop="20211029030000 +0000" channel="tv.46">
-    <title>Democracy Maybe</title>
-    <sub-title>Opposing Autocracy</sub-title>
-    <desc>A look at how autocratic leaders undermine democracy and increase their power. Media failings, the methods of tyrants and those willing to challenge power.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/democracy-maybe.png"/>
-    <episode-num system="dd_progid">46488852</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f429ed29-5aaf-4fd2-9110-1ea3ab6e50ba</episode-num>
-    <episode-num system="dd_seriesid">46332056</episode-num>
-    <episode-num system="freeviewnz.tv">season/f8ae9f25-fc36-446f-aa14-a181b897b8ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/8017718b-cc57-402f-a898-3c72ba650154</episode-num>
-    <episode-num system="original-air-date">2021-10-27 22:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20211029030000 +0000" stop="20211029033000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532705</episode-num>
-    <episode-num system="freeviewnz.tv">episode/f8369707-cf9c-49aa-b3c2-735772766ff1</episode-num>
-    <episode-num system="original-air-date">2021-10-29 16:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029033000 +0000" stop="20211029040000 +0000" channel="tv.46">
-    <title>Fault Lines</title>
-    <sub-title>Exit Honduras: A Climate in Crisis</sub-title>
-    <desc>Fault Lines looks at how climate change is upending lives and driving migration in Honduras.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/314574-1.jpg"/>
-    <episode-num system="dd_progid">46488857</episode-num>
-    <episode-num system="freeviewnz.tv">episode/7e3feca0-f3dd-4cdf-ae09-d4e6cc7fd254</episode-num>
-    <episode-num system="dd_seriesid">22552425</episode-num>
-    <episode-num system="freeviewnz.tv">season/213e6295-8cbe-4dd2-9c78-ac80689de33e</episode-num>
-    <episode-num system="freeviewnz.tv">show/6a43e960-7c73-415e-96bf-7f5de7cca394</episode-num>
-    <episode-num system="original-air-date">2021-10-28 11:30:00</episode-num>
-    <episode-num system="thetvdb.com">series/314574</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>Fault Lines, a documentary series produced and broadcast by Al Jazeera English, is the former's flagship program about the Americas and the latter's main investigative program. Josh Rushing, Zeina Awad, and Sebastian Walker host the series.</series-desc>
-  </programme>
-  <programme start="20211029040000 +0000" stop="20211029043000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532707</episode-num>
-    <episode-num system="freeviewnz.tv">episode/5c7229cd-de48-40a7-b45d-7750eccf3506</episode-num>
-    <episode-num system="original-air-date">2021-10-29 17:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029043000 +0000" stop="20211029050000 +0000" channel="tv.46">
-    <title>The Stream</title>
-    <sub-title>The Stream</sub-title>
-    <desc>The Stream is where Al Jazeera's audience becomes a global community. Viewers join us live on YouTube and Twitter to interact with Femi Oke and guests.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/5c2f07c918a3b.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416092</episode-num>
-    <episode-num system="freeviewnz.tv">episode/21c2818f-9c75-416b-89a8-a7922fce1c9e</episode-num>
-    <episode-num system="dd_seriesid">19302971</episode-num>
-    <episode-num system="freeviewnz.tv">season/cdb79035-0bd1-4201-9d60-3cf6a98a59ae</episode-num>
-    <episode-num system="freeviewnz.tv">show/dda3df77-4170-4805-bb5f-00ddb86a379e</episode-num>
-    <episode-num system="original-air-date">2021-10-29 17:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/39162</episode-num>
-    <episode-num system="thetvdb.com">series/280050</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <series-desc>The Stream is a daily television programme on Al Jazeera English. It is branded as a “Web community With a Global TV show”. On television and online The Stream taps into the extraordinary potential of social media to disseminate news. The Stream is an aggregator of online sources and discussion, seeking out unheard voices, new perspectives from people on the ground and untold angles related to the most compelling stories of the day.
-
-Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher replaced them as the new presenter. On June 25, 2012, the Stream was relaunched with a new studio and opening graphics. Femi Oke replaced Fletcher when Fletcher was picked to host a version of The Stream on Al Jazeera America.</series-desc>
-  </programme>
-  <programme start="20211029050000 +0000" stop="20211029053000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532709</episode-num>
-    <episode-num system="freeviewnz.tv">episode/ec30feb9-63e6-4dbc-ac65-7ccb9a1e76a3</episode-num>
-    <episode-num system="original-air-date">2021-10-29 18:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029053000 +0000" stop="20211029060000 +0000" channel="tv.46">
-    <title>Witness</title>
-    <sub-title>At The Coalface</sub-title>
-    <desc>A Mongolian coal miner struggles to survive as a ban on the use of raw coal takes effect.</desc>
-    <credits>
-      <actor>Derek Redmond</actor>
-      <actor>Jim Redmond</actor>
-      <actor>Izidor Ruckel</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://image.tmdb.org/t/p/original/15OhthfCEbCBSjcWAGykyxM2vYM.jpg"/>
-    <country>United Kingdom</country>
-    <episode-num system="dd_progid">46488850</episode-num>
-    <episode-num system="freeviewnz.tv">episode/e9606c75-8be1-4ed2-b8ab-d71825322d74</episode-num>
-    <episode-num system="dd_seriesid">15473906</episode-num>
-    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
-    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
-    <episode-num system="original-air-date">2021-10-26 11:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2750</episode-num>
-    <episode-num system="imdb.com">title/tt5616618</episode-num>
-    <episode-num system="thetvdb.com">series/261794</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Silent Witness is a British crime thriller series focusing on a team of forensic pathology experts and their investigations into various crimes.</series-desc>
-  </programme>
-  <programme start="20211029060000 +0000" stop="20211029070000 +0000" channel="tv.46">
-    <title>Al Jazeera World</title>
-    <sub-title>Senegal's Pink Lake</sub-title>
-    <desc>A pink lake in Senegal attracts tourists and underpins the local economy but beneath the surface lurk major environmental issues threatening its very existence.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Social, Political Issues, Economics</category>
-    <category>Social, Political Issues, Economics (general)</category>
-    <keyword>series</keyword>
-    <icon src="https://www.thetvdb.com/banners/posters/269057-1.jpg"/>
-    <episode-num system="dd_progid">46578161</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4ab56b02-1ff2-4b68-b302-df4fa6cd9be7</episode-num>
-    <episode-num system="xmltv_ns">12.200.0</episode-num>
-    <episode-num system="dd_seriesid">18902631</episode-num>
-    <episode-num system="freeviewnz.tv">season/70800b3b-9e2a-4fb3-801e-9d2f9a2e771f</episode-num>
-    <episode-num system="freeviewnz.tv">show/7eec8b14-c0b0-4461-b593-44fdb9b166a3</episode-num>
-    <episode-num system="original-air-date">2021-10-27 09:00:00</episode-num>
-    <episode-num system="thetvdb.com">series/269057</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <series-desc>A series of one-hour documentaries showcasing films from across the Al Jazeera Network. </series-desc>
-  </programme>
-  <programme start="20211029070000 +0000" stop="20211029073000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532712</episode-num>
-    <episode-num system="freeviewnz.tv">episode/85317cf0-d66c-4c66-88fc-5c47550cec61</episode-num>
-    <episode-num system="original-air-date">2021-10-29 20:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029073000 +0000" stop="20211029080000 +0000" channel="tv.46">
-    <title>Inside Story</title>
-    <sub-title>Inside Story</sub-title>
-    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
-    <credits>
-      <actor>Charles Barkley</actor>
-      <actor>Ernie Johnson</actor>
-      <actor>Shaquille O'Neal</actor>
-    </credits>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <category>Documentary</category>
-    <category>Sport</category>
-    <keyword>series</keyword>
-    <language>English</language>
-    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">46416091</episode-num>
-    <episode-num system="freeviewnz.tv">episode/776ba2ed-1f23-4665-9aaf-373e9ac8f657</episode-num>
-    <episode-num system="dd_seriesid">15241971</episode-num>
-    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
-    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
-    <episode-num system="original-air-date">2021-10-29 13:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/18977</episode-num>
-    <episode-num system="imdb.com">title/tt14182328</episode-num>
-    <episode-num system="thetvdb.com">series/72178</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>0/10</value>
-    </star-rating>
-    <star-rating system="imdb.com">
-      <value>9/10</value>
-    </star-rating>
-    <series-desc/>
-  </programme>
-  <programme start="20211029080000 +0000" stop="20211029083000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532714</episode-num>
-    <episode-num system="freeviewnz.tv">episode/4881215f-98b8-4489-a356-f07878944c99</episode-num>
-    <episode-num system="original-air-date">2021-10-29 21:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029083000 +0000" stop="20211029090000 +0000" channel="tv.46">
-    <title>Planet SOS</title>
-    <sub-title>Frontline Europe</sub-title>
-    <desc>Our team travels across Europe from fire-devastated Evia in Greece, to the plundered forests of the Carpathian Mountains and the coalfields of Poland.</desc>
-    <date>2021</date>
-    <category>Documentary</category>
-    <category>Education, Science</category>
-    <category>Nature, Animals, Environment</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/planet-sos.png"/>
-    <episode-num system="dd_progid">46545149</episode-num>
-    <episode-num system="freeviewnz.tv">episode/0a50afb8-f42c-482d-9f85-672f5b94ef4b</episode-num>
-    <episode-num system="dd_seriesid">38810865</episode-num>
-    <episode-num system="freeviewnz.tv">season/94b870a6-673b-4ef6-8f24-7302ef3a1149</episode-num>
-    <episode-num system="freeviewnz.tv">show/13e14e04-3737-476e-ba64-f47a5f702a00</episode-num>
-    <episode-num system="original-air-date">2021-10-26 00:30:00</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20211029090000 +0000" stop="20211029093000 +0000" channel="tv.46">
-    <title>News Live</title>
-    <sub-title>News Live</sub-title>
-    <desc>Get the latest news every evening about what is happening around the globe.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://nzxmltv.com/images/news-live.png"/>
-    <country>United States</country>
-    <episode-num system="dd_progid">1392532716</episode-num>
-    <episode-num system="freeviewnz.tv">episode/2fcd7369-2445-4dcb-82e3-98870f0cd6b0</episode-num>
-    <episode-num system="original-air-date">2021-10-29 22:00:00</episode-num>
-    <episode-num system="themoviedb.com">tv/2369</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>5/10</value>
-    </star-rating>
-    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
-    <live/>
-  </programme>
-  <programme start="20211029093000 +0000" stop="20211029100000 +0000" channel="tv.46">
-    <title>101 East</title>
-    <sub-title>South Korea: Dead On Arrival</sub-title>
-    <desc>101 East investigates the deadly price Korean delivery workers are paying for online shopping convenience.</desc>
-    <date>2021</date>
-    <category>News And Factual</category>
-    <category>News</category>
-    <category>News, Current Affairs</category>
-    <category>News Magazine</category>
-    <keyword>series</keyword>
-    <icon src="https://image.tmdb.org/t/p/original/qmC6iTVqNuuASaQpTSJS0q2N7TO.jpg"/>
-    <country>Malaysia</country>
-    <episode-num system="dd_progid">46416093</episode-num>
-    <episode-num system="freeviewnz.tv">episode/a10d91bb-f089-452b-b05e-73c4c463c4d2</episode-num>
-    <episode-num system="dd_seriesid">15085136</episode-num>
-    <episode-num system="freeviewnz.tv">season/dcd804af-d48a-49c1-b6d3-9038eb0fddf3</episode-num>
-    <episode-num system="freeviewnz.tv">show/f287db0e-eabf-4932-9b4e-384041361a16</episode-num>
-    <episode-num system="original-air-date">2021-10-29 11:30:00</episode-num>
-    <episode-num system="themoviedb.com">tv/42203</episode-num>
-    <episode-num system="thetvdb.com">series/251101</episode-num>
-    <video>
-      <present>yes</present>
-      <colour>yes</colour>
-      <aspect>16:9</aspect>
-      <quality>768x576</quality>
-    </video>
-    <audio>
-      <present>yes</present>
-      <stereo>stereo</stereo>
-    </audio>
-    <rating system="New Zealand">
-      <value>G</value>
-    </rating>
-    <star-rating system="themoviedb.org">
-      <value>7/10</value>
-    </star-rating>
-    <series-desc>Bold, untold stories from across Asia and the Pacific. Al Jazeera's in-depth, weekly current affairs programme from the world's most populated region.</series-desc>
-  </programme>
   <programme start="20211029100000 +0000" stop="20211029110000 +0000" channel="tv.46">
     <title>Newshour</title>
     <sub-title>Newshour</sub-title>
@@ -55499,7 +54050,7 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <icon src="https://image.tmdb.org/t/p/original/eLyWKoeZ1yCojIfnnQzCxvKmQSu.jpg"/>
     <episode-num system="dd_progid">46489240</episode-num>
     <episode-num system="freeviewnz.tv">episode/dbbc601f-8e44-40e9-9c31-66a220707dfc</episode-num>
-    <episode-num system="themoviedb.org">movie/779645</episode-num>
+    <episode-num system="themoviedb.com">movie/779645</episode-num>
     <video>
       <present>yes</present>
       <colour>yes</colour>
@@ -56404,6 +54955,1455 @@ Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher
     <episode-num system="dd_progid">1414583812</episode-num>
     <episode-num system="freeviewnz.tv">episode/4383084b-b25e-4d1a-9b37-7bf118a34e62</episode-num>
     <episode-num system="original-air-date">2021-11-05 23:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>6/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583813</episode-num>
+    <episode-num system="freeviewnz.tv">episode/f205284a-7260-45e8-9d66-72be84705838</episode-num>
+    <episode-num system="original-air-date">2021-11-06 00:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="tv.46">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <credits>
+      <actor>Charles Barkley</actor>
+      <actor>Ernie Johnson</actor>
+      <actor>Shaquille O'Neal</actor>
+    </credits>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>Documentary</category>
+    <category>Sport</category>
+    <keyword>series</keyword>
+    <language>English</language>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489238</episode-num>
+    <episode-num system="freeviewnz.tv">episode/2b576915-e0f7-40c7-99ea-70a9225561d4</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2021-11-05 20:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="imdb.com">title/tt14182328</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <star-rating system="imdb.com">
+      <value>9/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20211105120000 +0000" stop="20211105130000 +0000" channel="tv.46">
+    <title>The People vs Agent Orange</title>
+    <sub-title>The People vs Agent Orange</sub-title>
+    <desc>The Agent Orange disaster didn't end with the Vietnam War. Now two heroic women battle to hold manufacturers to account and end the use of its components today.</desc>
+    <date>2021</date>
+    <category>Other</category>
+    <category>Movie, Drama</category>
+    <category>Movie, Drama (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/eLyWKoeZ1yCojIfnnQzCxvKmQSu.jpg"/>
+    <episode-num system="dd_progid">46489240</episode-num>
+    <episode-num system="freeviewnz.tv">episode/dbbc601f-8e44-40e9-9c31-66a220707dfc</episode-num>
+    <episode-num system="themoviedb.com">movie/779645</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>7/10</value>
+    </star-rating>
+    <series-desc>The Agent Orange catastrophe did not end with the war in Vietnam. Today, all over the world, a primary component of that toxic herbicide controls weeds in farming, forestry, parks–even on children’s playgrounds. The chemical wreaks havoc on the human genome, causing deformed births and deadly cancers. After decades of struggle and tragic personal losses, two heroic women are leading a worldwide movement to end the plague and hold the manufacturers accountable. In France, Tran To Nga is suing the American chemical industry for poisoning her Vietnamese family. And in America, Carol Van Strum exposes the continuing use of toxic herbicides. Incriminating documents disappear. Activists and their children are threatened and die. A helicopter technician secretly films the contamination of reservoirs, while a massive industrial cover-up continues.</series-desc>
+  </programme>
+  <programme start="20211105130000 +0000" stop="20211105140000 +0000" channel="tv.46">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>In-depth global news is presented.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583816</episode-num>
+    <episode-num system="freeviewnz.tv">episode/fb30634b-4641-4bb3-b3e8-e036f792fe75</episode-num>
+    <episode-num system="original-air-date">2021-11-06 02:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>6/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583817</episode-num>
+    <episode-num system="freeviewnz.tv">episode/9b1a6205-d8aa-46a5-99ea-6f311c58e0de</episode-num>
+    <episode-num system="original-air-date">2021-11-06 03:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="tv.46">
+    <title>The Stream</title>
+    <sub-title>The Stream</sub-title>
+    <desc>The Stream is where Al Jazeera's audience becomes a global community. Viewers join us live on YouTube and Twitter to interact with Femi Oke and guests.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://www.thetvdb.com/banners/posters/5c2f07c918a3b.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489239</episode-num>
+    <episode-num system="freeviewnz.tv">episode/796631c0-29a4-43d3-9191-86ca4a4214de</episode-num>
+    <episode-num system="dd_seriesid">19302971</episode-num>
+    <episode-num system="freeviewnz.tv">season/cdb79035-0bd1-4201-9d60-3cf6a98a59ae</episode-num>
+    <episode-num system="freeviewnz.tv">show/dda3df77-4170-4805-bb5f-00ddb86a379e</episode-num>
+    <episode-num system="original-air-date">2021-11-05 17:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/39162</episode-num>
+    <episode-num system="thetvdb.com">series/280050</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>The Stream is a daily television programme on Al Jazeera English. It is branded as a “Web community With a Global TV show”. On television and online The Stream taps into the extraordinary potential of social media to disseminate news. The Stream is an aggregator of online sources and discussion, seeking out unheard voices, new perspectives from people on the ground and untold angles related to the most compelling stories of the day.
+
+Previously, the show was hosted by Derrick Ashong and Imran Garda. Lisa Fletcher replaced them as the new presenter. On June 25, 2012, the Stream was relaunched with a new studio and opening graphics. Femi Oke replaced Fletcher when Fletcher was picked to host a version of The Stream on Al Jazeera America.</series-desc>
+  </programme>
+  <programme start="20211105150000 +0000" stop="20211105160000 +0000" channel="tv.46">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>In-depth global news is presented.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583819</episode-num>
+    <episode-num system="freeviewnz.tv">episode/ee3e1739-fbbf-4152-bbe4-3dcf014cac27</episode-num>
+    <episode-num system="original-air-date">2021-11-06 04:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>6/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583820</episode-num>
+    <episode-num system="freeviewnz.tv">episode/edf417b0-65c2-4400-ae85-85ce3a492e6d</episode-num>
+    <episode-num system="original-air-date">2021-11-06 05:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="tv.46">
+    <title>Democracy Maybe</title>
+    <sub-title>My Life For Democracy</sub-title>
+    <desc>Dying for democracy - young activists in Myanmar and Thailand risk their lives and face imprisonment in their fight for freedom and representation.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Social, Political Issues, Economics (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/democracy-maybe.png"/>
+    <episode-num system="dd_progid">46489176</episode-num>
+    <episode-num system="freeviewnz.tv">episode/14433b81-dfda-4d3b-8806-416243127193</episode-num>
+    <episode-num system="dd_seriesid">46332056</episode-num>
+    <episode-num system="freeviewnz.tv">season/f8ae9f25-fc36-446f-aa14-a181b897b8ae</episode-num>
+    <episode-num system="freeviewnz.tv">show/8017718b-cc57-402f-a898-3c72ba650154</episode-num>
+    <episode-num system="original-air-date">2021-11-03 11:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583823</episode-num>
+    <episode-num system="freeviewnz.tv">episode/8b3b05ca-0cfc-4bda-8e62-88254d8cb7f7</episode-num>
+    <episode-num system="original-air-date">2021-11-06 06:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="tv.46">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <credits>
+      <actor>Charles Barkley</actor>
+      <actor>Ernie Johnson</actor>
+      <actor>Shaquille O'Neal</actor>
+    </credits>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>Documentary</category>
+    <category>Sport</category>
+    <keyword>series</keyword>
+    <language>English</language>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489241</episode-num>
+    <episode-num system="freeviewnz.tv">episode/28f8d216-6846-488b-a670-ef14b56ce3e8</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2021-11-06 06:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="imdb.com">title/tt14182328</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <star-rating system="imdb.com">
+      <value>9/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="tv.46">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>In-depth global news is presented.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583825</episode-num>
+    <episode-num system="freeviewnz.tv">episode/d3268128-205e-45f2-882f-b1bdb863f182</episode-num>
+    <episode-num system="original-air-date">2021-11-06 07:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>6/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20211105190000 +0000" stop="20211105193000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583826</episode-num>
+    <episode-num system="freeviewnz.tv">episode/21c91e67-6856-4e44-af4a-d8efd740b53a</episode-num>
+    <episode-num system="original-air-date">2021-11-06 08:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="tv.46">
+    <title>UpFront</title>
+    <sub-title>UpFront</sub-title>
+    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Social, Political Issues, Economics (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://www.thetvdb.com/banners/posters/306815-1.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489242</episode-num>
+    <episode-num system="freeviewnz.tv">episode/710e918f-b5bf-4069-a4a7-f10327d42b31</episode-num>
+    <episode-num system="dd_seriesid">27700925</episode-num>
+    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
+    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
+    <episode-num system="original-air-date">2021-11-06 08:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/70246</episode-num>
+    <episode-num system="thetvdb.com">series/306815</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
+  </programme>
+  <programme start="20211105200000 +0000" stop="20211105203000 +0000" channel="tv.46">
+    <title>The Bottom Line</title>
+    <sub-title>The Bottom Line</sub-title>
+    <desc>Weekly discussion show on US politics and policies hosted by Steve Clemons.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="http://img-store-prod.switch.tv/images/4be78c2f-620b-4be6-a60f-1598538ff1a6/The_Bottom_Line_sh1_6_1571818933347_0.jpg" width="450" height="800"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489243</episode-num>
+    <episode-num system="freeviewnz.tv">episode/fc26b61d-3777-4112-b2dd-9f744191d4cb</episode-num>
+    <episode-num system="dd_seriesid">39152977</episode-num>
+    <episode-num system="freeviewnz.tv">season/43673052-b598-4f4b-9735-0a3c1a040556</episode-num>
+    <episode-num system="freeviewnz.tv">show/2cd33e07-87d0-43a1-af26-46e64e0ac898</episode-num>
+    <episode-num system="original-air-date">2021-11-06 09:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/36817</episode-num>
+    <episode-num system="thetvdb.com">series/227451</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="tv.46">
+    <title>The Big Picture: Britain's True Colours?</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>Through the prism of the pandemic experience, The Big Picture analyses the advent of structural racism and the impact of neoliberalism in Britain.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Magazines, Reports, Documentary</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/the-big-picture-britains-true-colours.png"/>
+    <episode-num system="dd_progid">46578163</episode-num>
+    <episode-num system="freeviewnz.tv">episode/ced8f2a6-778c-4226-82e7-d9b6e74a0cfd</episode-num>
+    <episode-num system="dd_seriesid">46578162</episode-num>
+    <episode-num system="freeviewnz.tv">season/e2db9867-493c-40be-92d8-122ac4e9643d</episode-num>
+    <episode-num system="freeviewnz.tv">show/393649f6-8671-4a03-ad5e-4cf81ac895b3</episode-num>
+    <episode-num system="original-air-date">2021-11-06 09:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211105210000 +0000" stop="20211105220000 +0000" channel="tv.46">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>In-depth global news is presented.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583830</episode-num>
+    <episode-num system="freeviewnz.tv">episode/c8d1767a-45a0-4295-9510-3b2244fbd94b</episode-num>
+    <episode-num system="original-air-date">2021-11-06 10:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/1655</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>6/10</value>
+    </star-rating>
+    <series-desc>America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.</series-desc>
+  </programme>
+  <programme start="20211105220000 +0000" stop="20211105223000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583831</episode-num>
+    <episode-num system="freeviewnz.tv">episode/bbdfbd82-6f30-4673-acd8-05607aca5e89</episode-num>
+    <episode-num system="original-air-date">2021-11-06 11:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105223000 +0000" stop="20211105230000 +0000" channel="tv.46">
+    <title>Counting the Cost</title>
+    <sub-title>Counting the Cost</sub-title>
+    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="http://img-store-prod.switch.tv/images/e848b45d-0f3c-48c5-8650-233c16f77554/15143844_SC_Counting%2520the%2520Cost_1.jpg" width="480" height="640"/>
+    <episode-num system="dd_progid">46489244</episode-num>
+    <episode-num system="freeviewnz.tv">episode/1c4cfab8-cdeb-40f1-aee3-a076c14bf080</episode-num>
+    <episode-num system="dd_seriesid">15143844</episode-num>
+    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
+    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
+    <episode-num system="original-air-date">2021-11-06 22:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211105230000 +0000" stop="20211105233000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583833</episode-num>
+    <episode-num system="freeviewnz.tv">episode/47417149-70d5-4b78-9626-a3ae1e3a4101</episode-num>
+    <episode-num system="original-air-date">2021-11-06 12:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211105233000 +0000" stop="20211106000000 +0000" channel="tv.46">
+    <title>Context India</title>
+    <sub-title>How Long Before India's Economy Recovers?</sub-title>
+    <desc>How much damage has the pandemic wrought on India's economy? Faye D'Souza analyses Covid's impact and discusses how India might recover economically.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Education, Science</category>
+    <category>Medicine, Physiology, Psychology</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/context-india.png"/>
+    <episode-num system="dd_progid">46416121</episode-num>
+    <episode-num system="freeviewnz.tv">episode/ba354ec0-e854-4a89-ad43-6a20e8d8ad60</episode-num>
+    <episode-num system="dd_seriesid">46332255</episode-num>
+    <episode-num system="freeviewnz.tv">season/310cb41c-03d2-428c-bf64-e31bd996daef</episode-num>
+    <episode-num system="freeviewnz.tv">show/00d14b0e-9d52-422d-926c-5fa0142a1318</episode-num>
+    <episode-num system="original-air-date">2021-11-01 11:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211106000000 +0000" stop="20211106003000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583835</episode-num>
+    <episode-num system="freeviewnz.tv">episode/24fa418d-ca2e-4ccf-ad65-27bf4389750a</episode-num>
+    <episode-num system="original-air-date">2021-11-06 13:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106003000 +0000" stop="20211106010000 +0000" channel="tv.46">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <credits>
+      <actor>Charles Barkley</actor>
+      <actor>Ernie Johnson</actor>
+      <actor>Shaquille O'Neal</actor>
+    </credits>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>Documentary</category>
+    <category>Sport</category>
+    <keyword>series</keyword>
+    <language>English</language>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489241</episode-num>
+    <episode-num system="freeviewnz.tv">episode/28f8d216-6846-488b-a670-ef14b56ce3e8</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2021-11-06 06:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="imdb.com">title/tt14182328</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <star-rating system="imdb.com">
+      <value>9/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20211106010000 +0000" stop="20211106020000 +0000" channel="tv.46">
+    <title>The People vs Agent Orange</title>
+    <sub-title>The People vs Agent Orange</sub-title>
+    <desc>The Agent Orange disaster didn't end with the Vietnam War. Now two heroic women battle to hold manufacturers to account and end the use of its components today.</desc>
+    <date>2021</date>
+    <category>Other</category>
+    <category>Movie, Drama</category>
+    <category>Movie, Drama (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/eLyWKoeZ1yCojIfnnQzCxvKmQSu.jpg"/>
+    <episode-num system="dd_progid">46489240</episode-num>
+    <episode-num system="freeviewnz.tv">episode/dbbc601f-8e44-40e9-9c31-66a220707dfc</episode-num>
+    <episode-num system="themoviedb.com">movie/779645</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>7/10</value>
+    </star-rating>
+    <series-desc>The Agent Orange catastrophe did not end with the war in Vietnam. Today, all over the world, a primary component of that toxic herbicide controls weeds in farming, forestry, parks–even on children’s playgrounds. The chemical wreaks havoc on the human genome, causing deformed births and deadly cancers. After decades of struggle and tragic personal losses, two heroic women are leading a worldwide movement to end the plague and hold the manufacturers accountable. In France, Tran To Nga is suing the American chemical industry for poisoning her Vietnamese family. And in America, Carol Van Strum exposes the continuing use of toxic herbicides. Incriminating documents disappear. Activists and their children are threatened and die. A helicopter technician secretly films the contamination of reservoirs, while a massive industrial cover-up continues.</series-desc>
+  </programme>
+  <programme start="20211106020000 +0000" stop="20211106023000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583838</episode-num>
+    <episode-num system="freeviewnz.tv">episode/09b49472-8096-46b0-be15-9e6b4c25a1ab</episode-num>
+    <episode-num system="original-air-date">2021-11-06 15:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106023000 +0000" stop="20211106030000 +0000" channel="tv.46">
+    <title>UpFront</title>
+    <sub-title>UpFront</sub-title>
+    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Social, Political Issues, Economics (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://www.thetvdb.com/banners/posters/306815-1.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489242</episode-num>
+    <episode-num system="freeviewnz.tv">episode/710e918f-b5bf-4069-a4a7-f10327d42b31</episode-num>
+    <episode-num system="dd_seriesid">27700925</episode-num>
+    <episode-num system="freeviewnz.tv">season/34dc9687-b675-4a33-96e1-7bd8ca27c0fc</episode-num>
+    <episode-num system="freeviewnz.tv">show/cc09789e-82e3-4d7c-92f5-9e7a6fc391bf</episode-num>
+    <episode-num system="original-air-date">2021-11-06 08:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/70246</episode-num>
+    <episode-num system="thetvdb.com">series/306815</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>With the thrust and parry of rigorous debate, Mehdi Hasan cuts through the headlines to challenge conventional wisdom, highlight contradictions and uncover double standards.</series-desc>
+  </programme>
+  <programme start="20211106030000 +0000" stop="20211106033000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583840</episode-num>
+    <episode-num system="freeviewnz.tv">episode/fed9ea31-4371-4ad7-9444-b0c488e3815f</episode-num>
+    <episode-num system="original-air-date">2021-11-06 16:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106033000 +0000" stop="20211106040000 +0000" channel="tv.46">
+    <title>101 East</title>
+    <sub-title>The Suburban Dream</sub-title>
+    <desc>101 East meets the heroes bringing hope to one of Australia's most troubled suburbs.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/qmC6iTVqNuuASaQpTSJS0q2N7TO.jpg"/>
+    <country>Malaysia</country>
+    <episode-num system="dd_progid">43744103</episode-num>
+    <episode-num system="freeviewnz.tv">episode/6b1c7388-344e-41fe-a24d-9049e8f8ed64</episode-num>
+    <episode-num system="dd_seriesid">15085136</episode-num>
+    <episode-num system="freeviewnz.tv">season/dcd804af-d48a-49c1-b6d3-9038eb0fddf3</episode-num>
+    <episode-num system="freeviewnz.tv">show/f287db0e-eabf-4932-9b4e-384041361a16</episode-num>
+    <episode-num system="original-air-date">2021-01-15 11:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/42203</episode-num>
+    <episode-num system="thetvdb.com">series/251101</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>7/10</value>
+    </star-rating>
+    <series-desc>Bold, untold stories from across Asia and the Pacific. Al Jazeera's in-depth, weekly current affairs programme from the world's most populated region.</series-desc>
+  </programme>
+  <programme start="20211106040000 +0000" stop="20211106043000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583842</episode-num>
+    <episode-num system="freeviewnz.tv">episode/ac2e2a88-52eb-4bfb-aeec-54a2b8be960f</episode-num>
+    <episode-num system="original-air-date">2021-11-06 17:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106043000 +0000" stop="20211106050000 +0000" channel="tv.46">
+    <title>Talk to Al Jazeera</title>
+    <sub-title>Talk to Al Jazeera</sub-title>
+    <desc>One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>Discussion, Interview, Debate</category>
+    <keyword>series</keyword>
+    <icon src="https://www.thetvdb.com/banners/posters/261793-1.jpg"/>
+    <episode-num system="dd_progid">46489320</episode-num>
+    <episode-num system="freeviewnz.tv">episode/e3d0a995-2de1-48f5-973c-092053cdccab</episode-num>
+    <episode-num system="xmltv_ns">1.174.0</episode-num>
+    <episode-num system="dd_seriesid">15422837</episode-num>
+    <episode-num system="freeviewnz.tv">season/3cac4093-082b-4796-b000-f892d22233e9</episode-num>
+    <episode-num system="freeviewnz.tv">show/c928a536-eb5e-4f0b-b2f6-5167ce60a286</episode-num>
+    <episode-num system="original-air-date">2021-11-06 17:30:00</episode-num>
+    <episode-num system="thetvdb.com">series/261793</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <series-desc>Al Jazeera’s flagship interview show. A weekly one-on-one conversation with global leaders, icons, influencers, and alternative voices shaping our times.
+
+We also interview the voiceless - individuals who by accident or choice find themselves in extraordinary events. On Talk to Al Jazeera - In the Field </series-desc>
+  </programme>
+  <programme start="20211106050000 +0000" stop="20211106053000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583844</episode-num>
+    <episode-num system="freeviewnz.tv">episode/456e6f06-a30c-4201-8bcc-b8e6dd1a9d89</episode-num>
+    <episode-num system="original-air-date">2021-11-06 18:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106053000 +0000" stop="20211106060000 +0000" channel="tv.46">
+    <title>Democracy Maybe</title>
+    <sub-title>My Life For Democracy</sub-title>
+    <desc>Dying for democracy - young activists in Myanmar and Thailand risk their lives and face imprisonment in their fight for freedom and representation.</desc>
+    <date>2021</date>
+    <category>Documentary</category>
+    <category>Social, Political Issues, Economics</category>
+    <category>Social, Political Issues, Economics (general)</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/democracy-maybe.png"/>
+    <episode-num system="dd_progid">46489176</episode-num>
+    <episode-num system="freeviewnz.tv">episode/14433b81-dfda-4d3b-8806-416243127193</episode-num>
+    <episode-num system="dd_seriesid">46332056</episode-num>
+    <episode-num system="freeviewnz.tv">season/f8ae9f25-fc36-446f-aa14-a181b897b8ae</episode-num>
+    <episode-num system="freeviewnz.tv">show/8017718b-cc57-402f-a898-3c72ba650154</episode-num>
+    <episode-num system="original-air-date">2021-11-03 11:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211106060000 +0000" stop="20211106070000 +0000" channel="tv.46">
+    <title>Witness</title>
+    <sub-title>Anote's Ark</sub-title>
+    <desc>The president of a sinking nation becomes a leading voice in global climate change diplomacy.</desc>
+    <credits>
+      <actor>Derek Redmond</actor>
+      <actor>Jim Redmond</actor>
+      <actor>Izidor Ruckel</actor>
+    </credits>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>Documentary</category>
+    <keyword>series</keyword>
+    <language>English</language>
+    <icon src="https://image.tmdb.org/t/p/original/15OhthfCEbCBSjcWAGykyxM2vYM.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="dd_progid">46489216</episode-num>
+    <episode-num system="freeviewnz.tv">episode/a4f8ac46-7b4f-45b0-a6d2-f4d04a82e400</episode-num>
+    <episode-num system="dd_seriesid">15473906</episode-num>
+    <episode-num system="freeviewnz.tv">season/3ddda0f9-250e-4ad1-9139-423c342c5222</episode-num>
+    <episode-num system="freeviewnz.tv">show/80c7a55a-5e3b-4bd9-bb90-59eb1601a8c9</episode-num>
+    <episode-num system="original-air-date">2021-11-04 09:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2750</episode-num>
+    <episode-num system="imdb.com">title/tt5616618</episode-num>
+    <episode-num system="thetvdb.com">series/261794</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>7/10</value>
+    </star-rating>
+    <series-desc>Silent Witness is a British crime thriller series focusing on a team of forensic pathology experts and their investigations into various crimes.</series-desc>
+  </programme>
+  <programme start="20211106070000 +0000" stop="20211106073000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583847</episode-num>
+    <episode-num system="freeviewnz.tv">episode/8b06daa9-c785-4ba2-9fcb-a3409108f319</episode-num>
+    <episode-num system="original-air-date">2021-11-06 20:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="tv.46">
+    <title>Inside Story</title>
+    <sub-title>Inside Story</sub-title>
+    <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <credits>
+      <actor>Charles Barkley</actor>
+      <actor>Ernie Johnson</actor>
+      <actor>Shaquille O'Neal</actor>
+    </credits>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <category>Documentary</category>
+    <category>Sport</category>
+    <keyword>series</keyword>
+    <language>English</language>
+    <icon src="https://m.media-amazon.com/images/M/MV5BM2M2MGU4NzUtODAxYy00ZTRjLWEyNjctNzg1NzZiN2I3M2JmXkEyXkFqcGdeQXVyNjU5ODEwOTU@._V1_SX300.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">46489241</episode-num>
+    <episode-num system="freeviewnz.tv">episode/28f8d216-6846-488b-a670-ef14b56ce3e8</episode-num>
+    <episode-num system="dd_seriesid">15241971</episode-num>
+    <episode-num system="freeviewnz.tv">season/1c13a2fd-8534-4d90-ac75-dcf6937b3085</episode-num>
+    <episode-num system="freeviewnz.tv">show/0df783ca-827e-4d47-970b-4ee1ce9ffa21</episode-num>
+    <episode-num system="original-air-date">2021-11-06 06:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/18977</episode-num>
+    <episode-num system="imdb.com">title/tt14182328</episode-num>
+    <episode-num system="thetvdb.com">series/72178</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <star-rating system="imdb.com">
+      <value>9/10</value>
+    </star-rating>
+    <series-desc/>
+  </programme>
+  <programme start="20211106080000 +0000" stop="20211106083000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583849</episode-num>
+    <episode-num system="freeviewnz.tv">episode/6a4ce61c-4ab3-4263-89ce-d0fa3a474bcd</episode-num>
+    <episode-num system="original-air-date">2021-11-06 21:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106083000 +0000" stop="20211106090000 +0000" channel="tv.46">
+    <title>The Listening Post</title>
+    <sub-title>The Listening Post</sub-title>
+    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://www.thetvdb.com/banners/posters/323423-1.jpg"/>
+    <country>United Kingdom</country>
+    <episode-num system="dd_progid">46489245</episode-num>
+    <episode-num system="freeviewnz.tv">episode/13dcce17-fd34-48bf-a167-1e59d3e2547c</episode-num>
+    <episode-num system="dd_seriesid">15298422</episode-num>
+    <episode-num system="freeviewnz.tv">season/3b1267e8-5b63-4bcf-b4b7-24ebc21b1fdb</episode-num>
+    <episode-num system="freeviewnz.tv">show/6f5b0ee6-7d9a-4a01-bf09-15ebef414301</episode-num>
+    <episode-num system="original-air-date">2021-11-06 21:30:00</episode-num>
+    <episode-num system="themoviedb.com">tv/69960</episode-num>
+    <episode-num system="thetvdb.com">series/323423</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>0/10</value>
+    </star-rating>
+    <series-desc>Listening Post is Al Jazeera English's weekly media review show. It casts a critical eye over not just what gets reported, but how it's reported - covering the coverage of the news &amp;amp; analyzing global events through the prism of the media.</series-desc>
+  </programme>
+  <programme start="20211106090000 +0000" stop="20211106093000 +0000" channel="tv.46">
+    <title>News Live</title>
+    <sub-title>News Live</sub-title>
+    <desc>Get the latest news every evening about what is happening around the globe.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://nzxmltv.com/images/news-live.png"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583851</episode-num>
+    <episode-num system="freeviewnz.tv">episode/fb560137-217c-44fa-814b-bde08892ffee</episode-num>
+    <episode-num system="original-air-date">2021-11-06 22:00:00</episode-num>
+    <episode-num system="themoviedb.com">tv/2369</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+    <star-rating system="themoviedb.org">
+      <value>5/10</value>
+    </star-rating>
+    <series-desc>Fox News Live is an American news/talk television program, the hard-news daytime programming of the Fox News Channel. In addition, it also referred to the short headline segments of nearly every hour daily.</series-desc>
+    <live/>
+  </programme>
+  <programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="tv.46">
+    <title>Counting the Cost</title>
+    <sub-title>Counting the Cost</sub-title>
+    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <date>2021</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="http://img-store-prod.switch.tv/images/e848b45d-0f3c-48c5-8650-233c16f77554/15143844_SC_Counting%2520the%2520Cost_1.jpg" width="480" height="640"/>
+    <episode-num system="dd_progid">46489244</episode-num>
+    <episode-num system="freeviewnz.tv">episode/1c4cfab8-cdeb-40f1-aee3-a076c14bf080</episode-num>
+    <episode-num system="dd_seriesid">15143844</episode-num>
+    <episode-num system="freeviewnz.tv">season/c8f499d0-d601-4454-b001-9bbf39b5e6a1</episode-num>
+    <episode-num system="freeviewnz.tv">show/7e0d1f88-d2d8-464a-8343-99e1eeb716f8</episode-num>
+    <episode-num system="original-air-date">2021-11-06 22:30:00</episode-num>
+    <video>
+      <present>yes</present>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+      <quality>768x576</quality>
+    </video>
+    <audio>
+      <present>yes</present>
+      <stereo>stereo</stereo>
+    </audio>
+    <rating system="New Zealand">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20211106100000 +0000" stop="20211106110000 +0000" channel="tv.46">
+    <title>Newshour</title>
+    <sub-title>Newshour</sub-title>
+    <desc>In-depth global news is presented.</desc>
+    <date>1975</date>
+    <category>News And Factual</category>
+    <category>News</category>
+    <category>News, Current Affairs</category>
+    <category>News Magazine</category>
+    <keyword>series</keyword>
+    <icon src="https://image.tmdb.org/t/p/original/rhd0rmg0dd4foBJJxiPzFKLon89.jpg"/>
+    <country>United States</country>
+    <episode-num system="dd_progid">1414583853</episode-num>
+    <episode-num system="freeviewnz.tv">episode/eea1e7ab-1fe4-433d-b052-7e84a8d9d8be</episode-num>
+    <episode-num system="original-air-date">2021-11-06 23:00:00</episode-num>
     <episode-num system="themoviedb.com">tv/1655</episode-num>
     <video>
       <present>yes</present>

@@ -1263,15 +1263,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44307,21 +44307,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029172117 +0000" stop="20211029174627 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029174627 +0000" stop="20211029180159 +0000">
-    <title>Levels S2E1</title>
-    <desc>Take a peek behind the scenes of Ubisoft's latest extreme sports thriller, Riders Republic.</desc>
-    <sub-title>How they made Riders Republic</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029180159 +0000" stop="20211029182514 +0000">
-    <title>Get to know the world of street dance</title>
-    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
-    <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029182514 +0000" stop="20211029191945 +0000">
     <title>Toby Price: Ridin’ Shotgun</title>
     <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
@@ -44547,9 +44532,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44619,6 +44604,11 @@
     <title>Red Bull Signature Series S2020E8</title>
     <desc>The world's best off-road drivers race on the longest, fastest short-course track at Crandon Raceway.</desc>
     <sub-title>Crandon World Cup</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030184203 +0000" stop="20211030195341 +0000">
+    <title>The LA Boys</title>
+    <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
+    <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

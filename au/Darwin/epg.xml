@@ -20747,16 +20747,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031092900 +0000">
-    <title>The Simpsons</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031100300 +0000">
     <title>The Voice USA</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031092900 +0000">
+    <title>The Simpsons</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20211031092900 +0000" stop="20211031100000 +0000">
@@ -44346,16 +44346,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029182514 +0000" stop="20211029191945 +0000">
-    <title>Toby Price: Ridin’ Shotgun</title>
-    <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <sub-title>Finke Desert Race 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029191945 +0000" stop="20211029192809 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029192809 +0000" stop="20211029200758 +0000">
     <title>RISS</title>
     <desc>From director Peter Hamblin, follow surfer Carissa Moore around the 2019 World Surf League Championship Tour.</desc>
@@ -44571,9 +44561,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44648,6 +44638,21 @@
     <title>The LA Boys</title>
     <desc>Find out how four minutes in the film Ban This changed the lives of four teenage skaters in Los Angeles.</desc>
     <sub-title>Stories from making 1989 skate hit Ban This</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030195341 +0000" stop="20211030200925 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E1</title>
+    <desc>Mani and Paul start the season in Portugal. See how they handled the first stop, which didn’t go as planned.</desc>
+    <sub-title>The path to Portugal</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030200925 +0000" stop="20211030202014 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E2</title>
+    <desc>Manuel Lettenbichler and Paul Bolton both get to go riding – Mani even takes on a different kind of bike.</desc>
+    <sub-title>Motorbikes and bicycles</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030202014 +0000" stop="20211030203637 +0000">
+    <title>Hard Lines – with Mani &amp; Bolts S1E3</title>
+    <desc>Manuel Lettenbichler and Paul Bolton make their way to Abetone, Italy, for the new Abestone Hard Enduro race.</desc>
+    <sub-title>Taking on a brand new race</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

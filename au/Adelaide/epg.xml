@@ -1246,15 +1246,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44310,55 +44310,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029082047 +0000" stop="20211029100001 +0000">
-    <title>Valley Uprising</title>
-    <desc>Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <sub-title>Pushing the limits of climbing</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029100001 +0000" stop="20211029102056 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029102056 +0000" stop="20211029104254 +0000">
-    <title>Driving DTM S1E5</title>
-    <desc>The team prepare for the race at the Red Bull Ring in Spielberg, Austria, and Liam Lawson goes for an extreme flight.</desc>
-    <sub-title>Spielberg</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029104254 +0000" stop="20211029110444 +0000">
-    <title>Driving DTM S1E6</title>
-    <desc>Follow Alex Albon and Liam Lawson as they arrive in Amsterdam for round six of the DTM championship.</desc>
-    <sub-title>Assen</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029110444 +0000" stop="20211029122910 +0000">
-    <title>One Extraordinary Year</title>
-    <desc>Follow the inspiring stories of six elite athletes in their determination to win gold in a challenging year.</desc>
-    <sub-title>Athletes who weren't derailed from their dreams</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029122910 +0000" stop="20211029125209 +0000">
-    <title>Driving DTM S1E7</title>
-    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
-    <sub-title>Hockenheim</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029125209 +0000" stop="20211029130644 +0000">
-    <title>Behind the Bullet S1E1</title>
-    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
-    <sub-title>Ready for a comeback in 2021</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029130644 +0000" stop="20211029131712 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029131712 +0000" stop="20211029140055 +0000">
-    <title>Red Bull Soapbox Race S7E1</title>
-    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <sub-title>São Paulo, Brazil</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029140055 +0000" stop="20211029142037 +0000">
-    <title>The Filer Creek Expedition</title>
-    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
-    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029142037 +0000" stop="20211029151006 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -44624,9 +44575,63 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required</title>
-    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
-    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
+    <title>Assembly Required S1E1</title>
+    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
+    <sub-title>Teyana Taylor</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
+    <title>Behind the Bullet S1E4</title>
+    <desc>See behind the scenes as Jeffrey Herlings, aka 'the Bullet', prepares for his home MXGP in the Netherlands.</desc>
+    <sub-title>Home advantage</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030105713 +0000" stop="20211030110607 +0000">
+    <title>Behind the Bullet S1E5</title>
+    <desc>Giving up is not in Jeffrey Herlings's vocabulary, but managing injury is a complex balancing act.</desc>
+    <sub-title>On the limit</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030110607 +0000" stop="20211030111654 +0000">
+    <title>Behind the Bullet S1E6</title>
+    <desc>Just three weeks after fracturing his shoulder blade in Oss, Jeffrey Herlings drives a convincing first race.</desc>
+    <sub-title>Beyond expectations in Latvia</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030111654 +0000" stop="20211030112736 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
+    <sub-title>Behind the scenes with Dario Costa</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030112736 +0000" stop="20211030132816 +0000">
+    <title>FIM Hard Enduro World Championship 2021</title>
+    <desc>Signing off the 2021 FIM Hard Enduro season in style is the long-established GetzenRodeo in Germany.</desc>
+    <sub-title>GetzenRodeo final</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030132816 +0000" stop="20211030133118 +0000">
+    <title>Tunnel Pass – extra</title>
+    <desc>Italian pilot Dario Costa shares how he prepared to fly through Turkey’s dual Çatalca Tunnels at 250kph.</desc>
+    <sub-title>Preparing the mind and body</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030133118 +0000" stop="20211030134801 +0000">
+    <title>Cycling Around the World S1E5</title>
+    <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
+    <sub-title>Remy Morton: Seven Days and $7K</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030134801 +0000" stop="20211030140924 +0000">
+    <title>That’s Caroline</title>
+    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
+    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030140924 +0000" stop="20211030141718 +0000">
+    <title></title>
+    <sub-title>Program information unavailable at this time</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030141718 +0000" stop="20211030144702 +0000">
+    <title>Human Pinball</title>
+    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
+    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030144702 +0000" stop="20211030162724 +0000">
+    <title>And Two If By Sea</title>
+    <desc>Watch the iconic story of sibling rivalry between pro surfers and identical twins CJ and Damien Hobgood.</desc>
+    <sub-title>A tale of adventure, destiny and family</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

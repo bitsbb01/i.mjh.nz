@@ -1468,15 +1468,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -12172,16 +12172,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029021100 +0000">
-    <title>Death in Paradise</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029015500 +0000">
     <title>Days of Our Lives</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20211029010200 +0000" stop="20211029021100 +0000">
+    <title>Death in Paradise</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20211029015500 +0000" stop="20211029024800 +0000">
@@ -20338,15 +20338,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
-    <title>Big Brother VIP</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102042800 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102042800 +0000">
-    <title>How I Met Your Mother</title>
+  <programme channel="tv.101305020525" start="20211102040000 +0000" stop="20211102060000 +0000">
+    <title>Big Brother VIP</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -43962,21 +43962,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029032401 +0000" stop="20211029033402 +0000">
-    <title>Tunnel Pass – extra</title>
-    <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
-    <sub-title>Behind the scenes with Dario Costa</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029033402 +0000" stop="20211029034227 +0000">
-    <title>Red Bull Rampage 2021</title>
-    <desc>To celebrate 20 years of Red Bull Rampage, join us for a look back at 20 of its most iconic moments.</desc>
-    <sub-title>20 iconic moments</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029034227 +0000" stop="20211029040737 +0000">
-    <title>Kriss Kyle: Out of Season</title>
-    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
-    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029040737 +0000" stop="20211029050208 +0000">
     <title>Toby Price: Ridin’ Shotgun</title>
     <desc>Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
@@ -44273,6 +44258,21 @@
     <title>Behind the Visor</title>
     <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
     <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030044900 +0000" stop="20211030045929 +0000">
+    <title>Behind the Bullet S1E2</title>
+    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
+    <sub-title>Back up to speed at Matterley Basin</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030045929 +0000" stop="20211030051507 +0000">
+    <title>Red Bull Recharged 2021</title>
+    <desc>The world’s best snowboarders put it down on a one-of-a-kind course. Watch highlights from Mammoth Mountain.</desc>
+    <sub-title>Top snowboarding action</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030051507 +0000" stop="20211030055750 +0000">
+    <title>Wreck or Get Rekt</title>
+    <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
+    <sub-title>A battle between video game rivals</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

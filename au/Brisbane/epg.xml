@@ -277,15 +277,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
-    <title>The Business</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
+    <title>Barrie Cassidy's One Plus One</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028184300 +0000">
-    <title>Barrie Cassidy's One Plus One</title>
+  <programme channel="tv.101002210220" start="20211028181500 +0000" stop="20211028183100 +0000">
+    <title>The Business</title>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -1451,15 +1451,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -19601,14 +19601,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030040000 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
+    <title>Blokesworld</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030033000 +0000">
-    <title>Blokesworld</title>
+  <programme channel="tv.101305040543" start="20211030030000 +0000" stop="20211030040000 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44371,26 +44371,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029010346 +0000" stop="20211029012700 +0000">
-    <title>Get to know the world of street dance</title>
-    <desc>Learn about the origins of street dance and discover the styles that have evolved from its humble beginnings.</desc>
-    <sub-title>The evolution of the unique dance style</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029012700 +0000" stop="20211029021900 +0000">
-    <title>Crankworx World Tour 2021</title>
-    <desc>Check out all the major mountain biking action that went down at Crankworx British Columbia 2021.</desc>
-    <sub-title>Highlights from British Columbia</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029021900 +0000" stop="20211029030829 +0000">
-    <title>The Curious Tales of Ítalo Ferreira</title>
-    <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
-    <sub-title>Profile of a Brazilian surf star</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029030829 +0000" stop="20211029032401 +0000">
-    <title>Levels S2E1</title>
-    <desc>Take a peek behind the scenes of Ubisoft's latest extreme sports thriller, Riders Republic.</desc>
-    <sub-title>How they made Riders Republic</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029032401 +0000" stop="20211029033402 +0000">
     <title>Tunnel Pass – extra</title>
     <desc>Pilot Dario Costa and his team explain what went into planning his flight through Istanbul's Çatalca Tunnels.</desc>
@@ -44682,6 +44662,26 @@
     <title>The Longest Wave</title>
     <desc>Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete.</desc>
     <sub-title>Legends take a lifetime</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030024849 +0000" stop="20211030031400 +0000">
+    <title>Kriss Kyle: Out of Season</title>
+    <desc>Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather.</desc>
+    <sub-title>Kriss Kyle swaps BMX for MTB</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030031400 +0000" stop="20211030040152 +0000">
+    <title>Shaping Jordy</title>
+    <desc>Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <sub-title>Travel the South African coast with Jordy Smith</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030040152 +0000" stop="20211030042313 +0000">
+    <title>Red Bull Skateboarding Presents: You Good?</title>
+    <desc>Zion Wright, Jamie Foy and Alex Midler hit the road to find some of the best skate spots in the world.</desc>
+    <sub-title>A globe-trotting skate adventure</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030042313 +0000" stop="20211030044900 +0000">
+    <title>Behind the Visor</title>
+    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
+    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

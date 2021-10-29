@@ -48,9 +48,9 @@
     <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211028200000 +0000" stop="20211028220000 +0000">
-    <title>All Blacks Flashbacks (G)</title>
-    <desc>All Blacks Flashbacks</desc>
-    <category>Sports</category>
+    <title>All Blacks v Wales 2016 1st Test (G)</title>
+    <desc>SKY Sport takes you back to the 2016 Steinlager Series as the All Blacks take on Wales. Join us for replay coverage of the first test at Eden Park, Auckland.</desc>
+    <category>Rugby</category>
   </programme>
   <programme channel="60" start="20211028220000 +0000" stop="20211029000000 +0000">
     <title>Gallagher Premiership: EXE v LIR (G)</title>
@@ -94,7 +94,7 @@
   </programme>
   <programme channel="60" start="20211029080000 +0000" stop="20211029083000 +0000">
     <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker ahead of his short-turnaround UFC267 bout against Dagastani native Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="60" start="20211029083000 +0000" stop="20211029090000 +0000">
@@ -120,17 +120,12 @@
     <desc>Match of the day from Day 3 of the ATP 500: Erste Bank Open. Tune in as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211028120000 +0000" stop="20211028200000 +0000">
+  <programme channel="61" start="20211028120000 +0000" stop="20211028204000 +0000">
     <title>LIVE: Erste Bank Open: Day 4 (G)</title>
     <desc>LIVE – ATP 500: Erste Bank Open. Tune in for all the action from Day 4 as the world's top tennis players go head to head in Vienna, Austria.</desc>
     <category>Tennis</category>
   </programme>
-  <programme channel="61" start="20211028200000 +0000" stop="20211028203000 +0000">
-    <title>WBBL: HH v MS Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Hobart Hurricanes and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="61" start="20211028203000 +0000" stop="20211029013000 +0000">
+  <programme channel="61" start="20211028204000 +0000" stop="20211029013000 +0000">
     <title>PFL Final (M)</title>
     <desc>Six World Title Fights with Six Million Dollars on the Line. Kayla Harrison and Taylor Guardado headline the PFL World Championship Main Card plus Olympic Gold Medallist boxer Claressa Shields returns to the SmartCage against Abigail Montes.</desc>
     <category>Fight Sport</category>
@@ -188,9 +183,14 @@
     <desc>Replay coverage of the ICC T20 World Cup match between Scotland and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211028134500 +0000" stop="20211028180000 +0000">
+  <programme channel="62" start="20211028134500 +0000" stop="20211028173000 +0000">
     <title>LIVE: ICC T20 WC: AUS v SRI (G)</title>
     <desc>LIVE coverage of the ICC T20 World Cup match between Australia and Sri Lanka at Dubai International Cricket Stadium, Dubai.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="62" start="20211028173000 +0000" stop="20211028180000 +0000">
+    <title>ICC T20 WC: ENG v BAN Hls (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between England and Bangladesh at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211028180000 +0000" stop="20211028183000 +0000">
@@ -200,7 +200,7 @@
   </programme>
   <programme channel="62" start="20211028183000 +0000" stop="20211028190000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE where Australia play against Sri Lanka.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211028190000 +0000" stop="20211028223000 +0000">
@@ -225,7 +225,7 @@
   </programme>
   <programme channel="62" start="20211029080000 +0000" stop="20211029083000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE where Australia play against Sri Lanka.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211029083000 +0000" stop="20211029090000 +0000">
@@ -497,42 +497,42 @@
     <desc>Event Highlights: PGA Tour. ZOZO Championship held at Accordia Golf Narashino Country Club in Chiba, Japan.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211028173000 +0000" stop="20211028203000 +0000">
+  <programme channel="84" start="20211028173000 +0000" stop="20211028205500 +0000">
     <title>LIVE: PGA Tour (G)</title>
     <desc>LIVE: PGA Tour. Round 1 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211028203000 +0000" stop="20211028210000 +0000">
+  <programme channel="84" start="20211028205500 +0000" stop="20211028212000 +0000">
     <title>European Challenge Tour Hls (G)</title>
     <desc>European Tour Highlights: Challenge Tour. Tune in for highlights of the Open de Portugal at Royal Óbidos and Swiss Challenge.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211028210000 +0000" stop="20211028220000 +0000">
+  <programme channel="84" start="20211028212000 +0000" stop="20211028221500 +0000">
     <title>Champions Tour Event Hls (G)</title>
     <desc>Event Highlights: PGA Champions Tour. Tune in for all the action from the Dominion Energy Charity Classic played at Country Club of Virginia.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211028220000 +0000" stop="20211028230000 +0000">
+  <programme channel="84" start="20211028221500 +0000" stop="20211028231000 +0000">
     <title>PGA European Sunshine Tour Hls (G)</title>
     <desc>Kitkat Group Pro-Am is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Royal Johannesburg &amp; Kensington Golf Club, Johannesburg, South Africa.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211028230000 +0000" stop="20211029000000 +0000">
+  <programme channel="84" start="20211028231000 +0000" stop="20211029000500 +0000">
     <title>PGA European Sunshine Tour Hls (G)</title>
     <desc>Players Championship is part of the Sunshine Tour a Men's Professional Golf Tour based in South Africa. Highlights of the event held at Dainfern Country Club, Sandton, South Africa.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211029000000 +0000" stop="20211029020000 +0000">
+  <programme channel="84" start="20211029000500 +0000" stop="20211029020500 +0000">
     <title>PGA Tour: Round 1 (G)</title>
     <desc>PGA Tour. Round 1 of Bermuda Championship played at Port Royal Golf Course in Southampton Parish, Bermuda.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211029020000 +0000" stop="20211029023000 +0000">
+  <programme channel="84" start="20211029020500 +0000" stop="20211029023500 +0000">
     <title>Golf Central (G)</title>
     <desc>Tune into Golf Central for in depth analysis, news, updates and highlights from everything happening in the world of golf.</desc>
     <category>Golf</category>
   </programme>
-  <programme channel="84" start="20211029023000 +0000" stop="20211029033000 +0000">
+  <programme channel="84" start="20211029023500 +0000" stop="20211029033000 +0000">
     <title>Champions Tour Event Hls (G)</title>
     <desc>Event Highlights: PGA Champions Tour. Tune in for all the action from the Dominion Energy Charity Classic played at Country Club of Virginia.</desc>
     <category>Golf</category>
@@ -1031,7 +1031,7 @@
   </programme>
   <programme channel="88" start="20211029100000 +0000" stop="20211029103000 +0000">
     <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker ahead of his short-turnaround UFC267 bout against Dagastani native Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211029103000 +0000" stop="20211029110000 +0000">
@@ -1104,7 +1104,7 @@
   </programme>
   <programme channel="81" start="20211029001500 +0000" stop="20211029033000 +0000">
     <title>Live: NFL (G)</title>
-    <desc>Cardinals v Packers.</desc>
+    <desc>Cardinals v Packers: The last undefeated team in the league, the Cardinals, face their biggest challenge yet in Aaron Rodgers and the 6-1 Packers.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029033000 +0000" stop="20211029040000 +0000">
@@ -1117,39 +1117,29 @@
     <desc>ESPN's flagship program provides TV's most thorough presentation of sports news, highlights and analysis.</desc>
     <category>Sports</category>
   </programme>
-  <programme channel="81" start="20211029050000 +0000" stop="20211029053000 +0000">
-    <title>SC: UFC Fight Camp (M)</title>
-    <desc>Australia and New Zealand's weekly UFC Show includes exclusive access, interviews and features with local and International fighters, analysis from our experts and all the fun and exciting bits fro...</desc>
-    <category>Fight Sport</category>
-  </programme>
-  <programme channel="81" start="20211029053000 +0000" stop="20211029060000 +0000">
-    <title>ESPN FC Presents: Gab &amp; Juls (G)</title>
-    <desc>ESPN FC Presents: Gab &amp; Juls</desc>
-    <category>Soccer</category>
-  </programme>
-  <programme channel="81" start="20211029060000 +0000" stop="20211029070000 +0000">
-    <title>E:60 (G)</title>
-    <desc>Ticket Home: ESPN's award-winning Sunday morning sports magazine show, featuring the biggest names and the best stories in sports.</desc>
-    <category>Sports</category>
+  <programme channel="81" start="20211029050000 +0000" stop="20211029070000 +0000">
+    <title>College Football (G)</title>
+    <desc>Coastal Carolina v Troy: After a shock loss for #24 Coastal Carolina against an unranked program, will the Troy Trojans hand them another loss from an unranked team?</desc>
+    <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029070000 +0000" stop="20211029073000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Cardinals v Packers.</desc>
+    <desc>Cardinals v Packers: The last undefeated team in the league, the Cardinals, face their biggest challenge yet in Aaron Rodgers and the Packers. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029073000 +0000" stop="20211029100000 +0000">
     <title>NFL (G)</title>
-    <desc>Cardinals v Packers.</desc>
+    <desc>Cardinals v Packers: The last undefeated team in the league, the Cardinals, face their biggest challenge yet in Aaron Rodgers and the 6-1 Packers.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029100000 +0000" stop="20211029103000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>Warriors v Grizzlies: In a point guard showdown, Ja Morant and the Memphis Grizzlies head to Golden State to face the Warriors and Steph Curry NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029103000 +0000" stop="20211029110000 +0000">
     <title>NBA (G)</title>
-    <desc>Warriors v Grizzlies.</desc>
+    <desc>Warriors v Grizzlies: In a point guard showdown, Ja Morant and the Memphis Grizzlies head to Golden State to face the Warriors and Steph Curry.</desc>
     <category>US Sports</category>
   </programme>
   <channel id="82">
@@ -1267,6 +1257,34 @@
     <title>Coming Up: Motorsport (G)</title>
     <desc>Tune in next for LIVE coverage of the FIA WEC Bahrain.</desc>
     <category>Sports</category>
+  </programme>
+  <channel id="94">
+    <display-name>sky-sport-popup-2</display-name>
+  </channel>
+  <programme channel="94" start="20211028153000 +0000" stop="20211028161500 +0000">
+    <title>PROGRAMME (G)</title>
+    <desc>PROGRAMME</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="94" start="20211028161500 +0000" stop="20211028164500 +0000">
+    <title>Bred To Win (G)</title>
+    <desc>Join Caroline Searcy for the original thoroughbred breeding program.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme channel="94" start="20211028164500 +0000" stop="20211028182500 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="94" start="20211028182500 +0000" stop="20211028185500 +0000">
+    <title>WBBL: HH v MS Hls (G)</title>
+    <desc>Highlights of the Women's Big Bash League match between the Hobart Hurricanes and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
+    <category>Cricket</category>
+  </programme>
+  <programme channel="94" start="20211028185500 +0000" stop="20211029105900 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
   </programme>
   <channel id="60">
     <display-name>sky-sport-1</display-name>
@@ -1542,7 +1560,7 @@
   </programme>
   <programme channel="63" start="20211030043000 +0000" stop="20211030050000 +0000">
     <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker ahead of his short-turnaround UFC267 bout against Dagastani native Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="63" start="20211030050000 +0000" stop="20211030083000 +0000">
@@ -2197,7 +2215,7 @@
   </programme>
   <programme channel="87" start="20211030010000 +0000" stop="20211030013000 +0000">
     <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker ahead of his short-turnaround UFC267 bout against Dagastani native Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="87" start="20211030013000 +0000" stop="20211030020000 +0000">
@@ -2383,27 +2401,27 @@
   </channel>
   <programme channel="81" start="20211029110000 +0000" stop="20211029123000 +0000">
     <title>NBA (G)</title>
-    <desc>Warriors v Grizzlies.</desc>
+    <desc>Warriors v Grizzlies: In a point guard showdown, Ja Morant and the Memphis Grizzlies head to Golden State to face the Warriors and Steph Curry.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029123000 +0000" stop="20211029130000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>Warriors v Grizzlies: In a point guard showdown, Ja Morant and the Memphis Grizzlies head to Golden State to face the Warriors and Steph Curry NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029130000 +0000" stop="20211029133000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Cardinals v Packers.</desc>
+    <desc>Cardinals v Packers: The last undefeated team in the league, the Cardinals, face their biggest challenge yet in Aaron Rodgers and the Packers. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029133000 +0000" stop="20211029140000 +0000">
     <title>NBA Mini (G)</title>
-    <desc>NBA Minis present the NBA in a fast paced, highlight driven version of every game.</desc>
+    <desc>Warriors v Grizzlies: In a point guard showdown, Ja Morant and the Memphis Grizzlies head to Golden State to face the Warriors and Steph Curry NBA Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029140000 +0000" stop="20211029143000 +0000">
     <title>NFL Mini (G)</title>
-    <desc>Cardinals v Packers.</desc>
+    <desc>Cardinals v Packers: The last undefeated team in the league, the Cardinals, face their biggest challenge yet in Aaron Rodgers and the Packers. NFL Minis are shortened versions of the full game.</desc>
     <category>US Sports</category>
   </programme>
   <programme channel="81" start="20211029143000 +0000" stop="20211029160000 +0000">
@@ -2641,6 +2659,19 @@
     <title>LIVE FIA WEC: 6 Hours of Bahrain (G)</title>
     <desc>LIVE Coverage of the FIA World Endurnace Championship, 6 Hours of Bahrain, from Bahrain International Circuit, Sakhir, Bahrain.</desc>
     <category>Motorsport</category>
+  </programme>
+  <channel id="94">
+    <display-name>sky-sport-popup-2</display-name>
+  </channel>
+  <programme channel="94" start="20211029110000 +0000" stop="20211029160500 +0000">
+    <title>Programme information unavailable</title>
+    <desc>Programme information unavailable</desc>
+    <category>sport</category>
+  </programme>
+  <programme channel="94" start="20211029160500 +0000" stop="20211029163500 +0000">
+    <title>Punters Intelligence (G)</title>
+    <desc>Gerard Middleton, Brad Davidson and Brad Gray crunch the key statistical data from the past week of racing to help you find your next winner.</desc>
+    <category>Sports</category>
   </programme>
   <channel id="60">
     <display-name>sky-sport-1</display-name>
@@ -3579,7 +3610,7 @@
   </programme>
   <programme channel="88" start="20211030173000 +0000" stop="20211030180000 +0000">
     <title>Playmakers: UFC 267 Preview (M)</title>
-    <desc>Ravinder Hunia catches up with UFC star Dan Hooker ahead of his short-turnaround UFC267 bout against Dagastani native Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
+    <desc>Ravinder Hunia catches up with UFC star Dan Hooker and his wrestling coach, Frank Hickman, ahead of his UFC267 bout against Islam Makhachev. LIVE Sunday 31st October, 7am, CH 065 *$39.95* To Book: Text UFC267 to 4024, or call 0800 759 783.</desc>
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211030180000 +0000" stop="20211030220000 +0000">
@@ -3593,7 +3624,7 @@
     <category>Sports</category>
   </programme>
   <programme channel="88" start="20211030230000 +0000" stop="20211031000000 +0000">
-    <title>British Fast5 All-Stars Championship Hls (G)</title>
+    <title>British Fast5 All-Stars Championship Hls</title>
     <desc>British Fast5 All-Stars Championship Highlights</desc>
     <category>Sports</category>
   </programme>
@@ -3997,22 +4028,17 @@
   </programme>
   <programme channel="62" start="20211031183000 +0000" stop="20211031190000 +0000">
     <title>LIVE: T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as Afghanistan played Namibia and India faced off against New Zealand in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211031190000 +0000" stop="20211031223000 +0000">
+  <programme channel="62" start="20211031190000 +0000" stop="20211031224500 +0000">
     <title>ICC T20 WC: IND v NZ (G)</title>
     <desc>Mini highlights of the ICC T20 World Cup match between India and New Zealand at Dubai International Cricket Stadium, Dubai.</desc>
     <category>Cricket</category>
   </programme>
-  <programme channel="62" start="20211031223000 +0000" stop="20211101020000 +0000">
-    <title>ICC T20 WC: AFG v A2 (G)</title>
-    <desc>Replay coverage of the ICC T20 World Cup match between Afghanistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
-    <category>Cricket</category>
-  </programme>
-  <programme channel="62" start="20211101020000 +0000" stop="20211101023000 +0000">
-    <title>WBBL: ST v MS Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Sydney Thunder and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
+  <programme channel="62" start="20211031224500 +0000" stop="20211101023000 +0000">
+    <title>ICC T20 WC: AFG v NAM (G)</title>
+    <desc>Replay coverage of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101023000 +0000" stop="20211101030000 +0000">
@@ -4021,8 +4047,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101030000 +0000" stop="20211101033000 +0000">
-    <title>ICC T20 WC: AFG v A2 (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <title>ICC T20 WC: AFG v NAM (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101033000 +0000" stop="20211101040000 +0000">
@@ -4048,7 +4074,7 @@
   <programme channel="62" start="20211101053000 +0000" stop="20211101060000 +0000">
     <title>WBBL: BH v MS Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Brisbane Heat and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101060000 +0000" stop="20211101063000 +0000">
     <title>ICC T20 WC: ENG v AUS Hls (G)</title>
@@ -4056,8 +4082,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101063000 +0000" stop="20211101070000 +0000">
-    <title>ICC T20 WC: AFG v A2 (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <title>ICC T20 WC: AFG v NAM (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101070000 +0000" stop="20211101073000 +0000">
@@ -4067,27 +4093,27 @@
   </programme>
   <programme channel="62" start="20211101073000 +0000" stop="20211101080000 +0000">
     <title>T20 World Cup Wrap (G)</title>
-    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action from the T20 World Cup in the UAE.</desc>
+    <desc>Ian Smith, Laura McGoldrick and Sky’s renowned cricket pundits break down the overnight action as Afghanistan played Namibia and India faced off against New Zealand in the T20 World Cup in the UAE.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101080000 +0000" stop="20211101083000 +0000">
-    <title>WBBL: BH v MS Hls (G)</title>
-    <desc>Highlights of the Women's Big Bash League match between the Brisbane Heat and Melbourne Stars at the University of Tasmania Stadium, Launceston.</desc>
-    <category>sport</category>
+    <title>WBBL: The Blast (G)</title>
+    <desc>Previewing and reviewing all the WBBL action with Mel Jones, Alex Blackwell and host Megan Barnard.</desc>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101083000 +0000" stop="20211101090000 +0000">
     <title>WBBL: AS v MR Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Adelaide Strikers and Melbourne Renegades at Lilac Hill, Perth.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101090000 +0000" stop="20211101093000 +0000">
     <title>WBBL: PS v AS Hls (G)</title>
     <desc>Highlights of the Women's Big Bash League match between the Perth Scorchers and Sydney Sixers at Lilac Hill, Perth.</desc>
-    <category>sport</category>
+    <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101093000 +0000" stop="20211101100000 +0000">
-    <title>ICC T20 WC: AFG v A2 (G)</title>
-    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and A2 at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
+    <title>ICC T20 WC: AFG v NAM (G)</title>
+    <desc>Highlights of the ICC T20 World Cup match between Afghanistan and Namibia at Sheikh Zayed Cricket Stadium, Abu Dhabi.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101100000 +0000" stop="20211101110000 +0000">
@@ -5220,8 +5246,8 @@
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101133000 +0000" stop="20211101180000 +0000">
-    <title>LIVE: ICC T20 WC: ENG v A1 (G)</title>
-    <desc>LIVE coverage of the ICC T20 World Cup match between England and A1 at Sharjah Cricket Stadium, Sharjah.</desc>
+    <title>LIVE: ICC T20 WC: ENG v SRI (G)</title>
+    <desc>LIVE coverage of the ICC T20 World Cup match between England and Sri Lanka at Sharjah Cricket Stadium, Sharjah.</desc>
     <category>Cricket</category>
   </programme>
   <programme channel="62" start="20211101180000 +0000" stop="20211101183000 +0000">

@@ -1235,15 +1235,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -21145,15 +21145,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
-    <title>Big Brother VIP</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102045800 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102045800 +0000">
-    <title>How I Met Your Mother</title>
+  <programme channel="tv.101305050555" start="20211102043000 +0000" stop="20211102063000 +0000">
+    <title>Big Brother VIP</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44359,6 +44359,31 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.redbull.tv" start="20211029122910 +0000" stop="20211029125209 +0000">
+    <title>Driving DTM S1E7</title>
+    <desc>Follow Liam Lawson and Alex Albon at the penultimate stop of the season at the Hockenheimring, Germany.</desc>
+    <sub-title>Hockenheim</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029125209 +0000" stop="20211029130644 +0000">
+    <title>Behind the Bullet S1E1</title>
+    <desc>After a disappointing 2020 season ending with a major injury, Jeffrey Herlings is ready for a comeback.</desc>
+    <sub-title>Ready for a comeback in 2021</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029130644 +0000" stop="20211029131712 +0000">
+    <title>Behind the Bullet S1E2</title>
+    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
+    <sub-title>Back up to speed at Matterley Basin</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029131712 +0000" stop="20211029140055 +0000">
+    <title>Red Bull Soapbox Race S7E1</title>
+    <desc>The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
+    <sub-title>São Paulo, Brazil</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211029140055 +0000" stop="20211029142037 +0000">
+    <title>The Filer Creek Expedition</title>
+    <desc>Follow Canadian paddler Ed Muggridge on his first foray into whitewater expedition.</desc>
+    <sub-title>A first descent in Canada's Coast Mountain range</sub-title>
+  </programme>
   <programme channel="tv.redbull.tv" start="20211029142037 +0000" stop="20211029151006 +0000">
     <title>The Curious Tales of Ítalo Ferreira</title>
     <desc>Follow Brazilian surfer Ítalo Ferreira from Tokyo to the 2021 WSL Championship Tour.</desc>
@@ -44662,25 +44687,6 @@
     <title>Cycling Around the World S1E5</title>
     <desc>Can Australian MTB freerider Remy Morton build his ultimate line in seven days and with a AUD$7,000 budget?</desc>
     <sub-title>Remy Morton: Seven Days and $7K</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030134801 +0000" stop="20211030140924 +0000">
-    <title>That’s Caroline</title>
-    <desc>Caroline Marks is just a normal young woman – who also happens to be the face of surfing’s future.</desc>
-    <sub-title>Caroline Marks is the face of surfing’s future</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030140924 +0000" stop="20211030141718 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030141718 +0000" stop="20211030144702 +0000">
-    <title>Human Pinball</title>
-    <desc>Latvian freerunner Pasha Petkuns takes on a challenge inside a huge-scale pinball machine – and he's the ball!</desc>
-    <sub-title>Pasha Petkuns nails it in biggest freerunning set ever built</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030144702 +0000" stop="20211030162724 +0000">
-    <title>And Two If By Sea</title>
-    <desc>Watch the iconic story of sibling rivalry between pro surfers and identical twins CJ and Damien Hobgood.</desc>
-    <sub-title>A tale of adventure, destiny and family</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

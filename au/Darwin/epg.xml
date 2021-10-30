@@ -945,15 +945,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -20523,16 +20523,16 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031092900 +0000">
-    <title>The Simpsons</title>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031100300 +0000">
     <title>The Voice USA</title>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050555" start="20211031090000 +0000" stop="20211031092900 +0000">
+    <title>The Simpsons</title>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20211031092900 +0000" stop="20211031100000 +0000">
@@ -44271,15 +44271,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211030081737 +0000" stop="20211030093541 +0000">
-    <title>Shaka</title>
-    <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
-    <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44501,9 +44496,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211031055546 +0000" stop="20211031070610 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211031070610 +0000" stop="20211031071759 +0000">
     <title>Behind the Bullet S1E4</title>

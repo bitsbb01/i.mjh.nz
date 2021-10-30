@@ -18129,14 +18129,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035800 +0000">
-    <title>Inside Line</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
+    <title>Big Easy Motors</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030032800 +0000">
-    <title>Big Easy Motors</title>
+  <programme channel="tv.101305060563" start="20211030025800 +0000" stop="20211030035800 +0000">
+    <title>Inside Line</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18156,14 +18156,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -19825,15 +19825,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20211102070000 +0000" stop="20211102072800 +0000">
-    <title>How I Met Your Mother</title>
+  <programme channel="tv.101305060565" start="20211102070000 +0000" stop="20211102090000 +0000">
+    <title>Big Brother VIP</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060565" start="20211102070000 +0000" stop="20211102090000 +0000">
-    <title>Big Brother VIP</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101305060565" start="20211102070000 +0000" stop="20211102072800 +0000">
+    <title>How I Met Your Mother</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44294,21 +44294,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211030042313 +0000" stop="20211030044900 +0000">
-    <title>Behind the Visor</title>
-    <desc>Get to know the human side of F1 drivers Pierre Gasly and Yuki Tsunoda as we get an insight into their minds.</desc>
-    <sub-title>Pierre Gasly and Yuki Tsunoda</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030044900 +0000" stop="20211030045929 +0000">
-    <title>Behind the Bullet S1E2</title>
-    <desc>Go behind the scenes with Dutch motocross rider Jeffrey Herlings at the 2021 MXGP of Great Britain.</desc>
-    <sub-title>Back up to speed at Matterley Basin</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211030045929 +0000" stop="20211030051507 +0000">
-    <title>Red Bull Recharged 2021</title>
-    <desc>The world’s best snowboarders put it down on a one-of-a-kind course. Watch highlights from Mammoth Mountain.</desc>
-    <sub-title>Top snowboarding action</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211030051507 +0000" stop="20211030055750 +0000">
     <title>Wreck or Get Rekt</title>
     <desc>A couple of video game rivals get ready to face off in a head-to-head match.</desc>
@@ -44365,9 +44350,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44587,6 +44572,11 @@
     <title>Shaka</title>
     <desc>Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws.</desc>
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031055546 +0000" stop="20211031070610 +0000">
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

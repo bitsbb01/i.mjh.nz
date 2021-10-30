@@ -1235,15 +1235,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
-    <title>COP26: Towards Zero</title>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
+    <title>The Business</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102183000 +0000">
-    <title>The Business</title>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20211102181500 +0000" stop="20211102190000 +0000">
+    <title>COP26: Towards Zero</title>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -44346,34 +44346,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029215801 +0000" stop="20211029230841 +0000">
-    <title>Red Bull Big Wave Awards 2021</title>
-    <desc>Watch the show live on October 29, and discover in real-time who delivered the wildest rides this year.</desc>
-    <sub-title>Live show</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029230841 +0000" stop="20211029231059 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029231059 +0000" stop="20211029231318 +0000">
-    <title></title>
-    <sub-title>Program information unavailable at this time</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029231318 +0000" stop="20211029232027 +0000">
-    <title>Surf Sessions S11E1</title>
-    <desc>Conor Maguire and fellow surfers in Ireland share memories of swells at Riley's on the coast of County Clare.</desc>
-    <sub-title>Memories of Riley's</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029232027 +0000" stop="20211029232832 +0000">
-    <title>Made In S4E2</title>
-    <desc>Irish surfers know the risks involved in heavy-wave surfing, but they absolutely love going out together.</desc>
-    <sub-title>Nutjobs</sub-title>
-  </programme>
-  <programme channel="tv.redbull.tv" start="20211029232832 +0000" stop="20211029233305 +0000">
-    <title>Chasing the Shot S1E4</title>
-    <desc>Get a glimpse of the Emerald Isle’s unique surf scene through photographer Mark McInnis’ lens.</desc>
-    <sub-title>Ireland part 1</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029233305 +0000" stop="20211029233738 +0000">
     <title>Chasing the Shot S1E5</title>
     <desc>With some local help, photographer Mark McInnis and his surfers hunt surf spots well off the beaten path.</desc>
@@ -44531,9 +44503,9 @@
     <sub-title>Snowboarding legend Mathieu Crépel surfs Jaws</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030093541 +0000" stop="20211030104604 +0000">
-    <title>Assembly Required S1E1</title>
-    <desc>Follow Teyana Taylor as she goes through the trials and tribulations of bringing her dream show to life.</desc>
-    <sub-title>Teyana Taylor</sub-title>
+    <title>Assembly Required</title>
+    <desc>Go behind the scenes with Teyana Taylor as she brings her dream performance, House of Petunia, to life.</desc>
+    <sub-title>Teyana Taylor: behind the scenes of House of Petunia</sub-title>
   </programme>
   <programme channel="tv.redbull.tv" start="20211030104604 +0000" stop="20211030105713 +0000">
     <title>Behind the Bullet S1E4</title>
@@ -44668,6 +44640,21 @@
     <title>Reel Rock S7E7</title>
     <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
     <sub-title>First ascent/last ascent part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030234412 +0000" stop="20211031000409 +0000">
+    <title>Reel Rock S7E8</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031000409 +0000" stop="20211031002858 +0000">
+    <title>Reel Rock S7E9</title>
+    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <sub-title>Black ice part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211031002858 +0000" stop="20211031005137 +0000">
+    <title>Reel Rock S7E10</title>
+    <desc>Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <sub-title>Black ice part 2</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>

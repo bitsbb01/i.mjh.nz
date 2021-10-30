@@ -18156,14 +18156,14 @@
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Caught On Dashcam</title>
-    <subtitles type="teletext"/>
+    <title>Life off Road</title>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20211030070000 +0000" stop="20211030072900 +0000">
-    <title>Life off Road</title>
+    <title>Caught On Dashcam</title>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -44282,11 +44282,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.redbull.tv" start="20211029212840 +0000" stop="20211029215801 +0000">
-    <title>Peaking S1E12</title>
-    <desc>Surfer Peter Mel prepares to try to defend his title in the days leading up to the Mavericks Invitational.</desc>
-    <sub-title>Peter Mel</sub-title>
-  </programme>
   <programme channel="tv.redbull.tv" start="20211029215801 +0000" stop="20211029230841 +0000">
     <title>Red Bull Big Wave Awards 2021</title>
     <desc>Watch the show live on October 29, and discover in real-time who delivered the wildest rides this year.</desc>
@@ -44594,6 +44589,21 @@
     <title>Reel Rock S7E4</title>
     <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
     <sub-title>Deep roots part 1</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030224406 +0000" stop="20211030230320 +0000">
+    <title>Reel Rock S7E5</title>
+    <desc>Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <sub-title>Deep roots part 2</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030230320 +0000" stop="20211030232505 +0000">
+    <title>Reel Rock S7E6</title>
+    <desc>Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <sub-title>Born among boulders</sub-title>
+  </programme>
+  <programme channel="tv.redbull.tv" start="20211030232505 +0000" stop="20211030234412 +0000">
+    <title>Reel Rock S7E7</title>
+    <desc>Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
+    <sub-title>First ascent/last ascent part 1</sub-title>
   </programme>
   <channel id="tv.46">
     <display-name>Al Jazeera</display-name>
